@@ -1,0 +1,668 @@
+fileFormatVersion: 2
+guid: 5d5e826472255ba4588d0cf33f2ae0a7
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: righthand_male_longsword_male_sl_t_0
+    21300002: righthand_male_longsword_male_sl_t_1
+    21300004: righthand_male_longsword_male_sl_t_2
+    21300006: righthand_male_longsword_male_sl_t_3
+    21300008: righthand_male_longsword_male_sl_t_4
+    21300010: righthand_male_longsword_male_sl_t_5
+    21300012: righthand_male_longsword_male_sl_l_0
+    21300014: righthand_male_longsword_male_sl_l_1
+    21300016: righthand_male_longsword_male_sl_l_2
+    21300018: righthand_male_longsword_male_sl_l_3
+    21300020: righthand_male_longsword_male_sl_l_4
+    21300022: righthand_male_longsword_male_sl_l_5
+    21300024: righthand_male_longsword_male_sl_d_0
+    21300026: righthand_male_longsword_male_sl_d_1
+    21300028: righthand_male_longsword_male_sl_d_2
+    21300030: righthand_male_longsword_male_sl_d_3
+    21300032: righthand_male_longsword_male_sl_d_4
+    21300034: righthand_male_longsword_male_sl_d_5
+    21300036: righthand_male_longsword_male_sl_r_0
+    21300038: righthand_male_longsword_male_sl_r_1
+    21300040: righthand_male_longsword_male_sl_r_2
+    21300042: righthand_male_longsword_male_sl_r_3
+    21300044: righthand_male_longsword_male_sl_r_4
+    21300046: righthand_male_longsword_male_sl_r_5
+    21300048: righthand_male_longsword_male_4
+    21300050: righthand_male_longsword_male_5
+    21300052: righthand_male_longsword_male_sl_t_0
+    21300054: righthand_male_longsword_male_sl_l_1
+    21300056: righthand_male_longsword_male_sl_d_2
+    21300058: righthand_male_longsword_male_sl_r_3
+    21300060: righthand_male_longsword_male_4
+    21300062: righthand_male_longsword_male_5
+    21300064: righthand_male_longsword_male_sl_t_0
+    21300066: righthand_male_longsword_male_sl_l_1
+    21300068: righthand_male_longsword_male_sl_d_2
+    21300070: righthand_male_longsword_male_sl_r_3
+    21300072: righthand_male_longsword_male_4
+    21300074: righthand_male_longsword_male_5
+    21300076: righthand_male_longsword_male_sl_t_0
+    21300078: righthand_male_longsword_male_sl_l_1
+    21300080: righthand_male_longsword_male_sl_d_2
+    21300082: righthand_male_longsword_male_sl_r_3
+    21300084: righthand_male_longsword_male_4
+    21300086: righthand_male_longsword_male_5
+    21300088: righthand_male_longsword_male_sl_t_0
+    21300090: righthand_male_longsword_male_sl_t_0
+    21300092: righthand_male_longsword_male_sl_l_1
+    21300094: righthand_male_longsword_male_sl_l_1
+    21300096: righthand_male_longsword_male_sl_d_2
+    21300098: righthand_male_longsword_male_sl_d_2
+    21300100: righthand_male_longsword_male_sl_r_3
+    21300102: righthand_male_longsword_male_sl_r_3
+    21300104: longsword_male_0
+    21300106: longsword_male_1
+    21300108: longsword_male_2
+    21300110: longsword_male_3
+    21300112: longsword_male_4
+    21300114: longsword_male_5
+    21300116: longsword_male_6
+    21300118: longsword_male_7
+    21300120: longsword_male_8
+    21300122: longsword_male_9
+    21300124: longsword_male_10
+    21300126: longsword_male_11
+    21300128: longsword_male_12
+    21300130: longsword_male_13
+    21300132: longsword_male_14
+    21300134: longsword_male_15
+    21300136: longsword_male_16
+    21300138: longsword_male_17
+    21300140: longsword_male_18
+    21300142: longsword_male_19
+    21300144: longsword_male_20
+    21300146: longsword_male_21
+    21300148: longsword_male_22
+    21300150: longsword_male_23
+    21300152: righthand_male_longsword_sl_t_0
+    21300154: righthand_male_longsword_sl_t_1
+    21300156: righthand_male_longsword_sl_t_2
+    21300158: righthand_male_longsword_sl_t_3
+    21300160: righthand_male_longsword_sl_t_4
+    21300162: righthand_male_longsword_sl_t_5
+    21300164: righthand_male_longsword_sl_l_0
+    21300166: righthand_male_longsword_sl_l_1
+    21300168: righthand_male_longsword_sl_l_2
+    21300170: righthand_male_longsword_sl_l_3
+    21300172: righthand_male_longsword_sl_l_4
+    21300174: righthand_male_longsword_sl_l_5
+    21300176: righthand_male_longsword_sl_d_0
+    21300178: righthand_male_longsword_sl_d_1
+    21300180: righthand_male_longsword_sl_d_2
+    21300182: righthand_male_longsword_sl_d_3
+    21300184: righthand_male_longsword_sl_d_4
+    21300186: righthand_male_longsword_sl_d_5
+    21300188: righthand_male_longsword_sl_r_0
+    21300190: righthand_male_longsword_sl_r_1
+    21300192: righthand_male_longsword_sl_r_2
+    21300194: righthand_male_longsword_sl_r_3
+    21300196: righthand_male_longsword_sl_r_4
+    21300198: righthand_male_longsword_sl_r_5
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 31
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: righthand_male_longsword_sl_t_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: righthand_male_longsword_sl_t_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: righthand_male_longsword_sl_t_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: righthand_male_longsword_sl_t_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: righthand_male_longsword_sl_t_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: righthand_male_longsword_sl_t_5
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: righthand_male_longsword_sl_d_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: righthand_male_longsword_sl_d_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: righthand_male_longsword_sl_d_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: righthand_male_longsword_sl_d_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: righthand_male_longsword_sl_d_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: righthand_male_longsword_sl_d_5
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: righthand_male_longsword_sl_d_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: righthand_male_longsword_sl_d_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: righthand_male_longsword_sl_d_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: righthand_male_longsword_sl_d_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: righthand_male_longsword_sl_d_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: righthand_male_longsword_sl_d_5
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: righthand_male_longsword_sl_t_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: righthand_male_longsword_sl_t_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: righthand_male_longsword_sl_t_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: righthand_male_longsword_sl_t_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: righthand_male_longsword_sl_t_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: righthand_male_longsword_sl_t_5
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 35ff9052239ed7b4594d7da02510c0b6
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: character
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

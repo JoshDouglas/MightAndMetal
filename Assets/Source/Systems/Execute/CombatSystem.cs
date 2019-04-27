@@ -1,10 +1,14 @@
+#region
+
 using System;
 using Entitas;
 using UnityEngine;
 
+#endregion
+
 public class CombatSystem : IExecuteSystem
 {
-	readonly Contexts _contexts;
+	private readonly Contexts _contexts;
 
 	public CombatSystem(Contexts contexts)
 	{
@@ -13,133 +17,200 @@ public class CombatSystem : IExecuteSystem
 
 	public void Execute()
 	{
-		var characters       = _contexts.game.GetGroup(GameMatcher.Character).GetEntities();
-		var actingCharacters = _contexts.game.GetGroup(GameMatcher.Acting).GetEntities();
-		
-		/*
-		 * combat system does the following
-		 * 1. process actions
-             * a. casting
-             * b. projectiles
-             * c. melee
-		 * 2. process desired movement (if they can move or not)
-		 * 3. process collisions
-		 * a. action hits
-		 * b. blocks (shield on weapon w/ knockback)
-		 * c. weapon on weapon (clink knockback)
-		 * 
-		 */
-
-
-		//create entities for abilities (weapons, projectiles, etc.)
-		/*
-		 * abilities work as follows:
-		 * 1. entity is created (if casted already)
-		 * 2. entity has size/velocity/mass/etc
-		 * 3. ability entity last for certain period of time
-		 * 4. if collision occurs, take ability object and apply results to victim
-		 */
-
-		foreach (var entity in actingCharacters)
-		{
-			if (!entity.hasActing)
-				continue;
-
-			var acting = entity.acting;
-			acting.elapsed += Time.deltaTime;
-			if (acting.elapsed >= acting.duration)
-			{
-				//todo: projectiles and shit
-				entity.RemoveActing();
-			}
-		}
+		var characters = _contexts.game.GetGroup(GameMatcher.Character).GetEntities();
 
 		foreach (var entity in characters)
 		{
-			if (!entity.hasCharacter || !entity.hasInput || entity.hasActing || entity.isDefeated)
+			if (entity.isDefeated)
 				continue;
 
-			var           character     = entity.character;
-			var           input         = entity.input;
-			CombatAbility combatAbility = null;
-			Item          item          = null;
+			ProcessCombatAction(entity);
+			ProcessKnockback(entity);
+			ProcessStunned(entity);
+			ProcessInvincible(entity);
+			ProcessCombatEvents(entity);
+			ProcessInput(entity);
+		}
+	}
 
-			if (input.actionButton1 && character.CombatAbilities.Count > 0)
-				combatAbility = character.CombatAbilities[0];
-			else if (input.actionButton2 && character.CombatAbilities.Count > 1)
-				combatAbility = character.CombatAbilities[1];
-			else if (input.actionButton3 && character.CombatAbilities.Count > 2)
-				combatAbility = character.CombatAbilities[2];
-			else if (input.actionButton4 && character.CombatAbilities.Count > 3)
-				combatAbility = character.CombatAbilities[3];
-			else if (input.actionButton5 && character.CombatAbilities.Count > 4)
-				combatAbility = character.CombatAbilities[4];
-			else if (input.actionButton6 && character.CombatAbilities.Count > 5)
-				combatAbility = character.CombatAbilities[5];
-			else if (input.actionButton7 && character.CombatAbilities.Count > 6)
-				combatAbility = character.CombatAbilities[6];
-			else if (input.actionButton8 && character.CombatAbilities.Count > 7)
-				combatAbility = character.CombatAbilities[7];
-			else if (input.actionButton9 && character.CombatAbilities.Count > 8)
-				combatAbility = character.CombatAbilities[8];
-			/*else if (input.specialButton1)	
-			else if (input.specialButton2)	*/
-			else if (input.itemButton1 && character.Items.Count > 0)
-				item = character.Items[0];
-			else if (input.itemButton2 && character.Items.Count > 1)
-				item = character.Items[1];
-			else if (input.itemButton3 && character.Items.Count > 2)
-				item = character.Items[2];
-			else if (input.itemButton4 && character.Items.Count > 3)
-				item = character.Items[3];
-			else if (input.direction != Vector2.zero)
-				entity.ReplaceVelocity(input.direction * character.Speed);
-			else if (input.direction == Vector2.zero && entity.hasVelocity)
-				entity.RemoveVelocity();
+	private void ProcessInput(GameEntity entity)
+	{
+		if (entity.hasCombatAction || entity.hasStunned)
+			return;
 
+		var          character    = entity.character;
+		var          input        = entity.input;
+		CombatAction combatAction = null;
+		CombatItem   combatItem   = null;
 
-			if (combatAbility != null)
-				CreateAbilityEntity(entity, combatAbility);
+		if (input.actionButton1 && character.abilities.Count > 0)
+			combatAction = character.abilities[0];
+		else if (input.actionButton2 && character.abilities.Count > 1)
+			combatAction = character.abilities[1];
+		else if (input.actionButton3 && character.abilities.Count > 2)
+			combatAction = character.abilities[2];
+		else if (input.actionButton4 && character.abilities.Count > 3)
+			combatAction = character.abilities[3];
+		else if (input.actionButton5 && character.abilities.Count > 4)
+			combatAction = character.abilities[4];
+		else if (input.actionButton6 && character.abilities.Count > 5)
+			combatAction = character.abilities[5];
+		else if (input.actionButton7 && character.abilities.Count > 6)
+			combatAction = character.abilities[6];
+		else if (input.actionButton8 && character.abilities.Count > 7)
+			combatAction = character.abilities[7];
+		else if (input.actionButton9 && character.abilities.Count > 8)
+			combatAction = character.abilities[8];
+		else if (!entity.hasKnockback)
+		{
+			var speed = input.direction * entity.combat.currentSpeed;
 
-			if (item != null)
-				CreateItemUseEntity(entity, item);
+			//only allow movement on one axis at a time
+			/*if (speed.x != 0 && speed.y != 0)
+				speed.y = 0;*/
+
+			if (entity.velocity.value != speed)
+				entity.ReplaceVelocity(speed);
 		}
 
 
-		//channel abilities ready to go?
-
-		//process ability collisions
-	}
-
-	private void CreateAbilityEntity(GameEntity character, CombatAbility ability)
-	{
-		character.AddActing(ability.PerformanceSeconds, 0f, ability);
-		/*var ranged = ability.AbiltyType == CombatAbilityType.Spell || ability.AbiltyType == CombatAbilityType.Ranged;
-		var melee  = ability.AbiltyType == CombatAbilityType.Melee;
-
-
-		//melee abilities
-		if (melee)
+		if (combatAction != null)
 		{
-			var abilityEntity = _contexts.game.CreateEntity();
-			abilityEntity.isMovable   = false;
-			abilityEntity.isBlockable = true;
-			abilityEntity.AddPosition(character.position.value);
+			//set their heading before acting to allow them to change direction while spamming
+			entity.ReplaceVelocity(input.direction * .1f);
+			entity.AddCombatAction(combatAction, 0);
 		}
-
-
-		//ranged abilities
-		foreach (var projectile in ability.CombatProjectiles)
-		{
-			var abilityEntity = _contexts.game.CreateEntity();
-			abilityEntity.isMovable   = true;
-			abilityEntity.isBlockable = true;
-			abilityEntity.AddVelocity(projectile.Velocity);
-			abilityEntity.AddPosition(character.position.value + projectile.SpawnPositionOffset);
-		}*/
 	}
 
-	private void CreateItemUseEntity(GameEntity character, Item item)
+	private void ProcessCombatAction(GameEntity entity)
 	{
+		if (!entity.hasCombatAction)
+			return;
+		entity.combatAction.elapsed += Time.deltaTime;
+
+		if (entity.combatAction.elapsed >= entity.combatAction.action.duration)
+			entity.RemoveCombatAction();
+	}
+
+	private void ProcessKnockback(GameEntity entity)
+	{
+		if (!entity.hasKnockback)
+			return;
+		entity.knockback.elapsed += Time.deltaTime;
+
+		if (entity.velocity.value != entity.knockback.direction)
+			entity.ReplaceVelocity(entity.knockback.direction);
+
+		if (entity.knockback.elapsed >= entity.knockback.duration)
+		{
+			entity.RemoveKnockback();
+			entity.ReplaceVelocity(Vector2.zero);
+		}
+	}
+
+	private void ProcessStunned(GameEntity entity)
+	{
+		if (!entity.hasStunned)
+			return;
+
+		entity.stunned.elapsed += Time.deltaTime;
+
+		if (entity.stunned.elapsed >= entity.stunned.duration)
+			entity.RemoveStunned();
+	}
+
+	private void ProcessInvincible(GameEntity entity)
+	{
+		if (!entity.hasInvincible)
+			return;
+
+		entity.invincible.elapsed += Time.deltaTime;
+
+		if (entity.invincible.elapsed >= entity.invincible.duration)
+			entity.RemoveInvincible();
+	}
+
+	private void ProcessCombatEvents(GameEntity entity)
+	{
+		if (!entity.hasCombatEvents || entity.combatEvents.value == null || entity.hasInvincible)
+			return;
+
+		//process all events for this frame, to keep things consistent, but they will have i-frames after
+		foreach (var ce in entity.combatEvents.value)
+			switch (ce.type)
+			{
+				case CombatEventType.bodyHit:
+					ProcessHit(entity, ce.other, ce.action);
+					break;
+				case CombatEventType.weaponHit:
+					ProcessBind(ce.other, entity);
+					break;
+				case CombatEventType.shieldHit:
+					ProcessBlock(ce.other, entity);
+					break;
+				default:
+					throw new ArgumentOutOfRangeException();
+			}
+	}
+
+	private void ProcessHit(GameEntity hitter, GameEntity victim, CombatAction action)
+	{
+		if (action.effects == null)
+			return;
+
+		foreach (var effect in action.effects)
+			switch (effect.EffectType)
+			{
+				case CombatEffectType.Buff:
+					break;
+				case CombatEffectType.Debuff:
+					break;
+				case CombatEffectType.Restorative:
+					victim.combat.currentHealth += effect.Power;
+					break;
+				case CombatEffectType.Destructive:
+					if (victim.hasInvincible)
+						break;
+					victim.combat.currentHealth -= effect.Power;
+					if (victim.combat.currentHealth <= 0)
+						victim.isDefeated = true;
+					if (victim.hasCombatAction)
+					{
+						//ranged abilities - increase cast time
+						if (effect.interuptRatio.HasValue)
+							victim.combatAction.elapsed -= effect.interuptRatio.Value * victim.combatAction.action.duration;
+
+						//melee abilities - interrupt
+						if (victim.combatAction.action.abiltyType == CombatAbilityType.Melee)
+							victim.RemoveCombatAction();
+					}
+
+					if (!victim.isDefeated)
+					{
+						victim.ReplaceInvincible(.25f, 0f);
+						var direction = (victim.position.value - hitter.position.value).normalized;
+						var knockback = 10f;
+						victim.ReplaceKnockback(.2f, 0f, direction * knockback);
+						victim.ReplaceStunned(.2f, 0f);
+					}
+
+					break;
+				default:
+					throw new ArgumentOutOfRangeException();
+			}
+	}
+
+	private void ProcessBlock(GameEntity attacker, GameEntity blocker)
+	{
+		attacker.ReplaceKnockback(.05f, 0f, blocker.heading.ToVector2());
+		attacker.ReplaceStunned(.5f, 0f);
+	}
+
+	private void ProcessBind(GameEntity binder1, GameEntity binder2)
+	{
+		var direction = (binder1.position.value - binder2.position.value).normalized;
+		var knockback = 7f;
+		binder1.ReplaceKnockback(.2f, 0f, direction             * knockback);
+		binder2.ReplaceKnockback(.2f, 0f, direction * knockback * -1);
 	}
 }

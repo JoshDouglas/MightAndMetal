@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using Entitas;
+﻿using Entitas;
 using UnityEngine;
 
 public class InputComponent : IComponent

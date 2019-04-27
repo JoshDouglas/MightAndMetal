@@ -1,12 +1,18 @@
 fileFormatVersion: 2
 guid: aea41cae7c5303643bf2c652932f9b7c
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: obstacle_barrel_1
-    21300002: obstacle_barrel_3
-    21300004: obstacle_barrel_2
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: obstacle_barrel_1
+  - first:
+      213: 21300002
+    second: obstacle_barrel_3
+  - first:
+      213: 21300004
+    second: obstacle_barrel_2
   externalObjects: {}
-  serializedVersion: 9
+  serializedVersion: 10
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -48,7 +54,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 31
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -102,6 +108,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2f593bb04b9e3b944822b1f3a1cbbb6c
+      internalID: 21300000
       vertices: []
       indices: 
       edges: []
@@ -122,6 +129,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5c84d32c52d50dc49a289911bd25bc1d
+      internalID: 21300002
       vertices: []
       indices: 
       edges: []
@@ -142,6 +150,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ad48defe77066a046b8d2c3b9e8a9c9b
+      internalID: 21300004
       vertices: []
       indices: 
       edges: []
@@ -150,10 +159,12 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: e0083941310ad2041bab7a740a242eb7
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
+    secondaryTextures: []
   spritePackingTag: character
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

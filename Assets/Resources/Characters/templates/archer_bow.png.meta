@@ -1,187 +1,543 @@
 fileFormatVersion: 2
 guid: ad565560a108f3c418d937b087673cc5
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: templates_archer_bow_hu_0
-    21300002: templates_archer_bow_hu_1
-    21300004: templates_archer_bow_hu_2
-    21300006: templates_archer_bow_hu_3
-    21300008: templates_archer_bow_hu_4
-    21300010: templates_archer_bow_hu_5
-    21300012: templates_archer_bow_sh_r_0
-    21300014: templates_archer_bow_sh_r_1
-    21300016: templates_archer_bow_sh_r_2
-    21300018: templates_archer_bow_sh_r_3
-    21300020: templates_archer_bow_sh_r_4
-    21300022: templates_archer_bow_sh_r_5
-    21300024: templates_archer_bow_sh_r_6
-    21300026: templates_archer_bow_sh_r_7
-    21300028: templates_archer_bow_sh_r_8
-    21300030: templates_archer_bow_sh_r_9
-    21300032: templates_archer_bow_sh_r_10
-    21300034: templates_archer_bow_sh_r_11
-    21300036: templates_archer_bow_sh_r_12
-    21300038: templates_archer_bow_sh_d_0
-    21300040: templates_archer_bow_sh_d_1
-    21300042: templates_archer_bow_sh_d_2
-    21300044: templates_archer_bow_sh_d_3
-    21300046: templates_archer_bow_sh_d_4
-    21300048: templates_archer_bow_sh_d_5
-    21300050: templates_archer_bow_sh_d_6
-    21300052: templates_archer_bow_sh_d_7
-    21300054: templates_archer_bow_sh_d_8
-    21300056: templates_archer_bow_sh_d_9
-    21300058: templates_archer_bow_sh_d_10
-    21300060: templates_archer_bow_sh_d_11
-    21300062: templates_archer_bow_sh_d_12
-    21300064: templates_archer_bow_sh_l_0
-    21300066: templates_archer_bow_sh_l_1
-    21300068: templates_archer_bow_sh_l_2
-    21300070: templates_archer_bow_sh_l_3
-    21300072: templates_archer_bow_sh_l_4
-    21300074: templates_archer_bow_sh_l_5
-    21300076: templates_archer_bow_sh_l_6
-    21300078: templates_archer_bow_sh_l_7
-    21300080: templates_archer_bow_sh_l_8
-    21300082: templates_archer_bow_sh_l_9
-    21300084: templates_archer_bow_sh_l_10
-    21300086: templates_archer_bow_sh_l_11
-    21300088: templates_archer_bow_sh_l_12
-    21300090: templates_archer_bow_sh_t_0
-    21300092: templates_archer_bow_sh_t_1
-    21300094: templates_archer_bow_sh_t_2
-    21300096: templates_archer_bow_sh_t_3
-    21300098: templates_archer_bow_sh_t_4
-    21300100: templates_archer_bow_sh_t_5
-    21300102: templates_archer_bow_sh_t_6
-    21300104: templates_archer_bow_sh_t_7
-    21300106: templates_archer_bow_sh_t_8
-    21300108: templates_archer_bow_sh_t_9
-    21300110: templates_archer_bow_sh_t_10
-    21300112: templates_archer_bow_sh_t_11
-    21300114: templates_archer_bow_sh_t_12
-    21300116: templates_archer_bow_sl_r_0
-    21300118: templates_archer_bow_sl_r_1
-    21300120: templates_archer_bow_sl_r_2
-    21300122: templates_archer_bow_sl_r_3
-    21300124: templates_archer_bow_sl_r_4
-    21300126: templates_archer_bow_sl_r_5
-    21300128: templates_archer_bow_sl_d_0
-    21300130: templates_archer_bow_sl_d_1
-    21300132: templates_archer_bow_sl_d_2
-    21300134: templates_archer_bow_sl_d_3
-    21300136: templates_archer_bow_sl_d_4
-    21300138: templates_archer_bow_sl_d_5
-    21300140: templates_archer_bow_sl_l_0
-    21300142: templates_archer_bow_sl_l_1
-    21300144: templates_archer_bow_sl_l_2
-    21300146: templates_archer_bow_sl_l_3
-    21300148: templates_archer_bow_sl_l_4
-    21300150: templates_archer_bow_sl_l_5
-    21300152: templates_archer_bow_sl_t_0
-    21300154: templates_archer_bow_sl_t_1
-    21300156: templates_archer_bow_sl_t_2
-    21300158: templates_archer_bow_sl_t_3
-    21300160: templates_archer_bow_sl_t_4
-    21300162: templates_archer_bow_sl_t_5
-    21300164: templates_archer_bow_wc_r_0
-    21300166: templates_archer_bow_wc_r_1
-    21300168: templates_archer_bow_wc_r_2
-    21300170: templates_archer_bow_wc_r_3
-    21300172: templates_archer_bow_wc_r_4
-    21300174: templates_archer_bow_wc_r_5
-    21300176: templates_archer_bow_wc_r_6
-    21300178: templates_archer_bow_wc_r_7
-    21300180: templates_archer_bow_wc_r_8
-    21300182: templates_archer_bow_wc_d_0
-    21300184: templates_archer_bow_wc_d_1
-    21300186: templates_archer_bow_wc_d_2
-    21300188: templates_archer_bow_wc_d_3
-    21300190: templates_archer_bow_wc_d_4
-    21300192: templates_archer_bow_wc_d_5
-    21300194: templates_archer_bow_wc_d_6
-    21300196: templates_archer_bow_wc_d_7
-    21300198: templates_archer_bow_wc_d_8
-    21300200: templates_archer_bow_wc_l_0
-    21300202: templates_archer_bow_wc_l_1
-    21300204: templates_archer_bow_wc_l_2
-    21300206: templates_archer_bow_wc_l_3
-    21300208: templates_archer_bow_wc_l_4
-    21300210: templates_archer_bow_wc_l_5
-    21300212: templates_archer_bow_wc_l_6
-    21300214: templates_archer_bow_wc_l_7
-    21300216: templates_archer_bow_wc_l_8
-    21300218: templates_archer_bow_wc_t_0
-    21300220: templates_archer_bow_wc_t_1
-    21300222: templates_archer_bow_wc_t_2
-    21300224: templates_archer_bow_wc_t_3
-    21300226: templates_archer_bow_wc_t_4
-    21300228: templates_archer_bow_wc_t_5
-    21300230: templates_archer_bow_wc_t_6
-    21300232: templates_archer_bow_wc_t_7
-    21300234: templates_archer_bow_wc_t_8
-    21300236: templates_archer_bow_th_r_0
-    21300238: templates_archer_bow_th_r_1
-    21300240: templates_archer_bow_th_r_2
-    21300242: templates_archer_bow_th_r_3
-    21300244: templates_archer_bow_th_r_4
-    21300246: templates_archer_bow_th_r_5
-    21300248: templates_archer_bow_th_r_6
-    21300250: templates_archer_bow_th_r_7
-    21300252: templates_archer_bow_th_d_0
-    21300254: templates_archer_bow_th_d_1
-    21300256: templates_archer_bow_th_d_2
-    21300258: templates_archer_bow_th_d_3
-    21300260: templates_archer_bow_th_d_4
-    21300262: templates_archer_bow_th_d_5
-    21300264: templates_archer_bow_th_d_6
-    21300266: templates_archer_bow_th_d_7
-    21300268: templates_archer_bow_th_l_0
-    21300270: templates_archer_bow_th_l_1
-    21300272: templates_archer_bow_th_l_2
-    21300274: templates_archer_bow_th_l_3
-    21300276: templates_archer_bow_th_l_4
-    21300278: templates_archer_bow_th_l_5
-    21300280: templates_archer_bow_th_l_6
-    21300282: templates_archer_bow_th_l_7
-    21300284: templates_archer_bow_th_t_0
-    21300286: templates_archer_bow_th_t_1
-    21300288: templates_archer_bow_th_t_2
-    21300290: templates_archer_bow_th_t_3
-    21300292: templates_archer_bow_th_t_4
-    21300294: templates_archer_bow_th_t_5
-    21300296: templates_archer_bow_th_t_6
-    21300298: templates_archer_bow_th_t_7
-    21300300: templates_archer_bow_sc_r_0
-    21300302: templates_archer_bow_sc_r_1
-    21300304: templates_archer_bow_sc_r_2
-    21300306: templates_archer_bow_sc_r_3
-    21300308: templates_archer_bow_sc_r_4
-    21300310: templates_archer_bow_sc_r_5
-    21300312: templates_archer_bow_sc_r_6
-    21300314: templates_archer_bow_sc_d_0
-    21300316: templates_archer_bow_sc_d_1
-    21300318: templates_archer_bow_sc_d_2
-    21300320: templates_archer_bow_sc_d_3
-    21300322: templates_archer_bow_sc_d_4
-    21300324: templates_archer_bow_sc_d_5
-    21300326: templates_archer_bow_sc_d_6
-    21300328: templates_archer_bow_sc_l_0
-    21300330: templates_archer_bow_sc_l_1
-    21300332: templates_archer_bow_sc_l_2
-    21300334: templates_archer_bow_sc_l_3
-    21300336: templates_archer_bow_sc_l_4
-    21300338: templates_archer_bow_sc_l_5
-    21300340: templates_archer_bow_sc_l_6
-    21300342: templates_archer_bow_sc_t_0
-    21300344: templates_archer_bow_sc_t_1
-    21300346: templates_archer_bow_sc_t_2
-    21300348: templates_archer_bow_sc_t_3
-    21300350: templates_archer_bow_sc_t_4
-    21300352: templates_archer_bow_sc_t_5
-    21300354: templates_archer_bow_sc_t_6
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: templates_archer_bow_hu_0
+  - first:
+      213: 21300002
+    second: templates_archer_bow_hu_1
+  - first:
+      213: 21300004
+    second: templates_archer_bow_hu_2
+  - first:
+      213: 21300006
+    second: templates_archer_bow_hu_3
+  - first:
+      213: 21300008
+    second: templates_archer_bow_hu_4
+  - first:
+      213: 21300010
+    second: templates_archer_bow_hu_5
+  - first:
+      213: 21300012
+    second: templates_archer_bow_sh_r_0
+  - first:
+      213: 21300014
+    second: templates_archer_bow_sh_r_1
+  - first:
+      213: 21300016
+    second: templates_archer_bow_sh_r_2
+  - first:
+      213: 21300018
+    second: templates_archer_bow_sh_r_3
+  - first:
+      213: 21300020
+    second: templates_archer_bow_sh_r_4
+  - first:
+      213: 21300022
+    second: templates_archer_bow_sh_r_5
+  - first:
+      213: 21300024
+    second: templates_archer_bow_sh_r_6
+  - first:
+      213: 21300026
+    second: templates_archer_bow_sh_r_7
+  - first:
+      213: 21300028
+    second: templates_archer_bow_sh_r_8
+  - first:
+      213: 21300030
+    second: templates_archer_bow_sh_r_9
+  - first:
+      213: 21300032
+    second: templates_archer_bow_sh_r_10
+  - first:
+      213: 21300034
+    second: templates_archer_bow_sh_r_11
+  - first:
+      213: 21300036
+    second: templates_archer_bow_sh_r_12
+  - first:
+      213: 21300038
+    second: templates_archer_bow_sh_d_0
+  - first:
+      213: 21300040
+    second: templates_archer_bow_sh_d_1
+  - first:
+      213: 21300042
+    second: templates_archer_bow_sh_d_2
+  - first:
+      213: 21300044
+    second: templates_archer_bow_sh_d_3
+  - first:
+      213: 21300046
+    second: templates_archer_bow_sh_d_4
+  - first:
+      213: 21300048
+    second: templates_archer_bow_sh_d_5
+  - first:
+      213: 21300050
+    second: templates_archer_bow_sh_d_6
+  - first:
+      213: 21300052
+    second: templates_archer_bow_sh_d_7
+  - first:
+      213: 21300054
+    second: templates_archer_bow_sh_d_8
+  - first:
+      213: 21300056
+    second: templates_archer_bow_sh_d_9
+  - first:
+      213: 21300058
+    second: templates_archer_bow_sh_d_10
+  - first:
+      213: 21300060
+    second: templates_archer_bow_sh_d_11
+  - first:
+      213: 21300062
+    second: templates_archer_bow_sh_d_12
+  - first:
+      213: 21300064
+    second: templates_archer_bow_sh_l_0
+  - first:
+      213: 21300066
+    second: templates_archer_bow_sh_l_1
+  - first:
+      213: 21300068
+    second: templates_archer_bow_sh_l_2
+  - first:
+      213: 21300070
+    second: templates_archer_bow_sh_l_3
+  - first:
+      213: 21300072
+    second: templates_archer_bow_sh_l_4
+  - first:
+      213: 21300074
+    second: templates_archer_bow_sh_l_5
+  - first:
+      213: 21300076
+    second: templates_archer_bow_sh_l_6
+  - first:
+      213: 21300078
+    second: templates_archer_bow_sh_l_7
+  - first:
+      213: 21300080
+    second: templates_archer_bow_sh_l_8
+  - first:
+      213: 21300082
+    second: templates_archer_bow_sh_l_9
+  - first:
+      213: 21300084
+    second: templates_archer_bow_sh_l_10
+  - first:
+      213: 21300086
+    second: templates_archer_bow_sh_l_11
+  - first:
+      213: 21300088
+    second: templates_archer_bow_sh_l_12
+  - first:
+      213: 21300090
+    second: templates_archer_bow_sh_t_0
+  - first:
+      213: 21300092
+    second: templates_archer_bow_sh_t_1
+  - first:
+      213: 21300094
+    second: templates_archer_bow_sh_t_2
+  - first:
+      213: 21300096
+    second: templates_archer_bow_sh_t_3
+  - first:
+      213: 21300098
+    second: templates_archer_bow_sh_t_4
+  - first:
+      213: 21300100
+    second: templates_archer_bow_sh_t_5
+  - first:
+      213: 21300102
+    second: templates_archer_bow_sh_t_6
+  - first:
+      213: 21300104
+    second: templates_archer_bow_sh_t_7
+  - first:
+      213: 21300106
+    second: templates_archer_bow_sh_t_8
+  - first:
+      213: 21300108
+    second: templates_archer_bow_sh_t_9
+  - first:
+      213: 21300110
+    second: templates_archer_bow_sh_t_10
+  - first:
+      213: 21300112
+    second: templates_archer_bow_sh_t_11
+  - first:
+      213: 21300114
+    second: templates_archer_bow_sh_t_12
+  - first:
+      213: 21300116
+    second: templates_archer_bow_sl_r_0
+  - first:
+      213: 21300118
+    second: templates_archer_bow_sl_r_1
+  - first:
+      213: 21300120
+    second: templates_archer_bow_sl_r_2
+  - first:
+      213: 21300122
+    second: templates_archer_bow_sl_r_3
+  - first:
+      213: 21300124
+    second: templates_archer_bow_sl_r_4
+  - first:
+      213: 21300126
+    second: templates_archer_bow_sl_r_5
+  - first:
+      213: 21300128
+    second: templates_archer_bow_sl_d_0
+  - first:
+      213: 21300130
+    second: templates_archer_bow_sl_d_1
+  - first:
+      213: 21300132
+    second: templates_archer_bow_sl_d_2
+  - first:
+      213: 21300134
+    second: templates_archer_bow_sl_d_3
+  - first:
+      213: 21300136
+    second: templates_archer_bow_sl_d_4
+  - first:
+      213: 21300138
+    second: templates_archer_bow_sl_d_5
+  - first:
+      213: 21300140
+    second: templates_archer_bow_sl_l_0
+  - first:
+      213: 21300142
+    second: templates_archer_bow_sl_l_1
+  - first:
+      213: 21300144
+    second: templates_archer_bow_sl_l_2
+  - first:
+      213: 21300146
+    second: templates_archer_bow_sl_l_3
+  - first:
+      213: 21300148
+    second: templates_archer_bow_sl_l_4
+  - first:
+      213: 21300150
+    second: templates_archer_bow_sl_l_5
+  - first:
+      213: 21300152
+    second: templates_archer_bow_sl_t_0
+  - first:
+      213: 21300154
+    second: templates_archer_bow_sl_t_1
+  - first:
+      213: 21300156
+    second: templates_archer_bow_sl_t_2
+  - first:
+      213: 21300158
+    second: templates_archer_bow_sl_t_3
+  - first:
+      213: 21300160
+    second: templates_archer_bow_sl_t_4
+  - first:
+      213: 21300162
+    second: templates_archer_bow_sl_t_5
+  - first:
+      213: 21300164
+    second: templates_archer_bow_wc_r_0
+  - first:
+      213: 21300166
+    second: templates_archer_bow_wc_r_1
+  - first:
+      213: 21300168
+    second: templates_archer_bow_wc_r_2
+  - first:
+      213: 21300170
+    second: templates_archer_bow_wc_r_3
+  - first:
+      213: 21300172
+    second: templates_archer_bow_wc_r_4
+  - first:
+      213: 21300174
+    second: templates_archer_bow_wc_r_5
+  - first:
+      213: 21300176
+    second: templates_archer_bow_wc_r_6
+  - first:
+      213: 21300178
+    second: templates_archer_bow_wc_r_7
+  - first:
+      213: 21300180
+    second: templates_archer_bow_wc_r_8
+  - first:
+      213: 21300182
+    second: templates_archer_bow_wc_d_0
+  - first:
+      213: 21300184
+    second: templates_archer_bow_wc_d_1
+  - first:
+      213: 21300186
+    second: templates_archer_bow_wc_d_2
+  - first:
+      213: 21300188
+    second: templates_archer_bow_wc_d_3
+  - first:
+      213: 21300190
+    second: templates_archer_bow_wc_d_4
+  - first:
+      213: 21300192
+    second: templates_archer_bow_wc_d_5
+  - first:
+      213: 21300194
+    second: templates_archer_bow_wc_d_6
+  - first:
+      213: 21300196
+    second: templates_archer_bow_wc_d_7
+  - first:
+      213: 21300198
+    second: templates_archer_bow_wc_d_8
+  - first:
+      213: 21300200
+    second: templates_archer_bow_wc_l_0
+  - first:
+      213: 21300202
+    second: templates_archer_bow_wc_l_1
+  - first:
+      213: 21300204
+    second: templates_archer_bow_wc_l_2
+  - first:
+      213: 21300206
+    second: templates_archer_bow_wc_l_3
+  - first:
+      213: 21300208
+    second: templates_archer_bow_wc_l_4
+  - first:
+      213: 21300210
+    second: templates_archer_bow_wc_l_5
+  - first:
+      213: 21300212
+    second: templates_archer_bow_wc_l_6
+  - first:
+      213: 21300214
+    second: templates_archer_bow_wc_l_7
+  - first:
+      213: 21300216
+    second: templates_archer_bow_wc_l_8
+  - first:
+      213: 21300218
+    second: templates_archer_bow_wc_t_0
+  - first:
+      213: 21300220
+    second: templates_archer_bow_wc_t_1
+  - first:
+      213: 21300222
+    second: templates_archer_bow_wc_t_2
+  - first:
+      213: 21300224
+    second: templates_archer_bow_wc_t_3
+  - first:
+      213: 21300226
+    second: templates_archer_bow_wc_t_4
+  - first:
+      213: 21300228
+    second: templates_archer_bow_wc_t_5
+  - first:
+      213: 21300230
+    second: templates_archer_bow_wc_t_6
+  - first:
+      213: 21300232
+    second: templates_archer_bow_wc_t_7
+  - first:
+      213: 21300234
+    second: templates_archer_bow_wc_t_8
+  - first:
+      213: 21300236
+    second: templates_archer_bow_th_r_0
+  - first:
+      213: 21300238
+    second: templates_archer_bow_th_r_1
+  - first:
+      213: 21300240
+    second: templates_archer_bow_th_r_2
+  - first:
+      213: 21300242
+    second: templates_archer_bow_th_r_3
+  - first:
+      213: 21300244
+    second: templates_archer_bow_th_r_4
+  - first:
+      213: 21300246
+    second: templates_archer_bow_th_r_5
+  - first:
+      213: 21300248
+    second: templates_archer_bow_th_r_6
+  - first:
+      213: 21300250
+    second: templates_archer_bow_th_r_7
+  - first:
+      213: 21300252
+    second: templates_archer_bow_th_d_0
+  - first:
+      213: 21300254
+    second: templates_archer_bow_th_d_1
+  - first:
+      213: 21300256
+    second: templates_archer_bow_th_d_2
+  - first:
+      213: 21300258
+    second: templates_archer_bow_th_d_3
+  - first:
+      213: 21300260
+    second: templates_archer_bow_th_d_4
+  - first:
+      213: 21300262
+    second: templates_archer_bow_th_d_5
+  - first:
+      213: 21300264
+    second: templates_archer_bow_th_d_6
+  - first:
+      213: 21300266
+    second: templates_archer_bow_th_d_7
+  - first:
+      213: 21300268
+    second: templates_archer_bow_th_l_0
+  - first:
+      213: 21300270
+    second: templates_archer_bow_th_l_1
+  - first:
+      213: 21300272
+    second: templates_archer_bow_th_l_2
+  - first:
+      213: 21300274
+    second: templates_archer_bow_th_l_3
+  - first:
+      213: 21300276
+    second: templates_archer_bow_th_l_4
+  - first:
+      213: 21300278
+    second: templates_archer_bow_th_l_5
+  - first:
+      213: 21300280
+    second: templates_archer_bow_th_l_6
+  - first:
+      213: 21300282
+    second: templates_archer_bow_th_l_7
+  - first:
+      213: 21300284
+    second: templates_archer_bow_th_t_0
+  - first:
+      213: 21300286
+    second: templates_archer_bow_th_t_1
+  - first:
+      213: 21300288
+    second: templates_archer_bow_th_t_2
+  - first:
+      213: 21300290
+    second: templates_archer_bow_th_t_3
+  - first:
+      213: 21300292
+    second: templates_archer_bow_th_t_4
+  - first:
+      213: 21300294
+    second: templates_archer_bow_th_t_5
+  - first:
+      213: 21300296
+    second: templates_archer_bow_th_t_6
+  - first:
+      213: 21300298
+    second: templates_archer_bow_th_t_7
+  - first:
+      213: 21300300
+    second: templates_archer_bow_sc_r_0
+  - first:
+      213: 21300302
+    second: templates_archer_bow_sc_r_1
+  - first:
+      213: 21300304
+    second: templates_archer_bow_sc_r_2
+  - first:
+      213: 21300306
+    second: templates_archer_bow_sc_r_3
+  - first:
+      213: 21300308
+    second: templates_archer_bow_sc_r_4
+  - first:
+      213: 21300310
+    second: templates_archer_bow_sc_r_5
+  - first:
+      213: 21300312
+    second: templates_archer_bow_sc_r_6
+  - first:
+      213: 21300314
+    second: templates_archer_bow_sc_d_0
+  - first:
+      213: 21300316
+    second: templates_archer_bow_sc_d_1
+  - first:
+      213: 21300318
+    second: templates_archer_bow_sc_d_2
+  - first:
+      213: 21300320
+    second: templates_archer_bow_sc_d_3
+  - first:
+      213: 21300322
+    second: templates_archer_bow_sc_d_4
+  - first:
+      213: 21300324
+    second: templates_archer_bow_sc_d_5
+  - first:
+      213: 21300326
+    second: templates_archer_bow_sc_d_6
+  - first:
+      213: 21300328
+    second: templates_archer_bow_sc_l_0
+  - first:
+      213: 21300330
+    second: templates_archer_bow_sc_l_1
+  - first:
+      213: 21300332
+    second: templates_archer_bow_sc_l_2
+  - first:
+      213: 21300334
+    second: templates_archer_bow_sc_l_3
+  - first:
+      213: 21300336
+    second: templates_archer_bow_sc_l_4
+  - first:
+      213: 21300338
+    second: templates_archer_bow_sc_l_5
+  - first:
+      213: 21300340
+    second: templates_archer_bow_sc_l_6
+  - first:
+      213: 21300342
+    second: templates_archer_bow_sc_t_0
+  - first:
+      213: 21300344
+    second: templates_archer_bow_sc_t_1
+  - first:
+      213: 21300346
+    second: templates_archer_bow_sc_t_2
+  - first:
+      213: 21300348
+    second: templates_archer_bow_sc_t_3
+  - first:
+      213: 21300350
+    second: templates_archer_bow_sc_t_4
+  - first:
+      213: 21300352
+    second: templates_archer_bow_sc_t_5
+  - first:
+      213: 21300354
+    second: templates_archer_bow_sc_t_6
   externalObjects: {}
-  serializedVersion: 9
+  serializedVersion: 10
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -223,7 +579,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 31
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -241,7 +597,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -266,6 +622,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -286,6 +643,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -306,6 +664,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -326,6 +685,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -346,6 +706,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -366,6 +727,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -386,6 +748,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -406,6 +769,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -426,6 +790,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -446,6 +811,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -466,6 +832,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -486,6 +853,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -506,6 +874,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -526,6 +895,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -546,6 +916,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -566,6 +937,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -586,6 +958,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -606,6 +979,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -626,6 +1000,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -646,6 +1021,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -666,6 +1042,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -686,6 +1063,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -706,6 +1084,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -726,6 +1105,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -746,6 +1126,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -766,6 +1147,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -786,6 +1168,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -806,6 +1189,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -826,6 +1210,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -846,6 +1231,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -866,6 +1252,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -886,6 +1273,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -906,6 +1294,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -926,6 +1315,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -946,6 +1336,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -966,6 +1357,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -986,6 +1378,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1006,6 +1399,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1026,6 +1420,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1046,6 +1441,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1066,6 +1462,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1086,6 +1483,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1106,6 +1504,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1126,6 +1525,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1146,6 +1546,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1166,6 +1567,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1186,6 +1588,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1206,6 +1609,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1226,6 +1630,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1246,6 +1651,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1266,6 +1672,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1286,6 +1693,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1306,6 +1714,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1326,6 +1735,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1346,6 +1756,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1366,6 +1777,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1386,6 +1798,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1406,6 +1819,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1426,6 +1840,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1446,6 +1861,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1466,6 +1882,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1486,6 +1903,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1506,6 +1924,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1526,6 +1945,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1546,6 +1966,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1566,6 +1987,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1586,6 +2008,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1606,6 +2029,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1626,6 +2050,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1646,6 +2071,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1666,6 +2092,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1686,6 +2113,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1706,6 +2134,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1726,6 +2155,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1746,6 +2176,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1766,6 +2197,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1786,6 +2218,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1806,6 +2239,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1826,6 +2260,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1846,6 +2281,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1866,6 +2302,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1886,6 +2323,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1906,6 +2344,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1926,6 +2365,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1946,6 +2386,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1966,6 +2407,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1986,6 +2428,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2006,6 +2449,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2026,6 +2470,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2046,6 +2491,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2066,6 +2512,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2086,6 +2533,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2106,6 +2554,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2126,6 +2575,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2146,6 +2596,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2166,6 +2617,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2186,6 +2638,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2206,6 +2659,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2226,6 +2680,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2246,6 +2701,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2266,6 +2722,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2286,6 +2743,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2306,6 +2764,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2326,6 +2785,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2346,6 +2806,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2366,6 +2827,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2386,6 +2848,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2406,6 +2869,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2426,6 +2890,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2446,6 +2911,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2466,6 +2932,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2486,6 +2953,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2506,6 +2974,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2526,6 +2995,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2546,6 +3016,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2566,6 +3037,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2586,6 +3058,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2606,6 +3079,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2626,6 +3100,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2646,6 +3121,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2666,6 +3142,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2686,6 +3163,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2706,6 +3184,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2726,6 +3205,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2746,6 +3226,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2766,6 +3247,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2786,6 +3268,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2806,6 +3289,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2826,6 +3310,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2846,6 +3331,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2866,6 +3352,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2886,6 +3373,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2906,6 +3394,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2926,6 +3415,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2946,6 +3436,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2966,6 +3457,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2986,6 +3478,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3006,6 +3499,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3026,6 +3520,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3046,6 +3541,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3066,6 +3562,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3086,6 +3583,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3106,6 +3604,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3126,6 +3625,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3146,6 +3646,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3166,6 +3667,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3186,6 +3688,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3206,6 +3709,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3226,6 +3730,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3246,6 +3751,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3266,6 +3772,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3286,6 +3793,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3306,6 +3814,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3326,6 +3835,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3346,6 +3856,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3366,6 +3877,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3386,6 +3898,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3406,6 +3919,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3426,6 +3940,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3446,6 +3961,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3466,6 +3982,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3486,6 +4003,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3506,6 +4024,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3526,6 +4045,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3546,6 +4066,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3566,6 +4087,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3586,6 +4108,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3606,6 +4129,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3626,6 +4150,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3646,6 +4171,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3666,6 +4192,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3686,6 +4213,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3706,6 +4234,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3726,6 +4255,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3746,6 +4276,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3766,6 +4297,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3786,6 +4318,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3806,6 +4339,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3814,10 +4348,12 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
+    secondaryTextures: []
   spritePackingTag: character
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -1,14 +1,15 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
+﻿#region
+
 using System.Linq;
 using Entitas;
 using UnityEngine;
 
+#endregion
+
 public class MouthbreathingAISystem : IExecuteSystem
 {
-	readonly Contexts _contexts;
-	private  float    _elapsedTime;
+	private readonly Contexts _contexts;
+	private          float    _elapsedTime;
 
 	public MouthbreathingAISystem(Contexts contexts)
 	{
@@ -25,24 +26,23 @@ public class MouthbreathingAISystem : IExecuteSystem
 
 			foreach (var entity in characters)
 			{
-				if (entity.hasActing || entity.isPlayerControlled)
+				if (entity.hasCombatAction || entity.isPlayerControlled)
 				{
 					entity.input.actionButton1 = false;
 					entity.input.direction     = Vector2.zero;
 					continue;
 				}
 
-				var character        = entity.character;
 				var position         = entity.position.value;
-				var combatAbilities  = entity.character.CombatAbilities;
-				var isRanged         = combatAbilities[0].AbiltyType == CombatAbilityType.Ranged || combatAbilities[0].AbiltyType == CombatAbilityType.Spell;
-				var isHealer         = combatAbilities[0].Name == CombatAbilityName.Heal;
+				var combatAbilities  = entity.character.abilities;
+				var isRanged         = combatAbilities[0].abiltyType == CombatAbilityType.Ranged || combatAbilities[0].abiltyType == CombatAbilityType.Spell;
+				var isHealer         = combatAbilities[0].name == CombatAbilityName.Heal;
 				var actionRangeUnits = isRanged ? 10f : 3f;
 
 				//figure out which stupid idiot to heal
-				var sickestAlly  = characters.Where(c => !c.isDefeated).Where(sw => IsAlly(entity, sw)).OrderBy(sw => sw.character.Health).FirstOrDefault();
+				var sickestAlly  = characters.Where(c => !c.isDefeated).Where(sw => IsAlly(entity, sw)).OrderBy(sw => sw.character.health).FirstOrDefault();
 				var closestEnemy = characters.Where(c => !c.isDefeated).Where(sw => !IsAlly(entity, sw)).OrderBy(sw => (sw.position.value - position).magnitude).FirstOrDefault();
-				var sickestEnemy = characters.Where(c => !c.isDefeated).Where(sw => !IsAlly(entity, sw)).OrderBy(sw => sw.character.Health).FirstOrDefault();
+				var sickestEnemy = characters.Where(c => !c.isDefeated).Where(sw => !IsAlly(entity, sw)).OrderBy(sw => sw.character.health).FirstOrDefault();
 				var allyLeader   = characters.Where(c => !c.isDefeated).Where(sw => IsAlly(entity, sw)).SingleOrDefault(sw => sw.hasLeader);
 
 				//lock on target
@@ -58,25 +58,43 @@ public class MouthbreathingAISystem : IExecuteSystem
 				if (target == null)
 					continue;
 
-				var targetDistance       = (position - target.position.value).magnitude;
-				var actOnTarget          = targetDistance <= actionRangeUnits;
-				var moveToTarget         = targetDistance > actionRangeUnits;
 
-				if (actOnTarget && target == closestEnemy)
+				var targetDistance = position - target.position.value;
+				var actOnTarget    = targetDistance.magnitude <= actionRangeUnits;
+				var moveToTarget   = targetDistance.magnitude > actionRangeUnits;
+				var targetIsAlly   = entity.faction.name.Equals(target.faction.name);
+				var targetLocation = target.position.value;
+				var heading        = targetLocation - position;
+
+				if (moveToTarget)
+					entity.input.direction = heading.normalized;
+
+				if (!isRanged && actOnTarget && !targetIsAlly)
+				{
+					entity.input.direction = heading.normalized;
 					entity.input.actionButton1 = true;
-				else if (moveToTarget)
+				}
+
+				if (isRanged && actOnTarget)
+					entity.input.actionButton1 = true;
+
+				/*if (moveToTarget)
 				{
 					var targetLocation = target.position.value;
 					var heading        = targetLocation - position;
-					var inputX = heading.x > .5f ? 1 :
+					var inputX = heading.x > .5f  ? 1 :
 								 heading.x < -.5f ? -1 : 0;
 					var inputY = heading.y > 0 ? 1 :
 								 heading.y < 0 ? -1 : 0;
 					entity.input.direction = new Vector2(inputX, inputY);
 				}
+				else if (!isRanged && actOnTarget && !targetIsAlly)
+					entity.input.actionButton1 = true;
+				else if (isRanged && actOnTarget)
+					entity.input.actionButton1 = true;
 				//follow leader
 				else
-					entity.input.direction = Vector2.zero;
+					entity.input.direction = Vector2.zero;*/
 			}
 
 			_elapsedTime = 0f;

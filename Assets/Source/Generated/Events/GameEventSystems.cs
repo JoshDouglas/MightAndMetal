@@ -9,10 +9,13 @@
 public sealed class GameEventSystems : Feature {
 
     public GameEventSystems(Contexts contexts) {
-        Add(new ActingEventSystem(contexts)); // priority: 0
-        Add(new ActingRemovedEventSystem(contexts)); // priority: 0
+        Add(new CombatEventSystem(contexts)); // priority: 0
+        Add(new CombatRemovedEventSystem(contexts)); // priority: 0
+        Add(new CombatActionEventSystem(contexts)); // priority: 0
+        Add(new CombatActionRemovedEventSystem(contexts)); // priority: 0
         Add(new DefeatedEventSystem(contexts)); // priority: 0
+        Add(new HurtEventSystem(contexts)); // priority: 0
+        Add(new HurtRemovedEventSystem(contexts)); // priority: 0
         Add(new VelocityEventSystem(contexts)); // priority: 0
-        Add(new VelocityRemovedEventSystem(contexts)); // priority: 0
     }
 }

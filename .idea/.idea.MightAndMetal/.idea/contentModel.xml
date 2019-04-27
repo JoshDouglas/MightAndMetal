@@ -4,6 +4,7 @@
     <e p="C:\Users\Josh\.Rider2018.3\system\extResources" t="IncludeRecursive" />
     <e p="C:\Users\Josh\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_MightAndMetal.-1948502076.00" t="ExcludeRecursive" />
     <e p="E:\Development\MightAndMetal" t="IncludeRecursive">
+      <e p=".git\info\exclude" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="bitcula" t="Include">
@@ -52,43 +53,60 @@
             <e p="Infrastructure" t="Include">
               <e p="AtlasManager.cs" t="Include" />
               <e p="Physics" t="Include">
-                <e p="CharacterBody.cs" t="Include" />
+                <e p="Character" t="Include">
+                  <e p="CharacterBody.cs" t="Include" />
+                </e>
                 <e p="CollisionEmitter.cs" t="Include" />
-                <e p="EnvironmentBody.cs" t="Include" />
+                <e p="Environment" t="Include">
+                  <e p="EnvironmentBody.cs" t="Include" />
+                </e>
                 <e p="IPhysicalBody.cs" t="Include" />
                 <e p="PhysicalBody.cs" t="Include" />
                 <e p="PhysicalBodyComponent.cs" t="Include" />
+                <e p="Weapon" t="Include">
+                  <e p="CharacterWeaponBody.cs" t="Include" />
+                  <e p="WeaponBodyComponent.cs" t="Include" />
+                </e>
               </e>
               <e p="Rendering" t="Include">
-                <e p="CharacterAnimator.cs" t="Include" />
-                <e p="CharacterView.cs" t="Include" />
-                <e p="EnvironmentView.cs" t="Include" />
+                <e p="Character" t="Include">
+                  <e p="CharacterAnimation.cs" t="Include" />
+                  <e p="CharacterAnimationAction.cs" t="Include" />
+                  <e p="CharacterAnimatorView.cs" t="Include" />
+                  <e p="CharacterHeading.cs" t="Include" />
+                  <e p="CharacterPiece.cs" t="Include" />
+                  <e p="CharacterPieceAnimatorView.cs" t="Include" />
+                </e>
+                <e p="Environment" t="Include">
+                  <e p="EnvironmentView.cs" t="Include" />
+                </e>
                 <e p="IView.cs" t="Include" />
                 <e p="View.cs" t="Include" />
                 <e p="ViewComponent.cs" t="Include" />
               </e>
             </e>
             <e p="Standard" t="Include">
-              <e p="ActingComponent.cs" t="Include" />
               <e p="CharacterComponent.cs" t="Include" />
               <e p="InputComponent.cs" t="Include" />
+              <e p="InvincibleComponent.cs" t="Include" />
+              <e p="KnockbackComponent.cs" t="Include" />
               <e p="PositionComponent.cs" t="Include" />
               <e p="ResourcesComponent.cs" t="Include" />
-              <e p="ScaleComponent.cs" t="Include" />
+              <e p="StunnedComponent.cs" t="Include" />
               <e p="VelocityComponent.cs" t="Include" />
+              <e p="WeaponComponent.cs" t="Include" />
             </e>
           </e>
           <e p="Engine" t="Include">
             <e p="Commands.cs" t="Include" />
             <e p="Entities" t="Include">
               <e p="Characters" t="Include">
-                <e p="CombatAbility.cs" t="Include" />
+                <e p="CombatAction.cs" t="Include" />
                 <e p="CombatEffect.cs" t="Include" />
+                <e p="CombatItem.cs" t="Include" />
                 <e p="CombatJob.cs" t="Include" />
-                <e p="CombatProjectile.cs" t="Include" />
                 <e p="CombatStrategy.cs" t="Include" />
                 <e p="Equipment.cs" t="Include" />
-                <e p="Item.cs" t="Include" />
                 <e p="MilitaryJob.cs" t="Include" />
                 <e p="NobilityJob.cs" t="Include" />
               </e>
@@ -101,57 +119,77 @@
             <e p="Contexts.cs" t="Include" />
             <e p="Events" t="Include">
               <e p="Components" t="Include">
-                <e p="ActingListenerComponent.cs" t="Include" />
-                <e p="ActingRemovedListenerComponent.cs" t="Include" />
+                <e p="CombatActionListenerComponent.cs" t="Include" />
+                <e p="CombatActionRemovedListenerComponent.cs" t="Include" />
+                <e p="CombatListenerComponent.cs" t="Include" />
+                <e p="CombatRemovedListenerComponent.cs" t="Include" />
                 <e p="DefeatedListenerComponent.cs" t="Include" />
+                <e p="HurtListenerComponent.cs" t="Include" />
+                <e p="HurtRemovedListenerComponent.cs" t="Include" />
                 <e p="VelocityListenerComponent.cs" t="Include" />
-                <e p="VelocityRemovedListenerComponent.cs" t="Include" />
               </e>
               <e p="GameEventSystems.cs" t="Include" />
               <e p="Interfaces" t="Include">
-                <e p="IActingListener.cs" t="Include" />
-                <e p="IActingRemovedListener.cs" t="Include" />
+                <e p="ICombatActionListener.cs" t="Include" />
+                <e p="ICombatActionRemovedListener.cs" t="Include" />
+                <e p="ICombatListener.cs" t="Include" />
+                <e p="ICombatRemovedListener.cs" t="Include" />
                 <e p="IDefeatedListener.cs" t="Include" />
+                <e p="IHurtListener.cs" t="Include" />
+                <e p="IHurtRemovedListener.cs" t="Include" />
                 <e p="IVelocityListener.cs" t="Include" />
-                <e p="IVelocityRemovedListener.cs" t="Include" />
               </e>
               <e p="Systems" t="Include">
-                <e p="ActingEventSystem.cs" t="Include" />
-                <e p="ActingRemovedEventSystem.cs" t="Include" />
+                <e p="CombatActionEventSystem.cs" t="Include" />
+                <e p="CombatActionRemovedEventSystem.cs" t="Include" />
+                <e p="CombatEventSystem.cs" t="Include" />
+                <e p="CombatRemovedEventSystem.cs" t="Include" />
                 <e p="DefeatedEventSystem.cs" t="Include" />
+                <e p="HurtEventSystem.cs" t="Include" />
+                <e p="HurtRemovedEventSystem.cs" t="Include" />
                 <e p="VelocityEventSystem.cs" t="Include" />
-                <e p="VelocityRemovedEventSystem.cs" t="Include" />
               </e>
             </e>
             <e p="Feature.cs" t="Include" />
             <e p="Game" t="Include">
               <e p="Components" t="Include">
-                <e p="GameActingComponent.cs" t="Include" />
-                <e p="GameActingListenerComponent.cs" t="Include" />
-                <e p="GameActingRemovedListenerComponent.cs" t="Include" />
                 <e p="GameBattleComponent.cs" t="Include" />
                 <e p="GameBlockableComponent.cs" t="Include" />
                 <e p="GameCharacterComponent.cs" t="Include" />
+                <e p="GameCombatActionComponent.cs" t="Include" />
+                <e p="GameCombatActionListenerComponent.cs" t="Include" />
+                <e p="GameCombatActionRemovedListenerComponent.cs" t="Include" />
+                <e p="GameCombatComponent.cs" t="Include" />
+                <e p="GameCombatEventsComponent.cs" t="Include" />
+                <e p="GameCombatListenerComponent.cs" t="Include" />
+                <e p="GameCombatRemovedListenerComponent.cs" t="Include" />
                 <e p="GameCommanderComponent.cs" t="Include" />
                 <e p="GameDefeatedComponent.cs" t="Include" />
                 <e p="GameDefeatedListenerComponent.cs" t="Include" />
+                <e p="GameEquipmentComponent.cs" t="Include" />
                 <e p="GameFactionComponent.cs" t="Include" />
                 <e p="GameFloorComponent.cs" t="Include" />
                 <e p="GameHurtComponent.cs" t="Include" />
+                <e p="GameHurtListenerComponent.cs" t="Include" />
+                <e p="GameHurtRemovedListenerComponent.cs" t="Include" />
                 <e p="GameInputComponent.cs" t="Include" />
+                <e p="GameInvincibleComponent.cs" t="Include" />
+                <e p="GameItemsComponent.cs" t="Include" />
+                <e p="GameKnockbackComponent.cs" t="Include" />
                 <e p="GameLeaderComponent.cs" t="Include" />
                 <e p="GameMovableComponent.cs" t="Include" />
                 <e p="GamePhysicalBodyComponent.cs" t="Include" />
                 <e p="GamePlayerControlledComponent.cs" t="Include" />
                 <e p="GamePositionComponent.cs" t="Include" />
                 <e p="GameResourcesComponent.cs" t="Include" />
-                <e p="GameScaleComponent.cs" t="Include" />
                 <e p="GameSkirmishComponent.cs" t="Include" />
                 <e p="GameSquadComponent.cs" t="Include" />
+                <e p="GameStunnedComponent.cs" t="Include" />
                 <e p="GameVelocityComponent.cs" t="Include" />
                 <e p="GameVelocityListenerComponent.cs" t="Include" />
-                <e p="GameVelocityRemovedListenerComponent.cs" t="Include" />
                 <e p="GameViewComponent.cs" t="Include" />
+                <e p="GameWeaponBodyComponent.cs" t="Include" />
+                <e p="GameWeaponComponent.cs" t="Include" />
               </e>
               <e p="GameAttribute.cs" t="Include" />
               <e p="GameComponentsLookup.cs" t="Include" />
@@ -162,6 +200,9 @@
           </e>
           <e p="Rand.cs" t="Include" />
           <e p="Systems" t="Include">
+            <e p="Cleanup" t="Include">
+              <e p="CombatCleanupSystem.cs" t="Include" />
+            </e>
             <e p="Execute" t="Include">
               <e p="CombatSystem.cs" t="Include" />
               <e p="MouthbreathingAISystem.cs" t="Include" />

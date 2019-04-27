@@ -1,365 +1,1077 @@
 fileFormatVersion: 2
 guid: 5b859ecca50840144b7bac0c23d51d94
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: lefthand_male_shield_male_cutoutforbody_hu_0
-    21300002: lefthand_male_shield_male_cutoutforbody_hu_1
-    21300004: lefthand_male_shield_male_cutoutforbody_hu_2
-    21300006: lefthand_male_shield_male_cutoutforbody_hu_3
-    21300008: lefthand_male_shield_male_cutoutforbody_hu_4
-    21300010: lefthand_male_shield_male_cutoutforbody_hu_5
-    21300012: lefthand_male_shield_male_cutoutforbody_sh_r_0
-    21300014: lefthand_male_shield_male_cutoutforbody_sh_r_1
-    21300016: lefthand_male_shield_male_cutoutforbody_sh_r_2
-    21300018: lefthand_male_shield_male_cutoutforbody_sh_r_3
-    21300020: lefthand_male_shield_male_cutoutforbody_sh_r_4
-    21300022: lefthand_male_shield_male_cutoutforbody_sh_r_5
-    21300024: lefthand_male_shield_male_cutoutforbody_sh_r_6
-    21300026: lefthand_male_shield_male_cutoutforbody_sh_r_7
-    21300028: lefthand_male_shield_male_cutoutforbody_sh_r_8
-    21300030: lefthand_male_shield_male_cutoutforbody_sh_r_9
-    21300032: lefthand_male_shield_male_cutoutforbody_sh_r_10
-    21300034: lefthand_male_shield_male_cutoutforbody_sh_r_11
-    21300036: lefthand_male_shield_male_cutoutforbody_sh_r_12
-    21300038: lefthand_male_shield_male_cutoutforbody_sh_d_0
-    21300040: lefthand_male_shield_male_cutoutforbody_sh_d_1
-    21300042: lefthand_male_shield_male_cutoutforbody_sh_d_2
-    21300044: lefthand_male_shield_male_cutoutforbody_sh_d_3
-    21300046: lefthand_male_shield_male_cutoutforbody_sh_d_4
-    21300048: lefthand_male_shield_male_cutoutforbody_sh_d_5
-    21300050: lefthand_male_shield_male_cutoutforbody_sh_d_6
-    21300052: lefthand_male_shield_male_cutoutforbody_sh_d_7
-    21300054: lefthand_male_shield_male_cutoutforbody_sh_d_8
-    21300056: lefthand_male_shield_male_cutoutforbody_sh_d_9
-    21300058: lefthand_male_shield_male_cutoutforbody_sh_d_10
-    21300060: lefthand_male_shield_male_cutoutforbody_sh_d_11
-    21300062: lefthand_male_shield_male_cutoutforbody_sh_d_12
-    21300064: lefthand_male_shield_male_cutoutforbody_sh_l_0
-    21300066: lefthand_male_shield_male_cutoutforbody_sh_l_1
-    21300068: lefthand_male_shield_male_cutoutforbody_sh_l_2
-    21300070: lefthand_male_shield_male_cutoutforbody_sh_l_3
-    21300072: lefthand_male_shield_male_cutoutforbody_sh_l_4
-    21300074: lefthand_male_shield_male_cutoutforbody_sh_l_5
-    21300076: lefthand_male_shield_male_cutoutforbody_sh_l_6
-    21300078: lefthand_male_shield_male_cutoutforbody_sh_l_7
-    21300080: lefthand_male_shield_male_cutoutforbody_sh_l_8
-    21300082: lefthand_male_shield_male_cutoutforbody_sh_l_9
-    21300084: lefthand_male_shield_male_cutoutforbody_sh_l_10
-    21300086: lefthand_male_shield_male_cutoutforbody_sh_l_11
-    21300088: lefthand_male_shield_male_cutoutforbody_sh_l_12
-    21300090: lefthand_male_shield_male_cutoutforbody_sh_t_0
-    21300092: lefthand_male_shield_male_cutoutforbody_sh_t_1
-    21300094: lefthand_male_shield_male_cutoutforbody_sh_t_2
-    21300096: lefthand_male_shield_male_cutoutforbody_sh_t_3
-    21300098: lefthand_male_shield_male_cutoutforbody_sh_t_4
-    21300100: lefthand_male_shield_male_cutoutforbody_sh_t_5
-    21300102: lefthand_male_shield_male_cutoutforbody_sh_t_6
-    21300104: lefthand_male_shield_male_cutoutforbody_sh_t_7
-    21300106: lefthand_male_shield_male_cutoutforbody_sh_t_8
-    21300108: lefthand_male_shield_male_cutoutforbody_sh_t_9
-    21300110: lefthand_male_shield_male_cutoutforbody_sh_t_10
-    21300112: lefthand_male_shield_male_cutoutforbody_sh_t_11
-    21300114: lefthand_male_shield_male_cutoutforbody_sh_t_12
-    21300116: lefthand_male_shield_male_cutoutforbody_sl_r_0
-    21300118: lefthand_male_shield_male_cutoutforbody_sl_r_1
-    21300120: lefthand_male_shield_male_cutoutforbody_sl_r_2
-    21300122: lefthand_male_shield_male_cutoutforbody_sl_r_3
-    21300124: lefthand_male_shield_male_cutoutforbody_sl_r_4
-    21300126: lefthand_male_shield_male_cutoutforbody_sl_r_5
-    21300128: lefthand_male_shield_male_cutoutforbody_sl_d_0
-    21300130: lefthand_male_shield_male_cutoutforbody_sl_d_1
-    21300132: lefthand_male_shield_male_cutoutforbody_sl_d_2
-    21300134: lefthand_male_shield_male_cutoutforbody_sl_d_3
-    21300136: lefthand_male_shield_male_cutoutforbody_sl_d_4
-    21300138: lefthand_male_shield_male_cutoutforbody_sl_d_5
-    21300140: lefthand_male_shield_male_cutoutforbody_sl_l_0
-    21300142: lefthand_male_shield_male_cutoutforbody_sl_l_1
-    21300144: lefthand_male_shield_male_cutoutforbody_sl_l_2
-    21300146: lefthand_male_shield_male_cutoutforbody_sl_l_3
-    21300148: lefthand_male_shield_male_cutoutforbody_sl_l_4
-    21300150: lefthand_male_shield_male_cutoutforbody_sl_l_5
-    21300152: lefthand_male_shield_male_cutoutforbody_sl_t_0
-    21300154: lefthand_male_shield_male_cutoutforbody_sl_t_1
-    21300156: lefthand_male_shield_male_cutoutforbody_sl_t_2
-    21300158: lefthand_male_shield_male_cutoutforbody_sl_t_3
-    21300160: lefthand_male_shield_male_cutoutforbody_sl_t_4
-    21300162: lefthand_male_shield_male_cutoutforbody_sl_t_5
-    21300164: lefthand_male_shield_male_cutoutforbody_wc_r_0
-    21300166: lefthand_male_shield_male_cutoutforbody_wc_r_1
-    21300168: lefthand_male_shield_male_cutoutforbody_wc_r_2
-    21300170: lefthand_male_shield_male_cutoutforbody_wc_r_3
-    21300172: lefthand_male_shield_male_cutoutforbody_wc_r_4
-    21300174: lefthand_male_shield_male_cutoutforbody_wc_r_5
-    21300176: lefthand_male_shield_male_cutoutforbody_wc_r_6
-    21300178: lefthand_male_shield_male_cutoutforbody_wc_r_7
-    21300180: lefthand_male_shield_male_cutoutforbody_wc_r_8
-    21300182: lefthand_male_shield_male_cutoutforbody_wc_d_0
-    21300184: lefthand_male_shield_male_cutoutforbody_wc_d_1
-    21300186: lefthand_male_shield_male_cutoutforbody_wc_d_2
-    21300188: lefthand_male_shield_male_cutoutforbody_wc_d_3
-    21300190: lefthand_male_shield_male_cutoutforbody_wc_d_4
-    21300192: lefthand_male_shield_male_cutoutforbody_wc_d_5
-    21300194: lefthand_male_shield_male_cutoutforbody_wc_d_6
-    21300196: lefthand_male_shield_male_cutoutforbody_wc_d_7
-    21300198: lefthand_male_shield_male_cutoutforbody_wc_d_8
-    21300200: lefthand_male_shield_male_cutoutforbody_wc_l_0
-    21300202: lefthand_male_shield_male_cutoutforbody_wc_l_1
-    21300204: lefthand_male_shield_male_cutoutforbody_wc_l_2
-    21300206: lefthand_male_shield_male_cutoutforbody_wc_l_3
-    21300208: lefthand_male_shield_male_cutoutforbody_wc_l_4
-    21300210: lefthand_male_shield_male_cutoutforbody_wc_l_5
-    21300212: lefthand_male_shield_male_cutoutforbody_wc_l_6
-    21300214: lefthand_male_shield_male_cutoutforbody_wc_l_7
-    21300216: lefthand_male_shield_male_cutoutforbody_wc_l_8
-    21300218: lefthand_male_shield_male_cutoutforbody_wc_t_0
-    21300220: lefthand_male_shield_male_cutoutforbody_wc_t_1
-    21300222: lefthand_male_shield_male_cutoutforbody_wc_t_2
-    21300224: lefthand_male_shield_male_cutoutforbody_wc_t_3
-    21300226: lefthand_male_shield_male_cutoutforbody_wc_t_4
-    21300228: lefthand_male_shield_male_cutoutforbody_wc_t_5
-    21300230: lefthand_male_shield_male_cutoutforbody_wc_t_6
-    21300232: lefthand_male_shield_male_cutoutforbody_wc_t_7
-    21300234: lefthand_male_shield_male_cutoutforbody_wc_t_8
-    21300236: lefthand_male_shield_male_cutoutforbody_th_r_0
-    21300238: lefthand_male_shield_male_cutoutforbody_th_r_1
-    21300240: lefthand_male_shield_male_cutoutforbody_th_r_2
-    21300242: lefthand_male_shield_male_cutoutforbody_th_r_3
-    21300244: lefthand_male_shield_male_cutoutforbody_th_r_4
-    21300246: lefthand_male_shield_male_cutoutforbody_th_r_5
-    21300248: lefthand_male_shield_male_cutoutforbody_th_r_6
-    21300250: lefthand_male_shield_male_cutoutforbody_th_r_7
-    21300252: lefthand_male_shield_male_cutoutforbody_th_d_0
-    21300254: lefthand_male_shield_male_cutoutforbody_th_d_1
-    21300256: lefthand_male_shield_male_cutoutforbody_th_d_2
-    21300258: lefthand_male_shield_male_cutoutforbody_th_d_3
-    21300260: lefthand_male_shield_male_cutoutforbody_th_d_4
-    21300262: lefthand_male_shield_male_cutoutforbody_th_d_5
-    21300264: lefthand_male_shield_male_cutoutforbody_th_d_6
-    21300266: lefthand_male_shield_male_cutoutforbody_th_d_7
-    21300268: lefthand_male_shield_male_cutoutforbody_th_l_0
-    21300270: lefthand_male_shield_male_cutoutforbody_th_l_1
-    21300272: lefthand_male_shield_male_cutoutforbody_th_l_2
-    21300274: lefthand_male_shield_male_cutoutforbody_th_l_3
-    21300276: lefthand_male_shield_male_cutoutforbody_th_l_4
-    21300278: lefthand_male_shield_male_cutoutforbody_th_l_5
-    21300280: lefthand_male_shield_male_cutoutforbody_th_l_6
-    21300282: lefthand_male_shield_male_cutoutforbody_th_l_7
-    21300284: lefthand_male_shield_male_cutoutforbody_th_t_0
-    21300286: lefthand_male_shield_male_cutoutforbody_th_t_1
-    21300288: lefthand_male_shield_male_cutoutforbody_th_t_2
-    21300290: lefthand_male_shield_male_cutoutforbody_th_t_3
-    21300292: lefthand_male_shield_male_cutoutforbody_th_t_4
-    21300294: lefthand_male_shield_male_cutoutforbody_th_t_5
-    21300296: lefthand_male_shield_male_cutoutforbody_th_t_6
-    21300298: lefthand_male_shield_male_cutoutforbody_th_t_7
-    21300300: lefthand_male_shield_male_cutoutforbody_sc_r_0
-    21300302: lefthand_male_shield_male_cutoutforbody_sc_r_1
-    21300304: lefthand_male_shield_male_cutoutforbody_sc_r_2
-    21300306: lefthand_male_shield_male_cutoutforbody_sc_r_3
-    21300308: lefthand_male_shield_male_cutoutforbody_sc_r_4
-    21300310: lefthand_male_shield_male_cutoutforbody_sc_r_5
-    21300312: lefthand_male_shield_male_cutoutforbody_sc_r_6
-    21300314: lefthand_male_shield_male_cutoutforbody_sc_d_0
-    21300316: lefthand_male_shield_male_cutoutforbody_sc_d_1
-    21300318: lefthand_male_shield_male_cutoutforbody_sc_d_2
-    21300320: lefthand_male_shield_male_cutoutforbody_sc_d_3
-    21300322: lefthand_male_shield_male_cutoutforbody_sc_d_4
-    21300324: lefthand_male_shield_male_cutoutforbody_sc_d_5
-    21300326: lefthand_male_shield_male_cutoutforbody_sc_d_6
-    21300328: lefthand_male_shield_male_cutoutforbody_sc_l_0
-    21300330: lefthand_male_shield_male_cutoutforbody_sc_l_1
-    21300332: lefthand_male_shield_male_cutoutforbody_sc_l_2
-    21300334: lefthand_male_shield_male_cutoutforbody_sc_l_3
-    21300336: lefthand_male_shield_male_cutoutforbody_sc_l_4
-    21300338: lefthand_male_shield_male_cutoutforbody_sc_l_5
-    21300340: lefthand_male_shield_male_cutoutforbody_sc_l_6
-    21300342: lefthand_male_shield_male_cutoutforbody_sc_t_0
-    21300344: lefthand_male_shield_male_cutoutforbody_sc_t_1
-    21300346: lefthand_male_shield_male_cutoutforbody_sc_t_2
-    21300348: lefthand_male_shield_male_cutoutforbody_sc_t_3
-    21300350: lefthand_male_shield_male_cutoutforbody_sc_t_4
-    21300352: lefthand_male_shield_male_cutoutforbody_sc_t_5
-    21300354: lefthand_male_shield_male_cutoutforbody_sc_t_6
-    21300356: lefthand_male_shield_hu_0
-    21300358: lefthand_male_shield_hu_1
-    21300360: lefthand_male_shield_hu_2
-    21300362: lefthand_male_shield_hu_3
-    21300364: lefthand_male_shield_hu_4
-    21300366: lefthand_male_shield_hu_5
-    21300368: lefthand_male_shield_sh_r_0
-    21300370: lefthand_male_shield_sh_r_1
-    21300372: lefthand_male_shield_sh_r_2
-    21300374: lefthand_male_shield_sh_r_3
-    21300376: lefthand_male_shield_sh_r_4
-    21300378: lefthand_male_shield_sh_r_5
-    21300380: lefthand_male_shield_sh_r_6
-    21300382: lefthand_male_shield_sh_r_7
-    21300384: lefthand_male_shield_sh_r_8
-    21300386: lefthand_male_shield_sh_r_9
-    21300388: lefthand_male_shield_sh_r_10
-    21300390: lefthand_male_shield_sh_r_11
-    21300392: lefthand_male_shield_sh_r_12
-    21300394: lefthand_male_shield_sh_d_0
-    21300396: lefthand_male_shield_sh_d_1
-    21300398: lefthand_male_shield_sh_d_2
-    21300400: lefthand_male_shield_sh_d_3
-    21300402: lefthand_male_shield_sh_d_4
-    21300404: lefthand_male_shield_sh_d_5
-    21300406: lefthand_male_shield_sh_d_6
-    21300408: lefthand_male_shield_sh_d_7
-    21300410: lefthand_male_shield_sh_d_8
-    21300412: lefthand_male_shield_sh_d_9
-    21300414: lefthand_male_shield_sh_d_10
-    21300416: lefthand_male_shield_sh_d_11
-    21300418: lefthand_male_shield_sh_d_12
-    21300420: lefthand_male_shield_sh_l_0
-    21300422: lefthand_male_shield_sh_l_1
-    21300424: lefthand_male_shield_sh_l_2
-    21300426: lefthand_male_shield_sh_l_3
-    21300428: lefthand_male_shield_sh_l_4
-    21300430: lefthand_male_shield_sh_l_5
-    21300432: lefthand_male_shield_sh_l_6
-    21300434: lefthand_male_shield_sh_l_7
-    21300436: lefthand_male_shield_sh_l_8
-    21300438: lefthand_male_shield_sh_l_9
-    21300440: lefthand_male_shield_sh_l_10
-    21300442: lefthand_male_shield_sh_l_11
-    21300444: lefthand_male_shield_sh_l_12
-    21300446: lefthand_male_shield_sh_t_0
-    21300448: lefthand_male_shield_sh_t_1
-    21300450: lefthand_male_shield_sh_t_2
-    21300452: lefthand_male_shield_sh_t_3
-    21300454: lefthand_male_shield_sh_t_4
-    21300456: lefthand_male_shield_sh_t_5
-    21300458: lefthand_male_shield_sh_t_6
-    21300460: lefthand_male_shield_sh_t_7
-    21300462: lefthand_male_shield_sh_t_8
-    21300464: lefthand_male_shield_sh_t_9
-    21300466: lefthand_male_shield_sh_t_10
-    21300468: lefthand_male_shield_sh_t_11
-    21300470: lefthand_male_shield_sh_t_12
-    21300472: lefthand_male_shield_sl_r_0
-    21300474: lefthand_male_shield_sl_r_1
-    21300476: lefthand_male_shield_sl_r_2
-    21300478: lefthand_male_shield_sl_r_3
-    21300480: lefthand_male_shield_sl_r_4
-    21300482: lefthand_male_shield_sl_r_5
-    21300484: lefthand_male_shield_sl_d_0
-    21300486: lefthand_male_shield_sl_d_1
-    21300488: lefthand_male_shield_sl_d_2
-    21300490: lefthand_male_shield_sl_d_3
-    21300492: lefthand_male_shield_sl_d_4
-    21300494: lefthand_male_shield_sl_d_5
-    21300496: lefthand_male_shield_sl_l_0
-    21300498: lefthand_male_shield_sl_l_1
-    21300500: lefthand_male_shield_sl_l_2
-    21300502: lefthand_male_shield_sl_l_3
-    21300504: lefthand_male_shield_sl_l_4
-    21300506: lefthand_male_shield_sl_l_5
-    21300508: lefthand_male_shield_sl_t_0
-    21300510: lefthand_male_shield_sl_t_1
-    21300512: lefthand_male_shield_sl_t_2
-    21300514: lefthand_male_shield_sl_t_3
-    21300516: lefthand_male_shield_sl_t_4
-    21300518: lefthand_male_shield_sl_t_5
-    21300520: lefthand_male_shield_wc_r_0
-    21300522: lefthand_male_shield_wc_r_1
-    21300524: lefthand_male_shield_wc_r_2
-    21300526: lefthand_male_shield_wc_r_3
-    21300528: lefthand_male_shield_wc_r_4
-    21300530: lefthand_male_shield_wc_r_5
-    21300532: lefthand_male_shield_wc_r_6
-    21300534: lefthand_male_shield_wc_r_7
-    21300536: lefthand_male_shield_wc_r_8
-    21300538: lefthand_male_shield_wc_d_0
-    21300540: lefthand_male_shield_wc_d_1
-    21300542: lefthand_male_shield_wc_d_2
-    21300544: lefthand_male_shield_wc_d_3
-    21300546: lefthand_male_shield_wc_d_4
-    21300548: lefthand_male_shield_wc_d_5
-    21300550: lefthand_male_shield_wc_d_6
-    21300552: lefthand_male_shield_wc_d_7
-    21300554: lefthand_male_shield_wc_d_8
-    21300556: lefthand_male_shield_wc_l_0
-    21300558: lefthand_male_shield_wc_l_1
-    21300560: lefthand_male_shield_wc_l_2
-    21300562: lefthand_male_shield_wc_l_3
-    21300564: lefthand_male_shield_wc_l_4
-    21300566: lefthand_male_shield_wc_l_5
-    21300568: lefthand_male_shield_wc_l_6
-    21300570: lefthand_male_shield_wc_l_7
-    21300572: lefthand_male_shield_wc_l_8
-    21300574: lefthand_male_shield_wc_t_0
-    21300576: lefthand_male_shield_wc_t_1
-    21300578: lefthand_male_shield_wc_t_2
-    21300580: lefthand_male_shield_wc_t_3
-    21300582: lefthand_male_shield_wc_t_4
-    21300584: lefthand_male_shield_wc_t_5
-    21300586: lefthand_male_shield_wc_t_6
-    21300588: lefthand_male_shield_wc_t_7
-    21300590: lefthand_male_shield_wc_t_8
-    21300592: lefthand_male_shield_th_r_0
-    21300594: lefthand_male_shield_th_r_1
-    21300596: lefthand_male_shield_th_r_2
-    21300598: lefthand_male_shield_th_r_3
-    21300600: lefthand_male_shield_th_r_4
-    21300602: lefthand_male_shield_th_r_5
-    21300604: lefthand_male_shield_th_r_6
-    21300606: lefthand_male_shield_th_r_7
-    21300608: lefthand_male_shield_th_d_0
-    21300610: lefthand_male_shield_th_d_1
-    21300612: lefthand_male_shield_th_d_2
-    21300614: lefthand_male_shield_th_d_3
-    21300616: lefthand_male_shield_th_d_4
-    21300618: lefthand_male_shield_th_d_5
-    21300620: lefthand_male_shield_th_d_6
-    21300622: lefthand_male_shield_th_d_7
-    21300624: lefthand_male_shield_th_l_0
-    21300626: lefthand_male_shield_th_l_1
-    21300628: lefthand_male_shield_th_l_2
-    21300630: lefthand_male_shield_th_l_3
-    21300632: lefthand_male_shield_th_l_4
-    21300634: lefthand_male_shield_th_l_5
-    21300636: lefthand_male_shield_th_l_6
-    21300638: lefthand_male_shield_th_l_7
-    21300640: lefthand_male_shield_th_t_0
-    21300642: lefthand_male_shield_th_t_1
-    21300644: lefthand_male_shield_th_t_2
-    21300646: lefthand_male_shield_th_t_3
-    21300648: lefthand_male_shield_th_t_4
-    21300650: lefthand_male_shield_th_t_5
-    21300652: lefthand_male_shield_th_t_6
-    21300654: lefthand_male_shield_th_t_7
-    21300656: lefthand_male_shield_sc_r_0
-    21300658: lefthand_male_shield_sc_r_1
-    21300660: lefthand_male_shield_sc_r_2
-    21300662: lefthand_male_shield_sc_r_3
-    21300664: lefthand_male_shield_sc_r_4
-    21300666: lefthand_male_shield_sc_r_5
-    21300668: lefthand_male_shield_sc_r_6
-    21300670: lefthand_male_shield_sc_d_0
-    21300672: lefthand_male_shield_sc_d_1
-    21300674: lefthand_male_shield_sc_d_2
-    21300676: lefthand_male_shield_sc_d_3
-    21300678: lefthand_male_shield_sc_d_4
-    21300680: lefthand_male_shield_sc_d_5
-    21300682: lefthand_male_shield_sc_d_6
-    21300684: lefthand_male_shield_sc_l_0
-    21300686: lefthand_male_shield_sc_l_1
-    21300688: lefthand_male_shield_sc_l_2
-    21300690: lefthand_male_shield_sc_l_3
-    21300692: lefthand_male_shield_sc_l_4
-    21300694: lefthand_male_shield_sc_l_5
-    21300696: lefthand_male_shield_sc_l_6
-    21300698: lefthand_male_shield_sc_t_0
-    21300700: lefthand_male_shield_sc_t_1
-    21300702: lefthand_male_shield_sc_t_2
-    21300704: lefthand_male_shield_sc_t_3
-    21300706: lefthand_male_shield_sc_t_4
-    21300708: lefthand_male_shield_sc_t_5
-    21300710: lefthand_male_shield_sc_t_6
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: lefthand_male_shield_male_cutoutforbody_hu_0
+  - first:
+      213: 21300002
+    second: lefthand_male_shield_male_cutoutforbody_hu_1
+  - first:
+      213: 21300004
+    second: lefthand_male_shield_male_cutoutforbody_hu_2
+  - first:
+      213: 21300006
+    second: lefthand_male_shield_male_cutoutforbody_hu_3
+  - first:
+      213: 21300008
+    second: lefthand_male_shield_male_cutoutforbody_hu_4
+  - first:
+      213: 21300010
+    second: lefthand_male_shield_male_cutoutforbody_hu_5
+  - first:
+      213: 21300012
+    second: lefthand_male_shield_male_cutoutforbody_sh_r_0
+  - first:
+      213: 21300014
+    second: lefthand_male_shield_male_cutoutforbody_sh_r_1
+  - first:
+      213: 21300016
+    second: lefthand_male_shield_male_cutoutforbody_sh_r_2
+  - first:
+      213: 21300018
+    second: lefthand_male_shield_male_cutoutforbody_sh_r_3
+  - first:
+      213: 21300020
+    second: lefthand_male_shield_male_cutoutforbody_sh_r_4
+  - first:
+      213: 21300022
+    second: lefthand_male_shield_male_cutoutforbody_sh_r_5
+  - first:
+      213: 21300024
+    second: lefthand_male_shield_male_cutoutforbody_sh_r_6
+  - first:
+      213: 21300026
+    second: lefthand_male_shield_male_cutoutforbody_sh_r_7
+  - first:
+      213: 21300028
+    second: lefthand_male_shield_male_cutoutforbody_sh_r_8
+  - first:
+      213: 21300030
+    second: lefthand_male_shield_male_cutoutforbody_sh_r_9
+  - first:
+      213: 21300032
+    second: lefthand_male_shield_male_cutoutforbody_sh_r_10
+  - first:
+      213: 21300034
+    second: lefthand_male_shield_male_cutoutforbody_sh_r_11
+  - first:
+      213: 21300036
+    second: lefthand_male_shield_male_cutoutforbody_sh_r_12
+  - first:
+      213: 21300038
+    second: lefthand_male_shield_male_cutoutforbody_sh_d_0
+  - first:
+      213: 21300040
+    second: lefthand_male_shield_male_cutoutforbody_sh_d_1
+  - first:
+      213: 21300042
+    second: lefthand_male_shield_male_cutoutforbody_sh_d_2
+  - first:
+      213: 21300044
+    second: lefthand_male_shield_male_cutoutforbody_sh_d_3
+  - first:
+      213: 21300046
+    second: lefthand_male_shield_male_cutoutforbody_sh_d_4
+  - first:
+      213: 21300048
+    second: lefthand_male_shield_male_cutoutforbody_sh_d_5
+  - first:
+      213: 21300050
+    second: lefthand_male_shield_male_cutoutforbody_sh_d_6
+  - first:
+      213: 21300052
+    second: lefthand_male_shield_male_cutoutforbody_sh_d_7
+  - first:
+      213: 21300054
+    second: lefthand_male_shield_male_cutoutforbody_sh_d_8
+  - first:
+      213: 21300056
+    second: lefthand_male_shield_male_cutoutforbody_sh_d_9
+  - first:
+      213: 21300058
+    second: lefthand_male_shield_male_cutoutforbody_sh_d_10
+  - first:
+      213: 21300060
+    second: lefthand_male_shield_male_cutoutforbody_sh_d_11
+  - first:
+      213: 21300062
+    second: lefthand_male_shield_male_cutoutforbody_sh_d_12
+  - first:
+      213: 21300064
+    second: lefthand_male_shield_male_cutoutforbody_sh_l_0
+  - first:
+      213: 21300066
+    second: lefthand_male_shield_male_cutoutforbody_sh_l_1
+  - first:
+      213: 21300068
+    second: lefthand_male_shield_male_cutoutforbody_sh_l_2
+  - first:
+      213: 21300070
+    second: lefthand_male_shield_male_cutoutforbody_sh_l_3
+  - first:
+      213: 21300072
+    second: lefthand_male_shield_male_cutoutforbody_sh_l_4
+  - first:
+      213: 21300074
+    second: lefthand_male_shield_male_cutoutforbody_sh_l_5
+  - first:
+      213: 21300076
+    second: lefthand_male_shield_male_cutoutforbody_sh_l_6
+  - first:
+      213: 21300078
+    second: lefthand_male_shield_male_cutoutforbody_sh_l_7
+  - first:
+      213: 21300080
+    second: lefthand_male_shield_male_cutoutforbody_sh_l_8
+  - first:
+      213: 21300082
+    second: lefthand_male_shield_male_cutoutforbody_sh_l_9
+  - first:
+      213: 21300084
+    second: lefthand_male_shield_male_cutoutforbody_sh_l_10
+  - first:
+      213: 21300086
+    second: lefthand_male_shield_male_cutoutforbody_sh_l_11
+  - first:
+      213: 21300088
+    second: lefthand_male_shield_male_cutoutforbody_sh_l_12
+  - first:
+      213: 21300090
+    second: lefthand_male_shield_male_cutoutforbody_sh_t_0
+  - first:
+      213: 21300092
+    second: lefthand_male_shield_male_cutoutforbody_sh_t_1
+  - first:
+      213: 21300094
+    second: lefthand_male_shield_male_cutoutforbody_sh_t_2
+  - first:
+      213: 21300096
+    second: lefthand_male_shield_male_cutoutforbody_sh_t_3
+  - first:
+      213: 21300098
+    second: lefthand_male_shield_male_cutoutforbody_sh_t_4
+  - first:
+      213: 21300100
+    second: lefthand_male_shield_male_cutoutforbody_sh_t_5
+  - first:
+      213: 21300102
+    second: lefthand_male_shield_male_cutoutforbody_sh_t_6
+  - first:
+      213: 21300104
+    second: lefthand_male_shield_male_cutoutforbody_sh_t_7
+  - first:
+      213: 21300106
+    second: lefthand_male_shield_male_cutoutforbody_sh_t_8
+  - first:
+      213: 21300108
+    second: lefthand_male_shield_male_cutoutforbody_sh_t_9
+  - first:
+      213: 21300110
+    second: lefthand_male_shield_male_cutoutforbody_sh_t_10
+  - first:
+      213: 21300112
+    second: lefthand_male_shield_male_cutoutforbody_sh_t_11
+  - first:
+      213: 21300114
+    second: lefthand_male_shield_male_cutoutforbody_sh_t_12
+  - first:
+      213: 21300116
+    second: lefthand_male_shield_male_cutoutforbody_sl_r_0
+  - first:
+      213: 21300118
+    second: lefthand_male_shield_male_cutoutforbody_sl_r_1
+  - first:
+      213: 21300120
+    second: lefthand_male_shield_male_cutoutforbody_sl_r_2
+  - first:
+      213: 21300122
+    second: lefthand_male_shield_male_cutoutforbody_sl_r_3
+  - first:
+      213: 21300124
+    second: lefthand_male_shield_male_cutoutforbody_sl_r_4
+  - first:
+      213: 21300126
+    second: lefthand_male_shield_male_cutoutforbody_sl_r_5
+  - first:
+      213: 21300128
+    second: lefthand_male_shield_male_cutoutforbody_sl_d_0
+  - first:
+      213: 21300130
+    second: lefthand_male_shield_male_cutoutforbody_sl_d_1
+  - first:
+      213: 21300132
+    second: lefthand_male_shield_male_cutoutforbody_sl_d_2
+  - first:
+      213: 21300134
+    second: lefthand_male_shield_male_cutoutforbody_sl_d_3
+  - first:
+      213: 21300136
+    second: lefthand_male_shield_male_cutoutforbody_sl_d_4
+  - first:
+      213: 21300138
+    second: lefthand_male_shield_male_cutoutforbody_sl_d_5
+  - first:
+      213: 21300140
+    second: lefthand_male_shield_male_cutoutforbody_sl_l_0
+  - first:
+      213: 21300142
+    second: lefthand_male_shield_male_cutoutforbody_sl_l_1
+  - first:
+      213: 21300144
+    second: lefthand_male_shield_male_cutoutforbody_sl_l_2
+  - first:
+      213: 21300146
+    second: lefthand_male_shield_male_cutoutforbody_sl_l_3
+  - first:
+      213: 21300148
+    second: lefthand_male_shield_male_cutoutforbody_sl_l_4
+  - first:
+      213: 21300150
+    second: lefthand_male_shield_male_cutoutforbody_sl_l_5
+  - first:
+      213: 21300152
+    second: lefthand_male_shield_male_cutoutforbody_sl_t_0
+  - first:
+      213: 21300154
+    second: lefthand_male_shield_male_cutoutforbody_sl_t_1
+  - first:
+      213: 21300156
+    second: lefthand_male_shield_male_cutoutforbody_sl_t_2
+  - first:
+      213: 21300158
+    second: lefthand_male_shield_male_cutoutforbody_sl_t_3
+  - first:
+      213: 21300160
+    second: lefthand_male_shield_male_cutoutforbody_sl_t_4
+  - first:
+      213: 21300162
+    second: lefthand_male_shield_male_cutoutforbody_sl_t_5
+  - first:
+      213: 21300164
+    second: lefthand_male_shield_male_cutoutforbody_wc_r_0
+  - first:
+      213: 21300166
+    second: lefthand_male_shield_male_cutoutforbody_wc_r_1
+  - first:
+      213: 21300168
+    second: lefthand_male_shield_male_cutoutforbody_wc_r_2
+  - first:
+      213: 21300170
+    second: lefthand_male_shield_male_cutoutforbody_wc_r_3
+  - first:
+      213: 21300172
+    second: lefthand_male_shield_male_cutoutforbody_wc_r_4
+  - first:
+      213: 21300174
+    second: lefthand_male_shield_male_cutoutforbody_wc_r_5
+  - first:
+      213: 21300176
+    second: lefthand_male_shield_male_cutoutforbody_wc_r_6
+  - first:
+      213: 21300178
+    second: lefthand_male_shield_male_cutoutforbody_wc_r_7
+  - first:
+      213: 21300180
+    second: lefthand_male_shield_male_cutoutforbody_wc_r_8
+  - first:
+      213: 21300182
+    second: lefthand_male_shield_male_cutoutforbody_wc_d_0
+  - first:
+      213: 21300184
+    second: lefthand_male_shield_male_cutoutforbody_wc_d_1
+  - first:
+      213: 21300186
+    second: lefthand_male_shield_male_cutoutforbody_wc_d_2
+  - first:
+      213: 21300188
+    second: lefthand_male_shield_male_cutoutforbody_wc_d_3
+  - first:
+      213: 21300190
+    second: lefthand_male_shield_male_cutoutforbody_wc_d_4
+  - first:
+      213: 21300192
+    second: lefthand_male_shield_male_cutoutforbody_wc_d_5
+  - first:
+      213: 21300194
+    second: lefthand_male_shield_male_cutoutforbody_wc_d_6
+  - first:
+      213: 21300196
+    second: lefthand_male_shield_male_cutoutforbody_wc_d_7
+  - first:
+      213: 21300198
+    second: lefthand_male_shield_male_cutoutforbody_wc_d_8
+  - first:
+      213: 21300200
+    second: lefthand_male_shield_male_cutoutforbody_wc_l_0
+  - first:
+      213: 21300202
+    second: lefthand_male_shield_male_cutoutforbody_wc_l_1
+  - first:
+      213: 21300204
+    second: lefthand_male_shield_male_cutoutforbody_wc_l_2
+  - first:
+      213: 21300206
+    second: lefthand_male_shield_male_cutoutforbody_wc_l_3
+  - first:
+      213: 21300208
+    second: lefthand_male_shield_male_cutoutforbody_wc_l_4
+  - first:
+      213: 21300210
+    second: lefthand_male_shield_male_cutoutforbody_wc_l_5
+  - first:
+      213: 21300212
+    second: lefthand_male_shield_male_cutoutforbody_wc_l_6
+  - first:
+      213: 21300214
+    second: lefthand_male_shield_male_cutoutforbody_wc_l_7
+  - first:
+      213: 21300216
+    second: lefthand_male_shield_male_cutoutforbody_wc_l_8
+  - first:
+      213: 21300218
+    second: lefthand_male_shield_male_cutoutforbody_wc_t_0
+  - first:
+      213: 21300220
+    second: lefthand_male_shield_male_cutoutforbody_wc_t_1
+  - first:
+      213: 21300222
+    second: lefthand_male_shield_male_cutoutforbody_wc_t_2
+  - first:
+      213: 21300224
+    second: lefthand_male_shield_male_cutoutforbody_wc_t_3
+  - first:
+      213: 21300226
+    second: lefthand_male_shield_male_cutoutforbody_wc_t_4
+  - first:
+      213: 21300228
+    second: lefthand_male_shield_male_cutoutforbody_wc_t_5
+  - first:
+      213: 21300230
+    second: lefthand_male_shield_male_cutoutforbody_wc_t_6
+  - first:
+      213: 21300232
+    second: lefthand_male_shield_male_cutoutforbody_wc_t_7
+  - first:
+      213: 21300234
+    second: lefthand_male_shield_male_cutoutforbody_wc_t_8
+  - first:
+      213: 21300236
+    second: lefthand_male_shield_male_cutoutforbody_th_r_0
+  - first:
+      213: 21300238
+    second: lefthand_male_shield_male_cutoutforbody_th_r_1
+  - first:
+      213: 21300240
+    second: lefthand_male_shield_male_cutoutforbody_th_r_2
+  - first:
+      213: 21300242
+    second: lefthand_male_shield_male_cutoutforbody_th_r_3
+  - first:
+      213: 21300244
+    second: lefthand_male_shield_male_cutoutforbody_th_r_4
+  - first:
+      213: 21300246
+    second: lefthand_male_shield_male_cutoutforbody_th_r_5
+  - first:
+      213: 21300248
+    second: lefthand_male_shield_male_cutoutforbody_th_r_6
+  - first:
+      213: 21300250
+    second: lefthand_male_shield_male_cutoutforbody_th_r_7
+  - first:
+      213: 21300252
+    second: lefthand_male_shield_male_cutoutforbody_th_d_0
+  - first:
+      213: 21300254
+    second: lefthand_male_shield_male_cutoutforbody_th_d_1
+  - first:
+      213: 21300256
+    second: lefthand_male_shield_male_cutoutforbody_th_d_2
+  - first:
+      213: 21300258
+    second: lefthand_male_shield_male_cutoutforbody_th_d_3
+  - first:
+      213: 21300260
+    second: lefthand_male_shield_male_cutoutforbody_th_d_4
+  - first:
+      213: 21300262
+    second: lefthand_male_shield_male_cutoutforbody_th_d_5
+  - first:
+      213: 21300264
+    second: lefthand_male_shield_male_cutoutforbody_th_d_6
+  - first:
+      213: 21300266
+    second: lefthand_male_shield_male_cutoutforbody_th_d_7
+  - first:
+      213: 21300268
+    second: lefthand_male_shield_male_cutoutforbody_th_l_0
+  - first:
+      213: 21300270
+    second: lefthand_male_shield_male_cutoutforbody_th_l_1
+  - first:
+      213: 21300272
+    second: lefthand_male_shield_male_cutoutforbody_th_l_2
+  - first:
+      213: 21300274
+    second: lefthand_male_shield_male_cutoutforbody_th_l_3
+  - first:
+      213: 21300276
+    second: lefthand_male_shield_male_cutoutforbody_th_l_4
+  - first:
+      213: 21300278
+    second: lefthand_male_shield_male_cutoutforbody_th_l_5
+  - first:
+      213: 21300280
+    second: lefthand_male_shield_male_cutoutforbody_th_l_6
+  - first:
+      213: 21300282
+    second: lefthand_male_shield_male_cutoutforbody_th_l_7
+  - first:
+      213: 21300284
+    second: lefthand_male_shield_male_cutoutforbody_th_t_0
+  - first:
+      213: 21300286
+    second: lefthand_male_shield_male_cutoutforbody_th_t_1
+  - first:
+      213: 21300288
+    second: lefthand_male_shield_male_cutoutforbody_th_t_2
+  - first:
+      213: 21300290
+    second: lefthand_male_shield_male_cutoutforbody_th_t_3
+  - first:
+      213: 21300292
+    second: lefthand_male_shield_male_cutoutforbody_th_t_4
+  - first:
+      213: 21300294
+    second: lefthand_male_shield_male_cutoutforbody_th_t_5
+  - first:
+      213: 21300296
+    second: lefthand_male_shield_male_cutoutforbody_th_t_6
+  - first:
+      213: 21300298
+    second: lefthand_male_shield_male_cutoutforbody_th_t_7
+  - first:
+      213: 21300300
+    second: lefthand_male_shield_male_cutoutforbody_sc_r_0
+  - first:
+      213: 21300302
+    second: lefthand_male_shield_male_cutoutforbody_sc_r_1
+  - first:
+      213: 21300304
+    second: lefthand_male_shield_male_cutoutforbody_sc_r_2
+  - first:
+      213: 21300306
+    second: lefthand_male_shield_male_cutoutforbody_sc_r_3
+  - first:
+      213: 21300308
+    second: lefthand_male_shield_male_cutoutforbody_sc_r_4
+  - first:
+      213: 21300310
+    second: lefthand_male_shield_male_cutoutforbody_sc_r_5
+  - first:
+      213: 21300312
+    second: lefthand_male_shield_male_cutoutforbody_sc_r_6
+  - first:
+      213: 21300314
+    second: lefthand_male_shield_male_cutoutforbody_sc_d_0
+  - first:
+      213: 21300316
+    second: lefthand_male_shield_male_cutoutforbody_sc_d_1
+  - first:
+      213: 21300318
+    second: lefthand_male_shield_male_cutoutforbody_sc_d_2
+  - first:
+      213: 21300320
+    second: lefthand_male_shield_male_cutoutforbody_sc_d_3
+  - first:
+      213: 21300322
+    second: lefthand_male_shield_male_cutoutforbody_sc_d_4
+  - first:
+      213: 21300324
+    second: lefthand_male_shield_male_cutoutforbody_sc_d_5
+  - first:
+      213: 21300326
+    second: lefthand_male_shield_male_cutoutforbody_sc_d_6
+  - first:
+      213: 21300328
+    second: lefthand_male_shield_male_cutoutforbody_sc_l_0
+  - first:
+      213: 21300330
+    second: lefthand_male_shield_male_cutoutforbody_sc_l_1
+  - first:
+      213: 21300332
+    second: lefthand_male_shield_male_cutoutforbody_sc_l_2
+  - first:
+      213: 21300334
+    second: lefthand_male_shield_male_cutoutforbody_sc_l_3
+  - first:
+      213: 21300336
+    second: lefthand_male_shield_male_cutoutforbody_sc_l_4
+  - first:
+      213: 21300338
+    second: lefthand_male_shield_male_cutoutforbody_sc_l_5
+  - first:
+      213: 21300340
+    second: lefthand_male_shield_male_cutoutforbody_sc_l_6
+  - first:
+      213: 21300342
+    second: lefthand_male_shield_male_cutoutforbody_sc_t_0
+  - first:
+      213: 21300344
+    second: lefthand_male_shield_male_cutoutforbody_sc_t_1
+  - first:
+      213: 21300346
+    second: lefthand_male_shield_male_cutoutforbody_sc_t_2
+  - first:
+      213: 21300348
+    second: lefthand_male_shield_male_cutoutforbody_sc_t_3
+  - first:
+      213: 21300350
+    second: lefthand_male_shield_male_cutoutforbody_sc_t_4
+  - first:
+      213: 21300352
+    second: lefthand_male_shield_male_cutoutforbody_sc_t_5
+  - first:
+      213: 21300354
+    second: lefthand_male_shield_male_cutoutforbody_sc_t_6
+  - first:
+      213: 21300356
+    second: lefthand_male_shield_hu_0
+  - first:
+      213: 21300358
+    second: lefthand_male_shield_hu_1
+  - first:
+      213: 21300360
+    second: lefthand_male_shield_hu_2
+  - first:
+      213: 21300362
+    second: lefthand_male_shield_hu_3
+  - first:
+      213: 21300364
+    second: lefthand_male_shield_hu_4
+  - first:
+      213: 21300366
+    second: lefthand_male_shield_hu_5
+  - first:
+      213: 21300368
+    second: lefthand_male_shield_sh_r_0
+  - first:
+      213: 21300370
+    second: lefthand_male_shield_sh_r_1
+  - first:
+      213: 21300372
+    second: lefthand_male_shield_sh_r_2
+  - first:
+      213: 21300374
+    second: lefthand_male_shield_sh_r_3
+  - first:
+      213: 21300376
+    second: lefthand_male_shield_sh_r_4
+  - first:
+      213: 21300378
+    second: lefthand_male_shield_sh_r_5
+  - first:
+      213: 21300380
+    second: lefthand_male_shield_sh_r_6
+  - first:
+      213: 21300382
+    second: lefthand_male_shield_sh_r_7
+  - first:
+      213: 21300384
+    second: lefthand_male_shield_sh_r_8
+  - first:
+      213: 21300386
+    second: lefthand_male_shield_sh_r_9
+  - first:
+      213: 21300388
+    second: lefthand_male_shield_sh_r_10
+  - first:
+      213: 21300390
+    second: lefthand_male_shield_sh_r_11
+  - first:
+      213: 21300392
+    second: lefthand_male_shield_sh_r_12
+  - first:
+      213: 21300394
+    second: lefthand_male_shield_sh_d_0
+  - first:
+      213: 21300396
+    second: lefthand_male_shield_sh_d_1
+  - first:
+      213: 21300398
+    second: lefthand_male_shield_sh_d_2
+  - first:
+      213: 21300400
+    second: lefthand_male_shield_sh_d_3
+  - first:
+      213: 21300402
+    second: lefthand_male_shield_sh_d_4
+  - first:
+      213: 21300404
+    second: lefthand_male_shield_sh_d_5
+  - first:
+      213: 21300406
+    second: lefthand_male_shield_sh_d_6
+  - first:
+      213: 21300408
+    second: lefthand_male_shield_sh_d_7
+  - first:
+      213: 21300410
+    second: lefthand_male_shield_sh_d_8
+  - first:
+      213: 21300412
+    second: lefthand_male_shield_sh_d_9
+  - first:
+      213: 21300414
+    second: lefthand_male_shield_sh_d_10
+  - first:
+      213: 21300416
+    second: lefthand_male_shield_sh_d_11
+  - first:
+      213: 21300418
+    second: lefthand_male_shield_sh_d_12
+  - first:
+      213: 21300420
+    second: lefthand_male_shield_sh_l_0
+  - first:
+      213: 21300422
+    second: lefthand_male_shield_sh_l_1
+  - first:
+      213: 21300424
+    second: lefthand_male_shield_sh_l_2
+  - first:
+      213: 21300426
+    second: lefthand_male_shield_sh_l_3
+  - first:
+      213: 21300428
+    second: lefthand_male_shield_sh_l_4
+  - first:
+      213: 21300430
+    second: lefthand_male_shield_sh_l_5
+  - first:
+      213: 21300432
+    second: lefthand_male_shield_sh_l_6
+  - first:
+      213: 21300434
+    second: lefthand_male_shield_sh_l_7
+  - first:
+      213: 21300436
+    second: lefthand_male_shield_sh_l_8
+  - first:
+      213: 21300438
+    second: lefthand_male_shield_sh_l_9
+  - first:
+      213: 21300440
+    second: lefthand_male_shield_sh_l_10
+  - first:
+      213: 21300442
+    second: lefthand_male_shield_sh_l_11
+  - first:
+      213: 21300444
+    second: lefthand_male_shield_sh_l_12
+  - first:
+      213: 21300446
+    second: lefthand_male_shield_sh_t_0
+  - first:
+      213: 21300448
+    second: lefthand_male_shield_sh_t_1
+  - first:
+      213: 21300450
+    second: lefthand_male_shield_sh_t_2
+  - first:
+      213: 21300452
+    second: lefthand_male_shield_sh_t_3
+  - first:
+      213: 21300454
+    second: lefthand_male_shield_sh_t_4
+  - first:
+      213: 21300456
+    second: lefthand_male_shield_sh_t_5
+  - first:
+      213: 21300458
+    second: lefthand_male_shield_sh_t_6
+  - first:
+      213: 21300460
+    second: lefthand_male_shield_sh_t_7
+  - first:
+      213: 21300462
+    second: lefthand_male_shield_sh_t_8
+  - first:
+      213: 21300464
+    second: lefthand_male_shield_sh_t_9
+  - first:
+      213: 21300466
+    second: lefthand_male_shield_sh_t_10
+  - first:
+      213: 21300468
+    second: lefthand_male_shield_sh_t_11
+  - first:
+      213: 21300470
+    second: lefthand_male_shield_sh_t_12
+  - first:
+      213: 21300472
+    second: lefthand_male_shield_sl_r_0
+  - first:
+      213: 21300474
+    second: lefthand_male_shield_sl_r_1
+  - first:
+      213: 21300476
+    second: lefthand_male_shield_sl_r_2
+  - first:
+      213: 21300478
+    second: lefthand_male_shield_sl_r_3
+  - first:
+      213: 21300480
+    second: lefthand_male_shield_sl_r_4
+  - first:
+      213: 21300482
+    second: lefthand_male_shield_sl_r_5
+  - first:
+      213: 21300484
+    second: lefthand_male_shield_sl_d_0
+  - first:
+      213: 21300486
+    second: lefthand_male_shield_sl_d_1
+  - first:
+      213: 21300488
+    second: lefthand_male_shield_sl_d_2
+  - first:
+      213: 21300490
+    second: lefthand_male_shield_sl_d_3
+  - first:
+      213: 21300492
+    second: lefthand_male_shield_sl_d_4
+  - first:
+      213: 21300494
+    second: lefthand_male_shield_sl_d_5
+  - first:
+      213: 21300496
+    second: lefthand_male_shield_sl_l_0
+  - first:
+      213: 21300498
+    second: lefthand_male_shield_sl_l_1
+  - first:
+      213: 21300500
+    second: lefthand_male_shield_sl_l_2
+  - first:
+      213: 21300502
+    second: lefthand_male_shield_sl_l_3
+  - first:
+      213: 21300504
+    second: lefthand_male_shield_sl_l_4
+  - first:
+      213: 21300506
+    second: lefthand_male_shield_sl_l_5
+  - first:
+      213: 21300508
+    second: lefthand_male_shield_sl_t_0
+  - first:
+      213: 21300510
+    second: lefthand_male_shield_sl_t_1
+  - first:
+      213: 21300512
+    second: lefthand_male_shield_sl_t_2
+  - first:
+      213: 21300514
+    second: lefthand_male_shield_sl_t_3
+  - first:
+      213: 21300516
+    second: lefthand_male_shield_sl_t_4
+  - first:
+      213: 21300518
+    second: lefthand_male_shield_sl_t_5
+  - first:
+      213: 21300520
+    second: lefthand_male_shield_wc_r_0
+  - first:
+      213: 21300522
+    second: lefthand_male_shield_wc_r_1
+  - first:
+      213: 21300524
+    second: lefthand_male_shield_wc_r_2
+  - first:
+      213: 21300526
+    second: lefthand_male_shield_wc_r_3
+  - first:
+      213: 21300528
+    second: lefthand_male_shield_wc_r_4
+  - first:
+      213: 21300530
+    second: lefthand_male_shield_wc_r_5
+  - first:
+      213: 21300532
+    second: lefthand_male_shield_wc_r_6
+  - first:
+      213: 21300534
+    second: lefthand_male_shield_wc_r_7
+  - first:
+      213: 21300536
+    second: lefthand_male_shield_wc_r_8
+  - first:
+      213: 21300538
+    second: lefthand_male_shield_wc_d_0
+  - first:
+      213: 21300540
+    second: lefthand_male_shield_wc_d_1
+  - first:
+      213: 21300542
+    second: lefthand_male_shield_wc_d_2
+  - first:
+      213: 21300544
+    second: lefthand_male_shield_wc_d_3
+  - first:
+      213: 21300546
+    second: lefthand_male_shield_wc_d_4
+  - first:
+      213: 21300548
+    second: lefthand_male_shield_wc_d_5
+  - first:
+      213: 21300550
+    second: lefthand_male_shield_wc_d_6
+  - first:
+      213: 21300552
+    second: lefthand_male_shield_wc_d_7
+  - first:
+      213: 21300554
+    second: lefthand_male_shield_wc_d_8
+  - first:
+      213: 21300556
+    second: lefthand_male_shield_wc_l_0
+  - first:
+      213: 21300558
+    second: lefthand_male_shield_wc_l_1
+  - first:
+      213: 21300560
+    second: lefthand_male_shield_wc_l_2
+  - first:
+      213: 21300562
+    second: lefthand_male_shield_wc_l_3
+  - first:
+      213: 21300564
+    second: lefthand_male_shield_wc_l_4
+  - first:
+      213: 21300566
+    second: lefthand_male_shield_wc_l_5
+  - first:
+      213: 21300568
+    second: lefthand_male_shield_wc_l_6
+  - first:
+      213: 21300570
+    second: lefthand_male_shield_wc_l_7
+  - first:
+      213: 21300572
+    second: lefthand_male_shield_wc_l_8
+  - first:
+      213: 21300574
+    second: lefthand_male_shield_wc_t_0
+  - first:
+      213: 21300576
+    second: lefthand_male_shield_wc_t_1
+  - first:
+      213: 21300578
+    second: lefthand_male_shield_wc_t_2
+  - first:
+      213: 21300580
+    second: lefthand_male_shield_wc_t_3
+  - first:
+      213: 21300582
+    second: lefthand_male_shield_wc_t_4
+  - first:
+      213: 21300584
+    second: lefthand_male_shield_wc_t_5
+  - first:
+      213: 21300586
+    second: lefthand_male_shield_wc_t_6
+  - first:
+      213: 21300588
+    second: lefthand_male_shield_wc_t_7
+  - first:
+      213: 21300590
+    second: lefthand_male_shield_wc_t_8
+  - first:
+      213: 21300592
+    second: lefthand_male_shield_th_r_0
+  - first:
+      213: 21300594
+    second: lefthand_male_shield_th_r_1
+  - first:
+      213: 21300596
+    second: lefthand_male_shield_th_r_2
+  - first:
+      213: 21300598
+    second: lefthand_male_shield_th_r_3
+  - first:
+      213: 21300600
+    second: lefthand_male_shield_th_r_4
+  - first:
+      213: 21300602
+    second: lefthand_male_shield_th_r_5
+  - first:
+      213: 21300604
+    second: lefthand_male_shield_th_r_6
+  - first:
+      213: 21300606
+    second: lefthand_male_shield_th_r_7
+  - first:
+      213: 21300608
+    second: lefthand_male_shield_th_d_0
+  - first:
+      213: 21300610
+    second: lefthand_male_shield_th_d_1
+  - first:
+      213: 21300612
+    second: lefthand_male_shield_th_d_2
+  - first:
+      213: 21300614
+    second: lefthand_male_shield_th_d_3
+  - first:
+      213: 21300616
+    second: lefthand_male_shield_th_d_4
+  - first:
+      213: 21300618
+    second: lefthand_male_shield_th_d_5
+  - first:
+      213: 21300620
+    second: lefthand_male_shield_th_d_6
+  - first:
+      213: 21300622
+    second: lefthand_male_shield_th_d_7
+  - first:
+      213: 21300624
+    second: lefthand_male_shield_th_l_0
+  - first:
+      213: 21300626
+    second: lefthand_male_shield_th_l_1
+  - first:
+      213: 21300628
+    second: lefthand_male_shield_th_l_2
+  - first:
+      213: 21300630
+    second: lefthand_male_shield_th_l_3
+  - first:
+      213: 21300632
+    second: lefthand_male_shield_th_l_4
+  - first:
+      213: 21300634
+    second: lefthand_male_shield_th_l_5
+  - first:
+      213: 21300636
+    second: lefthand_male_shield_th_l_6
+  - first:
+      213: 21300638
+    second: lefthand_male_shield_th_l_7
+  - first:
+      213: 21300640
+    second: lefthand_male_shield_th_t_0
+  - first:
+      213: 21300642
+    second: lefthand_male_shield_th_t_1
+  - first:
+      213: 21300644
+    second: lefthand_male_shield_th_t_2
+  - first:
+      213: 21300646
+    second: lefthand_male_shield_th_t_3
+  - first:
+      213: 21300648
+    second: lefthand_male_shield_th_t_4
+  - first:
+      213: 21300650
+    second: lefthand_male_shield_th_t_5
+  - first:
+      213: 21300652
+    second: lefthand_male_shield_th_t_6
+  - first:
+      213: 21300654
+    second: lefthand_male_shield_th_t_7
+  - first:
+      213: 21300656
+    second: lefthand_male_shield_sc_r_0
+  - first:
+      213: 21300658
+    second: lefthand_male_shield_sc_r_1
+  - first:
+      213: 21300660
+    second: lefthand_male_shield_sc_r_2
+  - first:
+      213: 21300662
+    second: lefthand_male_shield_sc_r_3
+  - first:
+      213: 21300664
+    second: lefthand_male_shield_sc_r_4
+  - first:
+      213: 21300666
+    second: lefthand_male_shield_sc_r_5
+  - first:
+      213: 21300668
+    second: lefthand_male_shield_sc_r_6
+  - first:
+      213: 21300670
+    second: lefthand_male_shield_sc_d_0
+  - first:
+      213: 21300672
+    second: lefthand_male_shield_sc_d_1
+  - first:
+      213: 21300674
+    second: lefthand_male_shield_sc_d_2
+  - first:
+      213: 21300676
+    second: lefthand_male_shield_sc_d_3
+  - first:
+      213: 21300678
+    second: lefthand_male_shield_sc_d_4
+  - first:
+      213: 21300680
+    second: lefthand_male_shield_sc_d_5
+  - first:
+      213: 21300682
+    second: lefthand_male_shield_sc_d_6
+  - first:
+      213: 21300684
+    second: lefthand_male_shield_sc_l_0
+  - first:
+      213: 21300686
+    second: lefthand_male_shield_sc_l_1
+  - first:
+      213: 21300688
+    second: lefthand_male_shield_sc_l_2
+  - first:
+      213: 21300690
+    second: lefthand_male_shield_sc_l_3
+  - first:
+      213: 21300692
+    second: lefthand_male_shield_sc_l_4
+  - first:
+      213: 21300694
+    second: lefthand_male_shield_sc_l_5
+  - first:
+      213: 21300696
+    second: lefthand_male_shield_sc_l_6
+  - first:
+      213: 21300698
+    second: lefthand_male_shield_sc_t_0
+  - first:
+      213: 21300700
+    second: lefthand_male_shield_sc_t_1
+  - first:
+      213: 21300702
+    second: lefthand_male_shield_sc_t_2
+  - first:
+      213: 21300704
+    second: lefthand_male_shield_sc_t_3
+  - first:
+      213: 21300706
+    second: lefthand_male_shield_sc_t_4
+  - first:
+      213: 21300708
+    second: lefthand_male_shield_sc_t_5
+  - first:
+      213: 21300710
+    second: lefthand_male_shield_sc_t_6
   externalObjects: {}
-  serializedVersion: 9
+  serializedVersion: 10
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -401,7 +1113,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 64
+  spritePixelsToUnits: 31
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -419,7 +1131,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 0
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -444,6 +1156,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -464,6 +1177,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -484,6 +1198,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -504,6 +1219,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -524,6 +1240,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -544,6 +1261,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -564,6 +1282,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -584,6 +1303,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -604,6 +1324,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -624,6 +1345,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -644,6 +1366,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -664,6 +1387,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -684,6 +1408,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -704,6 +1429,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -724,6 +1450,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -744,6 +1471,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -764,6 +1492,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -784,6 +1513,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -804,6 +1534,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -824,6 +1555,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -844,6 +1576,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -864,6 +1597,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -884,6 +1618,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -904,6 +1639,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -924,6 +1660,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -944,6 +1681,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -964,6 +1702,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -984,6 +1723,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1004,6 +1744,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1024,6 +1765,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1044,6 +1786,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1064,6 +1807,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1084,6 +1828,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1104,6 +1849,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1124,6 +1870,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1144,6 +1891,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1164,6 +1912,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1184,6 +1933,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1204,6 +1954,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1224,6 +1975,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1244,6 +1996,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1264,6 +2017,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1284,6 +2038,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1304,6 +2059,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1324,6 +2080,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1344,6 +2101,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1364,6 +2122,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1384,6 +2143,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1404,6 +2164,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1424,6 +2185,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1444,6 +2206,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1464,6 +2227,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1484,6 +2248,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1504,6 +2269,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1524,6 +2290,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1544,6 +2311,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1564,6 +2332,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1584,6 +2353,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1604,6 +2374,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1624,6 +2395,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1644,6 +2416,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1664,6 +2437,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1684,6 +2458,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1704,6 +2479,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1724,6 +2500,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1744,6 +2521,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1764,6 +2542,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1784,6 +2563,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1804,6 +2584,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1824,6 +2605,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1844,6 +2626,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1864,6 +2647,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1884,6 +2668,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1904,6 +2689,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1924,6 +2710,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1944,6 +2731,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1964,6 +2752,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1984,6 +2773,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2004,6 +2794,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2024,6 +2815,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2044,6 +2836,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2064,6 +2857,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2084,6 +2878,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2104,6 +2899,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2124,6 +2920,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2144,6 +2941,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2164,6 +2962,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2184,6 +2983,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2204,6 +3004,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2224,6 +3025,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2244,6 +3046,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2264,6 +3067,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2284,6 +3088,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2304,6 +3109,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2324,6 +3130,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2344,6 +3151,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2364,6 +3172,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2384,6 +3193,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2404,6 +3214,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2424,6 +3235,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2444,6 +3256,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2464,6 +3277,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2484,6 +3298,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2504,6 +3319,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2524,6 +3340,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2544,6 +3361,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2564,6 +3382,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2584,6 +3403,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2604,6 +3424,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2624,6 +3445,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2644,6 +3466,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2664,6 +3487,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2684,6 +3508,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2704,6 +3529,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2724,6 +3550,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2744,6 +3571,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2764,6 +3592,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2784,6 +3613,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2804,6 +3634,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2824,6 +3655,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2844,6 +3676,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2864,6 +3697,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2884,6 +3718,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2904,6 +3739,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2924,6 +3760,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2944,6 +3781,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2964,6 +3802,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2984,6 +3823,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3004,6 +3844,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3024,6 +3865,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3044,6 +3886,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3064,6 +3907,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3084,6 +3928,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3104,6 +3949,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3124,6 +3970,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3144,6 +3991,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3164,6 +4012,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3184,6 +4033,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3204,6 +4054,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3224,6 +4075,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3244,6 +4096,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3264,6 +4117,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3284,6 +4138,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3304,6 +4159,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3324,6 +4180,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3344,6 +4201,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3364,6 +4222,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3384,6 +4243,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3404,6 +4264,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3424,6 +4285,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3444,6 +4306,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3464,6 +4327,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3484,6 +4348,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3504,6 +4369,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3524,6 +4390,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3544,6 +4411,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3564,6 +4432,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3584,6 +4453,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3604,6 +4474,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3624,6 +4495,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3644,6 +4516,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3664,6 +4537,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3684,6 +4558,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3704,6 +4579,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3724,6 +4600,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3744,6 +4621,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3764,6 +4642,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3784,6 +4663,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3804,6 +4684,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3824,6 +4705,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3844,6 +4726,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3864,6 +4747,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3884,6 +4768,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3904,6 +4789,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3924,6 +4810,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3944,6 +4831,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3964,6 +4852,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3984,6 +4873,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3992,10 +4882,12 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
+    secondaryTextures: []
   spritePackingTag: character
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

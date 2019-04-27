@@ -8,25 +8,31 @@
 //------------------------------------------------------------------------------
 public partial class GameEntity {
 
-    static readonly HurtComponent hurtComponent = new HurtComponent();
+    public HurtComponent hurt { get { return (HurtComponent)GetComponent(GameComponentsLookup.Hurt); } }
+    public bool hasHurt { get { return HasComponent(GameComponentsLookup.Hurt); } }
 
-    public bool isHurt {
-        get { return HasComponent(GameComponentsLookup.Hurt); }
-        set {
-            if (value != isHurt) {
-                var index = GameComponentsLookup.Hurt;
-                if (value) {
-                    var componentPool = GetComponentPool(index);
-                    var component = componentPool.Count > 0
-                            ? componentPool.Pop()
-                            : hurtComponent;
+    public void AddHurt(float newDuration, float newElapsed, System.Collections.Generic.List<CombatWeaponCollision> newWeaponCollisions, System.Collections.Generic.List<CombatProjectileCollision> newProjectileCollisions) {
+        var index = GameComponentsLookup.Hurt;
+        var component = (HurtComponent)CreateComponent(index, typeof(HurtComponent));
+        component.duration = newDuration;
+        component.elapsed = newElapsed;
+        component.weaponCollisions = newWeaponCollisions;
+        component.projectileCollisions = newProjectileCollisions;
+        AddComponent(index, component);
+    }
 
-                    AddComponent(index, component);
-                } else {
-                    RemoveComponent(index);
-                }
-            }
-        }
+    public void ReplaceHurt(float newDuration, float newElapsed, System.Collections.Generic.List<CombatWeaponCollision> newWeaponCollisions, System.Collections.Generic.List<CombatProjectileCollision> newProjectileCollisions) {
+        var index = GameComponentsLookup.Hurt;
+        var component = (HurtComponent)CreateComponent(index, typeof(HurtComponent));
+        component.duration = newDuration;
+        component.elapsed = newElapsed;
+        component.weaponCollisions = newWeaponCollisions;
+        component.projectileCollisions = newProjectileCollisions;
+        ReplaceComponent(index, component);
+    }
+
+    public void RemoveHurt() {
+        RemoveComponent(GameComponentsLookup.Hurt);
     }
 }
 

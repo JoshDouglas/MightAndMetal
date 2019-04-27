@@ -8,90 +8,123 @@
 //------------------------------------------------------------------------------
 public static class GameComponentsLookup {
 
-    public const int Acting = 0;
-    public const int ActingListener = 1;
-    public const int ActingRemovedListener = 2;
-    public const int Battle = 3;
-    public const int Blockable = 4;
-    public const int Character = 5;
-    public const int Commander = 6;
-    public const int Defeated = 7;
-    public const int DefeatedListener = 8;
-    public const int Faction = 9;
-    public const int Floor = 10;
-    public const int Hurt = 11;
-    public const int Input = 12;
-    public const int Leader = 13;
-    public const int Movable = 14;
-    public const int PhysicalBody = 15;
-    public const int PlayerControlled = 16;
-    public const int Position = 17;
-    public const int Resources = 18;
-    public const int Scale = 19;
-    public const int Skirmish = 20;
-    public const int Squad = 21;
-    public const int Velocity = 22;
-    public const int VelocityListener = 23;
-    public const int VelocityRemovedListener = 24;
-    public const int View = 25;
+    public const int Battle = 0;
+    public const int Blockable = 1;
+    public const int Character = 2;
+    public const int CombatAction = 3;
+    public const int CombatActionListener = 4;
+    public const int CombatActionRemovedListener = 5;
+    public const int Combat = 6;
+    public const int CombatEvents = 7;
+    public const int CombatListener = 8;
+    public const int CombatRemovedListener = 9;
+    public const int Commander = 10;
+    public const int Defeated = 11;
+    public const int DefeatedListener = 12;
+    public const int Equipment = 13;
+    public const int Faction = 14;
+    public const int Floor = 15;
+    public const int Hurt = 16;
+    public const int HurtListener = 17;
+    public const int HurtRemovedListener = 18;
+    public const int Input = 19;
+    public const int Invincible = 20;
+    public const int Items = 21;
+    public const int Knockback = 22;
+    public const int Leader = 23;
+    public const int Movable = 24;
+    public const int PhysicalBody = 25;
+    public const int PlayerControlled = 26;
+    public const int Position = 27;
+    public const int Resources = 28;
+    public const int Skirmish = 29;
+    public const int Squad = 30;
+    public const int Stunned = 31;
+    public const int Velocity = 32;
+    public const int VelocityListener = 33;
+    public const int View = 34;
+    public const int WeaponBody = 35;
+    public const int Weapon = 36;
 
-    public const int TotalComponents = 26;
+    public const int TotalComponents = 37;
 
     public static readonly string[] componentNames = {
-        "Acting",
-        "ActingListener",
-        "ActingRemovedListener",
         "Battle",
         "Blockable",
         "Character",
+        "CombatAction",
+        "CombatActionListener",
+        "CombatActionRemovedListener",
+        "Combat",
+        "CombatEvents",
+        "CombatListener",
+        "CombatRemovedListener",
         "Commander",
         "Defeated",
         "DefeatedListener",
+        "Equipment",
         "Faction",
         "Floor",
         "Hurt",
+        "HurtListener",
+        "HurtRemovedListener",
         "Input",
+        "Invincible",
+        "Items",
+        "Knockback",
         "Leader",
         "Movable",
         "PhysicalBody",
         "PlayerControlled",
         "Position",
         "Resources",
-        "Scale",
         "Skirmish",
         "Squad",
+        "Stunned",
         "Velocity",
         "VelocityListener",
-        "VelocityRemovedListener",
-        "View"
+        "View",
+        "WeaponBody",
+        "Weapon"
     };
 
     public static readonly System.Type[] componentTypes = {
-        typeof(ActingComponent),
-        typeof(ActingListenerComponent),
-        typeof(ActingRemovedListenerComponent),
         typeof(BattleComponent),
         typeof(BlockableComponent),
         typeof(CharacterComponent),
+        typeof(CombatActionComponent),
+        typeof(CombatActionListenerComponent),
+        typeof(CombatActionRemovedListenerComponent),
+        typeof(CombatComponent),
+        typeof(CombatEventsComponent),
+        typeof(CombatListenerComponent),
+        typeof(CombatRemovedListenerComponent),
         typeof(CommanderComponent),
         typeof(DefeatedComponent),
         typeof(DefeatedListenerComponent),
+        typeof(EquipmentComponent),
         typeof(FactionComponent),
         typeof(FloorComponent),
         typeof(HurtComponent),
+        typeof(HurtListenerComponent),
+        typeof(HurtRemovedListenerComponent),
         typeof(InputComponent),
+        typeof(InvincibleComponent),
+        typeof(ItemsComponent),
+        typeof(KnockbackComponent),
         typeof(LeaderComponent),
         typeof(MovableComponent),
         typeof(PhysicalBodyComponent),
         typeof(PlayerControlledComponent),
         typeof(PositionComponent),
         typeof(ResourcesComponent),
-        typeof(ScaleComponent),
         typeof(SkirmishComponent),
         typeof(SquadComponent),
+        typeof(StunnedComponent),
         typeof(VelocityComponent),
         typeof(VelocityListenerComponent),
-        typeof(VelocityRemovedListenerComponent),
-        typeof(ViewComponent)
+        typeof(ViewComponent),
+        typeof(WeaponBodyComponent),
+        typeof(WeaponComponent)
     };
 }

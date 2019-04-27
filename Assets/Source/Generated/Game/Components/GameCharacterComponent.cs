@@ -11,45 +11,23 @@ public partial class GameEntity {
     public CharacterComponent character { get { return (CharacterComponent)GetComponent(GameComponentsLookup.Character); } }
     public bool hasCharacter { get { return HasComponent(GameComponentsLookup.Character); } }
 
-    public void AddCharacter(string newName, int newHealth, int newMaxHealth, int newStamina, int newMaxStamina, int newPower, int newMaxPower, int newDefense, int newMaxDefense, float newSpeed, float newMaxSpeed, System.Collections.Generic.List<CombatAbility> newCombatAbilities, System.Collections.Generic.List<Equipment> newEquipment, EquipmentTemplate newEquipmentTemplate, System.Collections.Generic.List<Item> newItems) {
+    public void AddCharacter(string newName, CharacterAttributes newAttributes, int newExperience, System.Collections.Generic.List<CombatAction> newAbilities) {
         var index = GameComponentsLookup.Character;
         var component = (CharacterComponent)CreateComponent(index, typeof(CharacterComponent));
-        component.Name = newName;
-        component.Health = newHealth;
-        component.MaxHealth = newMaxHealth;
-        component.Stamina = newStamina;
-        component.MaxStamina = newMaxStamina;
-        component.Power = newPower;
-        component.MaxPower = newMaxPower;
-        component.Defense = newDefense;
-        component.MaxDefense = newMaxDefense;
-        component.Speed = newSpeed;
-        component.MaxSpeed = newMaxSpeed;
-        component.CombatAbilities = newCombatAbilities;
-        component.Equipment = newEquipment;
-        component.EquipmentTemplate = newEquipmentTemplate;
-        component.Items = newItems;
+        component.name = newName;
+        component.attributes = newAttributes;
+        component.experience = newExperience;
+        component.abilities = newAbilities;
         AddComponent(index, component);
     }
 
-    public void ReplaceCharacter(string newName, int newHealth, int newMaxHealth, int newStamina, int newMaxStamina, int newPower, int newMaxPower, int newDefense, int newMaxDefense, float newSpeed, float newMaxSpeed, System.Collections.Generic.List<CombatAbility> newCombatAbilities, System.Collections.Generic.List<Equipment> newEquipment, EquipmentTemplate newEquipmentTemplate, System.Collections.Generic.List<Item> newItems) {
+    public void ReplaceCharacter(string newName, CharacterAttributes newAttributes, int newExperience, System.Collections.Generic.List<CombatAction> newAbilities) {
         var index = GameComponentsLookup.Character;
         var component = (CharacterComponent)CreateComponent(index, typeof(CharacterComponent));
-        component.Name = newName;
-        component.Health = newHealth;
-        component.MaxHealth = newMaxHealth;
-        component.Stamina = newStamina;
-        component.MaxStamina = newMaxStamina;
-        component.Power = newPower;
-        component.MaxPower = newMaxPower;
-        component.Defense = newDefense;
-        component.MaxDefense = newMaxDefense;
-        component.Speed = newSpeed;
-        component.MaxSpeed = newMaxSpeed;
-        component.CombatAbilities = newCombatAbilities;
-        component.Equipment = newEquipment;
-        component.EquipmentTemplate = newEquipmentTemplate;
-        component.Items = newItems;
+        component.name = newName;
+        component.attributes = newAttributes;
+        component.experience = newExperience;
+        component.abilities = newAbilities;
         ReplaceComponent(index, component);
     }
 

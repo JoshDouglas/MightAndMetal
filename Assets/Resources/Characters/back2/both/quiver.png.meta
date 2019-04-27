@@ -1,460 +1,1362 @@
 fileFormatVersion: 2
 guid: 6f4c07d9382515a4fa8a0735f74aace8
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: both_quiver_hu_0
-    21300002: both_quiver_hu_1
-    21300004: both_quiver_hu_2
-    21300006: both_quiver_hu_3
-    21300008: both_quiver_hu_4
-    21300010: both_quiver_hu_5
-    21300012: both_quiver_hu_6
-    21300014: both_quiver_hu_7
-    21300016: both_quiver_hu_8
-    21300018: both_quiver_hu_9
-    21300020: both_quiver_hu_10
-    21300022: both_quiver_hu_11
-    21300024: both_quiver_hu_12
-    21300026: both_quiver_sh_r_0
-    21300028: both_quiver_sh_r_1
-    21300030: both_quiver_sh_r_2
-    21300032: both_quiver_sh_r_3
-    21300034: both_quiver_sh_r_4
-    21300036: both_quiver_sh_r_5
-    21300038: both_quiver_sh_r_6
-    21300040: both_quiver_sh_r_7
-    21300042: both_quiver_sh_r_8
-    21300044: both_quiver_sh_r_9
-    21300046: both_quiver_sh_r_10
-    21300048: both_quiver_sh_r_11
-    21300050: both_quiver_sh_r_12
-    21300052: both_quiver_sh_d_0
-    21300054: both_quiver_sh_d_1
-    21300056: both_quiver_sh_d_2
-    21300058: both_quiver_sh_d_3
-    21300060: both_quiver_sh_d_4
-    21300062: both_quiver_sh_d_5
-    21300064: both_quiver_sh_d_6
-    21300066: both_quiver_sh_d_7
-    21300068: both_quiver_sh_d_8
-    21300070: both_quiver_sh_d_9
-    21300072: both_quiver_sh_d_10
-    21300074: both_quiver_sh_d_11
-    21300076: both_quiver_sh_d_12
-    21300078: both_quiver_sh_l_0
-    21300080: both_quiver_sh_l_1
-    21300082: both_quiver_sh_l_2
-    21300084: both_quiver_sh_l_3
-    21300086: both_quiver_sh_l_4
-    21300088: both_quiver_sh_l_5
-    21300090: both_quiver_sh_l_6
-    21300092: both_quiver_sh_l_7
-    21300094: both_quiver_sh_l_8
-    21300096: both_quiver_sh_l_9
-    21300098: both_quiver_sh_l_10
-    21300100: both_quiver_sh_l_11
-    21300102: both_quiver_sh_l_12
-    21300104: both_quiver_sh_t_0
-    21300106: both_quiver_sh_t_1
-    21300108: both_quiver_sh_t_2
-    21300110: both_quiver_sh_t_3
-    21300112: both_quiver_sh_t_4
-    21300114: both_quiver_sh_t_5
-    21300116: both_quiver_sh_t_6
-    21300118: both_quiver_sh_t_7
-    21300120: both_quiver_sh_t_8
-    21300122: both_quiver_sh_t_9
-    21300124: both_quiver_sh_t_10
-    21300126: both_quiver_sh_t_11
-    21300128: both_quiver_sh_t_12
-    21300130: both_quiver_sl_r_0
-    21300132: both_quiver_sl_r_1
-    21300134: both_quiver_sl_r_2
-    21300136: both_quiver_sl_r_3
-    21300138: both_quiver_sl_r_4
-    21300140: both_quiver_sl_r_5
-    21300142: both_quiver_sl_r_6
-    21300144: both_quiver_sl_r_7
-    21300146: both_quiver_sl_r_8
-    21300148: both_quiver_sl_r_9
-    21300150: both_quiver_sl_r_10
-    21300152: both_quiver_sl_r_11
-    21300154: both_quiver_sl_r_12
-    21300156: both_quiver_sl_d_0
-    21300158: both_quiver_sl_d_1
-    21300160: both_quiver_sl_d_2
-    21300162: both_quiver_sl_d_3
-    21300164: both_quiver_sl_d_4
-    21300166: both_quiver_sl_d_5
-    21300168: both_quiver_sl_d_6
-    21300170: both_quiver_sl_d_7
-    21300172: both_quiver_sl_d_8
-    21300174: both_quiver_sl_d_9
-    21300176: both_quiver_sl_d_10
-    21300178: both_quiver_sl_d_11
-    21300180: both_quiver_sl_d_12
-    21300182: both_quiver_sl_l_0
-    21300184: both_quiver_sl_l_1
-    21300186: both_quiver_sl_l_2
-    21300188: both_quiver_sl_l_3
-    21300190: both_quiver_sl_l_4
-    21300192: both_quiver_sl_l_5
-    21300194: both_quiver_sl_l_6
-    21300196: both_quiver_sl_l_7
-    21300198: both_quiver_sl_l_8
-    21300200: both_quiver_sl_l_9
-    21300202: both_quiver_sl_l_10
-    21300204: both_quiver_sl_l_11
-    21300206: both_quiver_sl_l_12
-    21300208: both_quiver_sl_t_0
-    21300210: both_quiver_sl_t_1
-    21300212: both_quiver_sl_t_2
-    21300214: both_quiver_sl_t_3
-    21300216: both_quiver_sl_t_4
-    21300218: both_quiver_sl_t_5
-    21300220: both_quiver_sl_t_6
-    21300222: both_quiver_sl_t_7
-    21300224: both_quiver_sl_t_8
-    21300226: both_quiver_sl_t_9
-    21300228: both_quiver_sl_t_10
-    21300230: both_quiver_sl_t_11
-    21300232: both_quiver_sl_t_12
-    21300234: both_quiver_wc_r_0
-    21300236: both_quiver_wc_r_1
-    21300238: both_quiver_wc_r_2
-    21300240: both_quiver_wc_r_3
-    21300242: both_quiver_wc_r_4
-    21300244: both_quiver_wc_r_5
-    21300246: both_quiver_wc_r_6
-    21300248: both_quiver_wc_r_7
-    21300250: both_quiver_wc_r_8
-    21300252: both_quiver_wc_r_9
-    21300254: both_quiver_wc_r_10
-    21300256: both_quiver_wc_r_11
-    21300258: both_quiver_wc_r_12
-    21300260: both_quiver_wc_d_0
-    21300262: both_quiver_wc_d_1
-    21300264: both_quiver_wc_d_2
-    21300266: both_quiver_wc_d_3
-    21300268: both_quiver_wc_d_4
-    21300270: both_quiver_wc_d_5
-    21300272: both_quiver_wc_d_6
-    21300274: both_quiver_wc_d_7
-    21300276: both_quiver_wc_d_8
-    21300278: both_quiver_wc_d_9
-    21300280: both_quiver_wc_d_10
-    21300282: both_quiver_wc_d_11
-    21300284: both_quiver_wc_d_12
-    21300286: both_quiver_wc_l_0
-    21300288: both_quiver_wc_l_1
-    21300290: both_quiver_wc_l_2
-    21300292: both_quiver_wc_l_3
-    21300294: both_quiver_wc_l_4
-    21300296: both_quiver_wc_l_5
-    21300298: both_quiver_wc_l_6
-    21300300: both_quiver_wc_l_7
-    21300302: both_quiver_wc_l_8
-    21300304: both_quiver_wc_l_9
-    21300306: both_quiver_wc_l_10
-    21300308: both_quiver_wc_l_11
-    21300310: both_quiver_wc_l_12
-    21300312: both_quiver_wc_t_0
-    21300314: both_quiver_wc_t_1
-    21300316: both_quiver_wc_t_2
-    21300318: both_quiver_wc_t_3
-    21300320: both_quiver_wc_t_4
-    21300322: both_quiver_wc_t_5
-    21300324: both_quiver_wc_t_6
-    21300326: both_quiver_wc_t_7
-    21300328: both_quiver_wc_t_8
-    21300330: both_quiver_wc_t_9
-    21300332: both_quiver_wc_t_10
-    21300334: both_quiver_wc_t_11
-    21300336: both_quiver_wc_t_12
-    21300338: both_quiver_th_r_0
-    21300340: both_quiver_th_r_1
-    21300342: both_quiver_th_r_2
-    21300344: both_quiver_th_r_3
-    21300346: both_quiver_th_r_4
-    21300348: both_quiver_th_r_5
-    21300350: both_quiver_th_r_6
-    21300352: both_quiver_th_r_7
-    21300354: both_quiver_th_r_8
-    21300356: both_quiver_th_r_9
-    21300358: both_quiver_th_r_10
-    21300360: both_quiver_th_r_11
-    21300362: both_quiver_th_r_12
-    21300364: both_quiver_th_d_0
-    21300366: both_quiver_th_d_1
-    21300368: both_quiver_th_d_2
-    21300370: both_quiver_th_d_3
-    21300372: both_quiver_th_d_4
-    21300374: both_quiver_th_d_5
-    21300376: both_quiver_th_d_6
-    21300378: both_quiver_th_d_7
-    21300380: both_quiver_th_d_8
-    21300382: both_quiver_th_d_9
-    21300384: both_quiver_th_d_10
-    21300386: both_quiver_th_d_11
-    21300388: both_quiver_th_d_12
-    21300390: both_quiver_th_l_0
-    21300392: both_quiver_th_l_1
-    21300394: both_quiver_th_l_2
-    21300396: both_quiver_th_l_3
-    21300398: both_quiver_th_l_4
-    21300400: both_quiver_th_l_5
-    21300402: both_quiver_th_l_6
-    21300404: both_quiver_th_l_7
-    21300406: both_quiver_th_l_8
-    21300408: both_quiver_th_l_9
-    21300410: both_quiver_th_l_10
-    21300412: both_quiver_th_l_11
-    21300414: both_quiver_th_l_12
-    21300416: both_quiver_th_t_0
-    21300418: both_quiver_th_t_1
-    21300420: both_quiver_th_t_2
-    21300422: both_quiver_th_t_3
-    21300424: both_quiver_th_t_4
-    21300426: both_quiver_th_t_5
-    21300428: both_quiver_th_t_6
-    21300430: both_quiver_th_t_7
-    21300432: both_quiver_th_t_8
-    21300434: both_quiver_th_t_9
-    21300436: both_quiver_th_t_10
-    21300438: both_quiver_th_t_11
-    21300440: both_quiver_th_t_12
-    21300442: both_quiver_sc_r_0
-    21300444: both_quiver_sc_r_1
-    21300446: both_quiver_sc_r_2
-    21300448: both_quiver_sc_r_3
-    21300450: both_quiver_sc_r_4
-    21300452: both_quiver_sc_r_5
-    21300454: both_quiver_sc_r_6
-    21300456: both_quiver_sc_r_7
-    21300458: both_quiver_sc_r_8
-    21300460: both_quiver_sc_r_9
-    21300462: both_quiver_sc_r_10
-    21300464: both_quiver_sc_r_11
-    21300466: both_quiver_sc_r_12
-    21300468: both_quiver_sc_d_0
-    21300470: both_quiver_sc_d_1
-    21300472: both_quiver_sc_d_2
-    21300474: both_quiver_sc_d_3
-    21300476: both_quiver_sc_d_4
-    21300478: both_quiver_sc_d_5
-    21300480: both_quiver_sc_d_6
-    21300482: both_quiver_sc_d_7
-    21300484: both_quiver_sc_d_8
-    21300486: both_quiver_sc_d_9
-    21300488: both_quiver_sc_d_10
-    21300490: both_quiver_sc_d_11
-    21300492: both_quiver_sc_d_12
-    21300494: both_quiver_sc_l_0
-    21300496: both_quiver_sc_l_1
-    21300498: both_quiver_sc_l_2
-    21300500: both_quiver_sc_l_3
-    21300502: both_quiver_sc_l_4
-    21300504: both_quiver_sc_l_5
-    21300506: both_quiver_sc_l_6
-    21300508: both_quiver_sc_l_7
-    21300510: both_quiver_sc_l_8
-    21300512: both_quiver_sc_l_9
-    21300514: both_quiver_sc_l_10
-    21300516: both_quiver_sc_l_11
-    21300518: both_quiver_sc_l_12
-    21300520: both_quiver_sc_t_0
-    21300522: both_quiver_sc_t_1
-    21300524: both_quiver_sc_t_2
-    21300526: both_quiver_sc_t_3
-    21300528: both_quiver_sc_t_4
-    21300530: both_quiver_sc_t_5
-    21300532: both_quiver_sc_t_6
-    21300534: both_quiver_sc_t_7
-    21300536: both_quiver_sc_t_8
-    21300538: both_quiver_sc_t_9
-    21300540: both_quiver_sc_t_10
-    21300542: both_quiver_sc_t_11
-    21300544: both_quiver_sc_t_12
-    21300546: back2_both_quiver_hu_0
-    21300548: back2_both_quiver_hu_1
-    21300550: back2_both_quiver_hu_2
-    21300552: back2_both_quiver_hu_3
-    21300554: back2_both_quiver_hu_4
-    21300556: back2_both_quiver_hu_5
-    21300558: back2_both_quiver_sh_r_0
-    21300560: back2_both_quiver_sh_r_1
-    21300562: back2_both_quiver_sh_r_2
-    21300564: back2_both_quiver_sh_r_3
-    21300566: back2_both_quiver_sh_r_4
-    21300568: back2_both_quiver_sh_r_5
-    21300570: back2_both_quiver_sh_r_6
-    21300572: back2_both_quiver_sh_r_7
-    21300574: back2_both_quiver_sh_r_8
-    21300576: back2_both_quiver_sh_r_9
-    21300578: back2_both_quiver_sh_r_10
-    21300580: back2_both_quiver_sh_r_11
-    21300582: back2_both_quiver_sh_r_12
-    21300584: back2_both_quiver_sh_d_0
-    21300586: back2_both_quiver_sh_d_1
-    21300588: back2_both_quiver_sh_d_2
-    21300590: back2_both_quiver_sh_d_3
-    21300592: back2_both_quiver_sh_d_4
-    21300594: back2_both_quiver_sh_d_5
-    21300596: back2_both_quiver_sh_d_6
-    21300598: back2_both_quiver_sh_d_7
-    21300600: back2_both_quiver_sh_d_8
-    21300602: back2_both_quiver_sh_d_9
-    21300604: back2_both_quiver_sh_d_10
-    21300606: back2_both_quiver_sh_d_11
-    21300608: back2_both_quiver_sh_d_12
-    21300610: back2_both_quiver_sh_l_0
-    21300612: back2_both_quiver_sh_l_1
-    21300614: back2_both_quiver_sh_l_2
-    21300616: back2_both_quiver_sh_l_3
-    21300618: back2_both_quiver_sh_l_4
-    21300620: back2_both_quiver_sh_l_5
-    21300622: back2_both_quiver_sh_l_6
-    21300624: back2_both_quiver_sh_l_7
-    21300626: back2_both_quiver_sh_l_8
-    21300628: back2_both_quiver_sh_l_9
-    21300630: back2_both_quiver_sh_l_10
-    21300632: back2_both_quiver_sh_l_11
-    21300634: back2_both_quiver_sh_l_12
-    21300636: back2_both_quiver_sh_t_0
-    21300638: back2_both_quiver_sh_t_1
-    21300640: back2_both_quiver_sh_t_2
-    21300642: back2_both_quiver_sh_t_3
-    21300644: back2_both_quiver_sh_t_4
-    21300646: back2_both_quiver_sh_t_5
-    21300648: back2_both_quiver_sh_t_6
-    21300650: back2_both_quiver_sh_t_7
-    21300652: back2_both_quiver_sh_t_8
-    21300654: back2_both_quiver_sh_t_9
-    21300656: back2_both_quiver_sh_t_10
-    21300658: back2_both_quiver_sh_t_11
-    21300660: back2_both_quiver_sh_t_12
-    21300662: back2_both_quiver_sl_r_0
-    21300664: back2_both_quiver_sl_r_1
-    21300666: back2_both_quiver_sl_r_2
-    21300668: back2_both_quiver_sl_r_3
-    21300670: back2_both_quiver_sl_r_4
-    21300672: back2_both_quiver_sl_r_5
-    21300674: back2_both_quiver_sl_d_0
-    21300676: back2_both_quiver_sl_d_1
-    21300678: back2_both_quiver_sl_d_2
-    21300680: back2_both_quiver_sl_d_3
-    21300682: back2_both_quiver_sl_d_4
-    21300684: back2_both_quiver_sl_d_5
-    21300686: back2_both_quiver_sl_l_0
-    21300688: back2_both_quiver_sl_l_1
-    21300690: back2_both_quiver_sl_l_2
-    21300692: back2_both_quiver_sl_l_3
-    21300694: back2_both_quiver_sl_l_4
-    21300696: back2_both_quiver_sl_l_5
-    21300698: back2_both_quiver_sl_t_0
-    21300700: back2_both_quiver_sl_t_1
-    21300702: back2_both_quiver_sl_t_2
-    21300704: back2_both_quiver_sl_t_3
-    21300706: back2_both_quiver_sl_t_4
-    21300708: back2_both_quiver_sl_t_5
-    21300710: back2_both_quiver_wc_r_0
-    21300712: back2_both_quiver_wc_r_1
-    21300714: back2_both_quiver_wc_r_2
-    21300716: back2_both_quiver_wc_r_3
-    21300718: back2_both_quiver_wc_r_4
-    21300720: back2_both_quiver_wc_r_5
-    21300722: back2_both_quiver_wc_r_6
-    21300724: back2_both_quiver_wc_r_7
-    21300726: back2_both_quiver_wc_r_8
-    21300728: back2_both_quiver_wc_d_0
-    21300730: back2_both_quiver_wc_d_1
-    21300732: back2_both_quiver_wc_d_2
-    21300734: back2_both_quiver_wc_d_3
-    21300736: back2_both_quiver_wc_d_4
-    21300738: back2_both_quiver_wc_d_5
-    21300740: back2_both_quiver_wc_d_6
-    21300742: back2_both_quiver_wc_d_7
-    21300744: back2_both_quiver_wc_d_8
-    21300746: back2_both_quiver_wc_l_0
-    21300748: back2_both_quiver_wc_l_1
-    21300750: back2_both_quiver_wc_l_2
-    21300752: back2_both_quiver_wc_l_3
-    21300754: back2_both_quiver_wc_l_4
-    21300756: back2_both_quiver_wc_l_5
-    21300758: back2_both_quiver_wc_l_6
-    21300760: back2_both_quiver_wc_l_7
-    21300762: back2_both_quiver_wc_l_8
-    21300764: back2_both_quiver_wc_t_0
-    21300766: back2_both_quiver_wc_t_1
-    21300768: back2_both_quiver_wc_t_2
-    21300770: back2_both_quiver_wc_t_3
-    21300772: back2_both_quiver_wc_t_4
-    21300774: back2_both_quiver_wc_t_5
-    21300776: back2_both_quiver_wc_t_6
-    21300778: back2_both_quiver_wc_t_7
-    21300780: back2_both_quiver_wc_t_8
-    21300782: back2_both_quiver_th_r_0
-    21300784: back2_both_quiver_th_r_1
-    21300786: back2_both_quiver_th_r_2
-    21300788: back2_both_quiver_th_r_3
-    21300790: back2_both_quiver_th_r_4
-    21300792: back2_both_quiver_th_r_5
-    21300794: back2_both_quiver_th_r_6
-    21300796: back2_both_quiver_th_r_7
-    21300798: back2_both_quiver_th_d_0
-    21300800: back2_both_quiver_th_d_1
-    21300802: back2_both_quiver_th_d_2
-    21300804: back2_both_quiver_th_d_3
-    21300806: back2_both_quiver_th_d_4
-    21300808: back2_both_quiver_th_d_5
-    21300810: back2_both_quiver_th_d_6
-    21300812: back2_both_quiver_th_d_7
-    21300814: back2_both_quiver_th_l_0
-    21300816: back2_both_quiver_th_l_1
-    21300818: back2_both_quiver_th_l_2
-    21300820: back2_both_quiver_th_l_3
-    21300822: back2_both_quiver_th_l_4
-    21300824: back2_both_quiver_th_l_5
-    21300826: back2_both_quiver_th_l_6
-    21300828: back2_both_quiver_th_l_7
-    21300830: back2_both_quiver_th_t_0
-    21300832: back2_both_quiver_th_t_1
-    21300834: back2_both_quiver_th_t_2
-    21300836: back2_both_quiver_th_t_3
-    21300838: back2_both_quiver_th_t_4
-    21300840: back2_both_quiver_th_t_5
-    21300842: back2_both_quiver_th_t_6
-    21300844: back2_both_quiver_th_t_7
-    21300846: back2_both_quiver_sc_r_0
-    21300848: back2_both_quiver_sc_r_1
-    21300850: back2_both_quiver_sc_r_2
-    21300852: back2_both_quiver_sc_r_3
-    21300854: back2_both_quiver_sc_r_4
-    21300856: back2_both_quiver_sc_r_5
-    21300858: back2_both_quiver_sc_r_6
-    21300860: back2_both_quiver_sc_d_0
-    21300862: back2_both_quiver_sc_d_1
-    21300864: back2_both_quiver_sc_d_2
-    21300866: back2_both_quiver_sc_d_3
-    21300868: back2_both_quiver_sc_d_4
-    21300870: back2_both_quiver_sc_d_5
-    21300872: back2_both_quiver_sc_d_6
-    21300874: back2_both_quiver_sc_l_0
-    21300876: back2_both_quiver_sc_l_1
-    21300878: back2_both_quiver_sc_l_2
-    21300880: back2_both_quiver_sc_l_3
-    21300882: back2_both_quiver_sc_l_4
-    21300884: back2_both_quiver_sc_l_5
-    21300886: back2_both_quiver_sc_l_6
-    21300888: back2_both_quiver_sc_t_0
-    21300890: back2_both_quiver_sc_t_1
-    21300892: back2_both_quiver_sc_t_2
-    21300894: back2_both_quiver_sc_t_3
-    21300896: back2_both_quiver_sc_t_4
-    21300898: back2_both_quiver_sc_t_5
-    21300900: back2_both_quiver_sc_t_6
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: both_quiver_hu_0
+  - first:
+      213: 21300002
+    second: both_quiver_hu_1
+  - first:
+      213: 21300004
+    second: both_quiver_hu_2
+  - first:
+      213: 21300006
+    second: both_quiver_hu_3
+  - first:
+      213: 21300008
+    second: both_quiver_hu_4
+  - first:
+      213: 21300010
+    second: both_quiver_hu_5
+  - first:
+      213: 21300012
+    second: both_quiver_hu_6
+  - first:
+      213: 21300014
+    second: both_quiver_hu_7
+  - first:
+      213: 21300016
+    second: both_quiver_hu_8
+  - first:
+      213: 21300018
+    second: both_quiver_hu_9
+  - first:
+      213: 21300020
+    second: both_quiver_hu_10
+  - first:
+      213: 21300022
+    second: both_quiver_hu_11
+  - first:
+      213: 21300024
+    second: both_quiver_hu_12
+  - first:
+      213: 21300026
+    second: both_quiver_sh_r_0
+  - first:
+      213: 21300028
+    second: both_quiver_sh_r_1
+  - first:
+      213: 21300030
+    second: both_quiver_sh_r_2
+  - first:
+      213: 21300032
+    second: both_quiver_sh_r_3
+  - first:
+      213: 21300034
+    second: both_quiver_sh_r_4
+  - first:
+      213: 21300036
+    second: both_quiver_sh_r_5
+  - first:
+      213: 21300038
+    second: both_quiver_sh_r_6
+  - first:
+      213: 21300040
+    second: both_quiver_sh_r_7
+  - first:
+      213: 21300042
+    second: both_quiver_sh_r_8
+  - first:
+      213: 21300044
+    second: both_quiver_sh_r_9
+  - first:
+      213: 21300046
+    second: both_quiver_sh_r_10
+  - first:
+      213: 21300048
+    second: both_quiver_sh_r_11
+  - first:
+      213: 21300050
+    second: both_quiver_sh_r_12
+  - first:
+      213: 21300052
+    second: both_quiver_sh_d_0
+  - first:
+      213: 21300054
+    second: both_quiver_sh_d_1
+  - first:
+      213: 21300056
+    second: both_quiver_sh_d_2
+  - first:
+      213: 21300058
+    second: both_quiver_sh_d_3
+  - first:
+      213: 21300060
+    second: both_quiver_sh_d_4
+  - first:
+      213: 21300062
+    second: both_quiver_sh_d_5
+  - first:
+      213: 21300064
+    second: both_quiver_sh_d_6
+  - first:
+      213: 21300066
+    second: both_quiver_sh_d_7
+  - first:
+      213: 21300068
+    second: both_quiver_sh_d_8
+  - first:
+      213: 21300070
+    second: both_quiver_sh_d_9
+  - first:
+      213: 21300072
+    second: both_quiver_sh_d_10
+  - first:
+      213: 21300074
+    second: both_quiver_sh_d_11
+  - first:
+      213: 21300076
+    second: both_quiver_sh_d_12
+  - first:
+      213: 21300078
+    second: both_quiver_sh_l_0
+  - first:
+      213: 21300080
+    second: both_quiver_sh_l_1
+  - first:
+      213: 21300082
+    second: both_quiver_sh_l_2
+  - first:
+      213: 21300084
+    second: both_quiver_sh_l_3
+  - first:
+      213: 21300086
+    second: both_quiver_sh_l_4
+  - first:
+      213: 21300088
+    second: both_quiver_sh_l_5
+  - first:
+      213: 21300090
+    second: both_quiver_sh_l_6
+  - first:
+      213: 21300092
+    second: both_quiver_sh_l_7
+  - first:
+      213: 21300094
+    second: both_quiver_sh_l_8
+  - first:
+      213: 21300096
+    second: both_quiver_sh_l_9
+  - first:
+      213: 21300098
+    second: both_quiver_sh_l_10
+  - first:
+      213: 21300100
+    second: both_quiver_sh_l_11
+  - first:
+      213: 21300102
+    second: both_quiver_sh_l_12
+  - first:
+      213: 21300104
+    second: both_quiver_sh_t_0
+  - first:
+      213: 21300106
+    second: both_quiver_sh_t_1
+  - first:
+      213: 21300108
+    second: both_quiver_sh_t_2
+  - first:
+      213: 21300110
+    second: both_quiver_sh_t_3
+  - first:
+      213: 21300112
+    second: both_quiver_sh_t_4
+  - first:
+      213: 21300114
+    second: both_quiver_sh_t_5
+  - first:
+      213: 21300116
+    second: both_quiver_sh_t_6
+  - first:
+      213: 21300118
+    second: both_quiver_sh_t_7
+  - first:
+      213: 21300120
+    second: both_quiver_sh_t_8
+  - first:
+      213: 21300122
+    second: both_quiver_sh_t_9
+  - first:
+      213: 21300124
+    second: both_quiver_sh_t_10
+  - first:
+      213: 21300126
+    second: both_quiver_sh_t_11
+  - first:
+      213: 21300128
+    second: both_quiver_sh_t_12
+  - first:
+      213: 21300130
+    second: both_quiver_sl_r_0
+  - first:
+      213: 21300132
+    second: both_quiver_sl_r_1
+  - first:
+      213: 21300134
+    second: both_quiver_sl_r_2
+  - first:
+      213: 21300136
+    second: both_quiver_sl_r_3
+  - first:
+      213: 21300138
+    second: both_quiver_sl_r_4
+  - first:
+      213: 21300140
+    second: both_quiver_sl_r_5
+  - first:
+      213: 21300142
+    second: both_quiver_sl_r_6
+  - first:
+      213: 21300144
+    second: both_quiver_sl_r_7
+  - first:
+      213: 21300146
+    second: both_quiver_sl_r_8
+  - first:
+      213: 21300148
+    second: both_quiver_sl_r_9
+  - first:
+      213: 21300150
+    second: both_quiver_sl_r_10
+  - first:
+      213: 21300152
+    second: both_quiver_sl_r_11
+  - first:
+      213: 21300154
+    second: both_quiver_sl_r_12
+  - first:
+      213: 21300156
+    second: both_quiver_sl_d_0
+  - first:
+      213: 21300158
+    second: both_quiver_sl_d_1
+  - first:
+      213: 21300160
+    second: both_quiver_sl_d_2
+  - first:
+      213: 21300162
+    second: both_quiver_sl_d_3
+  - first:
+      213: 21300164
+    second: both_quiver_sl_d_4
+  - first:
+      213: 21300166
+    second: both_quiver_sl_d_5
+  - first:
+      213: 21300168
+    second: both_quiver_sl_d_6
+  - first:
+      213: 21300170
+    second: both_quiver_sl_d_7
+  - first:
+      213: 21300172
+    second: both_quiver_sl_d_8
+  - first:
+      213: 21300174
+    second: both_quiver_sl_d_9
+  - first:
+      213: 21300176
+    second: both_quiver_sl_d_10
+  - first:
+      213: 21300178
+    second: both_quiver_sl_d_11
+  - first:
+      213: 21300180
+    second: both_quiver_sl_d_12
+  - first:
+      213: 21300182
+    second: both_quiver_sl_l_0
+  - first:
+      213: 21300184
+    second: both_quiver_sl_l_1
+  - first:
+      213: 21300186
+    second: both_quiver_sl_l_2
+  - first:
+      213: 21300188
+    second: both_quiver_sl_l_3
+  - first:
+      213: 21300190
+    second: both_quiver_sl_l_4
+  - first:
+      213: 21300192
+    second: both_quiver_sl_l_5
+  - first:
+      213: 21300194
+    second: both_quiver_sl_l_6
+  - first:
+      213: 21300196
+    second: both_quiver_sl_l_7
+  - first:
+      213: 21300198
+    second: both_quiver_sl_l_8
+  - first:
+      213: 21300200
+    second: both_quiver_sl_l_9
+  - first:
+      213: 21300202
+    second: both_quiver_sl_l_10
+  - first:
+      213: 21300204
+    second: both_quiver_sl_l_11
+  - first:
+      213: 21300206
+    second: both_quiver_sl_l_12
+  - first:
+      213: 21300208
+    second: both_quiver_sl_t_0
+  - first:
+      213: 21300210
+    second: both_quiver_sl_t_1
+  - first:
+      213: 21300212
+    second: both_quiver_sl_t_2
+  - first:
+      213: 21300214
+    second: both_quiver_sl_t_3
+  - first:
+      213: 21300216
+    second: both_quiver_sl_t_4
+  - first:
+      213: 21300218
+    second: both_quiver_sl_t_5
+  - first:
+      213: 21300220
+    second: both_quiver_sl_t_6
+  - first:
+      213: 21300222
+    second: both_quiver_sl_t_7
+  - first:
+      213: 21300224
+    second: both_quiver_sl_t_8
+  - first:
+      213: 21300226
+    second: both_quiver_sl_t_9
+  - first:
+      213: 21300228
+    second: both_quiver_sl_t_10
+  - first:
+      213: 21300230
+    second: both_quiver_sl_t_11
+  - first:
+      213: 21300232
+    second: both_quiver_sl_t_12
+  - first:
+      213: 21300234
+    second: both_quiver_wc_r_0
+  - first:
+      213: 21300236
+    second: both_quiver_wc_r_1
+  - first:
+      213: 21300238
+    second: both_quiver_wc_r_2
+  - first:
+      213: 21300240
+    second: both_quiver_wc_r_3
+  - first:
+      213: 21300242
+    second: both_quiver_wc_r_4
+  - first:
+      213: 21300244
+    second: both_quiver_wc_r_5
+  - first:
+      213: 21300246
+    second: both_quiver_wc_r_6
+  - first:
+      213: 21300248
+    second: both_quiver_wc_r_7
+  - first:
+      213: 21300250
+    second: both_quiver_wc_r_8
+  - first:
+      213: 21300252
+    second: both_quiver_wc_r_9
+  - first:
+      213: 21300254
+    second: both_quiver_wc_r_10
+  - first:
+      213: 21300256
+    second: both_quiver_wc_r_11
+  - first:
+      213: 21300258
+    second: both_quiver_wc_r_12
+  - first:
+      213: 21300260
+    second: both_quiver_wc_d_0
+  - first:
+      213: 21300262
+    second: both_quiver_wc_d_1
+  - first:
+      213: 21300264
+    second: both_quiver_wc_d_2
+  - first:
+      213: 21300266
+    second: both_quiver_wc_d_3
+  - first:
+      213: 21300268
+    second: both_quiver_wc_d_4
+  - first:
+      213: 21300270
+    second: both_quiver_wc_d_5
+  - first:
+      213: 21300272
+    second: both_quiver_wc_d_6
+  - first:
+      213: 21300274
+    second: both_quiver_wc_d_7
+  - first:
+      213: 21300276
+    second: both_quiver_wc_d_8
+  - first:
+      213: 21300278
+    second: both_quiver_wc_d_9
+  - first:
+      213: 21300280
+    second: both_quiver_wc_d_10
+  - first:
+      213: 21300282
+    second: both_quiver_wc_d_11
+  - first:
+      213: 21300284
+    second: both_quiver_wc_d_12
+  - first:
+      213: 21300286
+    second: both_quiver_wc_l_0
+  - first:
+      213: 21300288
+    second: both_quiver_wc_l_1
+  - first:
+      213: 21300290
+    second: both_quiver_wc_l_2
+  - first:
+      213: 21300292
+    second: both_quiver_wc_l_3
+  - first:
+      213: 21300294
+    second: both_quiver_wc_l_4
+  - first:
+      213: 21300296
+    second: both_quiver_wc_l_5
+  - first:
+      213: 21300298
+    second: both_quiver_wc_l_6
+  - first:
+      213: 21300300
+    second: both_quiver_wc_l_7
+  - first:
+      213: 21300302
+    second: both_quiver_wc_l_8
+  - first:
+      213: 21300304
+    second: both_quiver_wc_l_9
+  - first:
+      213: 21300306
+    second: both_quiver_wc_l_10
+  - first:
+      213: 21300308
+    second: both_quiver_wc_l_11
+  - first:
+      213: 21300310
+    second: both_quiver_wc_l_12
+  - first:
+      213: 21300312
+    second: both_quiver_wc_t_0
+  - first:
+      213: 21300314
+    second: both_quiver_wc_t_1
+  - first:
+      213: 21300316
+    second: both_quiver_wc_t_2
+  - first:
+      213: 21300318
+    second: both_quiver_wc_t_3
+  - first:
+      213: 21300320
+    second: both_quiver_wc_t_4
+  - first:
+      213: 21300322
+    second: both_quiver_wc_t_5
+  - first:
+      213: 21300324
+    second: both_quiver_wc_t_6
+  - first:
+      213: 21300326
+    second: both_quiver_wc_t_7
+  - first:
+      213: 21300328
+    second: both_quiver_wc_t_8
+  - first:
+      213: 21300330
+    second: both_quiver_wc_t_9
+  - first:
+      213: 21300332
+    second: both_quiver_wc_t_10
+  - first:
+      213: 21300334
+    second: both_quiver_wc_t_11
+  - first:
+      213: 21300336
+    second: both_quiver_wc_t_12
+  - first:
+      213: 21300338
+    second: both_quiver_th_r_0
+  - first:
+      213: 21300340
+    second: both_quiver_th_r_1
+  - first:
+      213: 21300342
+    second: both_quiver_th_r_2
+  - first:
+      213: 21300344
+    second: both_quiver_th_r_3
+  - first:
+      213: 21300346
+    second: both_quiver_th_r_4
+  - first:
+      213: 21300348
+    second: both_quiver_th_r_5
+  - first:
+      213: 21300350
+    second: both_quiver_th_r_6
+  - first:
+      213: 21300352
+    second: both_quiver_th_r_7
+  - first:
+      213: 21300354
+    second: both_quiver_th_r_8
+  - first:
+      213: 21300356
+    second: both_quiver_th_r_9
+  - first:
+      213: 21300358
+    second: both_quiver_th_r_10
+  - first:
+      213: 21300360
+    second: both_quiver_th_r_11
+  - first:
+      213: 21300362
+    second: both_quiver_th_r_12
+  - first:
+      213: 21300364
+    second: both_quiver_th_d_0
+  - first:
+      213: 21300366
+    second: both_quiver_th_d_1
+  - first:
+      213: 21300368
+    second: both_quiver_th_d_2
+  - first:
+      213: 21300370
+    second: both_quiver_th_d_3
+  - first:
+      213: 21300372
+    second: both_quiver_th_d_4
+  - first:
+      213: 21300374
+    second: both_quiver_th_d_5
+  - first:
+      213: 21300376
+    second: both_quiver_th_d_6
+  - first:
+      213: 21300378
+    second: both_quiver_th_d_7
+  - first:
+      213: 21300380
+    second: both_quiver_th_d_8
+  - first:
+      213: 21300382
+    second: both_quiver_th_d_9
+  - first:
+      213: 21300384
+    second: both_quiver_th_d_10
+  - first:
+      213: 21300386
+    second: both_quiver_th_d_11
+  - first:
+      213: 21300388
+    second: both_quiver_th_d_12
+  - first:
+      213: 21300390
+    second: both_quiver_th_l_0
+  - first:
+      213: 21300392
+    second: both_quiver_th_l_1
+  - first:
+      213: 21300394
+    second: both_quiver_th_l_2
+  - first:
+      213: 21300396
+    second: both_quiver_th_l_3
+  - first:
+      213: 21300398
+    second: both_quiver_th_l_4
+  - first:
+      213: 21300400
+    second: both_quiver_th_l_5
+  - first:
+      213: 21300402
+    second: both_quiver_th_l_6
+  - first:
+      213: 21300404
+    second: both_quiver_th_l_7
+  - first:
+      213: 21300406
+    second: both_quiver_th_l_8
+  - first:
+      213: 21300408
+    second: both_quiver_th_l_9
+  - first:
+      213: 21300410
+    second: both_quiver_th_l_10
+  - first:
+      213: 21300412
+    second: both_quiver_th_l_11
+  - first:
+      213: 21300414
+    second: both_quiver_th_l_12
+  - first:
+      213: 21300416
+    second: both_quiver_th_t_0
+  - first:
+      213: 21300418
+    second: both_quiver_th_t_1
+  - first:
+      213: 21300420
+    second: both_quiver_th_t_2
+  - first:
+      213: 21300422
+    second: both_quiver_th_t_3
+  - first:
+      213: 21300424
+    second: both_quiver_th_t_4
+  - first:
+      213: 21300426
+    second: both_quiver_th_t_5
+  - first:
+      213: 21300428
+    second: both_quiver_th_t_6
+  - first:
+      213: 21300430
+    second: both_quiver_th_t_7
+  - first:
+      213: 21300432
+    second: both_quiver_th_t_8
+  - first:
+      213: 21300434
+    second: both_quiver_th_t_9
+  - first:
+      213: 21300436
+    second: both_quiver_th_t_10
+  - first:
+      213: 21300438
+    second: both_quiver_th_t_11
+  - first:
+      213: 21300440
+    second: both_quiver_th_t_12
+  - first:
+      213: 21300442
+    second: both_quiver_sc_r_0
+  - first:
+      213: 21300444
+    second: both_quiver_sc_r_1
+  - first:
+      213: 21300446
+    second: both_quiver_sc_r_2
+  - first:
+      213: 21300448
+    second: both_quiver_sc_r_3
+  - first:
+      213: 21300450
+    second: both_quiver_sc_r_4
+  - first:
+      213: 21300452
+    second: both_quiver_sc_r_5
+  - first:
+      213: 21300454
+    second: both_quiver_sc_r_6
+  - first:
+      213: 21300456
+    second: both_quiver_sc_r_7
+  - first:
+      213: 21300458
+    second: both_quiver_sc_r_8
+  - first:
+      213: 21300460
+    second: both_quiver_sc_r_9
+  - first:
+      213: 21300462
+    second: both_quiver_sc_r_10
+  - first:
+      213: 21300464
+    second: both_quiver_sc_r_11
+  - first:
+      213: 21300466
+    second: both_quiver_sc_r_12
+  - first:
+      213: 21300468
+    second: both_quiver_sc_d_0
+  - first:
+      213: 21300470
+    second: both_quiver_sc_d_1
+  - first:
+      213: 21300472
+    second: both_quiver_sc_d_2
+  - first:
+      213: 21300474
+    second: both_quiver_sc_d_3
+  - first:
+      213: 21300476
+    second: both_quiver_sc_d_4
+  - first:
+      213: 21300478
+    second: both_quiver_sc_d_5
+  - first:
+      213: 21300480
+    second: both_quiver_sc_d_6
+  - first:
+      213: 21300482
+    second: both_quiver_sc_d_7
+  - first:
+      213: 21300484
+    second: both_quiver_sc_d_8
+  - first:
+      213: 21300486
+    second: both_quiver_sc_d_9
+  - first:
+      213: 21300488
+    second: both_quiver_sc_d_10
+  - first:
+      213: 21300490
+    second: both_quiver_sc_d_11
+  - first:
+      213: 21300492
+    second: both_quiver_sc_d_12
+  - first:
+      213: 21300494
+    second: both_quiver_sc_l_0
+  - first:
+      213: 21300496
+    second: both_quiver_sc_l_1
+  - first:
+      213: 21300498
+    second: both_quiver_sc_l_2
+  - first:
+      213: 21300500
+    second: both_quiver_sc_l_3
+  - first:
+      213: 21300502
+    second: both_quiver_sc_l_4
+  - first:
+      213: 21300504
+    second: both_quiver_sc_l_5
+  - first:
+      213: 21300506
+    second: both_quiver_sc_l_6
+  - first:
+      213: 21300508
+    second: both_quiver_sc_l_7
+  - first:
+      213: 21300510
+    second: both_quiver_sc_l_8
+  - first:
+      213: 21300512
+    second: both_quiver_sc_l_9
+  - first:
+      213: 21300514
+    second: both_quiver_sc_l_10
+  - first:
+      213: 21300516
+    second: both_quiver_sc_l_11
+  - first:
+      213: 21300518
+    second: both_quiver_sc_l_12
+  - first:
+      213: 21300520
+    second: both_quiver_sc_t_0
+  - first:
+      213: 21300522
+    second: both_quiver_sc_t_1
+  - first:
+      213: 21300524
+    second: both_quiver_sc_t_2
+  - first:
+      213: 21300526
+    second: both_quiver_sc_t_3
+  - first:
+      213: 21300528
+    second: both_quiver_sc_t_4
+  - first:
+      213: 21300530
+    second: both_quiver_sc_t_5
+  - first:
+      213: 21300532
+    second: both_quiver_sc_t_6
+  - first:
+      213: 21300534
+    second: both_quiver_sc_t_7
+  - first:
+      213: 21300536
+    second: both_quiver_sc_t_8
+  - first:
+      213: 21300538
+    second: both_quiver_sc_t_9
+  - first:
+      213: 21300540
+    second: both_quiver_sc_t_10
+  - first:
+      213: 21300542
+    second: both_quiver_sc_t_11
+  - first:
+      213: 21300544
+    second: both_quiver_sc_t_12
+  - first:
+      213: 21300546
+    second: back2_both_quiver_hu_0
+  - first:
+      213: 21300548
+    second: back2_both_quiver_hu_1
+  - first:
+      213: 21300550
+    second: back2_both_quiver_hu_2
+  - first:
+      213: 21300552
+    second: back2_both_quiver_hu_3
+  - first:
+      213: 21300554
+    second: back2_both_quiver_hu_4
+  - first:
+      213: 21300556
+    second: back2_both_quiver_hu_5
+  - first:
+      213: 21300558
+    second: back2_both_quiver_sh_r_0
+  - first:
+      213: 21300560
+    second: back2_both_quiver_sh_r_1
+  - first:
+      213: 21300562
+    second: back2_both_quiver_sh_r_2
+  - first:
+      213: 21300564
+    second: back2_both_quiver_sh_r_3
+  - first:
+      213: 21300566
+    second: back2_both_quiver_sh_r_4
+  - first:
+      213: 21300568
+    second: back2_both_quiver_sh_r_5
+  - first:
+      213: 21300570
+    second: back2_both_quiver_sh_r_6
+  - first:
+      213: 21300572
+    second: back2_both_quiver_sh_r_7
+  - first:
+      213: 21300574
+    second: back2_both_quiver_sh_r_8
+  - first:
+      213: 21300576
+    second: back2_both_quiver_sh_r_9
+  - first:
+      213: 21300578
+    second: back2_both_quiver_sh_r_10
+  - first:
+      213: 21300580
+    second: back2_both_quiver_sh_r_11
+  - first:
+      213: 21300582
+    second: back2_both_quiver_sh_r_12
+  - first:
+      213: 21300584
+    second: back2_both_quiver_sh_d_0
+  - first:
+      213: 21300586
+    second: back2_both_quiver_sh_d_1
+  - first:
+      213: 21300588
+    second: back2_both_quiver_sh_d_2
+  - first:
+      213: 21300590
+    second: back2_both_quiver_sh_d_3
+  - first:
+      213: 21300592
+    second: back2_both_quiver_sh_d_4
+  - first:
+      213: 21300594
+    second: back2_both_quiver_sh_d_5
+  - first:
+      213: 21300596
+    second: back2_both_quiver_sh_d_6
+  - first:
+      213: 21300598
+    second: back2_both_quiver_sh_d_7
+  - first:
+      213: 21300600
+    second: back2_both_quiver_sh_d_8
+  - first:
+      213: 21300602
+    second: back2_both_quiver_sh_d_9
+  - first:
+      213: 21300604
+    second: back2_both_quiver_sh_d_10
+  - first:
+      213: 21300606
+    second: back2_both_quiver_sh_d_11
+  - first:
+      213: 21300608
+    second: back2_both_quiver_sh_d_12
+  - first:
+      213: 21300610
+    second: back2_both_quiver_sh_l_0
+  - first:
+      213: 21300612
+    second: back2_both_quiver_sh_l_1
+  - first:
+      213: 21300614
+    second: back2_both_quiver_sh_l_2
+  - first:
+      213: 21300616
+    second: back2_both_quiver_sh_l_3
+  - first:
+      213: 21300618
+    second: back2_both_quiver_sh_l_4
+  - first:
+      213: 21300620
+    second: back2_both_quiver_sh_l_5
+  - first:
+      213: 21300622
+    second: back2_both_quiver_sh_l_6
+  - first:
+      213: 21300624
+    second: back2_both_quiver_sh_l_7
+  - first:
+      213: 21300626
+    second: back2_both_quiver_sh_l_8
+  - first:
+      213: 21300628
+    second: back2_both_quiver_sh_l_9
+  - first:
+      213: 21300630
+    second: back2_both_quiver_sh_l_10
+  - first:
+      213: 21300632
+    second: back2_both_quiver_sh_l_11
+  - first:
+      213: 21300634
+    second: back2_both_quiver_sh_l_12
+  - first:
+      213: 21300636
+    second: back2_both_quiver_sh_t_0
+  - first:
+      213: 21300638
+    second: back2_both_quiver_sh_t_1
+  - first:
+      213: 21300640
+    second: back2_both_quiver_sh_t_2
+  - first:
+      213: 21300642
+    second: back2_both_quiver_sh_t_3
+  - first:
+      213: 21300644
+    second: back2_both_quiver_sh_t_4
+  - first:
+      213: 21300646
+    second: back2_both_quiver_sh_t_5
+  - first:
+      213: 21300648
+    second: back2_both_quiver_sh_t_6
+  - first:
+      213: 21300650
+    second: back2_both_quiver_sh_t_7
+  - first:
+      213: 21300652
+    second: back2_both_quiver_sh_t_8
+  - first:
+      213: 21300654
+    second: back2_both_quiver_sh_t_9
+  - first:
+      213: 21300656
+    second: back2_both_quiver_sh_t_10
+  - first:
+      213: 21300658
+    second: back2_both_quiver_sh_t_11
+  - first:
+      213: 21300660
+    second: back2_both_quiver_sh_t_12
+  - first:
+      213: 21300662
+    second: back2_both_quiver_sl_r_0
+  - first:
+      213: 21300664
+    second: back2_both_quiver_sl_r_1
+  - first:
+      213: 21300666
+    second: back2_both_quiver_sl_r_2
+  - first:
+      213: 21300668
+    second: back2_both_quiver_sl_r_3
+  - first:
+      213: 21300670
+    second: back2_both_quiver_sl_r_4
+  - first:
+      213: 21300672
+    second: back2_both_quiver_sl_r_5
+  - first:
+      213: 21300674
+    second: back2_both_quiver_sl_d_0
+  - first:
+      213: 21300676
+    second: back2_both_quiver_sl_d_1
+  - first:
+      213: 21300678
+    second: back2_both_quiver_sl_d_2
+  - first:
+      213: 21300680
+    second: back2_both_quiver_sl_d_3
+  - first:
+      213: 21300682
+    second: back2_both_quiver_sl_d_4
+  - first:
+      213: 21300684
+    second: back2_both_quiver_sl_d_5
+  - first:
+      213: 21300686
+    second: back2_both_quiver_sl_l_0
+  - first:
+      213: 21300688
+    second: back2_both_quiver_sl_l_1
+  - first:
+      213: 21300690
+    second: back2_both_quiver_sl_l_2
+  - first:
+      213: 21300692
+    second: back2_both_quiver_sl_l_3
+  - first:
+      213: 21300694
+    second: back2_both_quiver_sl_l_4
+  - first:
+      213: 21300696
+    second: back2_both_quiver_sl_l_5
+  - first:
+      213: 21300698
+    second: back2_both_quiver_sl_t_0
+  - first:
+      213: 21300700
+    second: back2_both_quiver_sl_t_1
+  - first:
+      213: 21300702
+    second: back2_both_quiver_sl_t_2
+  - first:
+      213: 21300704
+    second: back2_both_quiver_sl_t_3
+  - first:
+      213: 21300706
+    second: back2_both_quiver_sl_t_4
+  - first:
+      213: 21300708
+    second: back2_both_quiver_sl_t_5
+  - first:
+      213: 21300710
+    second: back2_both_quiver_wc_r_0
+  - first:
+      213: 21300712
+    second: back2_both_quiver_wc_r_1
+  - first:
+      213: 21300714
+    second: back2_both_quiver_wc_r_2
+  - first:
+      213: 21300716
+    second: back2_both_quiver_wc_r_3
+  - first:
+      213: 21300718
+    second: back2_both_quiver_wc_r_4
+  - first:
+      213: 21300720
+    second: back2_both_quiver_wc_r_5
+  - first:
+      213: 21300722
+    second: back2_both_quiver_wc_r_6
+  - first:
+      213: 21300724
+    second: back2_both_quiver_wc_r_7
+  - first:
+      213: 21300726
+    second: back2_both_quiver_wc_r_8
+  - first:
+      213: 21300728
+    second: back2_both_quiver_wc_d_0
+  - first:
+      213: 21300730
+    second: back2_both_quiver_wc_d_1
+  - first:
+      213: 21300732
+    second: back2_both_quiver_wc_d_2
+  - first:
+      213: 21300734
+    second: back2_both_quiver_wc_d_3
+  - first:
+      213: 21300736
+    second: back2_both_quiver_wc_d_4
+  - first:
+      213: 21300738
+    second: back2_both_quiver_wc_d_5
+  - first:
+      213: 21300740
+    second: back2_both_quiver_wc_d_6
+  - first:
+      213: 21300742
+    second: back2_both_quiver_wc_d_7
+  - first:
+      213: 21300744
+    second: back2_both_quiver_wc_d_8
+  - first:
+      213: 21300746
+    second: back2_both_quiver_wc_l_0
+  - first:
+      213: 21300748
+    second: back2_both_quiver_wc_l_1
+  - first:
+      213: 21300750
+    second: back2_both_quiver_wc_l_2
+  - first:
+      213: 21300752
+    second: back2_both_quiver_wc_l_3
+  - first:
+      213: 21300754
+    second: back2_both_quiver_wc_l_4
+  - first:
+      213: 21300756
+    second: back2_both_quiver_wc_l_5
+  - first:
+      213: 21300758
+    second: back2_both_quiver_wc_l_6
+  - first:
+      213: 21300760
+    second: back2_both_quiver_wc_l_7
+  - first:
+      213: 21300762
+    second: back2_both_quiver_wc_l_8
+  - first:
+      213: 21300764
+    second: back2_both_quiver_wc_t_0
+  - first:
+      213: 21300766
+    second: back2_both_quiver_wc_t_1
+  - first:
+      213: 21300768
+    second: back2_both_quiver_wc_t_2
+  - first:
+      213: 21300770
+    second: back2_both_quiver_wc_t_3
+  - first:
+      213: 21300772
+    second: back2_both_quiver_wc_t_4
+  - first:
+      213: 21300774
+    second: back2_both_quiver_wc_t_5
+  - first:
+      213: 21300776
+    second: back2_both_quiver_wc_t_6
+  - first:
+      213: 21300778
+    second: back2_both_quiver_wc_t_7
+  - first:
+      213: 21300780
+    second: back2_both_quiver_wc_t_8
+  - first:
+      213: 21300782
+    second: back2_both_quiver_th_r_0
+  - first:
+      213: 21300784
+    second: back2_both_quiver_th_r_1
+  - first:
+      213: 21300786
+    second: back2_both_quiver_th_r_2
+  - first:
+      213: 21300788
+    second: back2_both_quiver_th_r_3
+  - first:
+      213: 21300790
+    second: back2_both_quiver_th_r_4
+  - first:
+      213: 21300792
+    second: back2_both_quiver_th_r_5
+  - first:
+      213: 21300794
+    second: back2_both_quiver_th_r_6
+  - first:
+      213: 21300796
+    second: back2_both_quiver_th_r_7
+  - first:
+      213: 21300798
+    second: back2_both_quiver_th_d_0
+  - first:
+      213: 21300800
+    second: back2_both_quiver_th_d_1
+  - first:
+      213: 21300802
+    second: back2_both_quiver_th_d_2
+  - first:
+      213: 21300804
+    second: back2_both_quiver_th_d_3
+  - first:
+      213: 21300806
+    second: back2_both_quiver_th_d_4
+  - first:
+      213: 21300808
+    second: back2_both_quiver_th_d_5
+  - first:
+      213: 21300810
+    second: back2_both_quiver_th_d_6
+  - first:
+      213: 21300812
+    second: back2_both_quiver_th_d_7
+  - first:
+      213: 21300814
+    second: back2_both_quiver_th_l_0
+  - first:
+      213: 21300816
+    second: back2_both_quiver_th_l_1
+  - first:
+      213: 21300818
+    second: back2_both_quiver_th_l_2
+  - first:
+      213: 21300820
+    second: back2_both_quiver_th_l_3
+  - first:
+      213: 21300822
+    second: back2_both_quiver_th_l_4
+  - first:
+      213: 21300824
+    second: back2_both_quiver_th_l_5
+  - first:
+      213: 21300826
+    second: back2_both_quiver_th_l_6
+  - first:
+      213: 21300828
+    second: back2_both_quiver_th_l_7
+  - first:
+      213: 21300830
+    second: back2_both_quiver_th_t_0
+  - first:
+      213: 21300832
+    second: back2_both_quiver_th_t_1
+  - first:
+      213: 21300834
+    second: back2_both_quiver_th_t_2
+  - first:
+      213: 21300836
+    second: back2_both_quiver_th_t_3
+  - first:
+      213: 21300838
+    second: back2_both_quiver_th_t_4
+  - first:
+      213: 21300840
+    second: back2_both_quiver_th_t_5
+  - first:
+      213: 21300842
+    second: back2_both_quiver_th_t_6
+  - first:
+      213: 21300844
+    second: back2_both_quiver_th_t_7
+  - first:
+      213: 21300846
+    second: back2_both_quiver_sc_r_0
+  - first:
+      213: 21300848
+    second: back2_both_quiver_sc_r_1
+  - first:
+      213: 21300850
+    second: back2_both_quiver_sc_r_2
+  - first:
+      213: 21300852
+    second: back2_both_quiver_sc_r_3
+  - first:
+      213: 21300854
+    second: back2_both_quiver_sc_r_4
+  - first:
+      213: 21300856
+    second: back2_both_quiver_sc_r_5
+  - first:
+      213: 21300858
+    second: back2_both_quiver_sc_r_6
+  - first:
+      213: 21300860
+    second: back2_both_quiver_sc_d_0
+  - first:
+      213: 21300862
+    second: back2_both_quiver_sc_d_1
+  - first:
+      213: 21300864
+    second: back2_both_quiver_sc_d_2
+  - first:
+      213: 21300866
+    second: back2_both_quiver_sc_d_3
+  - first:
+      213: 21300868
+    second: back2_both_quiver_sc_d_4
+  - first:
+      213: 21300870
+    second: back2_both_quiver_sc_d_5
+  - first:
+      213: 21300872
+    second: back2_both_quiver_sc_d_6
+  - first:
+      213: 21300874
+    second: back2_both_quiver_sc_l_0
+  - first:
+      213: 21300876
+    second: back2_both_quiver_sc_l_1
+  - first:
+      213: 21300878
+    second: back2_both_quiver_sc_l_2
+  - first:
+      213: 21300880
+    second: back2_both_quiver_sc_l_3
+  - first:
+      213: 21300882
+    second: back2_both_quiver_sc_l_4
+  - first:
+      213: 21300884
+    second: back2_both_quiver_sc_l_5
+  - first:
+      213: 21300886
+    second: back2_both_quiver_sc_l_6
+  - first:
+      213: 21300888
+    second: back2_both_quiver_sc_t_0
+  - first:
+      213: 21300890
+    second: back2_both_quiver_sc_t_1
+  - first:
+      213: 21300892
+    second: back2_both_quiver_sc_t_2
+  - first:
+      213: 21300894
+    second: back2_both_quiver_sc_t_3
+  - first:
+      213: 21300896
+    second: back2_both_quiver_sc_t_4
+  - first:
+      213: 21300898
+    second: back2_both_quiver_sc_t_5
+  - first:
+      213: 21300900
+    second: back2_both_quiver_sc_t_6
   externalObjects: {}
-  serializedVersion: 9
+  serializedVersion: 10
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -496,7 +1398,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 64
+  spritePixelsToUnits: 31
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -514,7 +1416,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 0
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -539,6 +1441,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -559,6 +1462,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -579,6 +1483,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -599,6 +1504,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -619,6 +1525,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -639,6 +1546,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -659,6 +1567,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -679,6 +1588,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -699,6 +1609,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -719,6 +1630,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -739,6 +1651,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -759,6 +1672,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -779,6 +1693,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -799,6 +1714,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -819,6 +1735,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -839,6 +1756,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -859,6 +1777,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -879,6 +1798,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -899,6 +1819,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -919,6 +1840,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -939,6 +1861,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -959,6 +1882,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -979,6 +1903,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -999,6 +1924,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1019,6 +1945,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1039,6 +1966,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1059,6 +1987,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1079,6 +2008,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1099,6 +2029,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1119,6 +2050,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1139,6 +2071,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1159,6 +2092,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1179,6 +2113,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1199,6 +2134,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1219,6 +2155,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1239,6 +2176,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1259,6 +2197,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1279,6 +2218,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1299,6 +2239,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1319,6 +2260,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1339,6 +2281,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1359,6 +2302,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1379,6 +2323,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1399,6 +2344,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1419,6 +2365,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1439,6 +2386,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1459,6 +2407,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1479,6 +2428,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1499,6 +2449,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1519,6 +2470,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1539,6 +2491,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1559,6 +2512,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1579,6 +2533,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1599,6 +2554,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1619,6 +2575,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1639,6 +2596,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1659,6 +2617,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1679,6 +2638,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1699,6 +2659,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1719,6 +2680,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1739,6 +2701,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1759,6 +2722,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1779,6 +2743,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1799,6 +2764,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1819,6 +2785,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1839,6 +2806,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1859,6 +2827,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1879,6 +2848,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1899,6 +2869,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1919,6 +2890,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1939,6 +2911,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1959,6 +2932,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1979,6 +2953,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1999,6 +2974,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2019,6 +2995,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2039,6 +3016,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2059,6 +3037,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2079,6 +3058,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2099,6 +3079,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2119,6 +3100,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2139,6 +3121,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2159,6 +3142,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2179,6 +3163,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2199,6 +3184,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2219,6 +3205,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2239,6 +3226,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2259,6 +3247,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2279,6 +3268,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2299,6 +3289,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2319,6 +3310,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2339,6 +3331,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2359,6 +3352,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2379,6 +3373,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2399,6 +3394,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2419,6 +3415,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2439,6 +3436,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2459,6 +3457,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2479,6 +3478,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2499,6 +3499,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2519,6 +3520,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2539,6 +3541,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2559,6 +3562,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2579,6 +3583,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2599,6 +3604,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2619,6 +3625,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2639,6 +3646,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2659,6 +3667,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2679,6 +3688,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2699,6 +3709,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2719,6 +3730,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2739,6 +3751,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2759,6 +3772,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2779,6 +3793,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2799,6 +3814,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2819,6 +3835,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2839,6 +3856,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2859,6 +3877,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2879,6 +3898,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2899,6 +3919,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2919,6 +3940,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2939,6 +3961,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2959,6 +3982,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2979,6 +4003,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2999,6 +4024,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3019,6 +4045,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3039,6 +4066,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3059,6 +4087,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3079,6 +4108,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3099,6 +4129,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3119,6 +4150,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3139,6 +4171,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3159,6 +4192,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3179,6 +4213,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3199,6 +4234,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3219,6 +4255,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3239,6 +4276,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3259,6 +4297,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3279,6 +4318,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3299,6 +4339,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3319,6 +4360,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3339,6 +4381,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3359,6 +4402,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3379,6 +4423,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3399,6 +4444,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3419,6 +4465,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3439,6 +4486,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3459,6 +4507,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3479,6 +4528,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3499,6 +4549,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3519,6 +4570,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3539,6 +4591,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3559,6 +4612,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3579,6 +4633,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3599,6 +4654,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3619,6 +4675,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3639,6 +4696,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3659,6 +4717,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3679,6 +4738,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3699,6 +4759,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3719,6 +4780,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3739,6 +4801,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3759,6 +4822,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3779,6 +4843,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3799,6 +4864,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3819,6 +4885,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3839,6 +4906,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3859,6 +4927,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3879,6 +4948,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3899,6 +4969,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3919,6 +4990,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3939,6 +5011,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3959,6 +5032,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3979,6 +5053,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3999,6 +5074,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -4019,6 +5095,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -4039,6 +5116,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -4059,6 +5137,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -4079,6 +5158,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -4087,10 +5167,12 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: c463a6d0ce1b4bc4882b423a7f42c49f
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
+    secondaryTextures: []
   spritePackingTag: character
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

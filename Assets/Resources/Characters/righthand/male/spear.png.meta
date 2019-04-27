@@ -1,638 +1,1896 @@
 fileFormatVersion: 2
 guid: 07001f279ad1d10409396e05854672fe
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: male_spear_male_hu_0
-    21300002: male_spear_male_hu_1
-    21300004: male_spear_male_hu_2
-    21300006: male_spear_male_hu_3
-    21300008: male_spear_male_hu_4
-    21300010: male_spear_male_hu_5
-    21300012: male_spear_male_hu_6
-    21300014: male_spear_male_hu_7
-    21300016: male_spear_male_hu_8
-    21300018: male_spear_male_hu_9
-    21300020: male_spear_male_hu_10
-    21300022: male_spear_male_hu_11
-    21300024: male_spear_male_hu_12
-    21300026: male_spear_male_sh_r_0
-    21300028: male_spear_male_sh_r_1
-    21300030: male_spear_male_sh_r_2
-    21300032: male_spear_male_sh_r_3
-    21300034: male_spear_male_sh_r_4
-    21300036: male_spear_male_sh_r_5
-    21300038: male_spear_male_sh_r_6
-    21300040: male_spear_male_sh_r_7
-    21300042: male_spear_male_sh_r_8
-    21300044: male_spear_male_sh_r_9
-    21300046: male_spear_male_sh_r_10
-    21300048: male_spear_male_sh_r_11
-    21300050: male_spear_male_sh_r_12
-    21300052: male_spear_male_sh_d_0
-    21300054: male_spear_male_sh_d_1
-    21300056: male_spear_male_sh_d_2
-    21300058: male_spear_male_sh_d_3
-    21300060: male_spear_male_sh_d_4
-    21300062: male_spear_male_sh_d_5
-    21300064: male_spear_male_sh_d_6
-    21300066: male_spear_male_sh_d_7
-    21300068: male_spear_male_sh_d_8
-    21300070: male_spear_male_sh_d_9
-    21300072: male_spear_male_sh_d_10
-    21300074: male_spear_male_sh_d_11
-    21300076: male_spear_male_sh_d_12
-    21300078: male_spear_male_sh_l_0
-    21300080: male_spear_male_sh_l_1
-    21300082: male_spear_male_sh_l_2
-    21300084: male_spear_male_sh_l_3
-    21300086: male_spear_male_sh_l_4
-    21300088: male_spear_male_sh_l_5
-    21300090: male_spear_male_sh_l_6
-    21300092: male_spear_male_sh_l_7
-    21300094: male_spear_male_sh_l_8
-    21300096: male_spear_male_sh_l_9
-    21300098: male_spear_male_sh_l_10
-    21300100: male_spear_male_sh_l_11
-    21300102: male_spear_male_sh_l_12
-    21300104: male_spear_male_sh_t_0
-    21300106: male_spear_male_sh_t_1
-    21300108: male_spear_male_sh_t_2
-    21300110: male_spear_male_sh_t_3
-    21300112: male_spear_male_sh_t_4
-    21300114: male_spear_male_sh_t_5
-    21300116: male_spear_male_sh_t_6
-    21300118: male_spear_male_sh_t_7
-    21300120: male_spear_male_sh_t_8
-    21300122: male_spear_male_sh_t_9
-    21300124: male_spear_male_sh_t_10
-    21300126: male_spear_male_sh_t_11
-    21300128: male_spear_male_sh_t_12
-    21300130: male_spear_male_sl_r_0
-    21300132: male_spear_male_sl_r_1
-    21300134: male_spear_male_sl_r_2
-    21300136: male_spear_male_sl_r_3
-    21300138: male_spear_male_sl_r_4
-    21300140: male_spear_male_sl_r_5
-    21300142: male_spear_male_sl_r_6
-    21300144: male_spear_male_sl_r_7
-    21300146: male_spear_male_sl_r_8
-    21300148: male_spear_male_sl_r_9
-    21300150: male_spear_male_sl_r_10
-    21300152: male_spear_male_sl_r_11
-    21300154: male_spear_male_sl_r_12
-    21300156: male_spear_male_sl_d_0
-    21300158: male_spear_male_sl_d_1
-    21300160: male_spear_male_sl_d_2
-    21300162: male_spear_male_sl_d_3
-    21300164: male_spear_male_sl_d_4
-    21300166: male_spear_male_sl_d_5
-    21300168: male_spear_male_sl_d_6
-    21300170: male_spear_male_sl_d_7
-    21300172: male_spear_male_sl_d_8
-    21300174: male_spear_male_sl_d_9
-    21300176: male_spear_male_sl_d_10
-    21300178: male_spear_male_sl_d_11
-    21300180: male_spear_male_sl_d_12
-    21300182: male_spear_male_sl_l_0
-    21300184: male_spear_male_sl_l_1
-    21300186: male_spear_male_sl_l_2
-    21300188: male_spear_male_sl_l_3
-    21300190: male_spear_male_sl_l_4
-    21300192: male_spear_male_sl_l_5
-    21300194: male_spear_male_sl_l_6
-    21300196: male_spear_male_sl_l_7
-    21300198: male_spear_male_sl_l_8
-    21300200: male_spear_male_sl_l_9
-    21300202: male_spear_male_sl_l_10
-    21300204: male_spear_male_sl_l_11
-    21300206: male_spear_male_sl_l_12
-    21300208: male_spear_male_sl_t_0
-    21300210: male_spear_male_sl_t_1
-    21300212: male_spear_male_sl_t_2
-    21300214: male_spear_male_sl_t_3
-    21300216: male_spear_male_sl_t_4
-    21300218: male_spear_male_sl_t_5
-    21300220: male_spear_male_sl_t_6
-    21300222: male_spear_male_sl_t_7
-    21300224: male_spear_male_sl_t_8
-    21300226: male_spear_male_sl_t_9
-    21300228: male_spear_male_sl_t_10
-    21300230: male_spear_male_sl_t_11
-    21300232: male_spear_male_sl_t_12
-    21300234: male_spear_male_wc_r_0
-    21300236: male_spear_male_wc_r_1
-    21300238: male_spear_male_wc_r_2
-    21300240: male_spear_male_wc_r_3
-    21300242: male_spear_male_wc_r_4
-    21300244: male_spear_male_wc_r_5
-    21300246: male_spear_male_wc_r_6
-    21300248: male_spear_male_wc_r_7
-    21300250: male_spear_male_wc_r_8
-    21300252: male_spear_male_wc_r_9
-    21300254: male_spear_male_wc_r_10
-    21300256: male_spear_male_wc_r_11
-    21300258: male_spear_male_wc_r_12
-    21300260: male_spear_male_wc_d_0
-    21300262: male_spear_male_wc_d_1
-    21300264: male_spear_male_wc_d_2
-    21300266: male_spear_male_wc_d_3
-    21300268: male_spear_male_wc_d_4
-    21300270: male_spear_male_wc_d_5
-    21300272: male_spear_male_wc_d_6
-    21300274: male_spear_male_wc_d_7
-    21300276: male_spear_male_wc_d_8
-    21300278: male_spear_male_wc_d_9
-    21300280: male_spear_male_wc_d_10
-    21300282: male_spear_male_wc_d_11
-    21300284: male_spear_male_wc_d_12
-    21300286: male_spear_male_wc_l_0
-    21300288: male_spear_male_wc_l_1
-    21300290: male_spear_male_wc_l_2
-    21300292: male_spear_male_wc_l_3
-    21300294: male_spear_male_wc_l_4
-    21300296: male_spear_male_wc_l_5
-    21300298: male_spear_male_wc_l_6
-    21300300: male_spear_male_wc_l_7
-    21300302: male_spear_male_wc_l_8
-    21300304: male_spear_male_wc_l_9
-    21300306: male_spear_male_wc_l_10
-    21300308: male_spear_male_wc_l_11
-    21300310: male_spear_male_wc_l_12
-    21300312: male_spear_male_wc_t_0
-    21300314: male_spear_male_wc_t_1
-    21300316: male_spear_male_wc_t_2
-    21300318: male_spear_male_wc_t_3
-    21300320: male_spear_male_wc_t_4
-    21300322: male_spear_male_wc_t_5
-    21300324: male_spear_male_wc_t_6
-    21300326: male_spear_male_wc_t_7
-    21300328: male_spear_male_wc_t_8
-    21300330: male_spear_male_wc_t_9
-    21300332: male_spear_male_wc_t_10
-    21300334: male_spear_male_wc_t_11
-    21300336: male_spear_male_wc_t_12
-    21300338: male_spear_male_th_r_0
-    21300340: male_spear_male_th_r_1
-    21300342: male_spear_male_th_r_2
-    21300344: male_spear_male_th_r_3
-    21300346: male_spear_male_th_r_4
-    21300348: male_spear_male_th_r_5
-    21300350: male_spear_male_th_r_6
-    21300352: male_spear_male_th_r_7
-    21300354: male_spear_male_th_r_8
-    21300356: male_spear_male_th_r_9
-    21300358: male_spear_male_th_r_10
-    21300360: male_spear_male_th_r_11
-    21300362: male_spear_male_th_r_12
-    21300364: male_spear_male_th_d_0
-    21300366: male_spear_male_th_d_1
-    21300368: male_spear_male_th_d_2
-    21300370: male_spear_male_th_d_3
-    21300372: male_spear_male_th_d_4
-    21300374: male_spear_male_th_d_5
-    21300376: male_spear_male_th_d_6
-    21300378: male_spear_male_th_d_7
-    21300380: male_spear_male_th_d_8
-    21300382: male_spear_male_th_d_9
-    21300384: male_spear_male_th_d_10
-    21300386: male_spear_male_th_d_11
-    21300388: male_spear_male_th_d_12
-    21300390: male_spear_male_th_l_0
-    21300392: male_spear_male_th_l_1
-    21300394: male_spear_male_th_l_2
-    21300396: male_spear_male_th_l_3
-    21300398: male_spear_male_th_l_4
-    21300400: male_spear_male_th_l_5
-    21300402: male_spear_male_th_l_6
-    21300404: male_spear_male_th_l_7
-    21300406: male_spear_male_th_l_8
-    21300408: male_spear_male_th_l_9
-    21300410: male_spear_male_th_l_10
-    21300412: male_spear_male_th_l_11
-    21300414: male_spear_male_th_l_12
-    21300416: male_spear_male_th_t_0
-    21300418: male_spear_male_th_t_1
-    21300420: male_spear_male_th_t_2
-    21300422: male_spear_male_th_t_3
-    21300424: male_spear_male_th_t_4
-    21300426: male_spear_male_th_t_5
-    21300428: male_spear_male_th_t_6
-    21300430: male_spear_male_th_t_7
-    21300432: male_spear_male_th_t_8
-    21300434: male_spear_male_th_t_9
-    21300436: male_spear_male_th_t_10
-    21300438: male_spear_male_th_t_11
-    21300440: male_spear_male_th_t_12
-    21300442: male_spear_male_sc_r_0
-    21300444: male_spear_male_sc_r_1
-    21300446: male_spear_male_sc_r_2
-    21300448: male_spear_male_sc_r_3
-    21300450: male_spear_male_sc_r_4
-    21300452: male_spear_male_sc_r_5
-    21300454: male_spear_male_sc_r_6
-    21300456: male_spear_male_sc_r_7
-    21300458: male_spear_male_sc_r_8
-    21300460: male_spear_male_sc_r_9
-    21300462: male_spear_male_sc_r_10
-    21300464: male_spear_male_sc_r_11
-    21300466: male_spear_male_sc_r_12
-    21300468: male_spear_male_sc_d_0
-    21300470: male_spear_male_sc_d_1
-    21300472: male_spear_male_sc_d_2
-    21300474: male_spear_male_sc_d_3
-    21300476: male_spear_male_sc_d_4
-    21300478: male_spear_male_sc_d_5
-    21300480: male_spear_male_sc_d_6
-    21300482: male_spear_male_sc_d_7
-    21300484: male_spear_male_sc_d_8
-    21300486: male_spear_male_sc_d_9
-    21300488: male_spear_male_sc_d_10
-    21300490: male_spear_male_sc_d_11
-    21300492: male_spear_male_sc_d_12
-    21300494: male_spear_male_sc_l_0
-    21300496: male_spear_male_sc_l_1
-    21300498: male_spear_male_sc_l_2
-    21300500: male_spear_male_sc_l_3
-    21300502: male_spear_male_sc_l_4
-    21300504: male_spear_male_sc_l_5
-    21300506: male_spear_male_sc_l_6
-    21300508: male_spear_male_sc_l_7
-    21300510: male_spear_male_sc_l_8
-    21300512: male_spear_male_sc_l_9
-    21300514: male_spear_male_sc_l_10
-    21300516: male_spear_male_sc_l_11
-    21300518: male_spear_male_sc_l_12
-    21300520: male_spear_male_sc_t_0
-    21300522: male_spear_male_sc_t_1
-    21300524: male_spear_male_sc_t_2
-    21300526: male_spear_male_sc_t_3
-    21300528: male_spear_male_sc_t_4
-    21300530: male_spear_male_sc_t_5
-    21300532: male_spear_male_sc_t_6
-    21300534: male_spear_male_sc_t_7
-    21300536: male_spear_male_sc_t_8
-    21300538: male_spear_male_sc_t_9
-    21300540: male_spear_male_sc_t_10
-    21300542: male_spear_male_sc_t_11
-    21300544: male_spear_male_sc_t_12
-    21300546: righthand_male_spear_male_hu_0
-    21300548: righthand_male_spear_male_hu_1
-    21300550: righthand_male_spear_male_hu_2
-    21300552: righthand_male_spear_male_hu_3
-    21300554: righthand_male_spear_male_hu_4
-    21300556: righthand_male_spear_male_hu_5
-    21300558: righthand_male_spear_male_sh_r_0
-    21300560: righthand_male_spear_male_sh_r_1
-    21300562: righthand_male_spear_male_sh_r_2
-    21300564: righthand_male_spear_male_sh_r_3
-    21300566: righthand_male_spear_male_sh_r_4
-    21300568: righthand_male_spear_male_sh_r_5
-    21300570: righthand_male_spear_male_sh_r_6
-    21300572: righthand_male_spear_male_sh_r_7
-    21300574: righthand_male_spear_male_sh_r_8
-    21300576: righthand_male_spear_male_sh_r_9
-    21300578: righthand_male_spear_male_sh_r_10
-    21300580: righthand_male_spear_male_sh_r_11
-    21300582: righthand_male_spear_male_sh_r_12
-    21300584: righthand_male_spear_male_sh_d_0
-    21300586: righthand_male_spear_male_sh_d_1
-    21300588: righthand_male_spear_male_sh_d_2
-    21300590: righthand_male_spear_male_sh_d_3
-    21300592: righthand_male_spear_male_sh_d_4
-    21300594: righthand_male_spear_male_sh_d_5
-    21300596: righthand_male_spear_male_sh_d_6
-    21300598: righthand_male_spear_male_sh_d_7
-    21300600: righthand_male_spear_male_sh_d_8
-    21300602: righthand_male_spear_male_sh_d_9
-    21300604: righthand_male_spear_male_sh_d_10
-    21300606: righthand_male_spear_male_sh_d_11
-    21300608: righthand_male_spear_male_sh_d_12
-    21300610: righthand_male_spear_male_sh_l_0
-    21300612: righthand_male_spear_male_sh_l_1
-    21300614: righthand_male_spear_male_sh_l_2
-    21300616: righthand_male_spear_male_sh_l_3
-    21300618: righthand_male_spear_male_sh_l_4
-    21300620: righthand_male_spear_male_sh_l_5
-    21300622: righthand_male_spear_male_sh_l_6
-    21300624: righthand_male_spear_male_sh_l_7
-    21300626: righthand_male_spear_male_sh_l_8
-    21300628: righthand_male_spear_male_sh_l_9
-    21300630: righthand_male_spear_male_sh_l_10
-    21300632: righthand_male_spear_male_sh_l_11
-    21300634: righthand_male_spear_male_sh_l_12
-    21300636: righthand_male_spear_male_sh_t_0
-    21300638: righthand_male_spear_male_sh_t_1
-    21300640: righthand_male_spear_male_sh_t_2
-    21300642: righthand_male_spear_male_sh_t_3
-    21300644: righthand_male_spear_male_sh_t_4
-    21300646: righthand_male_spear_male_sh_t_5
-    21300648: righthand_male_spear_male_sh_t_6
-    21300650: righthand_male_spear_male_sh_t_7
-    21300652: righthand_male_spear_male_sh_t_8
-    21300654: righthand_male_spear_male_sh_t_9
-    21300656: righthand_male_spear_male_sh_t_10
-    21300658: righthand_male_spear_male_sh_t_11
-    21300660: righthand_male_spear_male_sh_t_12
-    21300662: righthand_male_spear_male_sl_r_0
-    21300664: righthand_male_spear_male_sl_r_1
-    21300666: righthand_male_spear_male_sl_r_2
-    21300668: righthand_male_spear_male_sl_r_3
-    21300670: righthand_male_spear_male_sl_r_4
-    21300672: righthand_male_spear_male_sl_r_5
-    21300674: righthand_male_spear_male_sl_d_0
-    21300676: righthand_male_spear_male_sl_d_1
-    21300678: righthand_male_spear_male_sl_d_2
-    21300680: righthand_male_spear_male_sl_d_3
-    21300682: righthand_male_spear_male_sl_d_4
-    21300684: righthand_male_spear_male_sl_d_5
-    21300686: righthand_male_spear_male_sl_l_0
-    21300688: righthand_male_spear_male_sl_l_1
-    21300690: righthand_male_spear_male_sl_l_2
-    21300692: righthand_male_spear_male_sl_l_3
-    21300694: righthand_male_spear_male_sl_l_4
-    21300696: righthand_male_spear_male_sl_l_5
-    21300698: righthand_male_spear_male_sl_t_0
-    21300700: righthand_male_spear_male_sl_t_1
-    21300702: righthand_male_spear_male_sl_t_2
-    21300704: righthand_male_spear_male_sl_t_3
-    21300706: righthand_male_spear_male_sl_t_4
-    21300708: righthand_male_spear_male_sl_t_5
-    21300710: righthand_male_spear_male_wc_r_0
-    21300712: righthand_male_spear_male_wc_r_1
-    21300714: righthand_male_spear_male_wc_r_2
-    21300716: righthand_male_spear_male_wc_r_3
-    21300718: righthand_male_spear_male_wc_r_4
-    21300720: righthand_male_spear_male_wc_r_5
-    21300722: righthand_male_spear_male_wc_r_6
-    21300724: righthand_male_spear_male_wc_r_7
-    21300726: righthand_male_spear_male_wc_r_8
-    21300728: righthand_male_spear_male_wc_d_0
-    21300730: righthand_male_spear_male_wc_d_1
-    21300732: righthand_male_spear_male_wc_d_2
-    21300734: righthand_male_spear_male_wc_d_3
-    21300736: righthand_male_spear_male_wc_d_4
-    21300738: righthand_male_spear_male_wc_d_5
-    21300740: righthand_male_spear_male_wc_d_6
-    21300742: righthand_male_spear_male_wc_d_7
-    21300744: righthand_male_spear_male_wc_d_8
-    21300746: righthand_male_spear_male_wc_l_0
-    21300748: righthand_male_spear_male_wc_l_1
-    21300750: righthand_male_spear_male_wc_l_2
-    21300752: righthand_male_spear_male_wc_l_3
-    21300754: righthand_male_spear_male_wc_l_4
-    21300756: righthand_male_spear_male_wc_l_5
-    21300758: righthand_male_spear_male_wc_l_6
-    21300760: righthand_male_spear_male_wc_l_7
-    21300762: righthand_male_spear_male_wc_l_8
-    21300764: righthand_male_spear_male_wc_t_0
-    21300766: righthand_male_spear_male_wc_t_1
-    21300768: righthand_male_spear_male_wc_t_2
-    21300770: righthand_male_spear_male_wc_t_3
-    21300772: righthand_male_spear_male_wc_t_4
-    21300774: righthand_male_spear_male_wc_t_5
-    21300776: righthand_male_spear_male_wc_t_6
-    21300778: righthand_male_spear_male_wc_t_7
-    21300780: righthand_male_spear_male_wc_t_8
-    21300782: righthand_male_spear_male_th_r_0
-    21300784: righthand_male_spear_male_th_r_1
-    21300786: righthand_male_spear_male_th_r_2
-    21300788: righthand_male_spear_male_th_r_3
-    21300790: righthand_male_spear_male_th_r_4
-    21300792: righthand_male_spear_male_th_r_5
-    21300794: righthand_male_spear_male_th_r_6
-    21300796: righthand_male_spear_male_th_r_7
-    21300798: righthand_male_spear_male_th_d_0
-    21300800: righthand_male_spear_male_th_d_1
-    21300802: righthand_male_spear_male_th_d_2
-    21300804: righthand_male_spear_male_th_d_3
-    21300806: righthand_male_spear_male_th_d_4
-    21300808: righthand_male_spear_male_th_d_5
-    21300810: righthand_male_spear_male_th_d_6
-    21300812: righthand_male_spear_male_th_d_7
-    21300814: righthand_male_spear_male_th_l_0
-    21300816: righthand_male_spear_male_th_l_1
-    21300818: righthand_male_spear_male_th_l_2
-    21300820: righthand_male_spear_male_th_l_3
-    21300822: righthand_male_spear_male_th_l_4
-    21300824: righthand_male_spear_male_th_l_5
-    21300826: righthand_male_spear_male_th_l_6
-    21300828: righthand_male_spear_male_th_l_7
-    21300830: righthand_male_spear_male_th_t_0
-    21300832: righthand_male_spear_male_th_t_1
-    21300834: righthand_male_spear_male_th_t_2
-    21300836: righthand_male_spear_male_th_t_3
-    21300838: righthand_male_spear_male_th_t_4
-    21300840: righthand_male_spear_male_th_t_5
-    21300842: righthand_male_spear_male_th_t_6
-    21300844: righthand_male_spear_male_th_t_7
-    21300846: righthand_male_spear_male_sc_r_0
-    21300848: righthand_male_spear_male_sc_r_1
-    21300850: righthand_male_spear_male_sc_r_2
-    21300852: righthand_male_spear_male_sc_r_3
-    21300854: righthand_male_spear_male_sc_r_4
-    21300856: righthand_male_spear_male_sc_r_5
-    21300858: righthand_male_spear_male_sc_r_6
-    21300860: righthand_male_spear_male_sc_d_0
-    21300862: righthand_male_spear_male_sc_d_1
-    21300864: righthand_male_spear_male_sc_d_2
-    21300866: righthand_male_spear_male_sc_d_3
-    21300868: righthand_male_spear_male_sc_d_4
-    21300870: righthand_male_spear_male_sc_d_5
-    21300872: righthand_male_spear_male_sc_d_6
-    21300874: righthand_male_spear_male_sc_l_0
-    21300876: righthand_male_spear_male_sc_l_1
-    21300878: righthand_male_spear_male_sc_l_2
-    21300880: righthand_male_spear_male_sc_l_3
-    21300882: righthand_male_spear_male_sc_l_4
-    21300884: righthand_male_spear_male_sc_l_5
-    21300886: righthand_male_spear_male_sc_l_6
-    21300888: righthand_male_spear_male_sc_t_0
-    21300890: righthand_male_spear_male_sc_t_1
-    21300892: righthand_male_spear_male_sc_t_2
-    21300894: righthand_male_spear_male_sc_t_3
-    21300896: righthand_male_spear_male_sc_t_4
-    21300898: righthand_male_spear_male_sc_t_5
-    21300900: righthand_male_spear_male_sc_t_6
-    21300902: righthand_male_spear_hu_0
-    21300904: righthand_male_spear_hu_1
-    21300906: righthand_male_spear_hu_2
-    21300908: righthand_male_spear_hu_3
-    21300910: righthand_male_spear_hu_4
-    21300912: righthand_male_spear_hu_5
-    21300914: righthand_male_spear_sh_r_0
-    21300916: righthand_male_spear_sh_r_1
-    21300918: righthand_male_spear_sh_r_2
-    21300920: righthand_male_spear_sh_r_3
-    21300922: righthand_male_spear_sh_r_4
-    21300924: righthand_male_spear_sh_r_5
-    21300926: righthand_male_spear_sh_r_6
-    21300928: righthand_male_spear_sh_r_7
-    21300930: righthand_male_spear_sh_r_8
-    21300932: righthand_male_spear_sh_r_9
-    21300934: righthand_male_spear_sh_r_10
-    21300936: righthand_male_spear_sh_r_11
-    21300938: righthand_male_spear_sh_r_12
-    21300940: righthand_male_spear_sh_d_0
-    21300942: righthand_male_spear_sh_d_1
-    21300944: righthand_male_spear_sh_d_2
-    21300946: righthand_male_spear_sh_d_3
-    21300948: righthand_male_spear_sh_d_4
-    21300950: righthand_male_spear_sh_d_5
-    21300952: righthand_male_spear_sh_d_6
-    21300954: righthand_male_spear_sh_d_7
-    21300956: righthand_male_spear_sh_d_8
-    21300958: righthand_male_spear_sh_d_9
-    21300960: righthand_male_spear_sh_d_10
-    21300962: righthand_male_spear_sh_d_11
-    21300964: righthand_male_spear_sh_d_12
-    21300966: righthand_male_spear_sh_l_0
-    21300968: righthand_male_spear_sh_l_1
-    21300970: righthand_male_spear_sh_l_2
-    21300972: righthand_male_spear_sh_l_3
-    21300974: righthand_male_spear_sh_l_4
-    21300976: righthand_male_spear_sh_l_5
-    21300978: righthand_male_spear_sh_l_6
-    21300980: righthand_male_spear_sh_l_7
-    21300982: righthand_male_spear_sh_l_8
-    21300984: righthand_male_spear_sh_l_9
-    21300986: righthand_male_spear_sh_l_10
-    21300988: righthand_male_spear_sh_l_11
-    21300990: righthand_male_spear_sh_l_12
-    21300992: righthand_male_spear_sh_t_0
-    21300994: righthand_male_spear_sh_t_1
-    21300996: righthand_male_spear_sh_t_2
-    21300998: righthand_male_spear_sh_t_3
-    21301000: righthand_male_spear_sh_t_4
-    21301002: righthand_male_spear_sh_t_5
-    21301004: righthand_male_spear_sh_t_6
-    21301006: righthand_male_spear_sh_t_7
-    21301008: righthand_male_spear_sh_t_8
-    21301010: righthand_male_spear_sh_t_9
-    21301012: righthand_male_spear_sh_t_10
-    21301014: righthand_male_spear_sh_t_11
-    21301016: righthand_male_spear_sh_t_12
-    21301018: righthand_male_spear_sl_r_0
-    21301020: righthand_male_spear_sl_r_1
-    21301022: righthand_male_spear_sl_r_2
-    21301024: righthand_male_spear_sl_r_3
-    21301026: righthand_male_spear_sl_r_4
-    21301028: righthand_male_spear_sl_r_5
-    21301030: righthand_male_spear_sl_d_0
-    21301032: righthand_male_spear_sl_d_1
-    21301034: righthand_male_spear_sl_d_2
-    21301036: righthand_male_spear_sl_d_3
-    21301038: righthand_male_spear_sl_d_4
-    21301040: righthand_male_spear_sl_d_5
-    21301042: righthand_male_spear_sl_l_0
-    21301044: righthand_male_spear_sl_l_1
-    21301046: righthand_male_spear_sl_l_2
-    21301048: righthand_male_spear_sl_l_3
-    21301050: righthand_male_spear_sl_l_4
-    21301052: righthand_male_spear_sl_l_5
-    21301054: righthand_male_spear_sl_t_0
-    21301056: righthand_male_spear_sl_t_1
-    21301058: righthand_male_spear_sl_t_2
-    21301060: righthand_male_spear_sl_t_3
-    21301062: righthand_male_spear_sl_t_4
-    21301064: righthand_male_spear_sl_t_5
-    21301066: righthand_male_spear_wc_r_0
-    21301068: righthand_male_spear_wc_r_1
-    21301070: righthand_male_spear_wc_r_2
-    21301072: righthand_male_spear_wc_r_3
-    21301074: righthand_male_spear_wc_r_4
-    21301076: righthand_male_spear_wc_r_5
-    21301078: righthand_male_spear_wc_r_6
-    21301080: righthand_male_spear_wc_r_7
-    21301082: righthand_male_spear_wc_r_8
-    21301084: righthand_male_spear_wc_d_0
-    21301086: righthand_male_spear_wc_d_1
-    21301088: righthand_male_spear_wc_d_2
-    21301090: righthand_male_spear_wc_d_3
-    21301092: righthand_male_spear_wc_d_4
-    21301094: righthand_male_spear_wc_d_5
-    21301096: righthand_male_spear_wc_d_6
-    21301098: righthand_male_spear_wc_d_7
-    21301100: righthand_male_spear_wc_d_8
-    21301102: righthand_male_spear_wc_l_0
-    21301104: righthand_male_spear_wc_l_1
-    21301106: righthand_male_spear_wc_l_2
-    21301108: righthand_male_spear_wc_l_3
-    21301110: righthand_male_spear_wc_l_4
-    21301112: righthand_male_spear_wc_l_5
-    21301114: righthand_male_spear_wc_l_6
-    21301116: righthand_male_spear_wc_l_7
-    21301118: righthand_male_spear_wc_l_8
-    21301120: righthand_male_spear_wc_t_0
-    21301122: righthand_male_spear_wc_t_1
-    21301124: righthand_male_spear_wc_t_2
-    21301126: righthand_male_spear_wc_t_3
-    21301128: righthand_male_spear_wc_t_4
-    21301130: righthand_male_spear_wc_t_5
-    21301132: righthand_male_spear_wc_t_6
-    21301134: righthand_male_spear_wc_t_7
-    21301136: righthand_male_spear_wc_t_8
-    21301138: righthand_male_spear_th_r_0
-    21301140: righthand_male_spear_th_r_1
-    21301142: righthand_male_spear_th_r_2
-    21301144: righthand_male_spear_th_r_3
-    21301146: righthand_male_spear_th_r_4
-    21301148: righthand_male_spear_th_r_5
-    21301150: righthand_male_spear_th_r_6
-    21301152: righthand_male_spear_th_r_7
-    21301154: righthand_male_spear_th_d_0
-    21301156: righthand_male_spear_th_d_1
-    21301158: righthand_male_spear_th_d_2
-    21301160: righthand_male_spear_th_d_3
-    21301162: righthand_male_spear_th_d_4
-    21301164: righthand_male_spear_th_d_5
-    21301166: righthand_male_spear_th_d_6
-    21301168: righthand_male_spear_th_d_7
-    21301170: righthand_male_spear_th_l_0
-    21301172: righthand_male_spear_th_l_1
-    21301174: righthand_male_spear_th_l_2
-    21301176: righthand_male_spear_th_l_3
-    21301178: righthand_male_spear_th_l_4
-    21301180: righthand_male_spear_th_l_5
-    21301182: righthand_male_spear_th_l_6
-    21301184: righthand_male_spear_th_l_7
-    21301186: righthand_male_spear_th_t_0
-    21301188: righthand_male_spear_th_t_1
-    21301190: righthand_male_spear_th_t_2
-    21301192: righthand_male_spear_th_t_3
-    21301194: righthand_male_spear_th_t_4
-    21301196: righthand_male_spear_th_t_5
-    21301198: righthand_male_spear_th_t_6
-    21301200: righthand_male_spear_th_t_7
-    21301202: righthand_male_spear_sc_r_0
-    21301204: righthand_male_spear_sc_r_1
-    21301206: righthand_male_spear_sc_r_2
-    21301208: righthand_male_spear_sc_r_3
-    21301210: righthand_male_spear_sc_r_4
-    21301212: righthand_male_spear_sc_r_5
-    21301214: righthand_male_spear_sc_r_6
-    21301216: righthand_male_spear_sc_d_0
-    21301218: righthand_male_spear_sc_d_1
-    21301220: righthand_male_spear_sc_d_2
-    21301222: righthand_male_spear_sc_d_3
-    21301224: righthand_male_spear_sc_d_4
-    21301226: righthand_male_spear_sc_d_5
-    21301228: righthand_male_spear_sc_d_6
-    21301230: righthand_male_spear_sc_l_0
-    21301232: righthand_male_spear_sc_l_1
-    21301234: righthand_male_spear_sc_l_2
-    21301236: righthand_male_spear_sc_l_3
-    21301238: righthand_male_spear_sc_l_4
-    21301240: righthand_male_spear_sc_l_5
-    21301242: righthand_male_spear_sc_l_6
-    21301244: righthand_male_spear_sc_t_0
-    21301246: righthand_male_spear_sc_t_1
-    21301248: righthand_male_spear_sc_t_2
-    21301250: righthand_male_spear_sc_t_3
-    21301252: righthand_male_spear_sc_t_4
-    21301254: righthand_male_spear_sc_t_5
-    21301256: righthand_male_spear_sc_t_6
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: male_spear_male_hu_0
+  - first:
+      213: 21300002
+    second: male_spear_male_hu_1
+  - first:
+      213: 21300004
+    second: male_spear_male_hu_2
+  - first:
+      213: 21300006
+    second: male_spear_male_hu_3
+  - first:
+      213: 21300008
+    second: male_spear_male_hu_4
+  - first:
+      213: 21300010
+    second: male_spear_male_hu_5
+  - first:
+      213: 21300012
+    second: male_spear_male_hu_6
+  - first:
+      213: 21300014
+    second: male_spear_male_hu_7
+  - first:
+      213: 21300016
+    second: male_spear_male_hu_8
+  - first:
+      213: 21300018
+    second: male_spear_male_hu_9
+  - first:
+      213: 21300020
+    second: male_spear_male_hu_10
+  - first:
+      213: 21300022
+    second: male_spear_male_hu_11
+  - first:
+      213: 21300024
+    second: male_spear_male_hu_12
+  - first:
+      213: 21300026
+    second: male_spear_male_sh_r_0
+  - first:
+      213: 21300028
+    second: male_spear_male_sh_r_1
+  - first:
+      213: 21300030
+    second: male_spear_male_sh_r_2
+  - first:
+      213: 21300032
+    second: male_spear_male_sh_r_3
+  - first:
+      213: 21300034
+    second: male_spear_male_sh_r_4
+  - first:
+      213: 21300036
+    second: male_spear_male_sh_r_5
+  - first:
+      213: 21300038
+    second: male_spear_male_sh_r_6
+  - first:
+      213: 21300040
+    second: male_spear_male_sh_r_7
+  - first:
+      213: 21300042
+    second: male_spear_male_sh_r_8
+  - first:
+      213: 21300044
+    second: male_spear_male_sh_r_9
+  - first:
+      213: 21300046
+    second: male_spear_male_sh_r_10
+  - first:
+      213: 21300048
+    second: male_spear_male_sh_r_11
+  - first:
+      213: 21300050
+    second: male_spear_male_sh_r_12
+  - first:
+      213: 21300052
+    second: male_spear_male_sh_d_0
+  - first:
+      213: 21300054
+    second: male_spear_male_sh_d_1
+  - first:
+      213: 21300056
+    second: male_spear_male_sh_d_2
+  - first:
+      213: 21300058
+    second: male_spear_male_sh_d_3
+  - first:
+      213: 21300060
+    second: male_spear_male_sh_d_4
+  - first:
+      213: 21300062
+    second: male_spear_male_sh_d_5
+  - first:
+      213: 21300064
+    second: male_spear_male_sh_d_6
+  - first:
+      213: 21300066
+    second: male_spear_male_sh_d_7
+  - first:
+      213: 21300068
+    second: male_spear_male_sh_d_8
+  - first:
+      213: 21300070
+    second: male_spear_male_sh_d_9
+  - first:
+      213: 21300072
+    second: male_spear_male_sh_d_10
+  - first:
+      213: 21300074
+    second: male_spear_male_sh_d_11
+  - first:
+      213: 21300076
+    second: male_spear_male_sh_d_12
+  - first:
+      213: 21300078
+    second: male_spear_male_sh_l_0
+  - first:
+      213: 21300080
+    second: male_spear_male_sh_l_1
+  - first:
+      213: 21300082
+    second: male_spear_male_sh_l_2
+  - first:
+      213: 21300084
+    second: male_spear_male_sh_l_3
+  - first:
+      213: 21300086
+    second: male_spear_male_sh_l_4
+  - first:
+      213: 21300088
+    second: male_spear_male_sh_l_5
+  - first:
+      213: 21300090
+    second: male_spear_male_sh_l_6
+  - first:
+      213: 21300092
+    second: male_spear_male_sh_l_7
+  - first:
+      213: 21300094
+    second: male_spear_male_sh_l_8
+  - first:
+      213: 21300096
+    second: male_spear_male_sh_l_9
+  - first:
+      213: 21300098
+    second: male_spear_male_sh_l_10
+  - first:
+      213: 21300100
+    second: male_spear_male_sh_l_11
+  - first:
+      213: 21300102
+    second: male_spear_male_sh_l_12
+  - first:
+      213: 21300104
+    second: male_spear_male_sh_t_0
+  - first:
+      213: 21300106
+    second: male_spear_male_sh_t_1
+  - first:
+      213: 21300108
+    second: male_spear_male_sh_t_2
+  - first:
+      213: 21300110
+    second: male_spear_male_sh_t_3
+  - first:
+      213: 21300112
+    second: male_spear_male_sh_t_4
+  - first:
+      213: 21300114
+    second: male_spear_male_sh_t_5
+  - first:
+      213: 21300116
+    second: male_spear_male_sh_t_6
+  - first:
+      213: 21300118
+    second: male_spear_male_sh_t_7
+  - first:
+      213: 21300120
+    second: male_spear_male_sh_t_8
+  - first:
+      213: 21300122
+    second: male_spear_male_sh_t_9
+  - first:
+      213: 21300124
+    second: male_spear_male_sh_t_10
+  - first:
+      213: 21300126
+    second: male_spear_male_sh_t_11
+  - first:
+      213: 21300128
+    second: male_spear_male_sh_t_12
+  - first:
+      213: 21300130
+    second: male_spear_male_sl_r_0
+  - first:
+      213: 21300132
+    second: male_spear_male_sl_r_1
+  - first:
+      213: 21300134
+    second: male_spear_male_sl_r_2
+  - first:
+      213: 21300136
+    second: male_spear_male_sl_r_3
+  - first:
+      213: 21300138
+    second: male_spear_male_sl_r_4
+  - first:
+      213: 21300140
+    second: male_spear_male_sl_r_5
+  - first:
+      213: 21300142
+    second: male_spear_male_sl_r_6
+  - first:
+      213: 21300144
+    second: male_spear_male_sl_r_7
+  - first:
+      213: 21300146
+    second: male_spear_male_sl_r_8
+  - first:
+      213: 21300148
+    second: male_spear_male_sl_r_9
+  - first:
+      213: 21300150
+    second: male_spear_male_sl_r_10
+  - first:
+      213: 21300152
+    second: male_spear_male_sl_r_11
+  - first:
+      213: 21300154
+    second: male_spear_male_sl_r_12
+  - first:
+      213: 21300156
+    second: male_spear_male_sl_d_0
+  - first:
+      213: 21300158
+    second: male_spear_male_sl_d_1
+  - first:
+      213: 21300160
+    second: male_spear_male_sl_d_2
+  - first:
+      213: 21300162
+    second: male_spear_male_sl_d_3
+  - first:
+      213: 21300164
+    second: male_spear_male_sl_d_4
+  - first:
+      213: 21300166
+    second: male_spear_male_sl_d_5
+  - first:
+      213: 21300168
+    second: male_spear_male_sl_d_6
+  - first:
+      213: 21300170
+    second: male_spear_male_sl_d_7
+  - first:
+      213: 21300172
+    second: male_spear_male_sl_d_8
+  - first:
+      213: 21300174
+    second: male_spear_male_sl_d_9
+  - first:
+      213: 21300176
+    second: male_spear_male_sl_d_10
+  - first:
+      213: 21300178
+    second: male_spear_male_sl_d_11
+  - first:
+      213: 21300180
+    second: male_spear_male_sl_d_12
+  - first:
+      213: 21300182
+    second: male_spear_male_sl_l_0
+  - first:
+      213: 21300184
+    second: male_spear_male_sl_l_1
+  - first:
+      213: 21300186
+    second: male_spear_male_sl_l_2
+  - first:
+      213: 21300188
+    second: male_spear_male_sl_l_3
+  - first:
+      213: 21300190
+    second: male_spear_male_sl_l_4
+  - first:
+      213: 21300192
+    second: male_spear_male_sl_l_5
+  - first:
+      213: 21300194
+    second: male_spear_male_sl_l_6
+  - first:
+      213: 21300196
+    second: male_spear_male_sl_l_7
+  - first:
+      213: 21300198
+    second: male_spear_male_sl_l_8
+  - first:
+      213: 21300200
+    second: male_spear_male_sl_l_9
+  - first:
+      213: 21300202
+    second: male_spear_male_sl_l_10
+  - first:
+      213: 21300204
+    second: male_spear_male_sl_l_11
+  - first:
+      213: 21300206
+    second: male_spear_male_sl_l_12
+  - first:
+      213: 21300208
+    second: male_spear_male_sl_t_0
+  - first:
+      213: 21300210
+    second: male_spear_male_sl_t_1
+  - first:
+      213: 21300212
+    second: male_spear_male_sl_t_2
+  - first:
+      213: 21300214
+    second: male_spear_male_sl_t_3
+  - first:
+      213: 21300216
+    second: male_spear_male_sl_t_4
+  - first:
+      213: 21300218
+    second: male_spear_male_sl_t_5
+  - first:
+      213: 21300220
+    second: male_spear_male_sl_t_6
+  - first:
+      213: 21300222
+    second: male_spear_male_sl_t_7
+  - first:
+      213: 21300224
+    second: male_spear_male_sl_t_8
+  - first:
+      213: 21300226
+    second: male_spear_male_sl_t_9
+  - first:
+      213: 21300228
+    second: male_spear_male_sl_t_10
+  - first:
+      213: 21300230
+    second: male_spear_male_sl_t_11
+  - first:
+      213: 21300232
+    second: male_spear_male_sl_t_12
+  - first:
+      213: 21300234
+    second: male_spear_male_wc_r_0
+  - first:
+      213: 21300236
+    second: male_spear_male_wc_r_1
+  - first:
+      213: 21300238
+    second: male_spear_male_wc_r_2
+  - first:
+      213: 21300240
+    second: male_spear_male_wc_r_3
+  - first:
+      213: 21300242
+    second: male_spear_male_wc_r_4
+  - first:
+      213: 21300244
+    second: male_spear_male_wc_r_5
+  - first:
+      213: 21300246
+    second: male_spear_male_wc_r_6
+  - first:
+      213: 21300248
+    second: male_spear_male_wc_r_7
+  - first:
+      213: 21300250
+    second: male_spear_male_wc_r_8
+  - first:
+      213: 21300252
+    second: male_spear_male_wc_r_9
+  - first:
+      213: 21300254
+    second: male_spear_male_wc_r_10
+  - first:
+      213: 21300256
+    second: male_spear_male_wc_r_11
+  - first:
+      213: 21300258
+    second: male_spear_male_wc_r_12
+  - first:
+      213: 21300260
+    second: male_spear_male_wc_d_0
+  - first:
+      213: 21300262
+    second: male_spear_male_wc_d_1
+  - first:
+      213: 21300264
+    second: male_spear_male_wc_d_2
+  - first:
+      213: 21300266
+    second: male_spear_male_wc_d_3
+  - first:
+      213: 21300268
+    second: male_spear_male_wc_d_4
+  - first:
+      213: 21300270
+    second: male_spear_male_wc_d_5
+  - first:
+      213: 21300272
+    second: male_spear_male_wc_d_6
+  - first:
+      213: 21300274
+    second: male_spear_male_wc_d_7
+  - first:
+      213: 21300276
+    second: male_spear_male_wc_d_8
+  - first:
+      213: 21300278
+    second: male_spear_male_wc_d_9
+  - first:
+      213: 21300280
+    second: male_spear_male_wc_d_10
+  - first:
+      213: 21300282
+    second: male_spear_male_wc_d_11
+  - first:
+      213: 21300284
+    second: male_spear_male_wc_d_12
+  - first:
+      213: 21300286
+    second: male_spear_male_wc_l_0
+  - first:
+      213: 21300288
+    second: male_spear_male_wc_l_1
+  - first:
+      213: 21300290
+    second: male_spear_male_wc_l_2
+  - first:
+      213: 21300292
+    second: male_spear_male_wc_l_3
+  - first:
+      213: 21300294
+    second: male_spear_male_wc_l_4
+  - first:
+      213: 21300296
+    second: male_spear_male_wc_l_5
+  - first:
+      213: 21300298
+    second: male_spear_male_wc_l_6
+  - first:
+      213: 21300300
+    second: male_spear_male_wc_l_7
+  - first:
+      213: 21300302
+    second: male_spear_male_wc_l_8
+  - first:
+      213: 21300304
+    second: male_spear_male_wc_l_9
+  - first:
+      213: 21300306
+    second: male_spear_male_wc_l_10
+  - first:
+      213: 21300308
+    second: male_spear_male_wc_l_11
+  - first:
+      213: 21300310
+    second: male_spear_male_wc_l_12
+  - first:
+      213: 21300312
+    second: male_spear_male_wc_t_0
+  - first:
+      213: 21300314
+    second: male_spear_male_wc_t_1
+  - first:
+      213: 21300316
+    second: male_spear_male_wc_t_2
+  - first:
+      213: 21300318
+    second: male_spear_male_wc_t_3
+  - first:
+      213: 21300320
+    second: male_spear_male_wc_t_4
+  - first:
+      213: 21300322
+    second: male_spear_male_wc_t_5
+  - first:
+      213: 21300324
+    second: male_spear_male_wc_t_6
+  - first:
+      213: 21300326
+    second: male_spear_male_wc_t_7
+  - first:
+      213: 21300328
+    second: male_spear_male_wc_t_8
+  - first:
+      213: 21300330
+    second: male_spear_male_wc_t_9
+  - first:
+      213: 21300332
+    second: male_spear_male_wc_t_10
+  - first:
+      213: 21300334
+    second: male_spear_male_wc_t_11
+  - first:
+      213: 21300336
+    second: male_spear_male_wc_t_12
+  - first:
+      213: 21300338
+    second: male_spear_male_th_r_0
+  - first:
+      213: 21300340
+    second: male_spear_male_th_r_1
+  - first:
+      213: 21300342
+    second: male_spear_male_th_r_2
+  - first:
+      213: 21300344
+    second: male_spear_male_th_r_3
+  - first:
+      213: 21300346
+    second: male_spear_male_th_r_4
+  - first:
+      213: 21300348
+    second: male_spear_male_th_r_5
+  - first:
+      213: 21300350
+    second: male_spear_male_th_r_6
+  - first:
+      213: 21300352
+    second: male_spear_male_th_r_7
+  - first:
+      213: 21300354
+    second: male_spear_male_th_r_8
+  - first:
+      213: 21300356
+    second: male_spear_male_th_r_9
+  - first:
+      213: 21300358
+    second: male_spear_male_th_r_10
+  - first:
+      213: 21300360
+    second: male_spear_male_th_r_11
+  - first:
+      213: 21300362
+    second: male_spear_male_th_r_12
+  - first:
+      213: 21300364
+    second: male_spear_male_th_d_0
+  - first:
+      213: 21300366
+    second: male_spear_male_th_d_1
+  - first:
+      213: 21300368
+    second: male_spear_male_th_d_2
+  - first:
+      213: 21300370
+    second: male_spear_male_th_d_3
+  - first:
+      213: 21300372
+    second: male_spear_male_th_d_4
+  - first:
+      213: 21300374
+    second: male_spear_male_th_d_5
+  - first:
+      213: 21300376
+    second: male_spear_male_th_d_6
+  - first:
+      213: 21300378
+    second: male_spear_male_th_d_7
+  - first:
+      213: 21300380
+    second: male_spear_male_th_d_8
+  - first:
+      213: 21300382
+    second: male_spear_male_th_d_9
+  - first:
+      213: 21300384
+    second: male_spear_male_th_d_10
+  - first:
+      213: 21300386
+    second: male_spear_male_th_d_11
+  - first:
+      213: 21300388
+    second: male_spear_male_th_d_12
+  - first:
+      213: 21300390
+    second: male_spear_male_th_l_0
+  - first:
+      213: 21300392
+    second: male_spear_male_th_l_1
+  - first:
+      213: 21300394
+    second: male_spear_male_th_l_2
+  - first:
+      213: 21300396
+    second: male_spear_male_th_l_3
+  - first:
+      213: 21300398
+    second: male_spear_male_th_l_4
+  - first:
+      213: 21300400
+    second: male_spear_male_th_l_5
+  - first:
+      213: 21300402
+    second: male_spear_male_th_l_6
+  - first:
+      213: 21300404
+    second: male_spear_male_th_l_7
+  - first:
+      213: 21300406
+    second: male_spear_male_th_l_8
+  - first:
+      213: 21300408
+    second: male_spear_male_th_l_9
+  - first:
+      213: 21300410
+    second: male_spear_male_th_l_10
+  - first:
+      213: 21300412
+    second: male_spear_male_th_l_11
+  - first:
+      213: 21300414
+    second: male_spear_male_th_l_12
+  - first:
+      213: 21300416
+    second: male_spear_male_th_t_0
+  - first:
+      213: 21300418
+    second: male_spear_male_th_t_1
+  - first:
+      213: 21300420
+    second: male_spear_male_th_t_2
+  - first:
+      213: 21300422
+    second: male_spear_male_th_t_3
+  - first:
+      213: 21300424
+    second: male_spear_male_th_t_4
+  - first:
+      213: 21300426
+    second: male_spear_male_th_t_5
+  - first:
+      213: 21300428
+    second: male_spear_male_th_t_6
+  - first:
+      213: 21300430
+    second: male_spear_male_th_t_7
+  - first:
+      213: 21300432
+    second: male_spear_male_th_t_8
+  - first:
+      213: 21300434
+    second: male_spear_male_th_t_9
+  - first:
+      213: 21300436
+    second: male_spear_male_th_t_10
+  - first:
+      213: 21300438
+    second: male_spear_male_th_t_11
+  - first:
+      213: 21300440
+    second: male_spear_male_th_t_12
+  - first:
+      213: 21300442
+    second: male_spear_male_sc_r_0
+  - first:
+      213: 21300444
+    second: male_spear_male_sc_r_1
+  - first:
+      213: 21300446
+    second: male_spear_male_sc_r_2
+  - first:
+      213: 21300448
+    second: male_spear_male_sc_r_3
+  - first:
+      213: 21300450
+    second: male_spear_male_sc_r_4
+  - first:
+      213: 21300452
+    second: male_spear_male_sc_r_5
+  - first:
+      213: 21300454
+    second: male_spear_male_sc_r_6
+  - first:
+      213: 21300456
+    second: male_spear_male_sc_r_7
+  - first:
+      213: 21300458
+    second: male_spear_male_sc_r_8
+  - first:
+      213: 21300460
+    second: male_spear_male_sc_r_9
+  - first:
+      213: 21300462
+    second: male_spear_male_sc_r_10
+  - first:
+      213: 21300464
+    second: male_spear_male_sc_r_11
+  - first:
+      213: 21300466
+    second: male_spear_male_sc_r_12
+  - first:
+      213: 21300468
+    second: male_spear_male_sc_d_0
+  - first:
+      213: 21300470
+    second: male_spear_male_sc_d_1
+  - first:
+      213: 21300472
+    second: male_spear_male_sc_d_2
+  - first:
+      213: 21300474
+    second: male_spear_male_sc_d_3
+  - first:
+      213: 21300476
+    second: male_spear_male_sc_d_4
+  - first:
+      213: 21300478
+    second: male_spear_male_sc_d_5
+  - first:
+      213: 21300480
+    second: male_spear_male_sc_d_6
+  - first:
+      213: 21300482
+    second: male_spear_male_sc_d_7
+  - first:
+      213: 21300484
+    second: male_spear_male_sc_d_8
+  - first:
+      213: 21300486
+    second: male_spear_male_sc_d_9
+  - first:
+      213: 21300488
+    second: male_spear_male_sc_d_10
+  - first:
+      213: 21300490
+    second: male_spear_male_sc_d_11
+  - first:
+      213: 21300492
+    second: male_spear_male_sc_d_12
+  - first:
+      213: 21300494
+    second: male_spear_male_sc_l_0
+  - first:
+      213: 21300496
+    second: male_spear_male_sc_l_1
+  - first:
+      213: 21300498
+    second: male_spear_male_sc_l_2
+  - first:
+      213: 21300500
+    second: male_spear_male_sc_l_3
+  - first:
+      213: 21300502
+    second: male_spear_male_sc_l_4
+  - first:
+      213: 21300504
+    second: male_spear_male_sc_l_5
+  - first:
+      213: 21300506
+    second: male_spear_male_sc_l_6
+  - first:
+      213: 21300508
+    second: male_spear_male_sc_l_7
+  - first:
+      213: 21300510
+    second: male_spear_male_sc_l_8
+  - first:
+      213: 21300512
+    second: male_spear_male_sc_l_9
+  - first:
+      213: 21300514
+    second: male_spear_male_sc_l_10
+  - first:
+      213: 21300516
+    second: male_spear_male_sc_l_11
+  - first:
+      213: 21300518
+    second: male_spear_male_sc_l_12
+  - first:
+      213: 21300520
+    second: male_spear_male_sc_t_0
+  - first:
+      213: 21300522
+    second: male_spear_male_sc_t_1
+  - first:
+      213: 21300524
+    second: male_spear_male_sc_t_2
+  - first:
+      213: 21300526
+    second: male_spear_male_sc_t_3
+  - first:
+      213: 21300528
+    second: male_spear_male_sc_t_4
+  - first:
+      213: 21300530
+    second: male_spear_male_sc_t_5
+  - first:
+      213: 21300532
+    second: male_spear_male_sc_t_6
+  - first:
+      213: 21300534
+    second: male_spear_male_sc_t_7
+  - first:
+      213: 21300536
+    second: male_spear_male_sc_t_8
+  - first:
+      213: 21300538
+    second: male_spear_male_sc_t_9
+  - first:
+      213: 21300540
+    second: male_spear_male_sc_t_10
+  - first:
+      213: 21300542
+    second: male_spear_male_sc_t_11
+  - first:
+      213: 21300544
+    second: male_spear_male_sc_t_12
+  - first:
+      213: 21300546
+    second: righthand_male_spear_male_hu_0
+  - first:
+      213: 21300548
+    second: righthand_male_spear_male_hu_1
+  - first:
+      213: 21300550
+    second: righthand_male_spear_male_hu_2
+  - first:
+      213: 21300552
+    second: righthand_male_spear_male_hu_3
+  - first:
+      213: 21300554
+    second: righthand_male_spear_male_hu_4
+  - first:
+      213: 21300556
+    second: righthand_male_spear_male_hu_5
+  - first:
+      213: 21300558
+    second: righthand_male_spear_male_sh_r_0
+  - first:
+      213: 21300560
+    second: righthand_male_spear_male_sh_r_1
+  - first:
+      213: 21300562
+    second: righthand_male_spear_male_sh_r_2
+  - first:
+      213: 21300564
+    second: righthand_male_spear_male_sh_r_3
+  - first:
+      213: 21300566
+    second: righthand_male_spear_male_sh_r_4
+  - first:
+      213: 21300568
+    second: righthand_male_spear_male_sh_r_5
+  - first:
+      213: 21300570
+    second: righthand_male_spear_male_sh_r_6
+  - first:
+      213: 21300572
+    second: righthand_male_spear_male_sh_r_7
+  - first:
+      213: 21300574
+    second: righthand_male_spear_male_sh_r_8
+  - first:
+      213: 21300576
+    second: righthand_male_spear_male_sh_r_9
+  - first:
+      213: 21300578
+    second: righthand_male_spear_male_sh_r_10
+  - first:
+      213: 21300580
+    second: righthand_male_spear_male_sh_r_11
+  - first:
+      213: 21300582
+    second: righthand_male_spear_male_sh_r_12
+  - first:
+      213: 21300584
+    second: righthand_male_spear_male_sh_d_0
+  - first:
+      213: 21300586
+    second: righthand_male_spear_male_sh_d_1
+  - first:
+      213: 21300588
+    second: righthand_male_spear_male_sh_d_2
+  - first:
+      213: 21300590
+    second: righthand_male_spear_male_sh_d_3
+  - first:
+      213: 21300592
+    second: righthand_male_spear_male_sh_d_4
+  - first:
+      213: 21300594
+    second: righthand_male_spear_male_sh_d_5
+  - first:
+      213: 21300596
+    second: righthand_male_spear_male_sh_d_6
+  - first:
+      213: 21300598
+    second: righthand_male_spear_male_sh_d_7
+  - first:
+      213: 21300600
+    second: righthand_male_spear_male_sh_d_8
+  - first:
+      213: 21300602
+    second: righthand_male_spear_male_sh_d_9
+  - first:
+      213: 21300604
+    second: righthand_male_spear_male_sh_d_10
+  - first:
+      213: 21300606
+    second: righthand_male_spear_male_sh_d_11
+  - first:
+      213: 21300608
+    second: righthand_male_spear_male_sh_d_12
+  - first:
+      213: 21300610
+    second: righthand_male_spear_male_sh_l_0
+  - first:
+      213: 21300612
+    second: righthand_male_spear_male_sh_l_1
+  - first:
+      213: 21300614
+    second: righthand_male_spear_male_sh_l_2
+  - first:
+      213: 21300616
+    second: righthand_male_spear_male_sh_l_3
+  - first:
+      213: 21300618
+    second: righthand_male_spear_male_sh_l_4
+  - first:
+      213: 21300620
+    second: righthand_male_spear_male_sh_l_5
+  - first:
+      213: 21300622
+    second: righthand_male_spear_male_sh_l_6
+  - first:
+      213: 21300624
+    second: righthand_male_spear_male_sh_l_7
+  - first:
+      213: 21300626
+    second: righthand_male_spear_male_sh_l_8
+  - first:
+      213: 21300628
+    second: righthand_male_spear_male_sh_l_9
+  - first:
+      213: 21300630
+    second: righthand_male_spear_male_sh_l_10
+  - first:
+      213: 21300632
+    second: righthand_male_spear_male_sh_l_11
+  - first:
+      213: 21300634
+    second: righthand_male_spear_male_sh_l_12
+  - first:
+      213: 21300636
+    second: righthand_male_spear_male_sh_t_0
+  - first:
+      213: 21300638
+    second: righthand_male_spear_male_sh_t_1
+  - first:
+      213: 21300640
+    second: righthand_male_spear_male_sh_t_2
+  - first:
+      213: 21300642
+    second: righthand_male_spear_male_sh_t_3
+  - first:
+      213: 21300644
+    second: righthand_male_spear_male_sh_t_4
+  - first:
+      213: 21300646
+    second: righthand_male_spear_male_sh_t_5
+  - first:
+      213: 21300648
+    second: righthand_male_spear_male_sh_t_6
+  - first:
+      213: 21300650
+    second: righthand_male_spear_male_sh_t_7
+  - first:
+      213: 21300652
+    second: righthand_male_spear_male_sh_t_8
+  - first:
+      213: 21300654
+    second: righthand_male_spear_male_sh_t_9
+  - first:
+      213: 21300656
+    second: righthand_male_spear_male_sh_t_10
+  - first:
+      213: 21300658
+    second: righthand_male_spear_male_sh_t_11
+  - first:
+      213: 21300660
+    second: righthand_male_spear_male_sh_t_12
+  - first:
+      213: 21300662
+    second: righthand_male_spear_male_sl_r_0
+  - first:
+      213: 21300664
+    second: righthand_male_spear_male_sl_r_1
+  - first:
+      213: 21300666
+    second: righthand_male_spear_male_sl_r_2
+  - first:
+      213: 21300668
+    second: righthand_male_spear_male_sl_r_3
+  - first:
+      213: 21300670
+    second: righthand_male_spear_male_sl_r_4
+  - first:
+      213: 21300672
+    second: righthand_male_spear_male_sl_r_5
+  - first:
+      213: 21300674
+    second: righthand_male_spear_male_sl_d_0
+  - first:
+      213: 21300676
+    second: righthand_male_spear_male_sl_d_1
+  - first:
+      213: 21300678
+    second: righthand_male_spear_male_sl_d_2
+  - first:
+      213: 21300680
+    second: righthand_male_spear_male_sl_d_3
+  - first:
+      213: 21300682
+    second: righthand_male_spear_male_sl_d_4
+  - first:
+      213: 21300684
+    second: righthand_male_spear_male_sl_d_5
+  - first:
+      213: 21300686
+    second: righthand_male_spear_male_sl_l_0
+  - first:
+      213: 21300688
+    second: righthand_male_spear_male_sl_l_1
+  - first:
+      213: 21300690
+    second: righthand_male_spear_male_sl_l_2
+  - first:
+      213: 21300692
+    second: righthand_male_spear_male_sl_l_3
+  - first:
+      213: 21300694
+    second: righthand_male_spear_male_sl_l_4
+  - first:
+      213: 21300696
+    second: righthand_male_spear_male_sl_l_5
+  - first:
+      213: 21300698
+    second: righthand_male_spear_male_sl_t_0
+  - first:
+      213: 21300700
+    second: righthand_male_spear_male_sl_t_1
+  - first:
+      213: 21300702
+    second: righthand_male_spear_male_sl_t_2
+  - first:
+      213: 21300704
+    second: righthand_male_spear_male_sl_t_3
+  - first:
+      213: 21300706
+    second: righthand_male_spear_male_sl_t_4
+  - first:
+      213: 21300708
+    second: righthand_male_spear_male_sl_t_5
+  - first:
+      213: 21300710
+    second: righthand_male_spear_male_wc_r_0
+  - first:
+      213: 21300712
+    second: righthand_male_spear_male_wc_r_1
+  - first:
+      213: 21300714
+    second: righthand_male_spear_male_wc_r_2
+  - first:
+      213: 21300716
+    second: righthand_male_spear_male_wc_r_3
+  - first:
+      213: 21300718
+    second: righthand_male_spear_male_wc_r_4
+  - first:
+      213: 21300720
+    second: righthand_male_spear_male_wc_r_5
+  - first:
+      213: 21300722
+    second: righthand_male_spear_male_wc_r_6
+  - first:
+      213: 21300724
+    second: righthand_male_spear_male_wc_r_7
+  - first:
+      213: 21300726
+    second: righthand_male_spear_male_wc_r_8
+  - first:
+      213: 21300728
+    second: righthand_male_spear_male_wc_d_0
+  - first:
+      213: 21300730
+    second: righthand_male_spear_male_wc_d_1
+  - first:
+      213: 21300732
+    second: righthand_male_spear_male_wc_d_2
+  - first:
+      213: 21300734
+    second: righthand_male_spear_male_wc_d_3
+  - first:
+      213: 21300736
+    second: righthand_male_spear_male_wc_d_4
+  - first:
+      213: 21300738
+    second: righthand_male_spear_male_wc_d_5
+  - first:
+      213: 21300740
+    second: righthand_male_spear_male_wc_d_6
+  - first:
+      213: 21300742
+    second: righthand_male_spear_male_wc_d_7
+  - first:
+      213: 21300744
+    second: righthand_male_spear_male_wc_d_8
+  - first:
+      213: 21300746
+    second: righthand_male_spear_male_wc_l_0
+  - first:
+      213: 21300748
+    second: righthand_male_spear_male_wc_l_1
+  - first:
+      213: 21300750
+    second: righthand_male_spear_male_wc_l_2
+  - first:
+      213: 21300752
+    second: righthand_male_spear_male_wc_l_3
+  - first:
+      213: 21300754
+    second: righthand_male_spear_male_wc_l_4
+  - first:
+      213: 21300756
+    second: righthand_male_spear_male_wc_l_5
+  - first:
+      213: 21300758
+    second: righthand_male_spear_male_wc_l_6
+  - first:
+      213: 21300760
+    second: righthand_male_spear_male_wc_l_7
+  - first:
+      213: 21300762
+    second: righthand_male_spear_male_wc_l_8
+  - first:
+      213: 21300764
+    second: righthand_male_spear_male_wc_t_0
+  - first:
+      213: 21300766
+    second: righthand_male_spear_male_wc_t_1
+  - first:
+      213: 21300768
+    second: righthand_male_spear_male_wc_t_2
+  - first:
+      213: 21300770
+    second: righthand_male_spear_male_wc_t_3
+  - first:
+      213: 21300772
+    second: righthand_male_spear_male_wc_t_4
+  - first:
+      213: 21300774
+    second: righthand_male_spear_male_wc_t_5
+  - first:
+      213: 21300776
+    second: righthand_male_spear_male_wc_t_6
+  - first:
+      213: 21300778
+    second: righthand_male_spear_male_wc_t_7
+  - first:
+      213: 21300780
+    second: righthand_male_spear_male_wc_t_8
+  - first:
+      213: 21300782
+    second: righthand_male_spear_male_th_r_0
+  - first:
+      213: 21300784
+    second: righthand_male_spear_male_th_r_1
+  - first:
+      213: 21300786
+    second: righthand_male_spear_male_th_r_2
+  - first:
+      213: 21300788
+    second: righthand_male_spear_male_th_r_3
+  - first:
+      213: 21300790
+    second: righthand_male_spear_male_th_r_4
+  - first:
+      213: 21300792
+    second: righthand_male_spear_male_th_r_5
+  - first:
+      213: 21300794
+    second: righthand_male_spear_male_th_r_6
+  - first:
+      213: 21300796
+    second: righthand_male_spear_male_th_r_7
+  - first:
+      213: 21300798
+    second: righthand_male_spear_male_th_d_0
+  - first:
+      213: 21300800
+    second: righthand_male_spear_male_th_d_1
+  - first:
+      213: 21300802
+    second: righthand_male_spear_male_th_d_2
+  - first:
+      213: 21300804
+    second: righthand_male_spear_male_th_d_3
+  - first:
+      213: 21300806
+    second: righthand_male_spear_male_th_d_4
+  - first:
+      213: 21300808
+    second: righthand_male_spear_male_th_d_5
+  - first:
+      213: 21300810
+    second: righthand_male_spear_male_th_d_6
+  - first:
+      213: 21300812
+    second: righthand_male_spear_male_th_d_7
+  - first:
+      213: 21300814
+    second: righthand_male_spear_male_th_l_0
+  - first:
+      213: 21300816
+    second: righthand_male_spear_male_th_l_1
+  - first:
+      213: 21300818
+    second: righthand_male_spear_male_th_l_2
+  - first:
+      213: 21300820
+    second: righthand_male_spear_male_th_l_3
+  - first:
+      213: 21300822
+    second: righthand_male_spear_male_th_l_4
+  - first:
+      213: 21300824
+    second: righthand_male_spear_male_th_l_5
+  - first:
+      213: 21300826
+    second: righthand_male_spear_male_th_l_6
+  - first:
+      213: 21300828
+    second: righthand_male_spear_male_th_l_7
+  - first:
+      213: 21300830
+    second: righthand_male_spear_male_th_t_0
+  - first:
+      213: 21300832
+    second: righthand_male_spear_male_th_t_1
+  - first:
+      213: 21300834
+    second: righthand_male_spear_male_th_t_2
+  - first:
+      213: 21300836
+    second: righthand_male_spear_male_th_t_3
+  - first:
+      213: 21300838
+    second: righthand_male_spear_male_th_t_4
+  - first:
+      213: 21300840
+    second: righthand_male_spear_male_th_t_5
+  - first:
+      213: 21300842
+    second: righthand_male_spear_male_th_t_6
+  - first:
+      213: 21300844
+    second: righthand_male_spear_male_th_t_7
+  - first:
+      213: 21300846
+    second: righthand_male_spear_male_sc_r_0
+  - first:
+      213: 21300848
+    second: righthand_male_spear_male_sc_r_1
+  - first:
+      213: 21300850
+    second: righthand_male_spear_male_sc_r_2
+  - first:
+      213: 21300852
+    second: righthand_male_spear_male_sc_r_3
+  - first:
+      213: 21300854
+    second: righthand_male_spear_male_sc_r_4
+  - first:
+      213: 21300856
+    second: righthand_male_spear_male_sc_r_5
+  - first:
+      213: 21300858
+    second: righthand_male_spear_male_sc_r_6
+  - first:
+      213: 21300860
+    second: righthand_male_spear_male_sc_d_0
+  - first:
+      213: 21300862
+    second: righthand_male_spear_male_sc_d_1
+  - first:
+      213: 21300864
+    second: righthand_male_spear_male_sc_d_2
+  - first:
+      213: 21300866
+    second: righthand_male_spear_male_sc_d_3
+  - first:
+      213: 21300868
+    second: righthand_male_spear_male_sc_d_4
+  - first:
+      213: 21300870
+    second: righthand_male_spear_male_sc_d_5
+  - first:
+      213: 21300872
+    second: righthand_male_spear_male_sc_d_6
+  - first:
+      213: 21300874
+    second: righthand_male_spear_male_sc_l_0
+  - first:
+      213: 21300876
+    second: righthand_male_spear_male_sc_l_1
+  - first:
+      213: 21300878
+    second: righthand_male_spear_male_sc_l_2
+  - first:
+      213: 21300880
+    second: righthand_male_spear_male_sc_l_3
+  - first:
+      213: 21300882
+    second: righthand_male_spear_male_sc_l_4
+  - first:
+      213: 21300884
+    second: righthand_male_spear_male_sc_l_5
+  - first:
+      213: 21300886
+    second: righthand_male_spear_male_sc_l_6
+  - first:
+      213: 21300888
+    second: righthand_male_spear_male_sc_t_0
+  - first:
+      213: 21300890
+    second: righthand_male_spear_male_sc_t_1
+  - first:
+      213: 21300892
+    second: righthand_male_spear_male_sc_t_2
+  - first:
+      213: 21300894
+    second: righthand_male_spear_male_sc_t_3
+  - first:
+      213: 21300896
+    second: righthand_male_spear_male_sc_t_4
+  - first:
+      213: 21300898
+    second: righthand_male_spear_male_sc_t_5
+  - first:
+      213: 21300900
+    second: righthand_male_spear_male_sc_t_6
+  - first:
+      213: 21300902
+    second: righthand_male_spear_hu_0
+  - first:
+      213: 21300904
+    second: righthand_male_spear_hu_1
+  - first:
+      213: 21300906
+    second: righthand_male_spear_hu_2
+  - first:
+      213: 21300908
+    second: righthand_male_spear_hu_3
+  - first:
+      213: 21300910
+    second: righthand_male_spear_hu_4
+  - first:
+      213: 21300912
+    second: righthand_male_spear_hu_5
+  - first:
+      213: 21300914
+    second: righthand_male_spear_sh_r_0
+  - first:
+      213: 21300916
+    second: righthand_male_spear_sh_r_1
+  - first:
+      213: 21300918
+    second: righthand_male_spear_sh_r_2
+  - first:
+      213: 21300920
+    second: righthand_male_spear_sh_r_3
+  - first:
+      213: 21300922
+    second: righthand_male_spear_sh_r_4
+  - first:
+      213: 21300924
+    second: righthand_male_spear_sh_r_5
+  - first:
+      213: 21300926
+    second: righthand_male_spear_sh_r_6
+  - first:
+      213: 21300928
+    second: righthand_male_spear_sh_r_7
+  - first:
+      213: 21300930
+    second: righthand_male_spear_sh_r_8
+  - first:
+      213: 21300932
+    second: righthand_male_spear_sh_r_9
+  - first:
+      213: 21300934
+    second: righthand_male_spear_sh_r_10
+  - first:
+      213: 21300936
+    second: righthand_male_spear_sh_r_11
+  - first:
+      213: 21300938
+    second: righthand_male_spear_sh_r_12
+  - first:
+      213: 21300940
+    second: righthand_male_spear_sh_d_0
+  - first:
+      213: 21300942
+    second: righthand_male_spear_sh_d_1
+  - first:
+      213: 21300944
+    second: righthand_male_spear_sh_d_2
+  - first:
+      213: 21300946
+    second: righthand_male_spear_sh_d_3
+  - first:
+      213: 21300948
+    second: righthand_male_spear_sh_d_4
+  - first:
+      213: 21300950
+    second: righthand_male_spear_sh_d_5
+  - first:
+      213: 21300952
+    second: righthand_male_spear_sh_d_6
+  - first:
+      213: 21300954
+    second: righthand_male_spear_sh_d_7
+  - first:
+      213: 21300956
+    second: righthand_male_spear_sh_d_8
+  - first:
+      213: 21300958
+    second: righthand_male_spear_sh_d_9
+  - first:
+      213: 21300960
+    second: righthand_male_spear_sh_d_10
+  - first:
+      213: 21300962
+    second: righthand_male_spear_sh_d_11
+  - first:
+      213: 21300964
+    second: righthand_male_spear_sh_d_12
+  - first:
+      213: 21300966
+    second: righthand_male_spear_sh_l_0
+  - first:
+      213: 21300968
+    second: righthand_male_spear_sh_l_1
+  - first:
+      213: 21300970
+    second: righthand_male_spear_sh_l_2
+  - first:
+      213: 21300972
+    second: righthand_male_spear_sh_l_3
+  - first:
+      213: 21300974
+    second: righthand_male_spear_sh_l_4
+  - first:
+      213: 21300976
+    second: righthand_male_spear_sh_l_5
+  - first:
+      213: 21300978
+    second: righthand_male_spear_sh_l_6
+  - first:
+      213: 21300980
+    second: righthand_male_spear_sh_l_7
+  - first:
+      213: 21300982
+    second: righthand_male_spear_sh_l_8
+  - first:
+      213: 21300984
+    second: righthand_male_spear_sh_l_9
+  - first:
+      213: 21300986
+    second: righthand_male_spear_sh_l_10
+  - first:
+      213: 21300988
+    second: righthand_male_spear_sh_l_11
+  - first:
+      213: 21300990
+    second: righthand_male_spear_sh_l_12
+  - first:
+      213: 21300992
+    second: righthand_male_spear_sh_t_0
+  - first:
+      213: 21300994
+    second: righthand_male_spear_sh_t_1
+  - first:
+      213: 21300996
+    second: righthand_male_spear_sh_t_2
+  - first:
+      213: 21300998
+    second: righthand_male_spear_sh_t_3
+  - first:
+      213: 21301000
+    second: righthand_male_spear_sh_t_4
+  - first:
+      213: 21301002
+    second: righthand_male_spear_sh_t_5
+  - first:
+      213: 21301004
+    second: righthand_male_spear_sh_t_6
+  - first:
+      213: 21301006
+    second: righthand_male_spear_sh_t_7
+  - first:
+      213: 21301008
+    second: righthand_male_spear_sh_t_8
+  - first:
+      213: 21301010
+    second: righthand_male_spear_sh_t_9
+  - first:
+      213: 21301012
+    second: righthand_male_spear_sh_t_10
+  - first:
+      213: 21301014
+    second: righthand_male_spear_sh_t_11
+  - first:
+      213: 21301016
+    second: righthand_male_spear_sh_t_12
+  - first:
+      213: 21301018
+    second: righthand_male_spear_sl_r_0
+  - first:
+      213: 21301020
+    second: righthand_male_spear_sl_r_1
+  - first:
+      213: 21301022
+    second: righthand_male_spear_sl_r_2
+  - first:
+      213: 21301024
+    second: righthand_male_spear_sl_r_3
+  - first:
+      213: 21301026
+    second: righthand_male_spear_sl_r_4
+  - first:
+      213: 21301028
+    second: righthand_male_spear_sl_r_5
+  - first:
+      213: 21301030
+    second: righthand_male_spear_sl_d_0
+  - first:
+      213: 21301032
+    second: righthand_male_spear_sl_d_1
+  - first:
+      213: 21301034
+    second: righthand_male_spear_sl_d_2
+  - first:
+      213: 21301036
+    second: righthand_male_spear_sl_d_3
+  - first:
+      213: 21301038
+    second: righthand_male_spear_sl_d_4
+  - first:
+      213: 21301040
+    second: righthand_male_spear_sl_d_5
+  - first:
+      213: 21301042
+    second: righthand_male_spear_sl_l_0
+  - first:
+      213: 21301044
+    second: righthand_male_spear_sl_l_1
+  - first:
+      213: 21301046
+    second: righthand_male_spear_sl_l_2
+  - first:
+      213: 21301048
+    second: righthand_male_spear_sl_l_3
+  - first:
+      213: 21301050
+    second: righthand_male_spear_sl_l_4
+  - first:
+      213: 21301052
+    second: righthand_male_spear_sl_l_5
+  - first:
+      213: 21301054
+    second: righthand_male_spear_sl_t_0
+  - first:
+      213: 21301056
+    second: righthand_male_spear_sl_t_1
+  - first:
+      213: 21301058
+    second: righthand_male_spear_sl_t_2
+  - first:
+      213: 21301060
+    second: righthand_male_spear_sl_t_3
+  - first:
+      213: 21301062
+    second: righthand_male_spear_sl_t_4
+  - first:
+      213: 21301064
+    second: righthand_male_spear_sl_t_5
+  - first:
+      213: 21301066
+    second: righthand_male_spear_wc_r_0
+  - first:
+      213: 21301068
+    second: righthand_male_spear_wc_r_1
+  - first:
+      213: 21301070
+    second: righthand_male_spear_wc_r_2
+  - first:
+      213: 21301072
+    second: righthand_male_spear_wc_r_3
+  - first:
+      213: 21301074
+    second: righthand_male_spear_wc_r_4
+  - first:
+      213: 21301076
+    second: righthand_male_spear_wc_r_5
+  - first:
+      213: 21301078
+    second: righthand_male_spear_wc_r_6
+  - first:
+      213: 21301080
+    second: righthand_male_spear_wc_r_7
+  - first:
+      213: 21301082
+    second: righthand_male_spear_wc_r_8
+  - first:
+      213: 21301084
+    second: righthand_male_spear_wc_d_0
+  - first:
+      213: 21301086
+    second: righthand_male_spear_wc_d_1
+  - first:
+      213: 21301088
+    second: righthand_male_spear_wc_d_2
+  - first:
+      213: 21301090
+    second: righthand_male_spear_wc_d_3
+  - first:
+      213: 21301092
+    second: righthand_male_spear_wc_d_4
+  - first:
+      213: 21301094
+    second: righthand_male_spear_wc_d_5
+  - first:
+      213: 21301096
+    second: righthand_male_spear_wc_d_6
+  - first:
+      213: 21301098
+    second: righthand_male_spear_wc_d_7
+  - first:
+      213: 21301100
+    second: righthand_male_spear_wc_d_8
+  - first:
+      213: 21301102
+    second: righthand_male_spear_wc_l_0
+  - first:
+      213: 21301104
+    second: righthand_male_spear_wc_l_1
+  - first:
+      213: 21301106
+    second: righthand_male_spear_wc_l_2
+  - first:
+      213: 21301108
+    second: righthand_male_spear_wc_l_3
+  - first:
+      213: 21301110
+    second: righthand_male_spear_wc_l_4
+  - first:
+      213: 21301112
+    second: righthand_male_spear_wc_l_5
+  - first:
+      213: 21301114
+    second: righthand_male_spear_wc_l_6
+  - first:
+      213: 21301116
+    second: righthand_male_spear_wc_l_7
+  - first:
+      213: 21301118
+    second: righthand_male_spear_wc_l_8
+  - first:
+      213: 21301120
+    second: righthand_male_spear_wc_t_0
+  - first:
+      213: 21301122
+    second: righthand_male_spear_wc_t_1
+  - first:
+      213: 21301124
+    second: righthand_male_spear_wc_t_2
+  - first:
+      213: 21301126
+    second: righthand_male_spear_wc_t_3
+  - first:
+      213: 21301128
+    second: righthand_male_spear_wc_t_4
+  - first:
+      213: 21301130
+    second: righthand_male_spear_wc_t_5
+  - first:
+      213: 21301132
+    second: righthand_male_spear_wc_t_6
+  - first:
+      213: 21301134
+    second: righthand_male_spear_wc_t_7
+  - first:
+      213: 21301136
+    second: righthand_male_spear_wc_t_8
+  - first:
+      213: 21301138
+    second: righthand_male_spear_th_r_0
+  - first:
+      213: 21301140
+    second: righthand_male_spear_th_r_1
+  - first:
+      213: 21301142
+    second: righthand_male_spear_th_r_2
+  - first:
+      213: 21301144
+    second: righthand_male_spear_th_r_3
+  - first:
+      213: 21301146
+    second: righthand_male_spear_th_r_4
+  - first:
+      213: 21301148
+    second: righthand_male_spear_th_r_5
+  - first:
+      213: 21301150
+    second: righthand_male_spear_th_r_6
+  - first:
+      213: 21301152
+    second: righthand_male_spear_th_r_7
+  - first:
+      213: 21301154
+    second: righthand_male_spear_th_d_0
+  - first:
+      213: 21301156
+    second: righthand_male_spear_th_d_1
+  - first:
+      213: 21301158
+    second: righthand_male_spear_th_d_2
+  - first:
+      213: 21301160
+    second: righthand_male_spear_th_d_3
+  - first:
+      213: 21301162
+    second: righthand_male_spear_th_d_4
+  - first:
+      213: 21301164
+    second: righthand_male_spear_th_d_5
+  - first:
+      213: 21301166
+    second: righthand_male_spear_th_d_6
+  - first:
+      213: 21301168
+    second: righthand_male_spear_th_d_7
+  - first:
+      213: 21301170
+    second: righthand_male_spear_th_l_0
+  - first:
+      213: 21301172
+    second: righthand_male_spear_th_l_1
+  - first:
+      213: 21301174
+    second: righthand_male_spear_th_l_2
+  - first:
+      213: 21301176
+    second: righthand_male_spear_th_l_3
+  - first:
+      213: 21301178
+    second: righthand_male_spear_th_l_4
+  - first:
+      213: 21301180
+    second: righthand_male_spear_th_l_5
+  - first:
+      213: 21301182
+    second: righthand_male_spear_th_l_6
+  - first:
+      213: 21301184
+    second: righthand_male_spear_th_l_7
+  - first:
+      213: 21301186
+    second: righthand_male_spear_th_t_0
+  - first:
+      213: 21301188
+    second: righthand_male_spear_th_t_1
+  - first:
+      213: 21301190
+    second: righthand_male_spear_th_t_2
+  - first:
+      213: 21301192
+    second: righthand_male_spear_th_t_3
+  - first:
+      213: 21301194
+    second: righthand_male_spear_th_t_4
+  - first:
+      213: 21301196
+    second: righthand_male_spear_th_t_5
+  - first:
+      213: 21301198
+    second: righthand_male_spear_th_t_6
+  - first:
+      213: 21301200
+    second: righthand_male_spear_th_t_7
+  - first:
+      213: 21301202
+    second: righthand_male_spear_sc_r_0
+  - first:
+      213: 21301204
+    second: righthand_male_spear_sc_r_1
+  - first:
+      213: 21301206
+    second: righthand_male_spear_sc_r_2
+  - first:
+      213: 21301208
+    second: righthand_male_spear_sc_r_3
+  - first:
+      213: 21301210
+    second: righthand_male_spear_sc_r_4
+  - first:
+      213: 21301212
+    second: righthand_male_spear_sc_r_5
+  - first:
+      213: 21301214
+    second: righthand_male_spear_sc_r_6
+  - first:
+      213: 21301216
+    second: righthand_male_spear_sc_d_0
+  - first:
+      213: 21301218
+    second: righthand_male_spear_sc_d_1
+  - first:
+      213: 21301220
+    second: righthand_male_spear_sc_d_2
+  - first:
+      213: 21301222
+    second: righthand_male_spear_sc_d_3
+  - first:
+      213: 21301224
+    second: righthand_male_spear_sc_d_4
+  - first:
+      213: 21301226
+    second: righthand_male_spear_sc_d_5
+  - first:
+      213: 21301228
+    second: righthand_male_spear_sc_d_6
+  - first:
+      213: 21301230
+    second: righthand_male_spear_sc_l_0
+  - first:
+      213: 21301232
+    second: righthand_male_spear_sc_l_1
+  - first:
+      213: 21301234
+    second: righthand_male_spear_sc_l_2
+  - first:
+      213: 21301236
+    second: righthand_male_spear_sc_l_3
+  - first:
+      213: 21301238
+    second: righthand_male_spear_sc_l_4
+  - first:
+      213: 21301240
+    second: righthand_male_spear_sc_l_5
+  - first:
+      213: 21301242
+    second: righthand_male_spear_sc_l_6
+  - first:
+      213: 21301244
+    second: righthand_male_spear_sc_t_0
+  - first:
+      213: 21301246
+    second: righthand_male_spear_sc_t_1
+  - first:
+      213: 21301248
+    second: righthand_male_spear_sc_t_2
+  - first:
+      213: 21301250
+    second: righthand_male_spear_sc_t_3
+  - first:
+      213: 21301252
+    second: righthand_male_spear_sc_t_4
+  - first:
+      213: 21301254
+    second: righthand_male_spear_sc_t_5
+  - first:
+      213: 21301256
+    second: righthand_male_spear_sc_t_6
   externalObjects: {}
-  serializedVersion: 9
+  serializedVersion: 10
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -674,7 +1932,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 64
+  spritePixelsToUnits: 31
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -692,7 +1950,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 0
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -717,6 +1975,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -737,6 +1996,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -757,6 +2017,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -777,6 +2038,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -797,6 +2059,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -817,6 +2080,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -837,6 +2101,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -857,6 +2122,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -877,6 +2143,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -897,6 +2164,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -917,6 +2185,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -937,6 +2206,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -957,6 +2227,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -977,6 +2248,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -997,6 +2269,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1017,6 +2290,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1037,6 +2311,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1057,6 +2332,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1077,6 +2353,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1097,6 +2374,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1117,6 +2395,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1137,6 +2416,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1157,6 +2437,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1177,6 +2458,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1197,6 +2479,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1217,6 +2500,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1237,6 +2521,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1257,6 +2542,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1277,6 +2563,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1297,6 +2584,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1317,6 +2605,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1337,6 +2626,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1357,6 +2647,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1377,6 +2668,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1397,6 +2689,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1417,6 +2710,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1437,6 +2731,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1457,6 +2752,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1477,6 +2773,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1497,6 +2794,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1517,6 +2815,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1537,6 +2836,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1557,6 +2857,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1577,6 +2878,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1597,6 +2899,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1617,6 +2920,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1637,6 +2941,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1657,6 +2962,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1677,6 +2983,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1697,6 +3004,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1717,6 +3025,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1737,6 +3046,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1757,6 +3067,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1777,6 +3088,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1797,6 +3109,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1817,6 +3130,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1837,6 +3151,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1857,6 +3172,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1877,6 +3193,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1897,6 +3214,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1917,6 +3235,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1937,6 +3256,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1957,6 +3277,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1977,6 +3298,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1997,6 +3319,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2017,6 +3340,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2037,6 +3361,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2057,6 +3382,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2077,6 +3403,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2097,6 +3424,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2117,6 +3445,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2137,6 +3466,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2157,6 +3487,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2177,6 +3508,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2197,6 +3529,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2217,6 +3550,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2237,6 +3571,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2257,6 +3592,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2277,6 +3613,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2297,6 +3634,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2317,6 +3655,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2337,6 +3676,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2357,6 +3697,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2377,6 +3718,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2397,6 +3739,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2417,6 +3760,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2437,6 +3781,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2457,6 +3802,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2477,6 +3823,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2497,6 +3844,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2517,6 +3865,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2537,6 +3886,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2557,6 +3907,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2577,6 +3928,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2597,6 +3949,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2617,6 +3970,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2637,6 +3991,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2657,6 +4012,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2677,6 +4033,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2697,6 +4054,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2717,6 +4075,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2737,6 +4096,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2757,6 +4117,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2777,6 +4138,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2797,6 +4159,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2817,6 +4180,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2837,6 +4201,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2857,6 +4222,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2877,6 +4243,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2897,6 +4264,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2917,6 +4285,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2937,6 +4306,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2957,6 +4327,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2977,6 +4348,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2997,6 +4369,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3017,6 +4390,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3037,6 +4411,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3057,6 +4432,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3077,6 +4453,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3097,6 +4474,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3117,6 +4495,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3137,6 +4516,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3157,6 +4537,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3177,6 +4558,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3197,6 +4579,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3217,6 +4600,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3237,6 +4621,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3257,6 +4642,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3277,6 +4663,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3297,6 +4684,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3317,6 +4705,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3337,6 +4726,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3357,6 +4747,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3377,6 +4768,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3397,6 +4789,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3417,6 +4810,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3437,6 +4831,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3457,6 +4852,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3477,6 +4873,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3497,6 +4894,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3517,6 +4915,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3537,6 +4936,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3557,6 +4957,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3577,6 +4978,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3597,6 +4999,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3617,6 +5020,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3637,6 +5041,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3657,6 +5062,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3677,6 +5083,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3697,6 +5104,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3717,6 +5125,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3737,6 +5146,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3757,6 +5167,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3777,6 +5188,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3797,6 +5209,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3817,6 +5230,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3837,6 +5251,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3857,6 +5272,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3877,6 +5293,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3897,6 +5314,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3917,6 +5335,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3937,6 +5356,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3957,6 +5377,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3977,6 +5398,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3997,6 +5419,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -4017,6 +5440,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -4037,6 +5461,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -4057,6 +5482,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -4077,6 +5503,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -4097,6 +5524,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -4117,6 +5545,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -4137,6 +5566,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -4157,6 +5587,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -4177,6 +5608,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -4197,6 +5629,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -4217,6 +5650,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -4237,6 +5671,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -4257,6 +5692,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -4265,10 +5701,12 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: fcbfa8941d1db804ca09a6394550d49a
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
+    secondaryTextures: []
   spritePackingTag: character
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

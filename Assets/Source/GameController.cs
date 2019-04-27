@@ -1,32 +1,43 @@
-﻿using System;
+﻿#region
+
+using System;
 using Entitas;
 using UnityEngine;
+using UnityEngine.SceneManagement;
+using Object = UnityEngine.Object;
+using Random = System.Random;
+
+#endregion
 
 public class GameController
 {
-    readonly Systems _systems;
+	public readonly Contexts _contexts;
+	public readonly Systems _systems;
 
-    public GameController(Contexts contexts)
+	public GameController(Contexts contexts)
     {
-        var random = new System.Random(DateTime.UtcNow.Millisecond);
+        var random = new Random(DateTime.UtcNow.Millisecond);
         UnityEngine.Random.InitState(random.Next());
         Rand.game = new Rand(random.Next());
 
         _systems = new GameSystems(contexts);
-        /*var cameraEntity = contexts.game.CreateEntity();
-        cameraEntity.AddCamera(Camera.main.orthographicSize, Camera.main.transform.position);*/
-    }
+		_contexts = contexts;
+		/*var cameraEntity = contexts.game.CreateEntity();
+		cameraEntity.AddCamera(Camera.main.orthographicSize, Camera.main.transform.position);*/
+	}
 
-    public void Initialize()
+	public void Initialize()
     {
-        Application.targetFrameRate = 60;
+        //match monitor hz
+        QualitySettings.vSyncCount = 1;
         _systems.Initialize();
     }
 
-    public void Execute()
+	public void Execute()
     {
         _systems.Execute();
         _systems.Cleanup();
+        
     }
 }
 

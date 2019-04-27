@@ -1,11 +1,38 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using Entitas;
 using UnityEngine;
-using UnityEngine.U2D;
+
+public class ViewSystem : ReactiveSystem<GameEntity>
+{
+	readonly Contexts  _contexts;
+	private  Transform _environmentParent;
+	private  Transform _characterParent;
+
+	public ViewSystem(Contexts contexts) : base(contexts.game)
+	{
+		_contexts          = contexts;
+		_environmentParent = GameObject.Find("Environment")?.transform ?? new GameObject("Environment").transform;
+		_characterParent   = GameObject.Find("Characters")?.transform  ?? new GameObject("Characters").transform;
+	}
+
+	protected override ICollector<GameEntity> GetTrigger(IContext<GameEntity> context) => context.CreateCollector(GameMatcher.AnyOf(GameMatcher.Input, GameMatcher.Floor));
+
+	protected override bool Filter(GameEntity entity) => !entity.hasView;
+
+	protected override void Execute(List<GameEntity> entities)
+	{
+		foreach (var e in entities)
+		{
+			if (e.isFloor)
+				e.InitEnvironmentView(_environmentParent);
+			else if (e.hasCharacter)
+				e.InitCharacterView(_characterParent);
+		}
+	}
+}
 
 
-public class ViewSystem : IExecuteSystem
+/*public class ViewSystem : IExecuteSystem
 {
 	readonly Contexts  _contexts;
 	private  Transform _environmentParent;
@@ -36,7 +63,7 @@ public class ViewSystem : IExecuteSystem
 				character.InitCharacterView(_characterParent);
 		}
 	}
-}
+}*/
 
 public static class GameEntityViewExtensions
 {
@@ -54,12 +81,12 @@ public static class GameEntityViewExtensions
 
 	public static IView InitCharacterView(this GameEntity entity, Transform parent)
 	{
-		var name = $"character_{entity.character.Name}";
+		var name = $"character_{entity.character.name}";
 		if (entity.isPlayerControlled)
 			name = "player";
 		var go = GameObject.Find(name) ?? new GameObject(name);
 		go.transform.parent = parent;
-		var view = go.AddComponent<CharacterView>();
+		var view = go.AddComponent<CharacterAnimatorView>();
 		view.Link(entity);
 		entity.AddView(view);
 

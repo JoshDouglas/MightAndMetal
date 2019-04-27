@@ -1,109 +1,309 @@
 fileFormatVersion: 2
 guid: 5d5e826472255ba4588d0cf33f2ae0a7
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: righthand_male_longsword_male_sl_t_0
-    21300002: righthand_male_longsword_male_sl_t_1
-    21300004: righthand_male_longsword_male_sl_t_2
-    21300006: righthand_male_longsword_male_sl_t_3
-    21300008: righthand_male_longsword_male_sl_t_4
-    21300010: righthand_male_longsword_male_sl_t_5
-    21300012: righthand_male_longsword_male_sl_l_0
-    21300014: righthand_male_longsword_male_sl_l_1
-    21300016: righthand_male_longsword_male_sl_l_2
-    21300018: righthand_male_longsword_male_sl_l_3
-    21300020: righthand_male_longsword_male_sl_l_4
-    21300022: righthand_male_longsword_male_sl_l_5
-    21300024: righthand_male_longsword_male_sl_d_0
-    21300026: righthand_male_longsword_male_sl_d_1
-    21300028: righthand_male_longsword_male_sl_d_2
-    21300030: righthand_male_longsword_male_sl_d_3
-    21300032: righthand_male_longsword_male_sl_d_4
-    21300034: righthand_male_longsword_male_sl_d_5
-    21300036: righthand_male_longsword_male_sl_r_0
-    21300038: righthand_male_longsword_male_sl_r_1
-    21300040: righthand_male_longsword_male_sl_r_2
-    21300042: righthand_male_longsword_male_sl_r_3
-    21300044: righthand_male_longsword_male_sl_r_4
-    21300046: righthand_male_longsword_male_sl_r_5
-    21300048: righthand_male_longsword_male_4
-    21300050: righthand_male_longsword_male_5
-    21300052: righthand_male_longsword_male_sl_t_0
-    21300054: righthand_male_longsword_male_sl_l_1
-    21300056: righthand_male_longsword_male_sl_d_2
-    21300058: righthand_male_longsword_male_sl_r_3
-    21300060: righthand_male_longsword_male_4
-    21300062: righthand_male_longsword_male_5
-    21300064: righthand_male_longsword_male_sl_t_0
-    21300066: righthand_male_longsword_male_sl_l_1
-    21300068: righthand_male_longsword_male_sl_d_2
-    21300070: righthand_male_longsword_male_sl_r_3
-    21300072: righthand_male_longsword_male_4
-    21300074: righthand_male_longsword_male_5
-    21300076: righthand_male_longsword_male_sl_t_0
-    21300078: righthand_male_longsword_male_sl_l_1
-    21300080: righthand_male_longsword_male_sl_d_2
-    21300082: righthand_male_longsword_male_sl_r_3
-    21300084: righthand_male_longsword_male_4
-    21300086: righthand_male_longsword_male_5
-    21300088: righthand_male_longsword_male_sl_t_0
-    21300090: righthand_male_longsword_male_sl_t_0
-    21300092: righthand_male_longsword_male_sl_l_1
-    21300094: righthand_male_longsword_male_sl_l_1
-    21300096: righthand_male_longsword_male_sl_d_2
-    21300098: righthand_male_longsword_male_sl_d_2
-    21300100: righthand_male_longsword_male_sl_r_3
-    21300102: righthand_male_longsword_male_sl_r_3
-    21300104: longsword_male_0
-    21300106: longsword_male_1
-    21300108: longsword_male_2
-    21300110: longsword_male_3
-    21300112: longsword_male_4
-    21300114: longsword_male_5
-    21300116: longsword_male_6
-    21300118: longsword_male_7
-    21300120: longsword_male_8
-    21300122: longsword_male_9
-    21300124: longsword_male_10
-    21300126: longsword_male_11
-    21300128: longsword_male_12
-    21300130: longsword_male_13
-    21300132: longsword_male_14
-    21300134: longsword_male_15
-    21300136: longsword_male_16
-    21300138: longsword_male_17
-    21300140: longsword_male_18
-    21300142: longsword_male_19
-    21300144: longsword_male_20
-    21300146: longsword_male_21
-    21300148: longsword_male_22
-    21300150: longsword_male_23
-    21300152: righthand_male_longsword_sl_t_0
-    21300154: righthand_male_longsword_sl_t_1
-    21300156: righthand_male_longsword_sl_t_2
-    21300158: righthand_male_longsword_sl_t_3
-    21300160: righthand_male_longsword_sl_t_4
-    21300162: righthand_male_longsword_sl_t_5
-    21300164: righthand_male_longsword_sl_l_0
-    21300166: righthand_male_longsword_sl_l_1
-    21300168: righthand_male_longsword_sl_l_2
-    21300170: righthand_male_longsword_sl_l_3
-    21300172: righthand_male_longsword_sl_l_4
-    21300174: righthand_male_longsword_sl_l_5
-    21300176: righthand_male_longsword_sl_d_0
-    21300178: righthand_male_longsword_sl_d_1
-    21300180: righthand_male_longsword_sl_d_2
-    21300182: righthand_male_longsword_sl_d_3
-    21300184: righthand_male_longsword_sl_d_4
-    21300186: righthand_male_longsword_sl_d_5
-    21300188: righthand_male_longsword_sl_r_0
-    21300190: righthand_male_longsword_sl_r_1
-    21300192: righthand_male_longsword_sl_r_2
-    21300194: righthand_male_longsword_sl_r_3
-    21300196: righthand_male_longsword_sl_r_4
-    21300198: righthand_male_longsword_sl_r_5
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: righthand_male_longsword_male_sl_t_0
+  - first:
+      213: 21300002
+    second: righthand_male_longsword_male_sl_t_1
+  - first:
+      213: 21300004
+    second: righthand_male_longsword_male_sl_t_2
+  - first:
+      213: 21300006
+    second: righthand_male_longsword_male_sl_t_3
+  - first:
+      213: 21300008
+    second: righthand_male_longsword_male_sl_t_4
+  - first:
+      213: 21300010
+    second: righthand_male_longsword_male_sl_t_5
+  - first:
+      213: 21300012
+    second: righthand_male_longsword_male_sl_l_0
+  - first:
+      213: 21300014
+    second: righthand_male_longsword_male_sl_l_1
+  - first:
+      213: 21300016
+    second: righthand_male_longsword_male_sl_l_2
+  - first:
+      213: 21300018
+    second: righthand_male_longsword_male_sl_l_3
+  - first:
+      213: 21300020
+    second: righthand_male_longsword_male_sl_l_4
+  - first:
+      213: 21300022
+    second: righthand_male_longsword_male_sl_l_5
+  - first:
+      213: 21300024
+    second: righthand_male_longsword_male_sl_d_0
+  - first:
+      213: 21300026
+    second: righthand_male_longsword_male_sl_d_1
+  - first:
+      213: 21300028
+    second: righthand_male_longsword_male_sl_d_2
+  - first:
+      213: 21300030
+    second: righthand_male_longsword_male_sl_d_3
+  - first:
+      213: 21300032
+    second: righthand_male_longsword_male_sl_d_4
+  - first:
+      213: 21300034
+    second: righthand_male_longsword_male_sl_d_5
+  - first:
+      213: 21300036
+    second: righthand_male_longsword_male_sl_r_0
+  - first:
+      213: 21300038
+    second: righthand_male_longsword_male_sl_r_1
+  - first:
+      213: 21300040
+    second: righthand_male_longsword_male_sl_r_2
+  - first:
+      213: 21300042
+    second: righthand_male_longsword_male_sl_r_3
+  - first:
+      213: 21300044
+    second: righthand_male_longsword_male_sl_r_4
+  - first:
+      213: 21300046
+    second: righthand_male_longsword_male_sl_r_5
+  - first:
+      213: 21300048
+    second: righthand_male_longsword_male_4
+  - first:
+      213: 21300050
+    second: righthand_male_longsword_male_5
+  - first:
+      213: 21300052
+    second: righthand_male_longsword_male_sl_t_0
+  - first:
+      213: 21300054
+    second: righthand_male_longsword_male_sl_l_1
+  - first:
+      213: 21300056
+    second: righthand_male_longsword_male_sl_d_2
+  - first:
+      213: 21300058
+    second: righthand_male_longsword_male_sl_r_3
+  - first:
+      213: 21300060
+    second: righthand_male_longsword_male_4
+  - first:
+      213: 21300062
+    second: righthand_male_longsword_male_5
+  - first:
+      213: 21300064
+    second: righthand_male_longsword_male_sl_t_0
+  - first:
+      213: 21300066
+    second: righthand_male_longsword_male_sl_l_1
+  - first:
+      213: 21300068
+    second: righthand_male_longsword_male_sl_d_2
+  - first:
+      213: 21300070
+    second: righthand_male_longsword_male_sl_r_3
+  - first:
+      213: 21300072
+    second: righthand_male_longsword_male_4
+  - first:
+      213: 21300074
+    second: righthand_male_longsword_male_5
+  - first:
+      213: 21300076
+    second: righthand_male_longsword_male_sl_t_0
+  - first:
+      213: 21300078
+    second: righthand_male_longsword_male_sl_l_1
+  - first:
+      213: 21300080
+    second: righthand_male_longsword_male_sl_d_2
+  - first:
+      213: 21300082
+    second: righthand_male_longsword_male_sl_r_3
+  - first:
+      213: 21300084
+    second: righthand_male_longsword_male_4
+  - first:
+      213: 21300086
+    second: righthand_male_longsword_male_5
+  - first:
+      213: 21300088
+    second: righthand_male_longsword_male_sl_t_0
+  - first:
+      213: 21300090
+    second: righthand_male_longsword_male_sl_t_0
+  - first:
+      213: 21300092
+    second: righthand_male_longsword_male_sl_l_1
+  - first:
+      213: 21300094
+    second: righthand_male_longsword_male_sl_l_1
+  - first:
+      213: 21300096
+    second: righthand_male_longsword_male_sl_d_2
+  - first:
+      213: 21300098
+    second: righthand_male_longsword_male_sl_d_2
+  - first:
+      213: 21300100
+    second: righthand_male_longsword_male_sl_r_3
+  - first:
+      213: 21300102
+    second: righthand_male_longsword_male_sl_r_3
+  - first:
+      213: 21300104
+    second: longsword_male_0
+  - first:
+      213: 21300106
+    second: longsword_male_1
+  - first:
+      213: 21300108
+    second: longsword_male_2
+  - first:
+      213: 21300110
+    second: longsword_male_3
+  - first:
+      213: 21300112
+    second: longsword_male_4
+  - first:
+      213: 21300114
+    second: longsword_male_5
+  - first:
+      213: 21300116
+    second: longsword_male_6
+  - first:
+      213: 21300118
+    second: longsword_male_7
+  - first:
+      213: 21300120
+    second: longsword_male_8
+  - first:
+      213: 21300122
+    second: longsword_male_9
+  - first:
+      213: 21300124
+    second: longsword_male_10
+  - first:
+      213: 21300126
+    second: longsword_male_11
+  - first:
+      213: 21300128
+    second: longsword_male_12
+  - first:
+      213: 21300130
+    second: longsword_male_13
+  - first:
+      213: 21300132
+    second: longsword_male_14
+  - first:
+      213: 21300134
+    second: longsword_male_15
+  - first:
+      213: 21300136
+    second: longsword_male_16
+  - first:
+      213: 21300138
+    second: longsword_male_17
+  - first:
+      213: 21300140
+    second: longsword_male_18
+  - first:
+      213: 21300142
+    second: longsword_male_19
+  - first:
+      213: 21300144
+    second: longsword_male_20
+  - first:
+      213: 21300146
+    second: longsword_male_21
+  - first:
+      213: 21300148
+    second: longsword_male_22
+  - first:
+      213: 21300150
+    second: longsword_male_23
+  - first:
+      213: 21300152
+    second: righthand_male_longsword_sl_t_0
+  - first:
+      213: 21300154
+    second: righthand_male_longsword_sl_t_1
+  - first:
+      213: 21300156
+    second: righthand_male_longsword_sl_t_2
+  - first:
+      213: 21300158
+    second: righthand_male_longsword_sl_t_3
+  - first:
+      213: 21300160
+    second: righthand_male_longsword_sl_t_4
+  - first:
+      213: 21300162
+    second: righthand_male_longsword_sl_t_5
+  - first:
+      213: 21300164
+    second: righthand_male_longsword_sl_l_0
+  - first:
+      213: 21300166
+    second: righthand_male_longsword_sl_l_1
+  - first:
+      213: 21300168
+    second: righthand_male_longsword_sl_l_2
+  - first:
+      213: 21300170
+    second: righthand_male_longsword_sl_l_3
+  - first:
+      213: 21300172
+    second: righthand_male_longsword_sl_l_4
+  - first:
+      213: 21300174
+    second: righthand_male_longsword_sl_l_5
+  - first:
+      213: 21300176
+    second: righthand_male_longsword_sl_d_0
+  - first:
+      213: 21300178
+    second: righthand_male_longsword_sl_d_1
+  - first:
+      213: 21300180
+    second: righthand_male_longsword_sl_d_2
+  - first:
+      213: 21300182
+    second: righthand_male_longsword_sl_d_3
+  - first:
+      213: 21300184
+    second: righthand_male_longsword_sl_d_4
+  - first:
+      213: 21300186
+    second: righthand_male_longsword_sl_d_5
+  - first:
+      213: 21300188
+    second: righthand_male_longsword_sl_r_0
+  - first:
+      213: 21300190
+    second: righthand_male_longsword_sl_r_1
+  - first:
+      213: 21300192
+    second: righthand_male_longsword_sl_r_2
+  - first:
+      213: 21300194
+    second: righthand_male_longsword_sl_r_3
+  - first:
+      213: 21300196
+    second: righthand_male_longsword_sl_r_4
+  - first:
+      213: 21300198
+    second: righthand_male_longsword_sl_r_5
   externalObjects: {}
-  serializedVersion: 9
+  serializedVersion: 10
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -173,7 +373,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: righthand_male_longsword_sl_t_0
+      name: righthand_male_longsword_sl_r_0
       rect:
         serializedVersion: 2
         x: 0
@@ -188,12 +388,13 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: righthand_male_longsword_sl_t_1
+      name: righthand_male_longsword_sl_r_1
       rect:
         serializedVersion: 2
         x: 192
@@ -208,12 +409,13 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: righthand_male_longsword_sl_t_2
+      name: righthand_male_longsword_sl_r_2
       rect:
         serializedVersion: 2
         x: 384
@@ -228,12 +430,13 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: righthand_male_longsword_sl_t_3
+      name: righthand_male_longsword_sl_r_3
       rect:
         serializedVersion: 2
         x: 576
@@ -248,12 +451,13 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: righthand_male_longsword_sl_t_4
+      name: righthand_male_longsword_sl_r_4
       rect:
         serializedVersion: 2
         x: 768
@@ -268,12 +472,13 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: righthand_male_longsword_sl_t_5
+      name: righthand_male_longsword_sl_r_5
       rect:
         serializedVersion: 2
         x: 960
@@ -288,6 +493,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -308,6 +514,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -328,6 +535,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -348,6 +556,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -368,6 +577,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -388,6 +598,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -408,12 +619,13 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: righthand_male_longsword_sl_d_0
+      name: righthand_male_longsword_sl_l_0
       rect:
         serializedVersion: 2
         x: 0
@@ -428,12 +640,13 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: righthand_male_longsword_sl_d_1
+      name: righthand_male_longsword_sl_l_1
       rect:
         serializedVersion: 2
         x: 192
@@ -448,12 +661,13 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: righthand_male_longsword_sl_d_2
+      name: righthand_male_longsword_sl_l_2
       rect:
         serializedVersion: 2
         x: 384
@@ -468,12 +682,13 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: righthand_male_longsword_sl_d_3
+      name: righthand_male_longsword_sl_l_3
       rect:
         serializedVersion: 2
         x: 576
@@ -488,12 +703,13 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: righthand_male_longsword_sl_d_4
+      name: righthand_male_longsword_sl_l_4
       rect:
         serializedVersion: 2
         x: 768
@@ -508,12 +724,13 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: righthand_male_longsword_sl_d_5
+      name: righthand_male_longsword_sl_l_5
       rect:
         serializedVersion: 2
         x: 960
@@ -528,6 +745,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -548,6 +766,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -568,6 +787,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -588,6 +808,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -608,6 +829,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -628,6 +850,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -648,6 +871,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -656,10 +880,12 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 35ff9052239ed7b4594d7da02510c0b6
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
+    secondaryTextures: []
   spritePackingTag: character
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

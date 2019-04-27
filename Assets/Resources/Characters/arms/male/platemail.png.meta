@@ -1,812 +1,2418 @@
 fileFormatVersion: 2
 guid: 38656bd1064b963498f77b994a7c9e15
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: male_platemail_hu_0
-    21300002: male_platemail_hu_1
-    21300004: male_platemail_hu_2
-    21300006: male_platemail_hu_3
-    21300008: male_platemail_hu_4
-    21300010: male_platemail_hu_5
-    21300012: male_platemail_hu_6
-    21300014: male_platemail_hu_7
-    21300016: male_platemail_hu_8
-    21300018: male_platemail_hu_9
-    21300020: male_platemail_hu_10
-    21300022: male_platemail_hu_11
-    21300024: male_platemail_hu_12
-    21300026: male_platemail_sh_r_0
-    21300028: male_platemail_sh_r_1
-    21300030: male_platemail_sh_r_2
-    21300032: male_platemail_sh_r_3
-    21300034: male_platemail_sh_r_4
-    21300036: male_platemail_sh_r_5
-    21300038: male_platemail_sh_r_6
-    21300040: male_platemail_sh_r_7
-    21300042: male_platemail_sh_r_8
-    21300044: male_platemail_sh_r_9
-    21300046: male_platemail_sh_r_10
-    21300048: male_platemail_sh_r_11
-    21300050: male_platemail_sh_r_12
-    21300052: male_platemail_sh_d_0
-    21300054: male_platemail_sh_d_1
-    21300056: male_platemail_sh_d_2
-    21300058: male_platemail_sh_d_3
-    21300060: male_platemail_sh_d_4
-    21300062: male_platemail_sh_d_5
-    21300064: male_platemail_sh_d_6
-    21300066: male_platemail_sh_d_7
-    21300068: male_platemail_sh_d_8
-    21300070: male_platemail_sh_d_9
-    21300072: male_platemail_sh_d_10
-    21300074: male_platemail_sh_d_11
-    21300076: male_platemail_sh_d_12
-    21300078: male_platemail_sh_l_0
-    21300080: male_platemail_sh_l_1
-    21300082: male_platemail_sh_l_2
-    21300084: male_platemail_sh_l_3
-    21300086: male_platemail_sh_l_4
-    21300088: male_platemail_sh_l_5
-    21300090: male_platemail_sh_l_6
-    21300092: male_platemail_sh_l_7
-    21300094: male_platemail_sh_l_8
-    21300096: male_platemail_sh_l_9
-    21300098: male_platemail_sh_l_10
-    21300100: male_platemail_sh_l_11
-    21300102: male_platemail_sh_l_12
-    21300104: male_platemail_sh_t_0
-    21300106: male_platemail_sh_t_1
-    21300108: male_platemail_sh_t_2
-    21300110: male_platemail_sh_t_3
-    21300112: male_platemail_sh_t_4
-    21300114: male_platemail_sh_t_5
-    21300116: male_platemail_sh_t_6
-    21300118: male_platemail_sh_t_7
-    21300120: male_platemail_sh_t_8
-    21300122: male_platemail_sh_t_9
-    21300124: male_platemail_sh_t_10
-    21300126: male_platemail_sh_t_11
-    21300128: male_platemail_sh_t_12
-    21300130: male_platemail_sl_r_0
-    21300132: male_platemail_sl_r_1
-    21300134: male_platemail_sl_r_2
-    21300136: male_platemail_sl_r_3
-    21300138: male_platemail_sl_r_4
-    21300140: male_platemail_sl_r_5
-    21300142: male_platemail_sl_r_6
-    21300144: male_platemail_sl_r_7
-    21300146: male_platemail_sl_r_8
-    21300148: male_platemail_sl_r_9
-    21300150: male_platemail_sl_r_10
-    21300152: male_platemail_sl_r_11
-    21300154: male_platemail_sl_r_12
-    21300156: male_platemail_sl_d_0
-    21300158: male_platemail_sl_d_1
-    21300160: male_platemail_sl_d_2
-    21300162: male_platemail_sl_d_3
-    21300164: male_platemail_sl_d_4
-    21300166: male_platemail_sl_d_5
-    21300168: male_platemail_sl_d_6
-    21300170: male_platemail_sl_d_7
-    21300172: male_platemail_sl_d_8
-    21300174: male_platemail_sl_d_9
-    21300176: male_platemail_sl_d_10
-    21300178: male_platemail_sl_d_11
-    21300180: male_platemail_sl_d_12
-    21300182: male_platemail_sl_l_0
-    21300184: male_platemail_sl_l_1
-    21300186: male_platemail_sl_l_2
-    21300188: male_platemail_sl_l_3
-    21300190: male_platemail_sl_l_4
-    21300192: male_platemail_sl_l_5
-    21300194: male_platemail_sl_l_6
-    21300196: male_platemail_sl_l_7
-    21300198: male_platemail_sl_l_8
-    21300200: male_platemail_sl_l_9
-    21300202: male_platemail_sl_l_10
-    21300204: male_platemail_sl_l_11
-    21300206: male_platemail_sl_l_12
-    21300208: male_platemail_sl_t_0
-    21300210: male_platemail_sl_t_1
-    21300212: male_platemail_sl_t_2
-    21300214: male_platemail_sl_t_3
-    21300216: male_platemail_sl_t_4
-    21300218: male_platemail_sl_t_5
-    21300220: male_platemail_sl_t_6
-    21300222: male_platemail_sl_t_7
-    21300224: male_platemail_sl_t_8
-    21300226: male_platemail_sl_t_9
-    21300228: male_platemail_sl_t_10
-    21300230: male_platemail_sl_t_11
-    21300232: male_platemail_sl_t_12
-    21300234: male_platemail_wc_r_0
-    21300236: male_platemail_wc_r_1
-    21300238: male_platemail_wc_r_2
-    21300240: male_platemail_wc_r_3
-    21300242: male_platemail_wc_r_4
-    21300244: male_platemail_wc_r_5
-    21300246: male_platemail_wc_r_6
-    21300248: male_platemail_wc_r_7
-    21300250: male_platemail_wc_r_8
-    21300252: male_platemail_wc_r_9
-    21300254: male_platemail_wc_r_10
-    21300256: male_platemail_wc_r_11
-    21300258: male_platemail_wc_r_12
-    21300260: male_platemail_wc_d_0
-    21300262: male_platemail_wc_d_1
-    21300264: male_platemail_wc_d_2
-    21300266: male_platemail_wc_d_3
-    21300268: male_platemail_wc_d_4
-    21300270: male_platemail_wc_d_5
-    21300272: male_platemail_wc_d_6
-    21300274: male_platemail_wc_d_7
-    21300276: male_platemail_wc_d_8
-    21300278: male_platemail_wc_d_9
-    21300280: male_platemail_wc_d_10
-    21300282: male_platemail_wc_d_11
-    21300284: male_platemail_wc_d_12
-    21300286: male_platemail_wc_l_0
-    21300288: male_platemail_wc_l_1
-    21300290: male_platemail_wc_l_2
-    21300292: male_platemail_wc_l_3
-    21300294: male_platemail_wc_l_4
-    21300296: male_platemail_wc_l_5
-    21300298: male_platemail_wc_l_6
-    21300300: male_platemail_wc_l_7
-    21300302: male_platemail_wc_l_8
-    21300304: male_platemail_wc_l_9
-    21300306: male_platemail_wc_l_10
-    21300308: male_platemail_wc_l_11
-    21300310: male_platemail_wc_l_12
-    21300312: male_platemail_wc_t_0
-    21300314: male_platemail_wc_t_1
-    21300316: male_platemail_wc_t_2
-    21300318: male_platemail_wc_t_3
-    21300320: male_platemail_wc_t_4
-    21300322: male_platemail_wc_t_5
-    21300324: male_platemail_wc_t_6
-    21300326: male_platemail_wc_t_7
-    21300328: male_platemail_wc_t_8
-    21300330: male_platemail_wc_t_9
-    21300332: male_platemail_wc_t_10
-    21300334: male_platemail_wc_t_11
-    21300336: male_platemail_wc_t_12
-    21300338: male_platemail_th_r_0
-    21300340: male_platemail_th_r_1
-    21300342: male_platemail_th_r_2
-    21300344: male_platemail_th_r_3
-    21300346: male_platemail_th_r_4
-    21300348: male_platemail_th_r_5
-    21300350: male_platemail_th_r_6
-    21300352: male_platemail_th_r_7
-    21300354: male_platemail_th_r_8
-    21300356: male_platemail_th_r_9
-    21300358: male_platemail_th_r_10
-    21300360: male_platemail_th_r_11
-    21300362: male_platemail_th_r_12
-    21300364: male_platemail_th_d_0
-    21300366: male_platemail_th_d_1
-    21300368: male_platemail_th_d_2
-    21300370: male_platemail_th_d_3
-    21300372: male_platemail_th_d_4
-    21300374: male_platemail_th_d_5
-    21300376: male_platemail_th_d_6
-    21300378: male_platemail_th_d_7
-    21300380: male_platemail_th_d_8
-    21300382: male_platemail_th_d_9
-    21300384: male_platemail_th_d_10
-    21300386: male_platemail_th_d_11
-    21300388: male_platemail_th_d_12
-    21300390: male_platemail_th_l_0
-    21300392: male_platemail_th_l_1
-    21300394: male_platemail_th_l_2
-    21300396: male_platemail_th_l_3
-    21300398: male_platemail_th_l_4
-    21300400: male_platemail_th_l_5
-    21300402: male_platemail_th_l_6
-    21300404: male_platemail_th_l_7
-    21300406: male_platemail_th_l_8
-    21300408: male_platemail_th_l_9
-    21300410: male_platemail_th_l_10
-    21300412: male_platemail_th_l_11
-    21300414: male_platemail_th_l_12
-    21300416: male_platemail_th_t_0
-    21300418: male_platemail_th_t_1
-    21300420: male_platemail_th_t_2
-    21300422: male_platemail_th_t_3
-    21300424: male_platemail_th_t_4
-    21300426: male_platemail_th_t_5
-    21300428: male_platemail_th_t_6
-    21300430: male_platemail_th_t_7
-    21300432: male_platemail_th_t_8
-    21300434: male_platemail_th_t_9
-    21300436: male_platemail_th_t_10
-    21300438: male_platemail_th_t_11
-    21300440: male_platemail_th_t_12
-    21300442: male_platemail_sc_r_0
-    21300444: male_platemail_sc_r_1
-    21300446: male_platemail_sc_r_2
-    21300448: male_platemail_sc_r_3
-    21300450: male_platemail_sc_r_4
-    21300452: male_platemail_sc_r_5
-    21300454: male_platemail_sc_r_6
-    21300456: male_platemail_sc_r_7
-    21300458: male_platemail_sc_r_8
-    21300460: male_platemail_sc_r_9
-    21300462: male_platemail_sc_r_10
-    21300464: male_platemail_sc_r_11
-    21300466: male_platemail_sc_r_12
-    21300468: male_platemail_sc_d_0
-    21300470: male_platemail_sc_d_1
-    21300472: male_platemail_sc_d_2
-    21300474: male_platemail_sc_d_3
-    21300476: male_platemail_sc_d_4
-    21300478: male_platemail_sc_d_5
-    21300480: male_platemail_sc_d_6
-    21300482: male_platemail_sc_d_7
-    21300484: male_platemail_sc_d_8
-    21300486: male_platemail_sc_d_9
-    21300488: male_platemail_sc_d_10
-    21300490: male_platemail_sc_d_11
-    21300492: male_platemail_sc_d_12
-    21300494: male_platemail_sc_l_0
-    21300496: male_platemail_sc_l_1
-    21300498: male_platemail_sc_l_2
-    21300500: male_platemail_sc_l_3
-    21300502: male_platemail_sc_l_4
-    21300504: male_platemail_sc_l_5
-    21300506: male_platemail_sc_l_6
-    21300508: male_platemail_sc_l_7
-    21300510: male_platemail_sc_l_8
-    21300512: male_platemail_sc_l_9
-    21300514: male_platemail_sc_l_10
-    21300516: male_platemail_sc_l_11
-    21300518: male_platemail_sc_l_12
-    21300520: male_platemail_sc_t_0
-    21300522: male_platemail_sc_t_1
-    21300524: male_platemail_sc_t_2
-    21300526: male_platemail_sc_t_3
-    21300528: male_platemail_sc_t_4
-    21300530: male_platemail_sc_t_5
-    21300532: male_platemail_sc_t_6
-    21300534: male_platemail_sc_t_7
-    21300536: male_platemail_sc_t_8
-    21300538: male_platemail_sc_t_9
-    21300540: male_platemail_sc_t_10
-    21300542: male_platemail_sc_t_11
-    21300544: male_platemail_sc_t_12
-    21300546: platemail_0
-    21300548: platemail_1
-    21300550: platemail_2
-    21300552: platemail_3
-    21300554: platemail_4
-    21300556: platemail_5
-    21300558: platemail_6
-    21300560: platemail_7
-    21300562: platemail_8
-    21300564: platemail_9
-    21300566: platemail_10
-    21300568: platemail_11
-    21300570: platemail_12
-    21300572: platemail_13
-    21300574: platemail_14
-    21300576: platemail_15
-    21300578: platemail_16
-    21300580: platemail_17
-    21300582: platemail_18
-    21300584: platemail_19
-    21300586: platemail_20
-    21300588: platemail_21
-    21300590: platemail_22
-    21300592: platemail_23
-    21300594: platemail_24
-    21300596: platemail_25
-    21300598: platemail_26
-    21300600: platemail_27
-    21300602: platemail_28
-    21300604: platemail_29
-    21300606: platemail_30
-    21300608: platemail_31
-    21300610: platemail_32
-    21300612: platemail_33
-    21300614: platemail_34
-    21300616: platemail_35
-    21300618: platemail_36
-    21300620: platemail_37
-    21300622: platemail_38
-    21300624: platemail_39
-    21300626: platemail_40
-    21300628: platemail_41
-    21300630: platemail_42
-    21300632: platemail_43
-    21300634: platemail_44
-    21300636: platemail_45
-    21300638: platemail_46
-    21300640: platemail_47
-    21300642: platemail_48
-    21300644: platemail_49
-    21300646: platemail_50
-    21300648: platemail_51
-    21300650: platemail_52
-    21300652: platemail_53
-    21300654: platemail_54
-    21300656: platemail_55
-    21300658: platemail_56
-    21300660: platemail_57
-    21300662: platemail_58
-    21300664: platemail_59
-    21300666: platemail_60
-    21300668: platemail_61
-    21300670: platemail_62
-    21300672: platemail_63
-    21300674: platemail_64
-    21300676: platemail_65
-    21300678: platemail_66
-    21300680: platemail_67
-    21300682: platemail_68
-    21300684: platemail_69
-    21300686: platemail_70
-    21300688: platemail_71
-    21300690: platemail_72
-    21300692: platemail_73
-    21300694: platemail_74
-    21300696: platemail_75
-    21300698: platemail_76
-    21300700: platemail_77
-    21300702: platemail_78
-    21300704: platemail_79
-    21300706: platemail_80
-    21300708: platemail_81
-    21300710: platemail_82
-    21300712: platemail_83
-    21300714: platemail_84
-    21300716: platemail_85
-    21300718: platemail_86
-    21300720: platemail_87
-    21300722: platemail_88
-    21300724: platemail_89
-    21300726: platemail_90
-    21300728: platemail_91
-    21300730: platemail_92
-    21300732: platemail_93
-    21300734: platemail_94
-    21300736: platemail_95
-    21300738: platemail_96
-    21300740: platemail_97
-    21300742: platemail_98
-    21300744: platemail_99
-    21300746: platemail_100
-    21300748: platemail_101
-    21300750: platemail_102
-    21300752: platemail_103
-    21300754: platemail_104
-    21300756: platemail_105
-    21300758: platemail_106
-    21300760: platemail_107
-    21300762: platemail_108
-    21300764: platemail_109
-    21300766: platemail_110
-    21300768: platemail_111
-    21300770: platemail_112
-    21300772: platemail_113
-    21300774: platemail_114
-    21300776: platemail_115
-    21300778: platemail_116
-    21300780: platemail_117
-    21300782: platemail_118
-    21300784: platemail_119
-    21300786: platemail_120
-    21300788: platemail_121
-    21300790: platemail_122
-    21300792: platemail_123
-    21300794: platemail_124
-    21300796: platemail_125
-    21300798: platemail_126
-    21300800: platemail_127
-    21300802: platemail_128
-    21300804: platemail_129
-    21300806: platemail_130
-    21300808: platemail_131
-    21300810: platemail_132
-    21300812: platemail_133
-    21300814: platemail_134
-    21300816: platemail_135
-    21300818: platemail_136
-    21300820: platemail_137
-    21300822: platemail_138
-    21300824: platemail_139
-    21300826: platemail_140
-    21300828: platemail_141
-    21300830: platemail_142
-    21300832: platemail_143
-    21300834: platemail_144
-    21300836: platemail_145
-    21300838: platemail_146
-    21300840: platemail_147
-    21300842: platemail_148
-    21300844: platemail_149
-    21300846: platemail_150
-    21300848: platemail_151
-    21300850: platemail_152
-    21300852: platemail_153
-    21300854: platemail_154
-    21300856: platemail_155
-    21300858: platemail_156
-    21300860: platemail_157
-    21300862: platemail_158
-    21300864: platemail_159
-    21300866: platemail_160
-    21300868: platemail_161
-    21300870: platemail_162
-    21300872: platemail_163
-    21300874: platemail_164
-    21300876: platemail_165
-    21300878: platemail_166
-    21300880: platemail_167
-    21300882: platemail_168
-    21300884: platemail_169
-    21300886: platemail_170
-    21300888: platemail_171
-    21300890: platemail_172
-    21300892: platemail_173
-    21300894: platemail_174
-    21300896: platemail_175
-    21300898: platemail_176
-    21300900: platemail_177
-    21300902: platemail_178
-    21300904: platemail_179
-    21300906: platemail_180
-    21300908: platemail_181
-    21300910: platemail_182
-    21300912: platemail_183
-    21300914: platemail_184
-    21300916: platemail_185
-    21300918: platemail_186
-    21300920: platemail_187
-    21300922: platemail_188
-    21300924: platemail_189
-    21300926: platemail_190
-    21300928: platemail_191
-    21300930: platemail_192
-    21300932: platemail_193
-    21300934: platemail_194
-    21300936: platemail_195
-    21300938: platemail_196
-    21300940: platemail_197
-    21300942: platemail_198
-    21300944: platemail_199
-    21300946: platemail_200
-    21300948: platemail_201
-    21300950: platemail_202
-    21300952: platemail_203
-    21300954: platemail_204
-    21300956: platemail_205
-    21300958: platemail_206
-    21300960: platemail_207
-    21300962: platemail_208
-    21300964: platemail_209
-    21300966: platemail_210
-    21300968: platemail_211
-    21300970: platemail_212
-    21300972: platemail_213
-    21300974: platemail_214
-    21300976: platemail_215
-    21300978: platemail_216
-    21300980: platemail_217
-    21300982: platemail_218
-    21300984: platemail_219
-    21300986: platemail_220
-    21300988: platemail_221
-    21300990: platemail_222
-    21300992: platemail_223
-    21300994: platemail_224
-    21300996: platemail_225
-    21300998: platemail_226
-    21301000: platemail_227
-    21301002: platemail_228
-    21301004: platemail_229
-    21301006: platemail_230
-    21301008: platemail_231
-    21301010: platemail_232
-    21301012: platemail_233
-    21301014: platemail_234
-    21301016: platemail_235
-    21301018: platemail_236
-    21301020: platemail_237
-    21301022: platemail_238
-    21301024: platemail_239
-    21301026: platemail_240
-    21301028: platemail_241
-    21301030: platemail_242
-    21301032: platemail_243
-    21301034: platemail_244
-    21301036: platemail_245
-    21301038: platemail_246
-    21301040: platemail_247
-    21301042: platemail_248
-    21301044: platemail_249
-    21301046: platemail_250
-    21301048: platemail_251
-    21301050: platemail_252
-    21301052: platemail_253
-    21301054: platemail_254
-    21301056: platemail_255
-    21301058: platemail_256
-    21301060: platemail_257
-    21301062: platemail_258
-    21301064: platemail_259
-    21301066: platemail_260
-    21301068: platemail_261
-    21301070: platemail_262
-    21301072: platemail_263
-    21301074: platemail_264
-    21301076: platemail_265
-    21301078: platemail_266
-    21301080: platemail_267
-    21301082: platemail_268
-    21301084: platemail_269
-    21301086: platemail_270
-    21301088: platemail_271
-    21301090: platemail_272
-    21301092: platemail_273
-    21301094: platemail_274
-    21301096: platemail_275
-    21301098: platemail_276
-    21301100: platemail_277
-    21301102: platemail_278
-    21301104: platemail_279
-    21301106: platemail_280
-    21301108: platemail_281
-    21301110: platemail_282
-    21301112: platemail_283
-    21301114: platemail_284
-    21301116: platemail_285
-    21301118: platemail_286
-    21301120: platemail_287
-    21301122: platemail_288
-    21301124: platemail_289
-    21301126: platemail_290
-    21301128: platemail_291
-    21301130: platemail_292
-    21301132: platemail_293
-    21301134: platemail_294
-    21301136: platemail_295
-    21301138: platemail_296
-    21301140: platemail_297
-    21301142: platemail_298
-    21301144: platemail_299
-    21301146: platemail_300
-    21301148: platemail_301
-    21301150: platemail_302
-    21301152: platemail_303
-    21301154: platemail_304
-    21301156: platemail_305
-    21301158: platemail_306
-    21301160: platemail_307
-    21301162: platemail_308
-    21301164: platemail_309
-    21301166: platemail_310
-    21301168: platemail_311
-    21301170: platemail_312
-    21301172: platemail_313
-    21301174: platemail_314
-    21301176: platemail_315
-    21301178: platemail_316
-    21301180: platemail_317
-    21301182: platemail_318
-    21301184: platemail_319
-    21301186: platemail_320
-    21301188: platemail_321
-    21301190: platemail_322
-    21301192: platemail_323
-    21301194: platemail_324
-    21301196: platemail_325
-    21301198: platemail_326
-    21301200: platemail_327
-    21301202: platemail_328
-    21301204: platemail_329
-    21301206: platemail_330
-    21301208: platemail_331
-    21301210: platemail_332
-    21301212: platemail_333
-    21301214: platemail_334
-    21301216: platemail_335
-    21301218: platemail_336
-    21301220: platemail_337
-    21301222: platemail_338
-    21301224: platemail_339
-    21301226: platemail_340
-    21301228: platemail_341
-    21301230: platemail_342
-    21301232: platemail_343
-    21301234: platemail_344
-    21301236: platemail_345
-    21301238: platemail_346
-    21301240: platemail_347
-    21301242: platemail_348
-    21301244: platemail_349
-    21301246: platemail_350
-    21301248: platemail_351
-    21301250: arms_male_platemail_hu_0
-    21301252: arms_male_platemail_hu_1
-    21301254: arms_male_platemail_hu_2
-    21301256: arms_male_platemail_hu_3
-    21301258: arms_male_platemail_hu_4
-    21301260: arms_male_platemail_hu_5
-    21301262: arms_male_platemail_sh_r_0
-    21301264: arms_male_platemail_sh_r_1
-    21301266: arms_male_platemail_sh_r_2
-    21301268: arms_male_platemail_sh_r_3
-    21301270: arms_male_platemail_sh_r_4
-    21301272: arms_male_platemail_sh_r_5
-    21301274: arms_male_platemail_sh_r_6
-    21301276: arms_male_platemail_sh_r_7
-    21301278: arms_male_platemail_sh_r_8
-    21301280: arms_male_platemail_sh_r_9
-    21301282: arms_male_platemail_sh_r_10
-    21301284: arms_male_platemail_sh_r_11
-    21301286: arms_male_platemail_sh_r_12
-    21301288: arms_male_platemail_sh_d_0
-    21301290: arms_male_platemail_sh_d_1
-    21301292: arms_male_platemail_sh_d_2
-    21301294: arms_male_platemail_sh_d_3
-    21301296: arms_male_platemail_sh_d_4
-    21301298: arms_male_platemail_sh_d_5
-    21301300: arms_male_platemail_sh_d_6
-    21301302: arms_male_platemail_sh_d_7
-    21301304: arms_male_platemail_sh_d_8
-    21301306: arms_male_platemail_sh_d_9
-    21301308: arms_male_platemail_sh_d_10
-    21301310: arms_male_platemail_sh_d_11
-    21301312: arms_male_platemail_sh_d_12
-    21301314: arms_male_platemail_sh_l_0
-    21301316: arms_male_platemail_sh_l_1
-    21301318: arms_male_platemail_sh_l_2
-    21301320: arms_male_platemail_sh_l_3
-    21301322: arms_male_platemail_sh_l_4
-    21301324: arms_male_platemail_sh_l_5
-    21301326: arms_male_platemail_sh_l_6
-    21301328: arms_male_platemail_sh_l_7
-    21301330: arms_male_platemail_sh_l_8
-    21301332: arms_male_platemail_sh_l_9
-    21301334: arms_male_platemail_sh_l_10
-    21301336: arms_male_platemail_sh_l_11
-    21301338: arms_male_platemail_sh_l_12
-    21301340: arms_male_platemail_sh_t_0
-    21301342: arms_male_platemail_sh_t_1
-    21301344: arms_male_platemail_sh_t_2
-    21301346: arms_male_platemail_sh_t_3
-    21301348: arms_male_platemail_sh_t_4
-    21301350: arms_male_platemail_sh_t_5
-    21301352: arms_male_platemail_sh_t_6
-    21301354: arms_male_platemail_sh_t_7
-    21301356: arms_male_platemail_sh_t_8
-    21301358: arms_male_platemail_sh_t_9
-    21301360: arms_male_platemail_sh_t_10
-    21301362: arms_male_platemail_sh_t_11
-    21301364: arms_male_platemail_sh_t_12
-    21301366: arms_male_platemail_sl_r_0
-    21301368: arms_male_platemail_sl_r_1
-    21301370: arms_male_platemail_sl_r_2
-    21301372: arms_male_platemail_sl_r_3
-    21301374: arms_male_platemail_sl_r_4
-    21301376: arms_male_platemail_sl_r_5
-    21301378: arms_male_platemail_sl_d_0
-    21301380: arms_male_platemail_sl_d_1
-    21301382: arms_male_platemail_sl_d_2
-    21301384: arms_male_platemail_sl_d_3
-    21301386: arms_male_platemail_sl_d_4
-    21301388: arms_male_platemail_sl_d_5
-    21301390: arms_male_platemail_sl_l_0
-    21301392: arms_male_platemail_sl_l_1
-    21301394: arms_male_platemail_sl_l_2
-    21301396: arms_male_platemail_sl_l_3
-    21301398: arms_male_platemail_sl_l_4
-    21301400: arms_male_platemail_sl_l_5
-    21301402: arms_male_platemail_sl_t_0
-    21301404: arms_male_platemail_sl_t_1
-    21301406: arms_male_platemail_sl_t_2
-    21301408: arms_male_platemail_sl_t_3
-    21301410: arms_male_platemail_sl_t_4
-    21301412: arms_male_platemail_sl_t_5
-    21301414: arms_male_platemail_wc_r_0
-    21301416: arms_male_platemail_wc_r_1
-    21301418: arms_male_platemail_wc_r_2
-    21301420: arms_male_platemail_wc_r_3
-    21301422: arms_male_platemail_wc_r_4
-    21301424: arms_male_platemail_wc_r_5
-    21301426: arms_male_platemail_wc_r_6
-    21301428: arms_male_platemail_wc_r_7
-    21301430: arms_male_platemail_wc_r_8
-    21301432: arms_male_platemail_wc_d_0
-    21301434: arms_male_platemail_wc_d_1
-    21301436: arms_male_platemail_wc_d_2
-    21301438: arms_male_platemail_wc_d_3
-    21301440: arms_male_platemail_wc_d_4
-    21301442: arms_male_platemail_wc_d_5
-    21301444: arms_male_platemail_wc_d_6
-    21301446: arms_male_platemail_wc_d_7
-    21301448: arms_male_platemail_wc_d_8
-    21301450: arms_male_platemail_wc_l_0
-    21301452: arms_male_platemail_wc_l_1
-    21301454: arms_male_platemail_wc_l_2
-    21301456: arms_male_platemail_wc_l_3
-    21301458: arms_male_platemail_wc_l_4
-    21301460: arms_male_platemail_wc_l_5
-    21301462: arms_male_platemail_wc_l_6
-    21301464: arms_male_platemail_wc_l_7
-    21301466: arms_male_platemail_wc_l_8
-    21301468: arms_male_platemail_wc_t_0
-    21301470: arms_male_platemail_wc_t_1
-    21301472: arms_male_platemail_wc_t_2
-    21301474: arms_male_platemail_wc_t_3
-    21301476: arms_male_platemail_wc_t_4
-    21301478: arms_male_platemail_wc_t_5
-    21301480: arms_male_platemail_wc_t_6
-    21301482: arms_male_platemail_wc_t_7
-    21301484: arms_male_platemail_wc_t_8
-    21301486: arms_male_platemail_th_r_0
-    21301488: arms_male_platemail_th_r_1
-    21301490: arms_male_platemail_th_r_2
-    21301492: arms_male_platemail_th_r_3
-    21301494: arms_male_platemail_th_r_4
-    21301496: arms_male_platemail_th_r_5
-    21301498: arms_male_platemail_th_r_6
-    21301500: arms_male_platemail_th_r_7
-    21301502: arms_male_platemail_th_d_0
-    21301504: arms_male_platemail_th_d_1
-    21301506: arms_male_platemail_th_d_2
-    21301508: arms_male_platemail_th_d_3
-    21301510: arms_male_platemail_th_d_4
-    21301512: arms_male_platemail_th_d_5
-    21301514: arms_male_platemail_th_d_6
-    21301516: arms_male_platemail_th_d_7
-    21301518: arms_male_platemail_th_l_0
-    21301520: arms_male_platemail_th_l_1
-    21301522: arms_male_platemail_th_l_2
-    21301524: arms_male_platemail_th_l_3
-    21301526: arms_male_platemail_th_l_4
-    21301528: arms_male_platemail_th_l_5
-    21301530: arms_male_platemail_th_l_6
-    21301532: arms_male_platemail_th_l_7
-    21301534: arms_male_platemail_th_t_0
-    21301536: arms_male_platemail_th_t_1
-    21301538: arms_male_platemail_th_t_2
-    21301540: arms_male_platemail_th_t_3
-    21301542: arms_male_platemail_th_t_4
-    21301544: arms_male_platemail_th_t_5
-    21301546: arms_male_platemail_th_t_6
-    21301548: arms_male_platemail_th_t_7
-    21301550: arms_male_platemail_sc_r_0
-    21301552: arms_male_platemail_sc_r_1
-    21301554: arms_male_platemail_sc_r_2
-    21301556: arms_male_platemail_sc_r_3
-    21301558: arms_male_platemail_sc_r_4
-    21301560: arms_male_platemail_sc_r_5
-    21301562: arms_male_platemail_sc_r_6
-    21301564: arms_male_platemail_sc_d_0
-    21301566: arms_male_platemail_sc_d_1
-    21301568: arms_male_platemail_sc_d_2
-    21301570: arms_male_platemail_sc_d_3
-    21301572: arms_male_platemail_sc_d_4
-    21301574: arms_male_platemail_sc_d_5
-    21301576: arms_male_platemail_sc_d_6
-    21301578: arms_male_platemail_sc_l_0
-    21301580: arms_male_platemail_sc_l_1
-    21301582: arms_male_platemail_sc_l_2
-    21301584: arms_male_platemail_sc_l_3
-    21301586: arms_male_platemail_sc_l_4
-    21301588: arms_male_platemail_sc_l_5
-    21301590: arms_male_platemail_sc_l_6
-    21301592: arms_male_platemail_sc_t_0
-    21301594: arms_male_platemail_sc_t_1
-    21301596: arms_male_platemail_sc_t_2
-    21301598: arms_male_platemail_sc_t_3
-    21301600: arms_male_platemail_sc_t_4
-    21301602: arms_male_platemail_sc_t_5
-    21301604: arms_male_platemail_sc_t_6
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: male_platemail_hu_0
+  - first:
+      213: 21300002
+    second: male_platemail_hu_1
+  - first:
+      213: 21300004
+    second: male_platemail_hu_2
+  - first:
+      213: 21300006
+    second: male_platemail_hu_3
+  - first:
+      213: 21300008
+    second: male_platemail_hu_4
+  - first:
+      213: 21300010
+    second: male_platemail_hu_5
+  - first:
+      213: 21300012
+    second: male_platemail_hu_6
+  - first:
+      213: 21300014
+    second: male_platemail_hu_7
+  - first:
+      213: 21300016
+    second: male_platemail_hu_8
+  - first:
+      213: 21300018
+    second: male_platemail_hu_9
+  - first:
+      213: 21300020
+    second: male_platemail_hu_10
+  - first:
+      213: 21300022
+    second: male_platemail_hu_11
+  - first:
+      213: 21300024
+    second: male_platemail_hu_12
+  - first:
+      213: 21300026
+    second: male_platemail_sh_r_0
+  - first:
+      213: 21300028
+    second: male_platemail_sh_r_1
+  - first:
+      213: 21300030
+    second: male_platemail_sh_r_2
+  - first:
+      213: 21300032
+    second: male_platemail_sh_r_3
+  - first:
+      213: 21300034
+    second: male_platemail_sh_r_4
+  - first:
+      213: 21300036
+    second: male_platemail_sh_r_5
+  - first:
+      213: 21300038
+    second: male_platemail_sh_r_6
+  - first:
+      213: 21300040
+    second: male_platemail_sh_r_7
+  - first:
+      213: 21300042
+    second: male_platemail_sh_r_8
+  - first:
+      213: 21300044
+    second: male_platemail_sh_r_9
+  - first:
+      213: 21300046
+    second: male_platemail_sh_r_10
+  - first:
+      213: 21300048
+    second: male_platemail_sh_r_11
+  - first:
+      213: 21300050
+    second: male_platemail_sh_r_12
+  - first:
+      213: 21300052
+    second: male_platemail_sh_d_0
+  - first:
+      213: 21300054
+    second: male_platemail_sh_d_1
+  - first:
+      213: 21300056
+    second: male_platemail_sh_d_2
+  - first:
+      213: 21300058
+    second: male_platemail_sh_d_3
+  - first:
+      213: 21300060
+    second: male_platemail_sh_d_4
+  - first:
+      213: 21300062
+    second: male_platemail_sh_d_5
+  - first:
+      213: 21300064
+    second: male_platemail_sh_d_6
+  - first:
+      213: 21300066
+    second: male_platemail_sh_d_7
+  - first:
+      213: 21300068
+    second: male_platemail_sh_d_8
+  - first:
+      213: 21300070
+    second: male_platemail_sh_d_9
+  - first:
+      213: 21300072
+    second: male_platemail_sh_d_10
+  - first:
+      213: 21300074
+    second: male_platemail_sh_d_11
+  - first:
+      213: 21300076
+    second: male_platemail_sh_d_12
+  - first:
+      213: 21300078
+    second: male_platemail_sh_l_0
+  - first:
+      213: 21300080
+    second: male_platemail_sh_l_1
+  - first:
+      213: 21300082
+    second: male_platemail_sh_l_2
+  - first:
+      213: 21300084
+    second: male_platemail_sh_l_3
+  - first:
+      213: 21300086
+    second: male_platemail_sh_l_4
+  - first:
+      213: 21300088
+    second: male_platemail_sh_l_5
+  - first:
+      213: 21300090
+    second: male_platemail_sh_l_6
+  - first:
+      213: 21300092
+    second: male_platemail_sh_l_7
+  - first:
+      213: 21300094
+    second: male_platemail_sh_l_8
+  - first:
+      213: 21300096
+    second: male_platemail_sh_l_9
+  - first:
+      213: 21300098
+    second: male_platemail_sh_l_10
+  - first:
+      213: 21300100
+    second: male_platemail_sh_l_11
+  - first:
+      213: 21300102
+    second: male_platemail_sh_l_12
+  - first:
+      213: 21300104
+    second: male_platemail_sh_t_0
+  - first:
+      213: 21300106
+    second: male_platemail_sh_t_1
+  - first:
+      213: 21300108
+    second: male_platemail_sh_t_2
+  - first:
+      213: 21300110
+    second: male_platemail_sh_t_3
+  - first:
+      213: 21300112
+    second: male_platemail_sh_t_4
+  - first:
+      213: 21300114
+    second: male_platemail_sh_t_5
+  - first:
+      213: 21300116
+    second: male_platemail_sh_t_6
+  - first:
+      213: 21300118
+    second: male_platemail_sh_t_7
+  - first:
+      213: 21300120
+    second: male_platemail_sh_t_8
+  - first:
+      213: 21300122
+    second: male_platemail_sh_t_9
+  - first:
+      213: 21300124
+    second: male_platemail_sh_t_10
+  - first:
+      213: 21300126
+    second: male_platemail_sh_t_11
+  - first:
+      213: 21300128
+    second: male_platemail_sh_t_12
+  - first:
+      213: 21300130
+    second: male_platemail_sl_r_0
+  - first:
+      213: 21300132
+    second: male_platemail_sl_r_1
+  - first:
+      213: 21300134
+    second: male_platemail_sl_r_2
+  - first:
+      213: 21300136
+    second: male_platemail_sl_r_3
+  - first:
+      213: 21300138
+    second: male_platemail_sl_r_4
+  - first:
+      213: 21300140
+    second: male_platemail_sl_r_5
+  - first:
+      213: 21300142
+    second: male_platemail_sl_r_6
+  - first:
+      213: 21300144
+    second: male_platemail_sl_r_7
+  - first:
+      213: 21300146
+    second: male_platemail_sl_r_8
+  - first:
+      213: 21300148
+    second: male_platemail_sl_r_9
+  - first:
+      213: 21300150
+    second: male_platemail_sl_r_10
+  - first:
+      213: 21300152
+    second: male_platemail_sl_r_11
+  - first:
+      213: 21300154
+    second: male_platemail_sl_r_12
+  - first:
+      213: 21300156
+    second: male_platemail_sl_d_0
+  - first:
+      213: 21300158
+    second: male_platemail_sl_d_1
+  - first:
+      213: 21300160
+    second: male_platemail_sl_d_2
+  - first:
+      213: 21300162
+    second: male_platemail_sl_d_3
+  - first:
+      213: 21300164
+    second: male_platemail_sl_d_4
+  - first:
+      213: 21300166
+    second: male_platemail_sl_d_5
+  - first:
+      213: 21300168
+    second: male_platemail_sl_d_6
+  - first:
+      213: 21300170
+    second: male_platemail_sl_d_7
+  - first:
+      213: 21300172
+    second: male_platemail_sl_d_8
+  - first:
+      213: 21300174
+    second: male_platemail_sl_d_9
+  - first:
+      213: 21300176
+    second: male_platemail_sl_d_10
+  - first:
+      213: 21300178
+    second: male_platemail_sl_d_11
+  - first:
+      213: 21300180
+    second: male_platemail_sl_d_12
+  - first:
+      213: 21300182
+    second: male_platemail_sl_l_0
+  - first:
+      213: 21300184
+    second: male_platemail_sl_l_1
+  - first:
+      213: 21300186
+    second: male_platemail_sl_l_2
+  - first:
+      213: 21300188
+    second: male_platemail_sl_l_3
+  - first:
+      213: 21300190
+    second: male_platemail_sl_l_4
+  - first:
+      213: 21300192
+    second: male_platemail_sl_l_5
+  - first:
+      213: 21300194
+    second: male_platemail_sl_l_6
+  - first:
+      213: 21300196
+    second: male_platemail_sl_l_7
+  - first:
+      213: 21300198
+    second: male_platemail_sl_l_8
+  - first:
+      213: 21300200
+    second: male_platemail_sl_l_9
+  - first:
+      213: 21300202
+    second: male_platemail_sl_l_10
+  - first:
+      213: 21300204
+    second: male_platemail_sl_l_11
+  - first:
+      213: 21300206
+    second: male_platemail_sl_l_12
+  - first:
+      213: 21300208
+    second: male_platemail_sl_t_0
+  - first:
+      213: 21300210
+    second: male_platemail_sl_t_1
+  - first:
+      213: 21300212
+    second: male_platemail_sl_t_2
+  - first:
+      213: 21300214
+    second: male_platemail_sl_t_3
+  - first:
+      213: 21300216
+    second: male_platemail_sl_t_4
+  - first:
+      213: 21300218
+    second: male_platemail_sl_t_5
+  - first:
+      213: 21300220
+    second: male_platemail_sl_t_6
+  - first:
+      213: 21300222
+    second: male_platemail_sl_t_7
+  - first:
+      213: 21300224
+    second: male_platemail_sl_t_8
+  - first:
+      213: 21300226
+    second: male_platemail_sl_t_9
+  - first:
+      213: 21300228
+    second: male_platemail_sl_t_10
+  - first:
+      213: 21300230
+    second: male_platemail_sl_t_11
+  - first:
+      213: 21300232
+    second: male_platemail_sl_t_12
+  - first:
+      213: 21300234
+    second: male_platemail_wc_r_0
+  - first:
+      213: 21300236
+    second: male_platemail_wc_r_1
+  - first:
+      213: 21300238
+    second: male_platemail_wc_r_2
+  - first:
+      213: 21300240
+    second: male_platemail_wc_r_3
+  - first:
+      213: 21300242
+    second: male_platemail_wc_r_4
+  - first:
+      213: 21300244
+    second: male_platemail_wc_r_5
+  - first:
+      213: 21300246
+    second: male_platemail_wc_r_6
+  - first:
+      213: 21300248
+    second: male_platemail_wc_r_7
+  - first:
+      213: 21300250
+    second: male_platemail_wc_r_8
+  - first:
+      213: 21300252
+    second: male_platemail_wc_r_9
+  - first:
+      213: 21300254
+    second: male_platemail_wc_r_10
+  - first:
+      213: 21300256
+    second: male_platemail_wc_r_11
+  - first:
+      213: 21300258
+    second: male_platemail_wc_r_12
+  - first:
+      213: 21300260
+    second: male_platemail_wc_d_0
+  - first:
+      213: 21300262
+    second: male_platemail_wc_d_1
+  - first:
+      213: 21300264
+    second: male_platemail_wc_d_2
+  - first:
+      213: 21300266
+    second: male_platemail_wc_d_3
+  - first:
+      213: 21300268
+    second: male_platemail_wc_d_4
+  - first:
+      213: 21300270
+    second: male_platemail_wc_d_5
+  - first:
+      213: 21300272
+    second: male_platemail_wc_d_6
+  - first:
+      213: 21300274
+    second: male_platemail_wc_d_7
+  - first:
+      213: 21300276
+    second: male_platemail_wc_d_8
+  - first:
+      213: 21300278
+    second: male_platemail_wc_d_9
+  - first:
+      213: 21300280
+    second: male_platemail_wc_d_10
+  - first:
+      213: 21300282
+    second: male_platemail_wc_d_11
+  - first:
+      213: 21300284
+    second: male_platemail_wc_d_12
+  - first:
+      213: 21300286
+    second: male_platemail_wc_l_0
+  - first:
+      213: 21300288
+    second: male_platemail_wc_l_1
+  - first:
+      213: 21300290
+    second: male_platemail_wc_l_2
+  - first:
+      213: 21300292
+    second: male_platemail_wc_l_3
+  - first:
+      213: 21300294
+    second: male_platemail_wc_l_4
+  - first:
+      213: 21300296
+    second: male_platemail_wc_l_5
+  - first:
+      213: 21300298
+    second: male_platemail_wc_l_6
+  - first:
+      213: 21300300
+    second: male_platemail_wc_l_7
+  - first:
+      213: 21300302
+    second: male_platemail_wc_l_8
+  - first:
+      213: 21300304
+    second: male_platemail_wc_l_9
+  - first:
+      213: 21300306
+    second: male_platemail_wc_l_10
+  - first:
+      213: 21300308
+    second: male_platemail_wc_l_11
+  - first:
+      213: 21300310
+    second: male_platemail_wc_l_12
+  - first:
+      213: 21300312
+    second: male_platemail_wc_t_0
+  - first:
+      213: 21300314
+    second: male_platemail_wc_t_1
+  - first:
+      213: 21300316
+    second: male_platemail_wc_t_2
+  - first:
+      213: 21300318
+    second: male_platemail_wc_t_3
+  - first:
+      213: 21300320
+    second: male_platemail_wc_t_4
+  - first:
+      213: 21300322
+    second: male_platemail_wc_t_5
+  - first:
+      213: 21300324
+    second: male_platemail_wc_t_6
+  - first:
+      213: 21300326
+    second: male_platemail_wc_t_7
+  - first:
+      213: 21300328
+    second: male_platemail_wc_t_8
+  - first:
+      213: 21300330
+    second: male_platemail_wc_t_9
+  - first:
+      213: 21300332
+    second: male_platemail_wc_t_10
+  - first:
+      213: 21300334
+    second: male_platemail_wc_t_11
+  - first:
+      213: 21300336
+    second: male_platemail_wc_t_12
+  - first:
+      213: 21300338
+    second: male_platemail_th_r_0
+  - first:
+      213: 21300340
+    second: male_platemail_th_r_1
+  - first:
+      213: 21300342
+    second: male_platemail_th_r_2
+  - first:
+      213: 21300344
+    second: male_platemail_th_r_3
+  - first:
+      213: 21300346
+    second: male_platemail_th_r_4
+  - first:
+      213: 21300348
+    second: male_platemail_th_r_5
+  - first:
+      213: 21300350
+    second: male_platemail_th_r_6
+  - first:
+      213: 21300352
+    second: male_platemail_th_r_7
+  - first:
+      213: 21300354
+    second: male_platemail_th_r_8
+  - first:
+      213: 21300356
+    second: male_platemail_th_r_9
+  - first:
+      213: 21300358
+    second: male_platemail_th_r_10
+  - first:
+      213: 21300360
+    second: male_platemail_th_r_11
+  - first:
+      213: 21300362
+    second: male_platemail_th_r_12
+  - first:
+      213: 21300364
+    second: male_platemail_th_d_0
+  - first:
+      213: 21300366
+    second: male_platemail_th_d_1
+  - first:
+      213: 21300368
+    second: male_platemail_th_d_2
+  - first:
+      213: 21300370
+    second: male_platemail_th_d_3
+  - first:
+      213: 21300372
+    second: male_platemail_th_d_4
+  - first:
+      213: 21300374
+    second: male_platemail_th_d_5
+  - first:
+      213: 21300376
+    second: male_platemail_th_d_6
+  - first:
+      213: 21300378
+    second: male_platemail_th_d_7
+  - first:
+      213: 21300380
+    second: male_platemail_th_d_8
+  - first:
+      213: 21300382
+    second: male_platemail_th_d_9
+  - first:
+      213: 21300384
+    second: male_platemail_th_d_10
+  - first:
+      213: 21300386
+    second: male_platemail_th_d_11
+  - first:
+      213: 21300388
+    second: male_platemail_th_d_12
+  - first:
+      213: 21300390
+    second: male_platemail_th_l_0
+  - first:
+      213: 21300392
+    second: male_platemail_th_l_1
+  - first:
+      213: 21300394
+    second: male_platemail_th_l_2
+  - first:
+      213: 21300396
+    second: male_platemail_th_l_3
+  - first:
+      213: 21300398
+    second: male_platemail_th_l_4
+  - first:
+      213: 21300400
+    second: male_platemail_th_l_5
+  - first:
+      213: 21300402
+    second: male_platemail_th_l_6
+  - first:
+      213: 21300404
+    second: male_platemail_th_l_7
+  - first:
+      213: 21300406
+    second: male_platemail_th_l_8
+  - first:
+      213: 21300408
+    second: male_platemail_th_l_9
+  - first:
+      213: 21300410
+    second: male_platemail_th_l_10
+  - first:
+      213: 21300412
+    second: male_platemail_th_l_11
+  - first:
+      213: 21300414
+    second: male_platemail_th_l_12
+  - first:
+      213: 21300416
+    second: male_platemail_th_t_0
+  - first:
+      213: 21300418
+    second: male_platemail_th_t_1
+  - first:
+      213: 21300420
+    second: male_platemail_th_t_2
+  - first:
+      213: 21300422
+    second: male_platemail_th_t_3
+  - first:
+      213: 21300424
+    second: male_platemail_th_t_4
+  - first:
+      213: 21300426
+    second: male_platemail_th_t_5
+  - first:
+      213: 21300428
+    second: male_platemail_th_t_6
+  - first:
+      213: 21300430
+    second: male_platemail_th_t_7
+  - first:
+      213: 21300432
+    second: male_platemail_th_t_8
+  - first:
+      213: 21300434
+    second: male_platemail_th_t_9
+  - first:
+      213: 21300436
+    second: male_platemail_th_t_10
+  - first:
+      213: 21300438
+    second: male_platemail_th_t_11
+  - first:
+      213: 21300440
+    second: male_platemail_th_t_12
+  - first:
+      213: 21300442
+    second: male_platemail_sc_r_0
+  - first:
+      213: 21300444
+    second: male_platemail_sc_r_1
+  - first:
+      213: 21300446
+    second: male_platemail_sc_r_2
+  - first:
+      213: 21300448
+    second: male_platemail_sc_r_3
+  - first:
+      213: 21300450
+    second: male_platemail_sc_r_4
+  - first:
+      213: 21300452
+    second: male_platemail_sc_r_5
+  - first:
+      213: 21300454
+    second: male_platemail_sc_r_6
+  - first:
+      213: 21300456
+    second: male_platemail_sc_r_7
+  - first:
+      213: 21300458
+    second: male_platemail_sc_r_8
+  - first:
+      213: 21300460
+    second: male_platemail_sc_r_9
+  - first:
+      213: 21300462
+    second: male_platemail_sc_r_10
+  - first:
+      213: 21300464
+    second: male_platemail_sc_r_11
+  - first:
+      213: 21300466
+    second: male_platemail_sc_r_12
+  - first:
+      213: 21300468
+    second: male_platemail_sc_d_0
+  - first:
+      213: 21300470
+    second: male_platemail_sc_d_1
+  - first:
+      213: 21300472
+    second: male_platemail_sc_d_2
+  - first:
+      213: 21300474
+    second: male_platemail_sc_d_3
+  - first:
+      213: 21300476
+    second: male_platemail_sc_d_4
+  - first:
+      213: 21300478
+    second: male_platemail_sc_d_5
+  - first:
+      213: 21300480
+    second: male_platemail_sc_d_6
+  - first:
+      213: 21300482
+    second: male_platemail_sc_d_7
+  - first:
+      213: 21300484
+    second: male_platemail_sc_d_8
+  - first:
+      213: 21300486
+    second: male_platemail_sc_d_9
+  - first:
+      213: 21300488
+    second: male_platemail_sc_d_10
+  - first:
+      213: 21300490
+    second: male_platemail_sc_d_11
+  - first:
+      213: 21300492
+    second: male_platemail_sc_d_12
+  - first:
+      213: 21300494
+    second: male_platemail_sc_l_0
+  - first:
+      213: 21300496
+    second: male_platemail_sc_l_1
+  - first:
+      213: 21300498
+    second: male_platemail_sc_l_2
+  - first:
+      213: 21300500
+    second: male_platemail_sc_l_3
+  - first:
+      213: 21300502
+    second: male_platemail_sc_l_4
+  - first:
+      213: 21300504
+    second: male_platemail_sc_l_5
+  - first:
+      213: 21300506
+    second: male_platemail_sc_l_6
+  - first:
+      213: 21300508
+    second: male_platemail_sc_l_7
+  - first:
+      213: 21300510
+    second: male_platemail_sc_l_8
+  - first:
+      213: 21300512
+    second: male_platemail_sc_l_9
+  - first:
+      213: 21300514
+    second: male_platemail_sc_l_10
+  - first:
+      213: 21300516
+    second: male_platemail_sc_l_11
+  - first:
+      213: 21300518
+    second: male_platemail_sc_l_12
+  - first:
+      213: 21300520
+    second: male_platemail_sc_t_0
+  - first:
+      213: 21300522
+    second: male_platemail_sc_t_1
+  - first:
+      213: 21300524
+    second: male_platemail_sc_t_2
+  - first:
+      213: 21300526
+    second: male_platemail_sc_t_3
+  - first:
+      213: 21300528
+    second: male_platemail_sc_t_4
+  - first:
+      213: 21300530
+    second: male_platemail_sc_t_5
+  - first:
+      213: 21300532
+    second: male_platemail_sc_t_6
+  - first:
+      213: 21300534
+    second: male_platemail_sc_t_7
+  - first:
+      213: 21300536
+    second: male_platemail_sc_t_8
+  - first:
+      213: 21300538
+    second: male_platemail_sc_t_9
+  - first:
+      213: 21300540
+    second: male_platemail_sc_t_10
+  - first:
+      213: 21300542
+    second: male_platemail_sc_t_11
+  - first:
+      213: 21300544
+    second: male_platemail_sc_t_12
+  - first:
+      213: 21300546
+    second: platemail_0
+  - first:
+      213: 21300548
+    second: platemail_1
+  - first:
+      213: 21300550
+    second: platemail_2
+  - first:
+      213: 21300552
+    second: platemail_3
+  - first:
+      213: 21300554
+    second: platemail_4
+  - first:
+      213: 21300556
+    second: platemail_5
+  - first:
+      213: 21300558
+    second: platemail_6
+  - first:
+      213: 21300560
+    second: platemail_7
+  - first:
+      213: 21300562
+    second: platemail_8
+  - first:
+      213: 21300564
+    second: platemail_9
+  - first:
+      213: 21300566
+    second: platemail_10
+  - first:
+      213: 21300568
+    second: platemail_11
+  - first:
+      213: 21300570
+    second: platemail_12
+  - first:
+      213: 21300572
+    second: platemail_13
+  - first:
+      213: 21300574
+    second: platemail_14
+  - first:
+      213: 21300576
+    second: platemail_15
+  - first:
+      213: 21300578
+    second: platemail_16
+  - first:
+      213: 21300580
+    second: platemail_17
+  - first:
+      213: 21300582
+    second: platemail_18
+  - first:
+      213: 21300584
+    second: platemail_19
+  - first:
+      213: 21300586
+    second: platemail_20
+  - first:
+      213: 21300588
+    second: platemail_21
+  - first:
+      213: 21300590
+    second: platemail_22
+  - first:
+      213: 21300592
+    second: platemail_23
+  - first:
+      213: 21300594
+    second: platemail_24
+  - first:
+      213: 21300596
+    second: platemail_25
+  - first:
+      213: 21300598
+    second: platemail_26
+  - first:
+      213: 21300600
+    second: platemail_27
+  - first:
+      213: 21300602
+    second: platemail_28
+  - first:
+      213: 21300604
+    second: platemail_29
+  - first:
+      213: 21300606
+    second: platemail_30
+  - first:
+      213: 21300608
+    second: platemail_31
+  - first:
+      213: 21300610
+    second: platemail_32
+  - first:
+      213: 21300612
+    second: platemail_33
+  - first:
+      213: 21300614
+    second: platemail_34
+  - first:
+      213: 21300616
+    second: platemail_35
+  - first:
+      213: 21300618
+    second: platemail_36
+  - first:
+      213: 21300620
+    second: platemail_37
+  - first:
+      213: 21300622
+    second: platemail_38
+  - first:
+      213: 21300624
+    second: platemail_39
+  - first:
+      213: 21300626
+    second: platemail_40
+  - first:
+      213: 21300628
+    second: platemail_41
+  - first:
+      213: 21300630
+    second: platemail_42
+  - first:
+      213: 21300632
+    second: platemail_43
+  - first:
+      213: 21300634
+    second: platemail_44
+  - first:
+      213: 21300636
+    second: platemail_45
+  - first:
+      213: 21300638
+    second: platemail_46
+  - first:
+      213: 21300640
+    second: platemail_47
+  - first:
+      213: 21300642
+    second: platemail_48
+  - first:
+      213: 21300644
+    second: platemail_49
+  - first:
+      213: 21300646
+    second: platemail_50
+  - first:
+      213: 21300648
+    second: platemail_51
+  - first:
+      213: 21300650
+    second: platemail_52
+  - first:
+      213: 21300652
+    second: platemail_53
+  - first:
+      213: 21300654
+    second: platemail_54
+  - first:
+      213: 21300656
+    second: platemail_55
+  - first:
+      213: 21300658
+    second: platemail_56
+  - first:
+      213: 21300660
+    second: platemail_57
+  - first:
+      213: 21300662
+    second: platemail_58
+  - first:
+      213: 21300664
+    second: platemail_59
+  - first:
+      213: 21300666
+    second: platemail_60
+  - first:
+      213: 21300668
+    second: platemail_61
+  - first:
+      213: 21300670
+    second: platemail_62
+  - first:
+      213: 21300672
+    second: platemail_63
+  - first:
+      213: 21300674
+    second: platemail_64
+  - first:
+      213: 21300676
+    second: platemail_65
+  - first:
+      213: 21300678
+    second: platemail_66
+  - first:
+      213: 21300680
+    second: platemail_67
+  - first:
+      213: 21300682
+    second: platemail_68
+  - first:
+      213: 21300684
+    second: platemail_69
+  - first:
+      213: 21300686
+    second: platemail_70
+  - first:
+      213: 21300688
+    second: platemail_71
+  - first:
+      213: 21300690
+    second: platemail_72
+  - first:
+      213: 21300692
+    second: platemail_73
+  - first:
+      213: 21300694
+    second: platemail_74
+  - first:
+      213: 21300696
+    second: platemail_75
+  - first:
+      213: 21300698
+    second: platemail_76
+  - first:
+      213: 21300700
+    second: platemail_77
+  - first:
+      213: 21300702
+    second: platemail_78
+  - first:
+      213: 21300704
+    second: platemail_79
+  - first:
+      213: 21300706
+    second: platemail_80
+  - first:
+      213: 21300708
+    second: platemail_81
+  - first:
+      213: 21300710
+    second: platemail_82
+  - first:
+      213: 21300712
+    second: platemail_83
+  - first:
+      213: 21300714
+    second: platemail_84
+  - first:
+      213: 21300716
+    second: platemail_85
+  - first:
+      213: 21300718
+    second: platemail_86
+  - first:
+      213: 21300720
+    second: platemail_87
+  - first:
+      213: 21300722
+    second: platemail_88
+  - first:
+      213: 21300724
+    second: platemail_89
+  - first:
+      213: 21300726
+    second: platemail_90
+  - first:
+      213: 21300728
+    second: platemail_91
+  - first:
+      213: 21300730
+    second: platemail_92
+  - first:
+      213: 21300732
+    second: platemail_93
+  - first:
+      213: 21300734
+    second: platemail_94
+  - first:
+      213: 21300736
+    second: platemail_95
+  - first:
+      213: 21300738
+    second: platemail_96
+  - first:
+      213: 21300740
+    second: platemail_97
+  - first:
+      213: 21300742
+    second: platemail_98
+  - first:
+      213: 21300744
+    second: platemail_99
+  - first:
+      213: 21300746
+    second: platemail_100
+  - first:
+      213: 21300748
+    second: platemail_101
+  - first:
+      213: 21300750
+    second: platemail_102
+  - first:
+      213: 21300752
+    second: platemail_103
+  - first:
+      213: 21300754
+    second: platemail_104
+  - first:
+      213: 21300756
+    second: platemail_105
+  - first:
+      213: 21300758
+    second: platemail_106
+  - first:
+      213: 21300760
+    second: platemail_107
+  - first:
+      213: 21300762
+    second: platemail_108
+  - first:
+      213: 21300764
+    second: platemail_109
+  - first:
+      213: 21300766
+    second: platemail_110
+  - first:
+      213: 21300768
+    second: platemail_111
+  - first:
+      213: 21300770
+    second: platemail_112
+  - first:
+      213: 21300772
+    second: platemail_113
+  - first:
+      213: 21300774
+    second: platemail_114
+  - first:
+      213: 21300776
+    second: platemail_115
+  - first:
+      213: 21300778
+    second: platemail_116
+  - first:
+      213: 21300780
+    second: platemail_117
+  - first:
+      213: 21300782
+    second: platemail_118
+  - first:
+      213: 21300784
+    second: platemail_119
+  - first:
+      213: 21300786
+    second: platemail_120
+  - first:
+      213: 21300788
+    second: platemail_121
+  - first:
+      213: 21300790
+    second: platemail_122
+  - first:
+      213: 21300792
+    second: platemail_123
+  - first:
+      213: 21300794
+    second: platemail_124
+  - first:
+      213: 21300796
+    second: platemail_125
+  - first:
+      213: 21300798
+    second: platemail_126
+  - first:
+      213: 21300800
+    second: platemail_127
+  - first:
+      213: 21300802
+    second: platemail_128
+  - first:
+      213: 21300804
+    second: platemail_129
+  - first:
+      213: 21300806
+    second: platemail_130
+  - first:
+      213: 21300808
+    second: platemail_131
+  - first:
+      213: 21300810
+    second: platemail_132
+  - first:
+      213: 21300812
+    second: platemail_133
+  - first:
+      213: 21300814
+    second: platemail_134
+  - first:
+      213: 21300816
+    second: platemail_135
+  - first:
+      213: 21300818
+    second: platemail_136
+  - first:
+      213: 21300820
+    second: platemail_137
+  - first:
+      213: 21300822
+    second: platemail_138
+  - first:
+      213: 21300824
+    second: platemail_139
+  - first:
+      213: 21300826
+    second: platemail_140
+  - first:
+      213: 21300828
+    second: platemail_141
+  - first:
+      213: 21300830
+    second: platemail_142
+  - first:
+      213: 21300832
+    second: platemail_143
+  - first:
+      213: 21300834
+    second: platemail_144
+  - first:
+      213: 21300836
+    second: platemail_145
+  - first:
+      213: 21300838
+    second: platemail_146
+  - first:
+      213: 21300840
+    second: platemail_147
+  - first:
+      213: 21300842
+    second: platemail_148
+  - first:
+      213: 21300844
+    second: platemail_149
+  - first:
+      213: 21300846
+    second: platemail_150
+  - first:
+      213: 21300848
+    second: platemail_151
+  - first:
+      213: 21300850
+    second: platemail_152
+  - first:
+      213: 21300852
+    second: platemail_153
+  - first:
+      213: 21300854
+    second: platemail_154
+  - first:
+      213: 21300856
+    second: platemail_155
+  - first:
+      213: 21300858
+    second: platemail_156
+  - first:
+      213: 21300860
+    second: platemail_157
+  - first:
+      213: 21300862
+    second: platemail_158
+  - first:
+      213: 21300864
+    second: platemail_159
+  - first:
+      213: 21300866
+    second: platemail_160
+  - first:
+      213: 21300868
+    second: platemail_161
+  - first:
+      213: 21300870
+    second: platemail_162
+  - first:
+      213: 21300872
+    second: platemail_163
+  - first:
+      213: 21300874
+    second: platemail_164
+  - first:
+      213: 21300876
+    second: platemail_165
+  - first:
+      213: 21300878
+    second: platemail_166
+  - first:
+      213: 21300880
+    second: platemail_167
+  - first:
+      213: 21300882
+    second: platemail_168
+  - first:
+      213: 21300884
+    second: platemail_169
+  - first:
+      213: 21300886
+    second: platemail_170
+  - first:
+      213: 21300888
+    second: platemail_171
+  - first:
+      213: 21300890
+    second: platemail_172
+  - first:
+      213: 21300892
+    second: platemail_173
+  - first:
+      213: 21300894
+    second: platemail_174
+  - first:
+      213: 21300896
+    second: platemail_175
+  - first:
+      213: 21300898
+    second: platemail_176
+  - first:
+      213: 21300900
+    second: platemail_177
+  - first:
+      213: 21300902
+    second: platemail_178
+  - first:
+      213: 21300904
+    second: platemail_179
+  - first:
+      213: 21300906
+    second: platemail_180
+  - first:
+      213: 21300908
+    second: platemail_181
+  - first:
+      213: 21300910
+    second: platemail_182
+  - first:
+      213: 21300912
+    second: platemail_183
+  - first:
+      213: 21300914
+    second: platemail_184
+  - first:
+      213: 21300916
+    second: platemail_185
+  - first:
+      213: 21300918
+    second: platemail_186
+  - first:
+      213: 21300920
+    second: platemail_187
+  - first:
+      213: 21300922
+    second: platemail_188
+  - first:
+      213: 21300924
+    second: platemail_189
+  - first:
+      213: 21300926
+    second: platemail_190
+  - first:
+      213: 21300928
+    second: platemail_191
+  - first:
+      213: 21300930
+    second: platemail_192
+  - first:
+      213: 21300932
+    second: platemail_193
+  - first:
+      213: 21300934
+    second: platemail_194
+  - first:
+      213: 21300936
+    second: platemail_195
+  - first:
+      213: 21300938
+    second: platemail_196
+  - first:
+      213: 21300940
+    second: platemail_197
+  - first:
+      213: 21300942
+    second: platemail_198
+  - first:
+      213: 21300944
+    second: platemail_199
+  - first:
+      213: 21300946
+    second: platemail_200
+  - first:
+      213: 21300948
+    second: platemail_201
+  - first:
+      213: 21300950
+    second: platemail_202
+  - first:
+      213: 21300952
+    second: platemail_203
+  - first:
+      213: 21300954
+    second: platemail_204
+  - first:
+      213: 21300956
+    second: platemail_205
+  - first:
+      213: 21300958
+    second: platemail_206
+  - first:
+      213: 21300960
+    second: platemail_207
+  - first:
+      213: 21300962
+    second: platemail_208
+  - first:
+      213: 21300964
+    second: platemail_209
+  - first:
+      213: 21300966
+    second: platemail_210
+  - first:
+      213: 21300968
+    second: platemail_211
+  - first:
+      213: 21300970
+    second: platemail_212
+  - first:
+      213: 21300972
+    second: platemail_213
+  - first:
+      213: 21300974
+    second: platemail_214
+  - first:
+      213: 21300976
+    second: platemail_215
+  - first:
+      213: 21300978
+    second: platemail_216
+  - first:
+      213: 21300980
+    second: platemail_217
+  - first:
+      213: 21300982
+    second: platemail_218
+  - first:
+      213: 21300984
+    second: platemail_219
+  - first:
+      213: 21300986
+    second: platemail_220
+  - first:
+      213: 21300988
+    second: platemail_221
+  - first:
+      213: 21300990
+    second: platemail_222
+  - first:
+      213: 21300992
+    second: platemail_223
+  - first:
+      213: 21300994
+    second: platemail_224
+  - first:
+      213: 21300996
+    second: platemail_225
+  - first:
+      213: 21300998
+    second: platemail_226
+  - first:
+      213: 21301000
+    second: platemail_227
+  - first:
+      213: 21301002
+    second: platemail_228
+  - first:
+      213: 21301004
+    second: platemail_229
+  - first:
+      213: 21301006
+    second: platemail_230
+  - first:
+      213: 21301008
+    second: platemail_231
+  - first:
+      213: 21301010
+    second: platemail_232
+  - first:
+      213: 21301012
+    second: platemail_233
+  - first:
+      213: 21301014
+    second: platemail_234
+  - first:
+      213: 21301016
+    second: platemail_235
+  - first:
+      213: 21301018
+    second: platemail_236
+  - first:
+      213: 21301020
+    second: platemail_237
+  - first:
+      213: 21301022
+    second: platemail_238
+  - first:
+      213: 21301024
+    second: platemail_239
+  - first:
+      213: 21301026
+    second: platemail_240
+  - first:
+      213: 21301028
+    second: platemail_241
+  - first:
+      213: 21301030
+    second: platemail_242
+  - first:
+      213: 21301032
+    second: platemail_243
+  - first:
+      213: 21301034
+    second: platemail_244
+  - first:
+      213: 21301036
+    second: platemail_245
+  - first:
+      213: 21301038
+    second: platemail_246
+  - first:
+      213: 21301040
+    second: platemail_247
+  - first:
+      213: 21301042
+    second: platemail_248
+  - first:
+      213: 21301044
+    second: platemail_249
+  - first:
+      213: 21301046
+    second: platemail_250
+  - first:
+      213: 21301048
+    second: platemail_251
+  - first:
+      213: 21301050
+    second: platemail_252
+  - first:
+      213: 21301052
+    second: platemail_253
+  - first:
+      213: 21301054
+    second: platemail_254
+  - first:
+      213: 21301056
+    second: platemail_255
+  - first:
+      213: 21301058
+    second: platemail_256
+  - first:
+      213: 21301060
+    second: platemail_257
+  - first:
+      213: 21301062
+    second: platemail_258
+  - first:
+      213: 21301064
+    second: platemail_259
+  - first:
+      213: 21301066
+    second: platemail_260
+  - first:
+      213: 21301068
+    second: platemail_261
+  - first:
+      213: 21301070
+    second: platemail_262
+  - first:
+      213: 21301072
+    second: platemail_263
+  - first:
+      213: 21301074
+    second: platemail_264
+  - first:
+      213: 21301076
+    second: platemail_265
+  - first:
+      213: 21301078
+    second: platemail_266
+  - first:
+      213: 21301080
+    second: platemail_267
+  - first:
+      213: 21301082
+    second: platemail_268
+  - first:
+      213: 21301084
+    second: platemail_269
+  - first:
+      213: 21301086
+    second: platemail_270
+  - first:
+      213: 21301088
+    second: platemail_271
+  - first:
+      213: 21301090
+    second: platemail_272
+  - first:
+      213: 21301092
+    second: platemail_273
+  - first:
+      213: 21301094
+    second: platemail_274
+  - first:
+      213: 21301096
+    second: platemail_275
+  - first:
+      213: 21301098
+    second: platemail_276
+  - first:
+      213: 21301100
+    second: platemail_277
+  - first:
+      213: 21301102
+    second: platemail_278
+  - first:
+      213: 21301104
+    second: platemail_279
+  - first:
+      213: 21301106
+    second: platemail_280
+  - first:
+      213: 21301108
+    second: platemail_281
+  - first:
+      213: 21301110
+    second: platemail_282
+  - first:
+      213: 21301112
+    second: platemail_283
+  - first:
+      213: 21301114
+    second: platemail_284
+  - first:
+      213: 21301116
+    second: platemail_285
+  - first:
+      213: 21301118
+    second: platemail_286
+  - first:
+      213: 21301120
+    second: platemail_287
+  - first:
+      213: 21301122
+    second: platemail_288
+  - first:
+      213: 21301124
+    second: platemail_289
+  - first:
+      213: 21301126
+    second: platemail_290
+  - first:
+      213: 21301128
+    second: platemail_291
+  - first:
+      213: 21301130
+    second: platemail_292
+  - first:
+      213: 21301132
+    second: platemail_293
+  - first:
+      213: 21301134
+    second: platemail_294
+  - first:
+      213: 21301136
+    second: platemail_295
+  - first:
+      213: 21301138
+    second: platemail_296
+  - first:
+      213: 21301140
+    second: platemail_297
+  - first:
+      213: 21301142
+    second: platemail_298
+  - first:
+      213: 21301144
+    second: platemail_299
+  - first:
+      213: 21301146
+    second: platemail_300
+  - first:
+      213: 21301148
+    second: platemail_301
+  - first:
+      213: 21301150
+    second: platemail_302
+  - first:
+      213: 21301152
+    second: platemail_303
+  - first:
+      213: 21301154
+    second: platemail_304
+  - first:
+      213: 21301156
+    second: platemail_305
+  - first:
+      213: 21301158
+    second: platemail_306
+  - first:
+      213: 21301160
+    second: platemail_307
+  - first:
+      213: 21301162
+    second: platemail_308
+  - first:
+      213: 21301164
+    second: platemail_309
+  - first:
+      213: 21301166
+    second: platemail_310
+  - first:
+      213: 21301168
+    second: platemail_311
+  - first:
+      213: 21301170
+    second: platemail_312
+  - first:
+      213: 21301172
+    second: platemail_313
+  - first:
+      213: 21301174
+    second: platemail_314
+  - first:
+      213: 21301176
+    second: platemail_315
+  - first:
+      213: 21301178
+    second: platemail_316
+  - first:
+      213: 21301180
+    second: platemail_317
+  - first:
+      213: 21301182
+    second: platemail_318
+  - first:
+      213: 21301184
+    second: platemail_319
+  - first:
+      213: 21301186
+    second: platemail_320
+  - first:
+      213: 21301188
+    second: platemail_321
+  - first:
+      213: 21301190
+    second: platemail_322
+  - first:
+      213: 21301192
+    second: platemail_323
+  - first:
+      213: 21301194
+    second: platemail_324
+  - first:
+      213: 21301196
+    second: platemail_325
+  - first:
+      213: 21301198
+    second: platemail_326
+  - first:
+      213: 21301200
+    second: platemail_327
+  - first:
+      213: 21301202
+    second: platemail_328
+  - first:
+      213: 21301204
+    second: platemail_329
+  - first:
+      213: 21301206
+    second: platemail_330
+  - first:
+      213: 21301208
+    second: platemail_331
+  - first:
+      213: 21301210
+    second: platemail_332
+  - first:
+      213: 21301212
+    second: platemail_333
+  - first:
+      213: 21301214
+    second: platemail_334
+  - first:
+      213: 21301216
+    second: platemail_335
+  - first:
+      213: 21301218
+    second: platemail_336
+  - first:
+      213: 21301220
+    second: platemail_337
+  - first:
+      213: 21301222
+    second: platemail_338
+  - first:
+      213: 21301224
+    second: platemail_339
+  - first:
+      213: 21301226
+    second: platemail_340
+  - first:
+      213: 21301228
+    second: platemail_341
+  - first:
+      213: 21301230
+    second: platemail_342
+  - first:
+      213: 21301232
+    second: platemail_343
+  - first:
+      213: 21301234
+    second: platemail_344
+  - first:
+      213: 21301236
+    second: platemail_345
+  - first:
+      213: 21301238
+    second: platemail_346
+  - first:
+      213: 21301240
+    second: platemail_347
+  - first:
+      213: 21301242
+    second: platemail_348
+  - first:
+      213: 21301244
+    second: platemail_349
+  - first:
+      213: 21301246
+    second: platemail_350
+  - first:
+      213: 21301248
+    second: platemail_351
+  - first:
+      213: 21301250
+    second: arms_male_platemail_hu_0
+  - first:
+      213: 21301252
+    second: arms_male_platemail_hu_1
+  - first:
+      213: 21301254
+    second: arms_male_platemail_hu_2
+  - first:
+      213: 21301256
+    second: arms_male_platemail_hu_3
+  - first:
+      213: 21301258
+    second: arms_male_platemail_hu_4
+  - first:
+      213: 21301260
+    second: arms_male_platemail_hu_5
+  - first:
+      213: 21301262
+    second: arms_male_platemail_sh_r_0
+  - first:
+      213: 21301264
+    second: arms_male_platemail_sh_r_1
+  - first:
+      213: 21301266
+    second: arms_male_platemail_sh_r_2
+  - first:
+      213: 21301268
+    second: arms_male_platemail_sh_r_3
+  - first:
+      213: 21301270
+    second: arms_male_platemail_sh_r_4
+  - first:
+      213: 21301272
+    second: arms_male_platemail_sh_r_5
+  - first:
+      213: 21301274
+    second: arms_male_platemail_sh_r_6
+  - first:
+      213: 21301276
+    second: arms_male_platemail_sh_r_7
+  - first:
+      213: 21301278
+    second: arms_male_platemail_sh_r_8
+  - first:
+      213: 21301280
+    second: arms_male_platemail_sh_r_9
+  - first:
+      213: 21301282
+    second: arms_male_platemail_sh_r_10
+  - first:
+      213: 21301284
+    second: arms_male_platemail_sh_r_11
+  - first:
+      213: 21301286
+    second: arms_male_platemail_sh_r_12
+  - first:
+      213: 21301288
+    second: arms_male_platemail_sh_d_0
+  - first:
+      213: 21301290
+    second: arms_male_platemail_sh_d_1
+  - first:
+      213: 21301292
+    second: arms_male_platemail_sh_d_2
+  - first:
+      213: 21301294
+    second: arms_male_platemail_sh_d_3
+  - first:
+      213: 21301296
+    second: arms_male_platemail_sh_d_4
+  - first:
+      213: 21301298
+    second: arms_male_platemail_sh_d_5
+  - first:
+      213: 21301300
+    second: arms_male_platemail_sh_d_6
+  - first:
+      213: 21301302
+    second: arms_male_platemail_sh_d_7
+  - first:
+      213: 21301304
+    second: arms_male_platemail_sh_d_8
+  - first:
+      213: 21301306
+    second: arms_male_platemail_sh_d_9
+  - first:
+      213: 21301308
+    second: arms_male_platemail_sh_d_10
+  - first:
+      213: 21301310
+    second: arms_male_platemail_sh_d_11
+  - first:
+      213: 21301312
+    second: arms_male_platemail_sh_d_12
+  - first:
+      213: 21301314
+    second: arms_male_platemail_sh_l_0
+  - first:
+      213: 21301316
+    second: arms_male_platemail_sh_l_1
+  - first:
+      213: 21301318
+    second: arms_male_platemail_sh_l_2
+  - first:
+      213: 21301320
+    second: arms_male_platemail_sh_l_3
+  - first:
+      213: 21301322
+    second: arms_male_platemail_sh_l_4
+  - first:
+      213: 21301324
+    second: arms_male_platemail_sh_l_5
+  - first:
+      213: 21301326
+    second: arms_male_platemail_sh_l_6
+  - first:
+      213: 21301328
+    second: arms_male_platemail_sh_l_7
+  - first:
+      213: 21301330
+    second: arms_male_platemail_sh_l_8
+  - first:
+      213: 21301332
+    second: arms_male_platemail_sh_l_9
+  - first:
+      213: 21301334
+    second: arms_male_platemail_sh_l_10
+  - first:
+      213: 21301336
+    second: arms_male_platemail_sh_l_11
+  - first:
+      213: 21301338
+    second: arms_male_platemail_sh_l_12
+  - first:
+      213: 21301340
+    second: arms_male_platemail_sh_t_0
+  - first:
+      213: 21301342
+    second: arms_male_platemail_sh_t_1
+  - first:
+      213: 21301344
+    second: arms_male_platemail_sh_t_2
+  - first:
+      213: 21301346
+    second: arms_male_platemail_sh_t_3
+  - first:
+      213: 21301348
+    second: arms_male_platemail_sh_t_4
+  - first:
+      213: 21301350
+    second: arms_male_platemail_sh_t_5
+  - first:
+      213: 21301352
+    second: arms_male_platemail_sh_t_6
+  - first:
+      213: 21301354
+    second: arms_male_platemail_sh_t_7
+  - first:
+      213: 21301356
+    second: arms_male_platemail_sh_t_8
+  - first:
+      213: 21301358
+    second: arms_male_platemail_sh_t_9
+  - first:
+      213: 21301360
+    second: arms_male_platemail_sh_t_10
+  - first:
+      213: 21301362
+    second: arms_male_platemail_sh_t_11
+  - first:
+      213: 21301364
+    second: arms_male_platemail_sh_t_12
+  - first:
+      213: 21301366
+    second: arms_male_platemail_sl_r_0
+  - first:
+      213: 21301368
+    second: arms_male_platemail_sl_r_1
+  - first:
+      213: 21301370
+    second: arms_male_platemail_sl_r_2
+  - first:
+      213: 21301372
+    second: arms_male_platemail_sl_r_3
+  - first:
+      213: 21301374
+    second: arms_male_platemail_sl_r_4
+  - first:
+      213: 21301376
+    second: arms_male_platemail_sl_r_5
+  - first:
+      213: 21301378
+    second: arms_male_platemail_sl_d_0
+  - first:
+      213: 21301380
+    second: arms_male_platemail_sl_d_1
+  - first:
+      213: 21301382
+    second: arms_male_platemail_sl_d_2
+  - first:
+      213: 21301384
+    second: arms_male_platemail_sl_d_3
+  - first:
+      213: 21301386
+    second: arms_male_platemail_sl_d_4
+  - first:
+      213: 21301388
+    second: arms_male_platemail_sl_d_5
+  - first:
+      213: 21301390
+    second: arms_male_platemail_sl_l_0
+  - first:
+      213: 21301392
+    second: arms_male_platemail_sl_l_1
+  - first:
+      213: 21301394
+    second: arms_male_platemail_sl_l_2
+  - first:
+      213: 21301396
+    second: arms_male_platemail_sl_l_3
+  - first:
+      213: 21301398
+    second: arms_male_platemail_sl_l_4
+  - first:
+      213: 21301400
+    second: arms_male_platemail_sl_l_5
+  - first:
+      213: 21301402
+    second: arms_male_platemail_sl_t_0
+  - first:
+      213: 21301404
+    second: arms_male_platemail_sl_t_1
+  - first:
+      213: 21301406
+    second: arms_male_platemail_sl_t_2
+  - first:
+      213: 21301408
+    second: arms_male_platemail_sl_t_3
+  - first:
+      213: 21301410
+    second: arms_male_platemail_sl_t_4
+  - first:
+      213: 21301412
+    second: arms_male_platemail_sl_t_5
+  - first:
+      213: 21301414
+    second: arms_male_platemail_wc_r_0
+  - first:
+      213: 21301416
+    second: arms_male_platemail_wc_r_1
+  - first:
+      213: 21301418
+    second: arms_male_platemail_wc_r_2
+  - first:
+      213: 21301420
+    second: arms_male_platemail_wc_r_3
+  - first:
+      213: 21301422
+    second: arms_male_platemail_wc_r_4
+  - first:
+      213: 21301424
+    second: arms_male_platemail_wc_r_5
+  - first:
+      213: 21301426
+    second: arms_male_platemail_wc_r_6
+  - first:
+      213: 21301428
+    second: arms_male_platemail_wc_r_7
+  - first:
+      213: 21301430
+    second: arms_male_platemail_wc_r_8
+  - first:
+      213: 21301432
+    second: arms_male_platemail_wc_d_0
+  - first:
+      213: 21301434
+    second: arms_male_platemail_wc_d_1
+  - first:
+      213: 21301436
+    second: arms_male_platemail_wc_d_2
+  - first:
+      213: 21301438
+    second: arms_male_platemail_wc_d_3
+  - first:
+      213: 21301440
+    second: arms_male_platemail_wc_d_4
+  - first:
+      213: 21301442
+    second: arms_male_platemail_wc_d_5
+  - first:
+      213: 21301444
+    second: arms_male_platemail_wc_d_6
+  - first:
+      213: 21301446
+    second: arms_male_platemail_wc_d_7
+  - first:
+      213: 21301448
+    second: arms_male_platemail_wc_d_8
+  - first:
+      213: 21301450
+    second: arms_male_platemail_wc_l_0
+  - first:
+      213: 21301452
+    second: arms_male_platemail_wc_l_1
+  - first:
+      213: 21301454
+    second: arms_male_platemail_wc_l_2
+  - first:
+      213: 21301456
+    second: arms_male_platemail_wc_l_3
+  - first:
+      213: 21301458
+    second: arms_male_platemail_wc_l_4
+  - first:
+      213: 21301460
+    second: arms_male_platemail_wc_l_5
+  - first:
+      213: 21301462
+    second: arms_male_platemail_wc_l_6
+  - first:
+      213: 21301464
+    second: arms_male_platemail_wc_l_7
+  - first:
+      213: 21301466
+    second: arms_male_platemail_wc_l_8
+  - first:
+      213: 21301468
+    second: arms_male_platemail_wc_t_0
+  - first:
+      213: 21301470
+    second: arms_male_platemail_wc_t_1
+  - first:
+      213: 21301472
+    second: arms_male_platemail_wc_t_2
+  - first:
+      213: 21301474
+    second: arms_male_platemail_wc_t_3
+  - first:
+      213: 21301476
+    second: arms_male_platemail_wc_t_4
+  - first:
+      213: 21301478
+    second: arms_male_platemail_wc_t_5
+  - first:
+      213: 21301480
+    second: arms_male_platemail_wc_t_6
+  - first:
+      213: 21301482
+    second: arms_male_platemail_wc_t_7
+  - first:
+      213: 21301484
+    second: arms_male_platemail_wc_t_8
+  - first:
+      213: 21301486
+    second: arms_male_platemail_th_r_0
+  - first:
+      213: 21301488
+    second: arms_male_platemail_th_r_1
+  - first:
+      213: 21301490
+    second: arms_male_platemail_th_r_2
+  - first:
+      213: 21301492
+    second: arms_male_platemail_th_r_3
+  - first:
+      213: 21301494
+    second: arms_male_platemail_th_r_4
+  - first:
+      213: 21301496
+    second: arms_male_platemail_th_r_5
+  - first:
+      213: 21301498
+    second: arms_male_platemail_th_r_6
+  - first:
+      213: 21301500
+    second: arms_male_platemail_th_r_7
+  - first:
+      213: 21301502
+    second: arms_male_platemail_th_d_0
+  - first:
+      213: 21301504
+    second: arms_male_platemail_th_d_1
+  - first:
+      213: 21301506
+    second: arms_male_platemail_th_d_2
+  - first:
+      213: 21301508
+    second: arms_male_platemail_th_d_3
+  - first:
+      213: 21301510
+    second: arms_male_platemail_th_d_4
+  - first:
+      213: 21301512
+    second: arms_male_platemail_th_d_5
+  - first:
+      213: 21301514
+    second: arms_male_platemail_th_d_6
+  - first:
+      213: 21301516
+    second: arms_male_platemail_th_d_7
+  - first:
+      213: 21301518
+    second: arms_male_platemail_th_l_0
+  - first:
+      213: 21301520
+    second: arms_male_platemail_th_l_1
+  - first:
+      213: 21301522
+    second: arms_male_platemail_th_l_2
+  - first:
+      213: 21301524
+    second: arms_male_platemail_th_l_3
+  - first:
+      213: 21301526
+    second: arms_male_platemail_th_l_4
+  - first:
+      213: 21301528
+    second: arms_male_platemail_th_l_5
+  - first:
+      213: 21301530
+    second: arms_male_platemail_th_l_6
+  - first:
+      213: 21301532
+    second: arms_male_platemail_th_l_7
+  - first:
+      213: 21301534
+    second: arms_male_platemail_th_t_0
+  - first:
+      213: 21301536
+    second: arms_male_platemail_th_t_1
+  - first:
+      213: 21301538
+    second: arms_male_platemail_th_t_2
+  - first:
+      213: 21301540
+    second: arms_male_platemail_th_t_3
+  - first:
+      213: 21301542
+    second: arms_male_platemail_th_t_4
+  - first:
+      213: 21301544
+    second: arms_male_platemail_th_t_5
+  - first:
+      213: 21301546
+    second: arms_male_platemail_th_t_6
+  - first:
+      213: 21301548
+    second: arms_male_platemail_th_t_7
+  - first:
+      213: 21301550
+    second: arms_male_platemail_sc_r_0
+  - first:
+      213: 21301552
+    second: arms_male_platemail_sc_r_1
+  - first:
+      213: 21301554
+    second: arms_male_platemail_sc_r_2
+  - first:
+      213: 21301556
+    second: arms_male_platemail_sc_r_3
+  - first:
+      213: 21301558
+    second: arms_male_platemail_sc_r_4
+  - first:
+      213: 21301560
+    second: arms_male_platemail_sc_r_5
+  - first:
+      213: 21301562
+    second: arms_male_platemail_sc_r_6
+  - first:
+      213: 21301564
+    second: arms_male_platemail_sc_d_0
+  - first:
+      213: 21301566
+    second: arms_male_platemail_sc_d_1
+  - first:
+      213: 21301568
+    second: arms_male_platemail_sc_d_2
+  - first:
+      213: 21301570
+    second: arms_male_platemail_sc_d_3
+  - first:
+      213: 21301572
+    second: arms_male_platemail_sc_d_4
+  - first:
+      213: 21301574
+    second: arms_male_platemail_sc_d_5
+  - first:
+      213: 21301576
+    second: arms_male_platemail_sc_d_6
+  - first:
+      213: 21301578
+    second: arms_male_platemail_sc_l_0
+  - first:
+      213: 21301580
+    second: arms_male_platemail_sc_l_1
+  - first:
+      213: 21301582
+    second: arms_male_platemail_sc_l_2
+  - first:
+      213: 21301584
+    second: arms_male_platemail_sc_l_3
+  - first:
+      213: 21301586
+    second: arms_male_platemail_sc_l_4
+  - first:
+      213: 21301588
+    second: arms_male_platemail_sc_l_5
+  - first:
+      213: 21301590
+    second: arms_male_platemail_sc_l_6
+  - first:
+      213: 21301592
+    second: arms_male_platemail_sc_t_0
+  - first:
+      213: 21301594
+    second: arms_male_platemail_sc_t_1
+  - first:
+      213: 21301596
+    second: arms_male_platemail_sc_t_2
+  - first:
+      213: 21301598
+    second: arms_male_platemail_sc_t_3
+  - first:
+      213: 21301600
+    second: arms_male_platemail_sc_t_4
+  - first:
+      213: 21301602
+    second: arms_male_platemail_sc_t_5
+  - first:
+      213: 21301604
+    second: arms_male_platemail_sc_t_6
   externalObjects: {}
-  serializedVersion: 9
+  serializedVersion: 10
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -848,7 +2454,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 64
+  spritePixelsToUnits: 31
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -866,7 +2472,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 0
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -891,6 +2497,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -911,6 +2518,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -931,6 +2539,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -951,6 +2560,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -971,6 +2581,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -991,6 +2602,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1011,6 +2623,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1031,6 +2644,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1051,6 +2665,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1071,6 +2686,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1091,6 +2707,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1111,6 +2728,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1131,6 +2749,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1151,6 +2770,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1171,6 +2791,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1191,6 +2812,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1211,6 +2833,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1231,6 +2854,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1251,6 +2875,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1271,6 +2896,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1291,6 +2917,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1311,6 +2938,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1331,6 +2959,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1351,6 +2980,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1371,6 +3001,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1391,6 +3022,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1411,6 +3043,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1431,6 +3064,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1451,6 +3085,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1471,6 +3106,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1491,6 +3127,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1511,6 +3148,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1531,6 +3169,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1551,6 +3190,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1571,6 +3211,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1591,6 +3232,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1611,6 +3253,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1631,6 +3274,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1651,6 +3295,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1671,6 +3316,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1691,6 +3337,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1711,6 +3358,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1731,6 +3379,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1751,6 +3400,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1771,6 +3421,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1791,6 +3442,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1811,6 +3463,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1831,6 +3484,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1851,6 +3505,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1871,6 +3526,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1891,6 +3547,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1911,6 +3568,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1931,6 +3589,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1951,6 +3610,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1971,6 +3631,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1991,6 +3652,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2011,6 +3673,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2031,6 +3694,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2051,6 +3715,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2071,6 +3736,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2091,6 +3757,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2111,6 +3778,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2131,6 +3799,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2151,6 +3820,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2171,6 +3841,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2191,6 +3862,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2211,6 +3883,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2231,6 +3904,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2251,6 +3925,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2271,6 +3946,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2291,6 +3967,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2311,6 +3988,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2331,6 +4009,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2351,6 +4030,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2371,6 +4051,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2391,6 +4072,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2411,6 +4093,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2431,6 +4114,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2451,6 +4135,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2471,6 +4156,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2491,6 +4177,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2511,6 +4198,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2531,6 +4219,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2551,6 +4240,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2571,6 +4261,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2591,6 +4282,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2611,6 +4303,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2631,6 +4324,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2651,6 +4345,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2671,6 +4366,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2691,6 +4387,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2711,6 +4408,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2731,6 +4429,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2751,6 +4450,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2771,6 +4471,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2791,6 +4492,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2811,6 +4513,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2831,6 +4534,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2851,6 +4555,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2871,6 +4576,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2891,6 +4597,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2911,6 +4618,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2931,6 +4639,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2951,6 +4660,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2971,6 +4681,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2991,6 +4702,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3011,6 +4723,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3031,6 +4744,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3051,6 +4765,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3071,6 +4786,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3091,6 +4807,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3111,6 +4828,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3131,6 +4849,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3151,6 +4870,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3171,6 +4891,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3191,6 +4912,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3211,6 +4933,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3231,6 +4954,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3251,6 +4975,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3271,6 +4996,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3291,6 +5017,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3311,6 +5038,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3331,6 +5059,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3351,6 +5080,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3371,6 +5101,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3391,6 +5122,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3411,6 +5143,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3431,6 +5164,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3451,6 +5185,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3471,6 +5206,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3491,6 +5227,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3511,6 +5248,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3531,6 +5269,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3551,6 +5290,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3571,6 +5311,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3591,6 +5332,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3611,6 +5353,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3631,6 +5374,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3651,6 +5395,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3671,6 +5416,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3691,6 +5437,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3711,6 +5458,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3731,6 +5479,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3751,6 +5500,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3771,6 +5521,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3791,6 +5542,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3811,6 +5563,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3831,6 +5584,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3851,6 +5605,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3871,6 +5626,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3891,6 +5647,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3911,6 +5668,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3931,6 +5689,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3951,6 +5710,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3971,6 +5731,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3991,6 +5752,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -4011,6 +5773,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -4031,6 +5794,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -4051,6 +5815,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -4071,6 +5836,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -4091,6 +5857,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -4111,6 +5878,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -4131,6 +5899,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -4151,6 +5920,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -4171,6 +5941,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -4191,6 +5962,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -4211,6 +5983,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -4231,6 +6004,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -4251,6 +6025,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -4271,6 +6046,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -4291,6 +6067,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -4311,6 +6088,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -4331,6 +6109,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -4351,6 +6130,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -4371,6 +6151,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -4391,6 +6172,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -4411,6 +6193,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -4431,6 +6214,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -4439,10 +6223,12 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: d3d7fc98c76d0484b8009f1921394a6d
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
+    secondaryTextures: []
   spritePackingTag: character
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

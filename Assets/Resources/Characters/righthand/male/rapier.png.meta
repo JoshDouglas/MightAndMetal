@@ -1,81 +1,225 @@
 fileFormatVersion: 2
 guid: e628814f7cfff2944b799843fb5ee851
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: rapier_male_0
-    21300002: rapier_male_1
-    21300004: rapier_male_2
-    21300006: rapier_male_3
-    21300008: rapier_male_4
-    21300010: rapier_male_5
-    21300012: rapier_male_6
-    21300014: rapier_male_7
-    21300016: rapier_male_8
-    21300018: rapier_male_9
-    21300020: rapier_male_10
-    21300022: rapier_male_11
-    21300024: rapier_male_12
-    21300026: rapier_male_13
-    21300028: rapier_male_14
-    21300030: rapier_male_15
-    21300032: rapier_male_16
-    21300034: rapier_male_17
-    21300036: rapier_male_18
-    21300038: rapier_male_19
-    21300040: rapier_male_20
-    21300042: rapier_male_21
-    21300044: rapier_male_22
-    21300046: rapier_male_23
-    21300048: righthand_male_rapier_male_sl_t_0
-    21300050: righthand_male_rapier_male_sl_t_1
-    21300052: righthand_male_rapier_male_sl_t_2
-    21300054: righthand_male_rapier_male_sl_t_3
-    21300056: righthand_male_rapier_male_sl_t_4
-    21300058: righthand_male_rapier_male_sl_t_5
-    21300060: righthand_male_rapier_male_sl_l_0
-    21300062: righthand_male_rapier_male_sl_l_1
-    21300064: righthand_male_rapier_male_sl_l_2
-    21300066: righthand_male_rapier_male_sl_l_3
-    21300068: righthand_male_rapier_male_sl_l_4
-    21300070: righthand_male_rapier_male_sl_l_5
-    21300072: righthand_male_rapier_male_sl_d_0
-    21300074: righthand_male_rapier_male_sl_d_1
-    21300076: righthand_male_rapier_male_sl_d_2
-    21300078: righthand_male_rapier_male_sl_d_3
-    21300080: righthand_male_rapier_male_sl_d_4
-    21300082: righthand_male_rapier_male_sl_d_5
-    21300084: righthand_male_rapier_male_sl_r_0
-    21300086: righthand_male_rapier_male_sl_r_1
-    21300088: righthand_male_rapier_male_sl_r_2
-    21300090: righthand_male_rapier_male_sl_r_3
-    21300092: righthand_male_rapier_male_sl_r_4
-    21300094: righthand_male_rapier_male_sl_r_5
-    21300096: righthand_male_rapier_sl_t_0
-    21300098: righthand_male_rapier_sl_t_1
-    21300100: righthand_male_rapier_sl_t_2
-    21300102: righthand_male_rapier_sl_t_3
-    21300104: righthand_male_rapier_sl_t_4
-    21300106: righthand_male_rapier_sl_t_5
-    21300108: righthand_male_rapier_sl_l_0
-    21300110: righthand_male_rapier_sl_l_1
-    21300112: righthand_male_rapier_sl_l_2
-    21300114: righthand_male_rapier_sl_l_3
-    21300116: righthand_male_rapier_sl_l_4
-    21300118: righthand_male_rapier_sl_l_5
-    21300120: righthand_male_rapier_sl_d_0
-    21300122: righthand_male_rapier_sl_d_1
-    21300124: righthand_male_rapier_sl_d_2
-    21300126: righthand_male_rapier_sl_d_3
-    21300128: righthand_male_rapier_sl_d_4
-    21300130: righthand_male_rapier_sl_d_5
-    21300132: righthand_male_rapier_sl_r_0
-    21300134: righthand_male_rapier_sl_r_1
-    21300136: righthand_male_rapier_sl_r_2
-    21300138: righthand_male_rapier_sl_r_3
-    21300140: righthand_male_rapier_sl_r_4
-    21300142: righthand_male_rapier_sl_r_5
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: rapier_male_0
+  - first:
+      213: 21300002
+    second: rapier_male_1
+  - first:
+      213: 21300004
+    second: rapier_male_2
+  - first:
+      213: 21300006
+    second: rapier_male_3
+  - first:
+      213: 21300008
+    second: rapier_male_4
+  - first:
+      213: 21300010
+    second: rapier_male_5
+  - first:
+      213: 21300012
+    second: rapier_male_6
+  - first:
+      213: 21300014
+    second: rapier_male_7
+  - first:
+      213: 21300016
+    second: rapier_male_8
+  - first:
+      213: 21300018
+    second: rapier_male_9
+  - first:
+      213: 21300020
+    second: rapier_male_10
+  - first:
+      213: 21300022
+    second: rapier_male_11
+  - first:
+      213: 21300024
+    second: rapier_male_12
+  - first:
+      213: 21300026
+    second: rapier_male_13
+  - first:
+      213: 21300028
+    second: rapier_male_14
+  - first:
+      213: 21300030
+    second: rapier_male_15
+  - first:
+      213: 21300032
+    second: rapier_male_16
+  - first:
+      213: 21300034
+    second: rapier_male_17
+  - first:
+      213: 21300036
+    second: rapier_male_18
+  - first:
+      213: 21300038
+    second: rapier_male_19
+  - first:
+      213: 21300040
+    second: rapier_male_20
+  - first:
+      213: 21300042
+    second: rapier_male_21
+  - first:
+      213: 21300044
+    second: rapier_male_22
+  - first:
+      213: 21300046
+    second: rapier_male_23
+  - first:
+      213: 21300048
+    second: righthand_male_rapier_male_sl_t_0
+  - first:
+      213: 21300050
+    second: righthand_male_rapier_male_sl_t_1
+  - first:
+      213: 21300052
+    second: righthand_male_rapier_male_sl_t_2
+  - first:
+      213: 21300054
+    second: righthand_male_rapier_male_sl_t_3
+  - first:
+      213: 21300056
+    second: righthand_male_rapier_male_sl_t_4
+  - first:
+      213: 21300058
+    second: righthand_male_rapier_male_sl_t_5
+  - first:
+      213: 21300060
+    second: righthand_male_rapier_male_sl_l_0
+  - first:
+      213: 21300062
+    second: righthand_male_rapier_male_sl_l_1
+  - first:
+      213: 21300064
+    second: righthand_male_rapier_male_sl_l_2
+  - first:
+      213: 21300066
+    second: righthand_male_rapier_male_sl_l_3
+  - first:
+      213: 21300068
+    second: righthand_male_rapier_male_sl_l_4
+  - first:
+      213: 21300070
+    second: righthand_male_rapier_male_sl_l_5
+  - first:
+      213: 21300072
+    second: righthand_male_rapier_male_sl_d_0
+  - first:
+      213: 21300074
+    second: righthand_male_rapier_male_sl_d_1
+  - first:
+      213: 21300076
+    second: righthand_male_rapier_male_sl_d_2
+  - first:
+      213: 21300078
+    second: righthand_male_rapier_male_sl_d_3
+  - first:
+      213: 21300080
+    second: righthand_male_rapier_male_sl_d_4
+  - first:
+      213: 21300082
+    second: righthand_male_rapier_male_sl_d_5
+  - first:
+      213: 21300084
+    second: righthand_male_rapier_male_sl_r_0
+  - first:
+      213: 21300086
+    second: righthand_male_rapier_male_sl_r_1
+  - first:
+      213: 21300088
+    second: righthand_male_rapier_male_sl_r_2
+  - first:
+      213: 21300090
+    second: righthand_male_rapier_male_sl_r_3
+  - first:
+      213: 21300092
+    second: righthand_male_rapier_male_sl_r_4
+  - first:
+      213: 21300094
+    second: righthand_male_rapier_male_sl_r_5
+  - first:
+      213: 21300096
+    second: righthand_male_rapier_sl_t_0
+  - first:
+      213: 21300098
+    second: righthand_male_rapier_sl_t_1
+  - first:
+      213: 21300100
+    second: righthand_male_rapier_sl_t_2
+  - first:
+      213: 21300102
+    second: righthand_male_rapier_sl_t_3
+  - first:
+      213: 21300104
+    second: righthand_male_rapier_sl_t_4
+  - first:
+      213: 21300106
+    second: righthand_male_rapier_sl_t_5
+  - first:
+      213: 21300108
+    second: righthand_male_rapier_sl_l_0
+  - first:
+      213: 21300110
+    second: righthand_male_rapier_sl_l_1
+  - first:
+      213: 21300112
+    second: righthand_male_rapier_sl_l_2
+  - first:
+      213: 21300114
+    second: righthand_male_rapier_sl_l_3
+  - first:
+      213: 21300116
+    second: righthand_male_rapier_sl_l_4
+  - first:
+      213: 21300118
+    second: righthand_male_rapier_sl_l_5
+  - first:
+      213: 21300120
+    second: righthand_male_rapier_sl_d_0
+  - first:
+      213: 21300122
+    second: righthand_male_rapier_sl_d_1
+  - first:
+      213: 21300124
+    second: righthand_male_rapier_sl_d_2
+  - first:
+      213: 21300126
+    second: righthand_male_rapier_sl_d_3
+  - first:
+      213: 21300128
+    second: righthand_male_rapier_sl_d_4
+  - first:
+      213: 21300130
+    second: righthand_male_rapier_sl_d_5
+  - first:
+      213: 21300132
+    second: righthand_male_rapier_sl_r_0
+  - first:
+      213: 21300134
+    second: righthand_male_rapier_sl_r_1
+  - first:
+      213: 21300136
+    second: righthand_male_rapier_sl_r_2
+  - first:
+      213: 21300138
+    second: righthand_male_rapier_sl_r_3
+  - first:
+      213: 21300140
+    second: righthand_male_rapier_sl_r_4
+  - first:
+      213: 21300142
+    second: righthand_male_rapier_sl_r_5
   externalObjects: {}
-  serializedVersion: 9
+  serializedVersion: 10
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -145,7 +289,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: righthand_male_rapier_sl_t_0
+      name: righthand_male_rapier_sl_r_0
       rect:
         serializedVersion: 2
         x: 0
@@ -160,12 +304,13 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: righthand_male_rapier_sl_t_1
+      name: righthand_male_rapier_sl_r_1
       rect:
         serializedVersion: 2
         x: 192
@@ -180,12 +325,13 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: righthand_male_rapier_sl_t_2
+      name: righthand_male_rapier_sl_r_2
       rect:
         serializedVersion: 2
         x: 384
@@ -200,12 +346,13 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: righthand_male_rapier_sl_t_3
+      name: righthand_male_rapier_sl_r_3
       rect:
         serializedVersion: 2
         x: 576
@@ -220,12 +367,13 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: righthand_male_rapier_sl_t_4
+      name: righthand_male_rapier_sl_r_4
       rect:
         serializedVersion: 2
         x: 768
@@ -240,12 +388,13 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: righthand_male_rapier_sl_t_5
+      name: righthand_male_rapier_sl_r_5
       rect:
         serializedVersion: 2
         x: 960
@@ -260,6 +409,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -280,6 +430,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -300,6 +451,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -320,6 +472,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -340,6 +493,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -360,6 +514,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -380,12 +535,13 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: righthand_male_rapier_sl_d_0
+      name: righthand_male_rapier_sl_l_0
       rect:
         serializedVersion: 2
         x: 0
@@ -400,12 +556,13 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: righthand_male_rapier_sl_d_1
+      name: righthand_male_rapier_sl_l_1
       rect:
         serializedVersion: 2
         x: 192
@@ -420,12 +577,13 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: righthand_male_rapier_sl_d_2
+      name: righthand_male_rapier_sl_l_2
       rect:
         serializedVersion: 2
         x: 384
@@ -440,12 +598,13 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: righthand_male_rapier_sl_d_3
+      name: righthand_male_rapier_sl_l_3
       rect:
         serializedVersion: 2
         x: 576
@@ -460,12 +619,13 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: righthand_male_rapier_sl_d_4
+      name: righthand_male_rapier_sl_l_4
       rect:
         serializedVersion: 2
         x: 768
@@ -480,12 +640,13 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: righthand_male_rapier_sl_d_5
+      name: righthand_male_rapier_sl_l_5
       rect:
         serializedVersion: 2
         x: 960
@@ -500,6 +661,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -520,6 +682,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -540,6 +703,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -560,6 +724,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -580,6 +745,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -600,6 +766,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -620,6 +787,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -628,10 +796,12 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 419697ea6e700904eb756f8f87b2ee5e
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
+    secondaryTextures: []
   spritePackingTag: character
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

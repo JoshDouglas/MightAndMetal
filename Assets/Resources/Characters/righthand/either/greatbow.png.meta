@@ -1,460 +1,1362 @@
 fileFormatVersion: 2
 guid: 7ecac577650c63844bdb11281065f56f
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: either_greatbow_hu_0
-    21300002: either_greatbow_hu_1
-    21300004: either_greatbow_hu_2
-    21300006: either_greatbow_hu_3
-    21300008: either_greatbow_hu_4
-    21300010: either_greatbow_hu_5
-    21300012: either_greatbow_hu_6
-    21300014: either_greatbow_hu_7
-    21300016: either_greatbow_hu_8
-    21300018: either_greatbow_hu_9
-    21300020: either_greatbow_hu_10
-    21300022: either_greatbow_hu_11
-    21300024: either_greatbow_hu_12
-    21300026: either_greatbow_sh_r_0
-    21300028: either_greatbow_sh_r_1
-    21300030: either_greatbow_sh_r_2
-    21300032: either_greatbow_sh_r_3
-    21300034: either_greatbow_sh_r_4
-    21300036: either_greatbow_sh_r_5
-    21300038: either_greatbow_sh_r_6
-    21300040: either_greatbow_sh_r_7
-    21300042: either_greatbow_sh_r_8
-    21300044: either_greatbow_sh_r_9
-    21300046: either_greatbow_sh_r_10
-    21300048: either_greatbow_sh_r_11
-    21300050: either_greatbow_sh_r_12
-    21300052: either_greatbow_sh_d_0
-    21300054: either_greatbow_sh_d_1
-    21300056: either_greatbow_sh_d_2
-    21300058: either_greatbow_sh_d_3
-    21300060: either_greatbow_sh_d_4
-    21300062: either_greatbow_sh_d_5
-    21300064: either_greatbow_sh_d_6
-    21300066: either_greatbow_sh_d_7
-    21300068: either_greatbow_sh_d_8
-    21300070: either_greatbow_sh_d_9
-    21300072: either_greatbow_sh_d_10
-    21300074: either_greatbow_sh_d_11
-    21300076: either_greatbow_sh_d_12
-    21300078: either_greatbow_sh_l_0
-    21300080: either_greatbow_sh_l_1
-    21300082: either_greatbow_sh_l_2
-    21300084: either_greatbow_sh_l_3
-    21300086: either_greatbow_sh_l_4
-    21300088: either_greatbow_sh_l_5
-    21300090: either_greatbow_sh_l_6
-    21300092: either_greatbow_sh_l_7
-    21300094: either_greatbow_sh_l_8
-    21300096: either_greatbow_sh_l_9
-    21300098: either_greatbow_sh_l_10
-    21300100: either_greatbow_sh_l_11
-    21300102: either_greatbow_sh_l_12
-    21300104: either_greatbow_sh_t_0
-    21300106: either_greatbow_sh_t_1
-    21300108: either_greatbow_sh_t_2
-    21300110: either_greatbow_sh_t_3
-    21300112: either_greatbow_sh_t_4
-    21300114: either_greatbow_sh_t_5
-    21300116: either_greatbow_sh_t_6
-    21300118: either_greatbow_sh_t_7
-    21300120: either_greatbow_sh_t_8
-    21300122: either_greatbow_sh_t_9
-    21300124: either_greatbow_sh_t_10
-    21300126: either_greatbow_sh_t_11
-    21300128: either_greatbow_sh_t_12
-    21300130: either_greatbow_sl_r_0
-    21300132: either_greatbow_sl_r_1
-    21300134: either_greatbow_sl_r_2
-    21300136: either_greatbow_sl_r_3
-    21300138: either_greatbow_sl_r_4
-    21300140: either_greatbow_sl_r_5
-    21300142: either_greatbow_sl_r_6
-    21300144: either_greatbow_sl_r_7
-    21300146: either_greatbow_sl_r_8
-    21300148: either_greatbow_sl_r_9
-    21300150: either_greatbow_sl_r_10
-    21300152: either_greatbow_sl_r_11
-    21300154: either_greatbow_sl_r_12
-    21300156: either_greatbow_sl_d_0
-    21300158: either_greatbow_sl_d_1
-    21300160: either_greatbow_sl_d_2
-    21300162: either_greatbow_sl_d_3
-    21300164: either_greatbow_sl_d_4
-    21300166: either_greatbow_sl_d_5
-    21300168: either_greatbow_sl_d_6
-    21300170: either_greatbow_sl_d_7
-    21300172: either_greatbow_sl_d_8
-    21300174: either_greatbow_sl_d_9
-    21300176: either_greatbow_sl_d_10
-    21300178: either_greatbow_sl_d_11
-    21300180: either_greatbow_sl_d_12
-    21300182: either_greatbow_sl_l_0
-    21300184: either_greatbow_sl_l_1
-    21300186: either_greatbow_sl_l_2
-    21300188: either_greatbow_sl_l_3
-    21300190: either_greatbow_sl_l_4
-    21300192: either_greatbow_sl_l_5
-    21300194: either_greatbow_sl_l_6
-    21300196: either_greatbow_sl_l_7
-    21300198: either_greatbow_sl_l_8
-    21300200: either_greatbow_sl_l_9
-    21300202: either_greatbow_sl_l_10
-    21300204: either_greatbow_sl_l_11
-    21300206: either_greatbow_sl_l_12
-    21300208: either_greatbow_sl_t_0
-    21300210: either_greatbow_sl_t_1
-    21300212: either_greatbow_sl_t_2
-    21300214: either_greatbow_sl_t_3
-    21300216: either_greatbow_sl_t_4
-    21300218: either_greatbow_sl_t_5
-    21300220: either_greatbow_sl_t_6
-    21300222: either_greatbow_sl_t_7
-    21300224: either_greatbow_sl_t_8
-    21300226: either_greatbow_sl_t_9
-    21300228: either_greatbow_sl_t_10
-    21300230: either_greatbow_sl_t_11
-    21300232: either_greatbow_sl_t_12
-    21300234: either_greatbow_wc_r_0
-    21300236: either_greatbow_wc_r_1
-    21300238: either_greatbow_wc_r_2
-    21300240: either_greatbow_wc_r_3
-    21300242: either_greatbow_wc_r_4
-    21300244: either_greatbow_wc_r_5
-    21300246: either_greatbow_wc_r_6
-    21300248: either_greatbow_wc_r_7
-    21300250: either_greatbow_wc_r_8
-    21300252: either_greatbow_wc_r_9
-    21300254: either_greatbow_wc_r_10
-    21300256: either_greatbow_wc_r_11
-    21300258: either_greatbow_wc_r_12
-    21300260: either_greatbow_wc_d_0
-    21300262: either_greatbow_wc_d_1
-    21300264: either_greatbow_wc_d_2
-    21300266: either_greatbow_wc_d_3
-    21300268: either_greatbow_wc_d_4
-    21300270: either_greatbow_wc_d_5
-    21300272: either_greatbow_wc_d_6
-    21300274: either_greatbow_wc_d_7
-    21300276: either_greatbow_wc_d_8
-    21300278: either_greatbow_wc_d_9
-    21300280: either_greatbow_wc_d_10
-    21300282: either_greatbow_wc_d_11
-    21300284: either_greatbow_wc_d_12
-    21300286: either_greatbow_wc_l_0
-    21300288: either_greatbow_wc_l_1
-    21300290: either_greatbow_wc_l_2
-    21300292: either_greatbow_wc_l_3
-    21300294: either_greatbow_wc_l_4
-    21300296: either_greatbow_wc_l_5
-    21300298: either_greatbow_wc_l_6
-    21300300: either_greatbow_wc_l_7
-    21300302: either_greatbow_wc_l_8
-    21300304: either_greatbow_wc_l_9
-    21300306: either_greatbow_wc_l_10
-    21300308: either_greatbow_wc_l_11
-    21300310: either_greatbow_wc_l_12
-    21300312: either_greatbow_wc_t_0
-    21300314: either_greatbow_wc_t_1
-    21300316: either_greatbow_wc_t_2
-    21300318: either_greatbow_wc_t_3
-    21300320: either_greatbow_wc_t_4
-    21300322: either_greatbow_wc_t_5
-    21300324: either_greatbow_wc_t_6
-    21300326: either_greatbow_wc_t_7
-    21300328: either_greatbow_wc_t_8
-    21300330: either_greatbow_wc_t_9
-    21300332: either_greatbow_wc_t_10
-    21300334: either_greatbow_wc_t_11
-    21300336: either_greatbow_wc_t_12
-    21300338: either_greatbow_th_r_0
-    21300340: either_greatbow_th_r_1
-    21300342: either_greatbow_th_r_2
-    21300344: either_greatbow_th_r_3
-    21300346: either_greatbow_th_r_4
-    21300348: either_greatbow_th_r_5
-    21300350: either_greatbow_th_r_6
-    21300352: either_greatbow_th_r_7
-    21300354: either_greatbow_th_r_8
-    21300356: either_greatbow_th_r_9
-    21300358: either_greatbow_th_r_10
-    21300360: either_greatbow_th_r_11
-    21300362: either_greatbow_th_r_12
-    21300364: either_greatbow_th_d_0
-    21300366: either_greatbow_th_d_1
-    21300368: either_greatbow_th_d_2
-    21300370: either_greatbow_th_d_3
-    21300372: either_greatbow_th_d_4
-    21300374: either_greatbow_th_d_5
-    21300376: either_greatbow_th_d_6
-    21300378: either_greatbow_th_d_7
-    21300380: either_greatbow_th_d_8
-    21300382: either_greatbow_th_d_9
-    21300384: either_greatbow_th_d_10
-    21300386: either_greatbow_th_d_11
-    21300388: either_greatbow_th_d_12
-    21300390: either_greatbow_th_l_0
-    21300392: either_greatbow_th_l_1
-    21300394: either_greatbow_th_l_2
-    21300396: either_greatbow_th_l_3
-    21300398: either_greatbow_th_l_4
-    21300400: either_greatbow_th_l_5
-    21300402: either_greatbow_th_l_6
-    21300404: either_greatbow_th_l_7
-    21300406: either_greatbow_th_l_8
-    21300408: either_greatbow_th_l_9
-    21300410: either_greatbow_th_l_10
-    21300412: either_greatbow_th_l_11
-    21300414: either_greatbow_th_l_12
-    21300416: either_greatbow_th_t_0
-    21300418: either_greatbow_th_t_1
-    21300420: either_greatbow_th_t_2
-    21300422: either_greatbow_th_t_3
-    21300424: either_greatbow_th_t_4
-    21300426: either_greatbow_th_t_5
-    21300428: either_greatbow_th_t_6
-    21300430: either_greatbow_th_t_7
-    21300432: either_greatbow_th_t_8
-    21300434: either_greatbow_th_t_9
-    21300436: either_greatbow_th_t_10
-    21300438: either_greatbow_th_t_11
-    21300440: either_greatbow_th_t_12
-    21300442: either_greatbow_sc_r_0
-    21300444: either_greatbow_sc_r_1
-    21300446: either_greatbow_sc_r_2
-    21300448: either_greatbow_sc_r_3
-    21300450: either_greatbow_sc_r_4
-    21300452: either_greatbow_sc_r_5
-    21300454: either_greatbow_sc_r_6
-    21300456: either_greatbow_sc_r_7
-    21300458: either_greatbow_sc_r_8
-    21300460: either_greatbow_sc_r_9
-    21300462: either_greatbow_sc_r_10
-    21300464: either_greatbow_sc_r_11
-    21300466: either_greatbow_sc_r_12
-    21300468: either_greatbow_sc_d_0
-    21300470: either_greatbow_sc_d_1
-    21300472: either_greatbow_sc_d_2
-    21300474: either_greatbow_sc_d_3
-    21300476: either_greatbow_sc_d_4
-    21300478: either_greatbow_sc_d_5
-    21300480: either_greatbow_sc_d_6
-    21300482: either_greatbow_sc_d_7
-    21300484: either_greatbow_sc_d_8
-    21300486: either_greatbow_sc_d_9
-    21300488: either_greatbow_sc_d_10
-    21300490: either_greatbow_sc_d_11
-    21300492: either_greatbow_sc_d_12
-    21300494: either_greatbow_sc_l_0
-    21300496: either_greatbow_sc_l_1
-    21300498: either_greatbow_sc_l_2
-    21300500: either_greatbow_sc_l_3
-    21300502: either_greatbow_sc_l_4
-    21300504: either_greatbow_sc_l_5
-    21300506: either_greatbow_sc_l_6
-    21300508: either_greatbow_sc_l_7
-    21300510: either_greatbow_sc_l_8
-    21300512: either_greatbow_sc_l_9
-    21300514: either_greatbow_sc_l_10
-    21300516: either_greatbow_sc_l_11
-    21300518: either_greatbow_sc_l_12
-    21300520: either_greatbow_sc_t_0
-    21300522: either_greatbow_sc_t_1
-    21300524: either_greatbow_sc_t_2
-    21300526: either_greatbow_sc_t_3
-    21300528: either_greatbow_sc_t_4
-    21300530: either_greatbow_sc_t_5
-    21300532: either_greatbow_sc_t_6
-    21300534: either_greatbow_sc_t_7
-    21300536: either_greatbow_sc_t_8
-    21300538: either_greatbow_sc_t_9
-    21300540: either_greatbow_sc_t_10
-    21300542: either_greatbow_sc_t_11
-    21300544: either_greatbow_sc_t_12
-    21300546: righthand_either_greatbow_hu_0
-    21300548: righthand_either_greatbow_hu_1
-    21300550: righthand_either_greatbow_hu_2
-    21300552: righthand_either_greatbow_hu_3
-    21300554: righthand_either_greatbow_hu_4
-    21300556: righthand_either_greatbow_hu_5
-    21300558: righthand_either_greatbow_sh_r_0
-    21300560: righthand_either_greatbow_sh_r_1
-    21300562: righthand_either_greatbow_sh_r_2
-    21300564: righthand_either_greatbow_sh_r_3
-    21300566: righthand_either_greatbow_sh_r_4
-    21300568: righthand_either_greatbow_sh_r_5
-    21300570: righthand_either_greatbow_sh_r_6
-    21300572: righthand_either_greatbow_sh_r_7
-    21300574: righthand_either_greatbow_sh_r_8
-    21300576: righthand_either_greatbow_sh_r_9
-    21300578: righthand_either_greatbow_sh_r_10
-    21300580: righthand_either_greatbow_sh_r_11
-    21300582: righthand_either_greatbow_sh_r_12
-    21300584: righthand_either_greatbow_sh_d_0
-    21300586: righthand_either_greatbow_sh_d_1
-    21300588: righthand_either_greatbow_sh_d_2
-    21300590: righthand_either_greatbow_sh_d_3
-    21300592: righthand_either_greatbow_sh_d_4
-    21300594: righthand_either_greatbow_sh_d_5
-    21300596: righthand_either_greatbow_sh_d_6
-    21300598: righthand_either_greatbow_sh_d_7
-    21300600: righthand_either_greatbow_sh_d_8
-    21300602: righthand_either_greatbow_sh_d_9
-    21300604: righthand_either_greatbow_sh_d_10
-    21300606: righthand_either_greatbow_sh_d_11
-    21300608: righthand_either_greatbow_sh_d_12
-    21300610: righthand_either_greatbow_sh_l_0
-    21300612: righthand_either_greatbow_sh_l_1
-    21300614: righthand_either_greatbow_sh_l_2
-    21300616: righthand_either_greatbow_sh_l_3
-    21300618: righthand_either_greatbow_sh_l_4
-    21300620: righthand_either_greatbow_sh_l_5
-    21300622: righthand_either_greatbow_sh_l_6
-    21300624: righthand_either_greatbow_sh_l_7
-    21300626: righthand_either_greatbow_sh_l_8
-    21300628: righthand_either_greatbow_sh_l_9
-    21300630: righthand_either_greatbow_sh_l_10
-    21300632: righthand_either_greatbow_sh_l_11
-    21300634: righthand_either_greatbow_sh_l_12
-    21300636: righthand_either_greatbow_sh_t_0
-    21300638: righthand_either_greatbow_sh_t_1
-    21300640: righthand_either_greatbow_sh_t_2
-    21300642: righthand_either_greatbow_sh_t_3
-    21300644: righthand_either_greatbow_sh_t_4
-    21300646: righthand_either_greatbow_sh_t_5
-    21300648: righthand_either_greatbow_sh_t_6
-    21300650: righthand_either_greatbow_sh_t_7
-    21300652: righthand_either_greatbow_sh_t_8
-    21300654: righthand_either_greatbow_sh_t_9
-    21300656: righthand_either_greatbow_sh_t_10
-    21300658: righthand_either_greatbow_sh_t_11
-    21300660: righthand_either_greatbow_sh_t_12
-    21300662: righthand_either_greatbow_sl_r_0
-    21300664: righthand_either_greatbow_sl_r_1
-    21300666: righthand_either_greatbow_sl_r_2
-    21300668: righthand_either_greatbow_sl_r_3
-    21300670: righthand_either_greatbow_sl_r_4
-    21300672: righthand_either_greatbow_sl_r_5
-    21300674: righthand_either_greatbow_sl_d_0
-    21300676: righthand_either_greatbow_sl_d_1
-    21300678: righthand_either_greatbow_sl_d_2
-    21300680: righthand_either_greatbow_sl_d_3
-    21300682: righthand_either_greatbow_sl_d_4
-    21300684: righthand_either_greatbow_sl_d_5
-    21300686: righthand_either_greatbow_sl_l_0
-    21300688: righthand_either_greatbow_sl_l_1
-    21300690: righthand_either_greatbow_sl_l_2
-    21300692: righthand_either_greatbow_sl_l_3
-    21300694: righthand_either_greatbow_sl_l_4
-    21300696: righthand_either_greatbow_sl_l_5
-    21300698: righthand_either_greatbow_sl_t_0
-    21300700: righthand_either_greatbow_sl_t_1
-    21300702: righthand_either_greatbow_sl_t_2
-    21300704: righthand_either_greatbow_sl_t_3
-    21300706: righthand_either_greatbow_sl_t_4
-    21300708: righthand_either_greatbow_sl_t_5
-    21300710: righthand_either_greatbow_wc_r_0
-    21300712: righthand_either_greatbow_wc_r_1
-    21300714: righthand_either_greatbow_wc_r_2
-    21300716: righthand_either_greatbow_wc_r_3
-    21300718: righthand_either_greatbow_wc_r_4
-    21300720: righthand_either_greatbow_wc_r_5
-    21300722: righthand_either_greatbow_wc_r_6
-    21300724: righthand_either_greatbow_wc_r_7
-    21300726: righthand_either_greatbow_wc_r_8
-    21300728: righthand_either_greatbow_wc_d_0
-    21300730: righthand_either_greatbow_wc_d_1
-    21300732: righthand_either_greatbow_wc_d_2
-    21300734: righthand_either_greatbow_wc_d_3
-    21300736: righthand_either_greatbow_wc_d_4
-    21300738: righthand_either_greatbow_wc_d_5
-    21300740: righthand_either_greatbow_wc_d_6
-    21300742: righthand_either_greatbow_wc_d_7
-    21300744: righthand_either_greatbow_wc_d_8
-    21300746: righthand_either_greatbow_wc_l_0
-    21300748: righthand_either_greatbow_wc_l_1
-    21300750: righthand_either_greatbow_wc_l_2
-    21300752: righthand_either_greatbow_wc_l_3
-    21300754: righthand_either_greatbow_wc_l_4
-    21300756: righthand_either_greatbow_wc_l_5
-    21300758: righthand_either_greatbow_wc_l_6
-    21300760: righthand_either_greatbow_wc_l_7
-    21300762: righthand_either_greatbow_wc_l_8
-    21300764: righthand_either_greatbow_wc_t_0
-    21300766: righthand_either_greatbow_wc_t_1
-    21300768: righthand_either_greatbow_wc_t_2
-    21300770: righthand_either_greatbow_wc_t_3
-    21300772: righthand_either_greatbow_wc_t_4
-    21300774: righthand_either_greatbow_wc_t_5
-    21300776: righthand_either_greatbow_wc_t_6
-    21300778: righthand_either_greatbow_wc_t_7
-    21300780: righthand_either_greatbow_wc_t_8
-    21300782: righthand_either_greatbow_th_r_0
-    21300784: righthand_either_greatbow_th_r_1
-    21300786: righthand_either_greatbow_th_r_2
-    21300788: righthand_either_greatbow_th_r_3
-    21300790: righthand_either_greatbow_th_r_4
-    21300792: righthand_either_greatbow_th_r_5
-    21300794: righthand_either_greatbow_th_r_6
-    21300796: righthand_either_greatbow_th_r_7
-    21300798: righthand_either_greatbow_th_d_0
-    21300800: righthand_either_greatbow_th_d_1
-    21300802: righthand_either_greatbow_th_d_2
-    21300804: righthand_either_greatbow_th_d_3
-    21300806: righthand_either_greatbow_th_d_4
-    21300808: righthand_either_greatbow_th_d_5
-    21300810: righthand_either_greatbow_th_d_6
-    21300812: righthand_either_greatbow_th_d_7
-    21300814: righthand_either_greatbow_th_l_0
-    21300816: righthand_either_greatbow_th_l_1
-    21300818: righthand_either_greatbow_th_l_2
-    21300820: righthand_either_greatbow_th_l_3
-    21300822: righthand_either_greatbow_th_l_4
-    21300824: righthand_either_greatbow_th_l_5
-    21300826: righthand_either_greatbow_th_l_6
-    21300828: righthand_either_greatbow_th_l_7
-    21300830: righthand_either_greatbow_th_t_0
-    21300832: righthand_either_greatbow_th_t_1
-    21300834: righthand_either_greatbow_th_t_2
-    21300836: righthand_either_greatbow_th_t_3
-    21300838: righthand_either_greatbow_th_t_4
-    21300840: righthand_either_greatbow_th_t_5
-    21300842: righthand_either_greatbow_th_t_6
-    21300844: righthand_either_greatbow_th_t_7
-    21300846: righthand_either_greatbow_sc_r_0
-    21300848: righthand_either_greatbow_sc_r_1
-    21300850: righthand_either_greatbow_sc_r_2
-    21300852: righthand_either_greatbow_sc_r_3
-    21300854: righthand_either_greatbow_sc_r_4
-    21300856: righthand_either_greatbow_sc_r_5
-    21300858: righthand_either_greatbow_sc_r_6
-    21300860: righthand_either_greatbow_sc_d_0
-    21300862: righthand_either_greatbow_sc_d_1
-    21300864: righthand_either_greatbow_sc_d_2
-    21300866: righthand_either_greatbow_sc_d_3
-    21300868: righthand_either_greatbow_sc_d_4
-    21300870: righthand_either_greatbow_sc_d_5
-    21300872: righthand_either_greatbow_sc_d_6
-    21300874: righthand_either_greatbow_sc_l_0
-    21300876: righthand_either_greatbow_sc_l_1
-    21300878: righthand_either_greatbow_sc_l_2
-    21300880: righthand_either_greatbow_sc_l_3
-    21300882: righthand_either_greatbow_sc_l_4
-    21300884: righthand_either_greatbow_sc_l_5
-    21300886: righthand_either_greatbow_sc_l_6
-    21300888: righthand_either_greatbow_sc_t_0
-    21300890: righthand_either_greatbow_sc_t_1
-    21300892: righthand_either_greatbow_sc_t_2
-    21300894: righthand_either_greatbow_sc_t_3
-    21300896: righthand_either_greatbow_sc_t_4
-    21300898: righthand_either_greatbow_sc_t_5
-    21300900: righthand_either_greatbow_sc_t_6
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: either_greatbow_hu_0
+  - first:
+      213: 21300002
+    second: either_greatbow_hu_1
+  - first:
+      213: 21300004
+    second: either_greatbow_hu_2
+  - first:
+      213: 21300006
+    second: either_greatbow_hu_3
+  - first:
+      213: 21300008
+    second: either_greatbow_hu_4
+  - first:
+      213: 21300010
+    second: either_greatbow_hu_5
+  - first:
+      213: 21300012
+    second: either_greatbow_hu_6
+  - first:
+      213: 21300014
+    second: either_greatbow_hu_7
+  - first:
+      213: 21300016
+    second: either_greatbow_hu_8
+  - first:
+      213: 21300018
+    second: either_greatbow_hu_9
+  - first:
+      213: 21300020
+    second: either_greatbow_hu_10
+  - first:
+      213: 21300022
+    second: either_greatbow_hu_11
+  - first:
+      213: 21300024
+    second: either_greatbow_hu_12
+  - first:
+      213: 21300026
+    second: either_greatbow_sh_r_0
+  - first:
+      213: 21300028
+    second: either_greatbow_sh_r_1
+  - first:
+      213: 21300030
+    second: either_greatbow_sh_r_2
+  - first:
+      213: 21300032
+    second: either_greatbow_sh_r_3
+  - first:
+      213: 21300034
+    second: either_greatbow_sh_r_4
+  - first:
+      213: 21300036
+    second: either_greatbow_sh_r_5
+  - first:
+      213: 21300038
+    second: either_greatbow_sh_r_6
+  - first:
+      213: 21300040
+    second: either_greatbow_sh_r_7
+  - first:
+      213: 21300042
+    second: either_greatbow_sh_r_8
+  - first:
+      213: 21300044
+    second: either_greatbow_sh_r_9
+  - first:
+      213: 21300046
+    second: either_greatbow_sh_r_10
+  - first:
+      213: 21300048
+    second: either_greatbow_sh_r_11
+  - first:
+      213: 21300050
+    second: either_greatbow_sh_r_12
+  - first:
+      213: 21300052
+    second: either_greatbow_sh_d_0
+  - first:
+      213: 21300054
+    second: either_greatbow_sh_d_1
+  - first:
+      213: 21300056
+    second: either_greatbow_sh_d_2
+  - first:
+      213: 21300058
+    second: either_greatbow_sh_d_3
+  - first:
+      213: 21300060
+    second: either_greatbow_sh_d_4
+  - first:
+      213: 21300062
+    second: either_greatbow_sh_d_5
+  - first:
+      213: 21300064
+    second: either_greatbow_sh_d_6
+  - first:
+      213: 21300066
+    second: either_greatbow_sh_d_7
+  - first:
+      213: 21300068
+    second: either_greatbow_sh_d_8
+  - first:
+      213: 21300070
+    second: either_greatbow_sh_d_9
+  - first:
+      213: 21300072
+    second: either_greatbow_sh_d_10
+  - first:
+      213: 21300074
+    second: either_greatbow_sh_d_11
+  - first:
+      213: 21300076
+    second: either_greatbow_sh_d_12
+  - first:
+      213: 21300078
+    second: either_greatbow_sh_l_0
+  - first:
+      213: 21300080
+    second: either_greatbow_sh_l_1
+  - first:
+      213: 21300082
+    second: either_greatbow_sh_l_2
+  - first:
+      213: 21300084
+    second: either_greatbow_sh_l_3
+  - first:
+      213: 21300086
+    second: either_greatbow_sh_l_4
+  - first:
+      213: 21300088
+    second: either_greatbow_sh_l_5
+  - first:
+      213: 21300090
+    second: either_greatbow_sh_l_6
+  - first:
+      213: 21300092
+    second: either_greatbow_sh_l_7
+  - first:
+      213: 21300094
+    second: either_greatbow_sh_l_8
+  - first:
+      213: 21300096
+    second: either_greatbow_sh_l_9
+  - first:
+      213: 21300098
+    second: either_greatbow_sh_l_10
+  - first:
+      213: 21300100
+    second: either_greatbow_sh_l_11
+  - first:
+      213: 21300102
+    second: either_greatbow_sh_l_12
+  - first:
+      213: 21300104
+    second: either_greatbow_sh_t_0
+  - first:
+      213: 21300106
+    second: either_greatbow_sh_t_1
+  - first:
+      213: 21300108
+    second: either_greatbow_sh_t_2
+  - first:
+      213: 21300110
+    second: either_greatbow_sh_t_3
+  - first:
+      213: 21300112
+    second: either_greatbow_sh_t_4
+  - first:
+      213: 21300114
+    second: either_greatbow_sh_t_5
+  - first:
+      213: 21300116
+    second: either_greatbow_sh_t_6
+  - first:
+      213: 21300118
+    second: either_greatbow_sh_t_7
+  - first:
+      213: 21300120
+    second: either_greatbow_sh_t_8
+  - first:
+      213: 21300122
+    second: either_greatbow_sh_t_9
+  - first:
+      213: 21300124
+    second: either_greatbow_sh_t_10
+  - first:
+      213: 21300126
+    second: either_greatbow_sh_t_11
+  - first:
+      213: 21300128
+    second: either_greatbow_sh_t_12
+  - first:
+      213: 21300130
+    second: either_greatbow_sl_r_0
+  - first:
+      213: 21300132
+    second: either_greatbow_sl_r_1
+  - first:
+      213: 21300134
+    second: either_greatbow_sl_r_2
+  - first:
+      213: 21300136
+    second: either_greatbow_sl_r_3
+  - first:
+      213: 21300138
+    second: either_greatbow_sl_r_4
+  - first:
+      213: 21300140
+    second: either_greatbow_sl_r_5
+  - first:
+      213: 21300142
+    second: either_greatbow_sl_r_6
+  - first:
+      213: 21300144
+    second: either_greatbow_sl_r_7
+  - first:
+      213: 21300146
+    second: either_greatbow_sl_r_8
+  - first:
+      213: 21300148
+    second: either_greatbow_sl_r_9
+  - first:
+      213: 21300150
+    second: either_greatbow_sl_r_10
+  - first:
+      213: 21300152
+    second: either_greatbow_sl_r_11
+  - first:
+      213: 21300154
+    second: either_greatbow_sl_r_12
+  - first:
+      213: 21300156
+    second: either_greatbow_sl_d_0
+  - first:
+      213: 21300158
+    second: either_greatbow_sl_d_1
+  - first:
+      213: 21300160
+    second: either_greatbow_sl_d_2
+  - first:
+      213: 21300162
+    second: either_greatbow_sl_d_3
+  - first:
+      213: 21300164
+    second: either_greatbow_sl_d_4
+  - first:
+      213: 21300166
+    second: either_greatbow_sl_d_5
+  - first:
+      213: 21300168
+    second: either_greatbow_sl_d_6
+  - first:
+      213: 21300170
+    second: either_greatbow_sl_d_7
+  - first:
+      213: 21300172
+    second: either_greatbow_sl_d_8
+  - first:
+      213: 21300174
+    second: either_greatbow_sl_d_9
+  - first:
+      213: 21300176
+    second: either_greatbow_sl_d_10
+  - first:
+      213: 21300178
+    second: either_greatbow_sl_d_11
+  - first:
+      213: 21300180
+    second: either_greatbow_sl_d_12
+  - first:
+      213: 21300182
+    second: either_greatbow_sl_l_0
+  - first:
+      213: 21300184
+    second: either_greatbow_sl_l_1
+  - first:
+      213: 21300186
+    second: either_greatbow_sl_l_2
+  - first:
+      213: 21300188
+    second: either_greatbow_sl_l_3
+  - first:
+      213: 21300190
+    second: either_greatbow_sl_l_4
+  - first:
+      213: 21300192
+    second: either_greatbow_sl_l_5
+  - first:
+      213: 21300194
+    second: either_greatbow_sl_l_6
+  - first:
+      213: 21300196
+    second: either_greatbow_sl_l_7
+  - first:
+      213: 21300198
+    second: either_greatbow_sl_l_8
+  - first:
+      213: 21300200
+    second: either_greatbow_sl_l_9
+  - first:
+      213: 21300202
+    second: either_greatbow_sl_l_10
+  - first:
+      213: 21300204
+    second: either_greatbow_sl_l_11
+  - first:
+      213: 21300206
+    second: either_greatbow_sl_l_12
+  - first:
+      213: 21300208
+    second: either_greatbow_sl_t_0
+  - first:
+      213: 21300210
+    second: either_greatbow_sl_t_1
+  - first:
+      213: 21300212
+    second: either_greatbow_sl_t_2
+  - first:
+      213: 21300214
+    second: either_greatbow_sl_t_3
+  - first:
+      213: 21300216
+    second: either_greatbow_sl_t_4
+  - first:
+      213: 21300218
+    second: either_greatbow_sl_t_5
+  - first:
+      213: 21300220
+    second: either_greatbow_sl_t_6
+  - first:
+      213: 21300222
+    second: either_greatbow_sl_t_7
+  - first:
+      213: 21300224
+    second: either_greatbow_sl_t_8
+  - first:
+      213: 21300226
+    second: either_greatbow_sl_t_9
+  - first:
+      213: 21300228
+    second: either_greatbow_sl_t_10
+  - first:
+      213: 21300230
+    second: either_greatbow_sl_t_11
+  - first:
+      213: 21300232
+    second: either_greatbow_sl_t_12
+  - first:
+      213: 21300234
+    second: either_greatbow_wc_r_0
+  - first:
+      213: 21300236
+    second: either_greatbow_wc_r_1
+  - first:
+      213: 21300238
+    second: either_greatbow_wc_r_2
+  - first:
+      213: 21300240
+    second: either_greatbow_wc_r_3
+  - first:
+      213: 21300242
+    second: either_greatbow_wc_r_4
+  - first:
+      213: 21300244
+    second: either_greatbow_wc_r_5
+  - first:
+      213: 21300246
+    second: either_greatbow_wc_r_6
+  - first:
+      213: 21300248
+    second: either_greatbow_wc_r_7
+  - first:
+      213: 21300250
+    second: either_greatbow_wc_r_8
+  - first:
+      213: 21300252
+    second: either_greatbow_wc_r_9
+  - first:
+      213: 21300254
+    second: either_greatbow_wc_r_10
+  - first:
+      213: 21300256
+    second: either_greatbow_wc_r_11
+  - first:
+      213: 21300258
+    second: either_greatbow_wc_r_12
+  - first:
+      213: 21300260
+    second: either_greatbow_wc_d_0
+  - first:
+      213: 21300262
+    second: either_greatbow_wc_d_1
+  - first:
+      213: 21300264
+    second: either_greatbow_wc_d_2
+  - first:
+      213: 21300266
+    second: either_greatbow_wc_d_3
+  - first:
+      213: 21300268
+    second: either_greatbow_wc_d_4
+  - first:
+      213: 21300270
+    second: either_greatbow_wc_d_5
+  - first:
+      213: 21300272
+    second: either_greatbow_wc_d_6
+  - first:
+      213: 21300274
+    second: either_greatbow_wc_d_7
+  - first:
+      213: 21300276
+    second: either_greatbow_wc_d_8
+  - first:
+      213: 21300278
+    second: either_greatbow_wc_d_9
+  - first:
+      213: 21300280
+    second: either_greatbow_wc_d_10
+  - first:
+      213: 21300282
+    second: either_greatbow_wc_d_11
+  - first:
+      213: 21300284
+    second: either_greatbow_wc_d_12
+  - first:
+      213: 21300286
+    second: either_greatbow_wc_l_0
+  - first:
+      213: 21300288
+    second: either_greatbow_wc_l_1
+  - first:
+      213: 21300290
+    second: either_greatbow_wc_l_2
+  - first:
+      213: 21300292
+    second: either_greatbow_wc_l_3
+  - first:
+      213: 21300294
+    second: either_greatbow_wc_l_4
+  - first:
+      213: 21300296
+    second: either_greatbow_wc_l_5
+  - first:
+      213: 21300298
+    second: either_greatbow_wc_l_6
+  - first:
+      213: 21300300
+    second: either_greatbow_wc_l_7
+  - first:
+      213: 21300302
+    second: either_greatbow_wc_l_8
+  - first:
+      213: 21300304
+    second: either_greatbow_wc_l_9
+  - first:
+      213: 21300306
+    second: either_greatbow_wc_l_10
+  - first:
+      213: 21300308
+    second: either_greatbow_wc_l_11
+  - first:
+      213: 21300310
+    second: either_greatbow_wc_l_12
+  - first:
+      213: 21300312
+    second: either_greatbow_wc_t_0
+  - first:
+      213: 21300314
+    second: either_greatbow_wc_t_1
+  - first:
+      213: 21300316
+    second: either_greatbow_wc_t_2
+  - first:
+      213: 21300318
+    second: either_greatbow_wc_t_3
+  - first:
+      213: 21300320
+    second: either_greatbow_wc_t_4
+  - first:
+      213: 21300322
+    second: either_greatbow_wc_t_5
+  - first:
+      213: 21300324
+    second: either_greatbow_wc_t_6
+  - first:
+      213: 21300326
+    second: either_greatbow_wc_t_7
+  - first:
+      213: 21300328
+    second: either_greatbow_wc_t_8
+  - first:
+      213: 21300330
+    second: either_greatbow_wc_t_9
+  - first:
+      213: 21300332
+    second: either_greatbow_wc_t_10
+  - first:
+      213: 21300334
+    second: either_greatbow_wc_t_11
+  - first:
+      213: 21300336
+    second: either_greatbow_wc_t_12
+  - first:
+      213: 21300338
+    second: either_greatbow_th_r_0
+  - first:
+      213: 21300340
+    second: either_greatbow_th_r_1
+  - first:
+      213: 21300342
+    second: either_greatbow_th_r_2
+  - first:
+      213: 21300344
+    second: either_greatbow_th_r_3
+  - first:
+      213: 21300346
+    second: either_greatbow_th_r_4
+  - first:
+      213: 21300348
+    second: either_greatbow_th_r_5
+  - first:
+      213: 21300350
+    second: either_greatbow_th_r_6
+  - first:
+      213: 21300352
+    second: either_greatbow_th_r_7
+  - first:
+      213: 21300354
+    second: either_greatbow_th_r_8
+  - first:
+      213: 21300356
+    second: either_greatbow_th_r_9
+  - first:
+      213: 21300358
+    second: either_greatbow_th_r_10
+  - first:
+      213: 21300360
+    second: either_greatbow_th_r_11
+  - first:
+      213: 21300362
+    second: either_greatbow_th_r_12
+  - first:
+      213: 21300364
+    second: either_greatbow_th_d_0
+  - first:
+      213: 21300366
+    second: either_greatbow_th_d_1
+  - first:
+      213: 21300368
+    second: either_greatbow_th_d_2
+  - first:
+      213: 21300370
+    second: either_greatbow_th_d_3
+  - first:
+      213: 21300372
+    second: either_greatbow_th_d_4
+  - first:
+      213: 21300374
+    second: either_greatbow_th_d_5
+  - first:
+      213: 21300376
+    second: either_greatbow_th_d_6
+  - first:
+      213: 21300378
+    second: either_greatbow_th_d_7
+  - first:
+      213: 21300380
+    second: either_greatbow_th_d_8
+  - first:
+      213: 21300382
+    second: either_greatbow_th_d_9
+  - first:
+      213: 21300384
+    second: either_greatbow_th_d_10
+  - first:
+      213: 21300386
+    second: either_greatbow_th_d_11
+  - first:
+      213: 21300388
+    second: either_greatbow_th_d_12
+  - first:
+      213: 21300390
+    second: either_greatbow_th_l_0
+  - first:
+      213: 21300392
+    second: either_greatbow_th_l_1
+  - first:
+      213: 21300394
+    second: either_greatbow_th_l_2
+  - first:
+      213: 21300396
+    second: either_greatbow_th_l_3
+  - first:
+      213: 21300398
+    second: either_greatbow_th_l_4
+  - first:
+      213: 21300400
+    second: either_greatbow_th_l_5
+  - first:
+      213: 21300402
+    second: either_greatbow_th_l_6
+  - first:
+      213: 21300404
+    second: either_greatbow_th_l_7
+  - first:
+      213: 21300406
+    second: either_greatbow_th_l_8
+  - first:
+      213: 21300408
+    second: either_greatbow_th_l_9
+  - first:
+      213: 21300410
+    second: either_greatbow_th_l_10
+  - first:
+      213: 21300412
+    second: either_greatbow_th_l_11
+  - first:
+      213: 21300414
+    second: either_greatbow_th_l_12
+  - first:
+      213: 21300416
+    second: either_greatbow_th_t_0
+  - first:
+      213: 21300418
+    second: either_greatbow_th_t_1
+  - first:
+      213: 21300420
+    second: either_greatbow_th_t_2
+  - first:
+      213: 21300422
+    second: either_greatbow_th_t_3
+  - first:
+      213: 21300424
+    second: either_greatbow_th_t_4
+  - first:
+      213: 21300426
+    second: either_greatbow_th_t_5
+  - first:
+      213: 21300428
+    second: either_greatbow_th_t_6
+  - first:
+      213: 21300430
+    second: either_greatbow_th_t_7
+  - first:
+      213: 21300432
+    second: either_greatbow_th_t_8
+  - first:
+      213: 21300434
+    second: either_greatbow_th_t_9
+  - first:
+      213: 21300436
+    second: either_greatbow_th_t_10
+  - first:
+      213: 21300438
+    second: either_greatbow_th_t_11
+  - first:
+      213: 21300440
+    second: either_greatbow_th_t_12
+  - first:
+      213: 21300442
+    second: either_greatbow_sc_r_0
+  - first:
+      213: 21300444
+    second: either_greatbow_sc_r_1
+  - first:
+      213: 21300446
+    second: either_greatbow_sc_r_2
+  - first:
+      213: 21300448
+    second: either_greatbow_sc_r_3
+  - first:
+      213: 21300450
+    second: either_greatbow_sc_r_4
+  - first:
+      213: 21300452
+    second: either_greatbow_sc_r_5
+  - first:
+      213: 21300454
+    second: either_greatbow_sc_r_6
+  - first:
+      213: 21300456
+    second: either_greatbow_sc_r_7
+  - first:
+      213: 21300458
+    second: either_greatbow_sc_r_8
+  - first:
+      213: 21300460
+    second: either_greatbow_sc_r_9
+  - first:
+      213: 21300462
+    second: either_greatbow_sc_r_10
+  - first:
+      213: 21300464
+    second: either_greatbow_sc_r_11
+  - first:
+      213: 21300466
+    second: either_greatbow_sc_r_12
+  - first:
+      213: 21300468
+    second: either_greatbow_sc_d_0
+  - first:
+      213: 21300470
+    second: either_greatbow_sc_d_1
+  - first:
+      213: 21300472
+    second: either_greatbow_sc_d_2
+  - first:
+      213: 21300474
+    second: either_greatbow_sc_d_3
+  - first:
+      213: 21300476
+    second: either_greatbow_sc_d_4
+  - first:
+      213: 21300478
+    second: either_greatbow_sc_d_5
+  - first:
+      213: 21300480
+    second: either_greatbow_sc_d_6
+  - first:
+      213: 21300482
+    second: either_greatbow_sc_d_7
+  - first:
+      213: 21300484
+    second: either_greatbow_sc_d_8
+  - first:
+      213: 21300486
+    second: either_greatbow_sc_d_9
+  - first:
+      213: 21300488
+    second: either_greatbow_sc_d_10
+  - first:
+      213: 21300490
+    second: either_greatbow_sc_d_11
+  - first:
+      213: 21300492
+    second: either_greatbow_sc_d_12
+  - first:
+      213: 21300494
+    second: either_greatbow_sc_l_0
+  - first:
+      213: 21300496
+    second: either_greatbow_sc_l_1
+  - first:
+      213: 21300498
+    second: either_greatbow_sc_l_2
+  - first:
+      213: 21300500
+    second: either_greatbow_sc_l_3
+  - first:
+      213: 21300502
+    second: either_greatbow_sc_l_4
+  - first:
+      213: 21300504
+    second: either_greatbow_sc_l_5
+  - first:
+      213: 21300506
+    second: either_greatbow_sc_l_6
+  - first:
+      213: 21300508
+    second: either_greatbow_sc_l_7
+  - first:
+      213: 21300510
+    second: either_greatbow_sc_l_8
+  - first:
+      213: 21300512
+    second: either_greatbow_sc_l_9
+  - first:
+      213: 21300514
+    second: either_greatbow_sc_l_10
+  - first:
+      213: 21300516
+    second: either_greatbow_sc_l_11
+  - first:
+      213: 21300518
+    second: either_greatbow_sc_l_12
+  - first:
+      213: 21300520
+    second: either_greatbow_sc_t_0
+  - first:
+      213: 21300522
+    second: either_greatbow_sc_t_1
+  - first:
+      213: 21300524
+    second: either_greatbow_sc_t_2
+  - first:
+      213: 21300526
+    second: either_greatbow_sc_t_3
+  - first:
+      213: 21300528
+    second: either_greatbow_sc_t_4
+  - first:
+      213: 21300530
+    second: either_greatbow_sc_t_5
+  - first:
+      213: 21300532
+    second: either_greatbow_sc_t_6
+  - first:
+      213: 21300534
+    second: either_greatbow_sc_t_7
+  - first:
+      213: 21300536
+    second: either_greatbow_sc_t_8
+  - first:
+      213: 21300538
+    second: either_greatbow_sc_t_9
+  - first:
+      213: 21300540
+    second: either_greatbow_sc_t_10
+  - first:
+      213: 21300542
+    second: either_greatbow_sc_t_11
+  - first:
+      213: 21300544
+    second: either_greatbow_sc_t_12
+  - first:
+      213: 21300546
+    second: righthand_either_greatbow_hu_0
+  - first:
+      213: 21300548
+    second: righthand_either_greatbow_hu_1
+  - first:
+      213: 21300550
+    second: righthand_either_greatbow_hu_2
+  - first:
+      213: 21300552
+    second: righthand_either_greatbow_hu_3
+  - first:
+      213: 21300554
+    second: righthand_either_greatbow_hu_4
+  - first:
+      213: 21300556
+    second: righthand_either_greatbow_hu_5
+  - first:
+      213: 21300558
+    second: righthand_either_greatbow_sh_r_0
+  - first:
+      213: 21300560
+    second: righthand_either_greatbow_sh_r_1
+  - first:
+      213: 21300562
+    second: righthand_either_greatbow_sh_r_2
+  - first:
+      213: 21300564
+    second: righthand_either_greatbow_sh_r_3
+  - first:
+      213: 21300566
+    second: righthand_either_greatbow_sh_r_4
+  - first:
+      213: 21300568
+    second: righthand_either_greatbow_sh_r_5
+  - first:
+      213: 21300570
+    second: righthand_either_greatbow_sh_r_6
+  - first:
+      213: 21300572
+    second: righthand_either_greatbow_sh_r_7
+  - first:
+      213: 21300574
+    second: righthand_either_greatbow_sh_r_8
+  - first:
+      213: 21300576
+    second: righthand_either_greatbow_sh_r_9
+  - first:
+      213: 21300578
+    second: righthand_either_greatbow_sh_r_10
+  - first:
+      213: 21300580
+    second: righthand_either_greatbow_sh_r_11
+  - first:
+      213: 21300582
+    second: righthand_either_greatbow_sh_r_12
+  - first:
+      213: 21300584
+    second: righthand_either_greatbow_sh_d_0
+  - first:
+      213: 21300586
+    second: righthand_either_greatbow_sh_d_1
+  - first:
+      213: 21300588
+    second: righthand_either_greatbow_sh_d_2
+  - first:
+      213: 21300590
+    second: righthand_either_greatbow_sh_d_3
+  - first:
+      213: 21300592
+    second: righthand_either_greatbow_sh_d_4
+  - first:
+      213: 21300594
+    second: righthand_either_greatbow_sh_d_5
+  - first:
+      213: 21300596
+    second: righthand_either_greatbow_sh_d_6
+  - first:
+      213: 21300598
+    second: righthand_either_greatbow_sh_d_7
+  - first:
+      213: 21300600
+    second: righthand_either_greatbow_sh_d_8
+  - first:
+      213: 21300602
+    second: righthand_either_greatbow_sh_d_9
+  - first:
+      213: 21300604
+    second: righthand_either_greatbow_sh_d_10
+  - first:
+      213: 21300606
+    second: righthand_either_greatbow_sh_d_11
+  - first:
+      213: 21300608
+    second: righthand_either_greatbow_sh_d_12
+  - first:
+      213: 21300610
+    second: righthand_either_greatbow_sh_l_0
+  - first:
+      213: 21300612
+    second: righthand_either_greatbow_sh_l_1
+  - first:
+      213: 21300614
+    second: righthand_either_greatbow_sh_l_2
+  - first:
+      213: 21300616
+    second: righthand_either_greatbow_sh_l_3
+  - first:
+      213: 21300618
+    second: righthand_either_greatbow_sh_l_4
+  - first:
+      213: 21300620
+    second: righthand_either_greatbow_sh_l_5
+  - first:
+      213: 21300622
+    second: righthand_either_greatbow_sh_l_6
+  - first:
+      213: 21300624
+    second: righthand_either_greatbow_sh_l_7
+  - first:
+      213: 21300626
+    second: righthand_either_greatbow_sh_l_8
+  - first:
+      213: 21300628
+    second: righthand_either_greatbow_sh_l_9
+  - first:
+      213: 21300630
+    second: righthand_either_greatbow_sh_l_10
+  - first:
+      213: 21300632
+    second: righthand_either_greatbow_sh_l_11
+  - first:
+      213: 21300634
+    second: righthand_either_greatbow_sh_l_12
+  - first:
+      213: 21300636
+    second: righthand_either_greatbow_sh_t_0
+  - first:
+      213: 21300638
+    second: righthand_either_greatbow_sh_t_1
+  - first:
+      213: 21300640
+    second: righthand_either_greatbow_sh_t_2
+  - first:
+      213: 21300642
+    second: righthand_either_greatbow_sh_t_3
+  - first:
+      213: 21300644
+    second: righthand_either_greatbow_sh_t_4
+  - first:
+      213: 21300646
+    second: righthand_either_greatbow_sh_t_5
+  - first:
+      213: 21300648
+    second: righthand_either_greatbow_sh_t_6
+  - first:
+      213: 21300650
+    second: righthand_either_greatbow_sh_t_7
+  - first:
+      213: 21300652
+    second: righthand_either_greatbow_sh_t_8
+  - first:
+      213: 21300654
+    second: righthand_either_greatbow_sh_t_9
+  - first:
+      213: 21300656
+    second: righthand_either_greatbow_sh_t_10
+  - first:
+      213: 21300658
+    second: righthand_either_greatbow_sh_t_11
+  - first:
+      213: 21300660
+    second: righthand_either_greatbow_sh_t_12
+  - first:
+      213: 21300662
+    second: righthand_either_greatbow_sl_r_0
+  - first:
+      213: 21300664
+    second: righthand_either_greatbow_sl_r_1
+  - first:
+      213: 21300666
+    second: righthand_either_greatbow_sl_r_2
+  - first:
+      213: 21300668
+    second: righthand_either_greatbow_sl_r_3
+  - first:
+      213: 21300670
+    second: righthand_either_greatbow_sl_r_4
+  - first:
+      213: 21300672
+    second: righthand_either_greatbow_sl_r_5
+  - first:
+      213: 21300674
+    second: righthand_either_greatbow_sl_d_0
+  - first:
+      213: 21300676
+    second: righthand_either_greatbow_sl_d_1
+  - first:
+      213: 21300678
+    second: righthand_either_greatbow_sl_d_2
+  - first:
+      213: 21300680
+    second: righthand_either_greatbow_sl_d_3
+  - first:
+      213: 21300682
+    second: righthand_either_greatbow_sl_d_4
+  - first:
+      213: 21300684
+    second: righthand_either_greatbow_sl_d_5
+  - first:
+      213: 21300686
+    second: righthand_either_greatbow_sl_l_0
+  - first:
+      213: 21300688
+    second: righthand_either_greatbow_sl_l_1
+  - first:
+      213: 21300690
+    second: righthand_either_greatbow_sl_l_2
+  - first:
+      213: 21300692
+    second: righthand_either_greatbow_sl_l_3
+  - first:
+      213: 21300694
+    second: righthand_either_greatbow_sl_l_4
+  - first:
+      213: 21300696
+    second: righthand_either_greatbow_sl_l_5
+  - first:
+      213: 21300698
+    second: righthand_either_greatbow_sl_t_0
+  - first:
+      213: 21300700
+    second: righthand_either_greatbow_sl_t_1
+  - first:
+      213: 21300702
+    second: righthand_either_greatbow_sl_t_2
+  - first:
+      213: 21300704
+    second: righthand_either_greatbow_sl_t_3
+  - first:
+      213: 21300706
+    second: righthand_either_greatbow_sl_t_4
+  - first:
+      213: 21300708
+    second: righthand_either_greatbow_sl_t_5
+  - first:
+      213: 21300710
+    second: righthand_either_greatbow_wc_r_0
+  - first:
+      213: 21300712
+    second: righthand_either_greatbow_wc_r_1
+  - first:
+      213: 21300714
+    second: righthand_either_greatbow_wc_r_2
+  - first:
+      213: 21300716
+    second: righthand_either_greatbow_wc_r_3
+  - first:
+      213: 21300718
+    second: righthand_either_greatbow_wc_r_4
+  - first:
+      213: 21300720
+    second: righthand_either_greatbow_wc_r_5
+  - first:
+      213: 21300722
+    second: righthand_either_greatbow_wc_r_6
+  - first:
+      213: 21300724
+    second: righthand_either_greatbow_wc_r_7
+  - first:
+      213: 21300726
+    second: righthand_either_greatbow_wc_r_8
+  - first:
+      213: 21300728
+    second: righthand_either_greatbow_wc_d_0
+  - first:
+      213: 21300730
+    second: righthand_either_greatbow_wc_d_1
+  - first:
+      213: 21300732
+    second: righthand_either_greatbow_wc_d_2
+  - first:
+      213: 21300734
+    second: righthand_either_greatbow_wc_d_3
+  - first:
+      213: 21300736
+    second: righthand_either_greatbow_wc_d_4
+  - first:
+      213: 21300738
+    second: righthand_either_greatbow_wc_d_5
+  - first:
+      213: 21300740
+    second: righthand_either_greatbow_wc_d_6
+  - first:
+      213: 21300742
+    second: righthand_either_greatbow_wc_d_7
+  - first:
+      213: 21300744
+    second: righthand_either_greatbow_wc_d_8
+  - first:
+      213: 21300746
+    second: righthand_either_greatbow_wc_l_0
+  - first:
+      213: 21300748
+    second: righthand_either_greatbow_wc_l_1
+  - first:
+      213: 21300750
+    second: righthand_either_greatbow_wc_l_2
+  - first:
+      213: 21300752
+    second: righthand_either_greatbow_wc_l_3
+  - first:
+      213: 21300754
+    second: righthand_either_greatbow_wc_l_4
+  - first:
+      213: 21300756
+    second: righthand_either_greatbow_wc_l_5
+  - first:
+      213: 21300758
+    second: righthand_either_greatbow_wc_l_6
+  - first:
+      213: 21300760
+    second: righthand_either_greatbow_wc_l_7
+  - first:
+      213: 21300762
+    second: righthand_either_greatbow_wc_l_8
+  - first:
+      213: 21300764
+    second: righthand_either_greatbow_wc_t_0
+  - first:
+      213: 21300766
+    second: righthand_either_greatbow_wc_t_1
+  - first:
+      213: 21300768
+    second: righthand_either_greatbow_wc_t_2
+  - first:
+      213: 21300770
+    second: righthand_either_greatbow_wc_t_3
+  - first:
+      213: 21300772
+    second: righthand_either_greatbow_wc_t_4
+  - first:
+      213: 21300774
+    second: righthand_either_greatbow_wc_t_5
+  - first:
+      213: 21300776
+    second: righthand_either_greatbow_wc_t_6
+  - first:
+      213: 21300778
+    second: righthand_either_greatbow_wc_t_7
+  - first:
+      213: 21300780
+    second: righthand_either_greatbow_wc_t_8
+  - first:
+      213: 21300782
+    second: righthand_either_greatbow_th_r_0
+  - first:
+      213: 21300784
+    second: righthand_either_greatbow_th_r_1
+  - first:
+      213: 21300786
+    second: righthand_either_greatbow_th_r_2
+  - first:
+      213: 21300788
+    second: righthand_either_greatbow_th_r_3
+  - first:
+      213: 21300790
+    second: righthand_either_greatbow_th_r_4
+  - first:
+      213: 21300792
+    second: righthand_either_greatbow_th_r_5
+  - first:
+      213: 21300794
+    second: righthand_either_greatbow_th_r_6
+  - first:
+      213: 21300796
+    second: righthand_either_greatbow_th_r_7
+  - first:
+      213: 21300798
+    second: righthand_either_greatbow_th_d_0
+  - first:
+      213: 21300800
+    second: righthand_either_greatbow_th_d_1
+  - first:
+      213: 21300802
+    second: righthand_either_greatbow_th_d_2
+  - first:
+      213: 21300804
+    second: righthand_either_greatbow_th_d_3
+  - first:
+      213: 21300806
+    second: righthand_either_greatbow_th_d_4
+  - first:
+      213: 21300808
+    second: righthand_either_greatbow_th_d_5
+  - first:
+      213: 21300810
+    second: righthand_either_greatbow_th_d_6
+  - first:
+      213: 21300812
+    second: righthand_either_greatbow_th_d_7
+  - first:
+      213: 21300814
+    second: righthand_either_greatbow_th_l_0
+  - first:
+      213: 21300816
+    second: righthand_either_greatbow_th_l_1
+  - first:
+      213: 21300818
+    second: righthand_either_greatbow_th_l_2
+  - first:
+      213: 21300820
+    second: righthand_either_greatbow_th_l_3
+  - first:
+      213: 21300822
+    second: righthand_either_greatbow_th_l_4
+  - first:
+      213: 21300824
+    second: righthand_either_greatbow_th_l_5
+  - first:
+      213: 21300826
+    second: righthand_either_greatbow_th_l_6
+  - first:
+      213: 21300828
+    second: righthand_either_greatbow_th_l_7
+  - first:
+      213: 21300830
+    second: righthand_either_greatbow_th_t_0
+  - first:
+      213: 21300832
+    second: righthand_either_greatbow_th_t_1
+  - first:
+      213: 21300834
+    second: righthand_either_greatbow_th_t_2
+  - first:
+      213: 21300836
+    second: righthand_either_greatbow_th_t_3
+  - first:
+      213: 21300838
+    second: righthand_either_greatbow_th_t_4
+  - first:
+      213: 21300840
+    second: righthand_either_greatbow_th_t_5
+  - first:
+      213: 21300842
+    second: righthand_either_greatbow_th_t_6
+  - first:
+      213: 21300844
+    second: righthand_either_greatbow_th_t_7
+  - first:
+      213: 21300846
+    second: righthand_either_greatbow_sc_r_0
+  - first:
+      213: 21300848
+    second: righthand_either_greatbow_sc_r_1
+  - first:
+      213: 21300850
+    second: righthand_either_greatbow_sc_r_2
+  - first:
+      213: 21300852
+    second: righthand_either_greatbow_sc_r_3
+  - first:
+      213: 21300854
+    second: righthand_either_greatbow_sc_r_4
+  - first:
+      213: 21300856
+    second: righthand_either_greatbow_sc_r_5
+  - first:
+      213: 21300858
+    second: righthand_either_greatbow_sc_r_6
+  - first:
+      213: 21300860
+    second: righthand_either_greatbow_sc_d_0
+  - first:
+      213: 21300862
+    second: righthand_either_greatbow_sc_d_1
+  - first:
+      213: 21300864
+    second: righthand_either_greatbow_sc_d_2
+  - first:
+      213: 21300866
+    second: righthand_either_greatbow_sc_d_3
+  - first:
+      213: 21300868
+    second: righthand_either_greatbow_sc_d_4
+  - first:
+      213: 21300870
+    second: righthand_either_greatbow_sc_d_5
+  - first:
+      213: 21300872
+    second: righthand_either_greatbow_sc_d_6
+  - first:
+      213: 21300874
+    second: righthand_either_greatbow_sc_l_0
+  - first:
+      213: 21300876
+    second: righthand_either_greatbow_sc_l_1
+  - first:
+      213: 21300878
+    second: righthand_either_greatbow_sc_l_2
+  - first:
+      213: 21300880
+    second: righthand_either_greatbow_sc_l_3
+  - first:
+      213: 21300882
+    second: righthand_either_greatbow_sc_l_4
+  - first:
+      213: 21300884
+    second: righthand_either_greatbow_sc_l_5
+  - first:
+      213: 21300886
+    second: righthand_either_greatbow_sc_l_6
+  - first:
+      213: 21300888
+    second: righthand_either_greatbow_sc_t_0
+  - first:
+      213: 21300890
+    second: righthand_either_greatbow_sc_t_1
+  - first:
+      213: 21300892
+    second: righthand_either_greatbow_sc_t_2
+  - first:
+      213: 21300894
+    second: righthand_either_greatbow_sc_t_3
+  - first:
+      213: 21300896
+    second: righthand_either_greatbow_sc_t_4
+  - first:
+      213: 21300898
+    second: righthand_either_greatbow_sc_t_5
+  - first:
+      213: 21300900
+    second: righthand_either_greatbow_sc_t_6
   externalObjects: {}
-  serializedVersion: 9
+  serializedVersion: 10
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -496,7 +1398,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 64
+  spritePixelsToUnits: 31
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -514,7 +1416,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 0
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -539,6 +1441,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -559,6 +1462,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -579,6 +1483,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -599,6 +1504,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -619,6 +1525,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -639,6 +1546,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -659,6 +1567,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -679,6 +1588,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -699,6 +1609,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -719,6 +1630,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -739,6 +1651,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -759,6 +1672,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -779,6 +1693,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -799,6 +1714,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -819,6 +1735,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -839,6 +1756,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -859,6 +1777,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -879,6 +1798,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -899,6 +1819,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -919,6 +1840,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -939,6 +1861,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -959,6 +1882,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -979,6 +1903,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -999,6 +1924,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1019,6 +1945,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1039,6 +1966,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1059,6 +1987,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1079,6 +2008,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1099,6 +2029,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1119,6 +2050,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1139,6 +2071,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1159,6 +2092,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1179,6 +2113,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1199,6 +2134,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1219,6 +2155,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1239,6 +2176,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1259,6 +2197,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1279,6 +2218,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1299,6 +2239,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1319,6 +2260,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1339,6 +2281,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1359,6 +2302,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1379,6 +2323,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1399,6 +2344,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1419,6 +2365,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1439,6 +2386,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1459,6 +2407,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1479,6 +2428,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1499,6 +2449,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1519,6 +2470,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1539,6 +2491,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1559,6 +2512,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1579,6 +2533,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1599,6 +2554,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1619,6 +2575,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1639,6 +2596,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1659,6 +2617,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1679,6 +2638,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1699,6 +2659,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1719,6 +2680,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1739,6 +2701,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1759,6 +2722,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1779,6 +2743,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1799,6 +2764,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1819,6 +2785,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1839,6 +2806,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1859,6 +2827,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1879,6 +2848,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1899,6 +2869,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1919,6 +2890,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1939,6 +2911,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1959,6 +2932,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1979,6 +2953,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -1999,6 +2974,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2019,6 +2995,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2039,6 +3016,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2059,6 +3037,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2079,6 +3058,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2099,6 +3079,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2119,6 +3100,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2139,6 +3121,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2159,6 +3142,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2179,6 +3163,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2199,6 +3184,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2219,6 +3205,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2239,6 +3226,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2259,6 +3247,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2279,6 +3268,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2299,6 +3289,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2319,6 +3310,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2339,6 +3331,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2359,6 +3352,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2379,6 +3373,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2399,6 +3394,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2419,6 +3415,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2439,6 +3436,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2459,6 +3457,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2479,6 +3478,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2499,6 +3499,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2519,6 +3520,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2539,6 +3541,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2559,6 +3562,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2579,6 +3583,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2599,6 +3604,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2619,6 +3625,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2639,6 +3646,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2659,6 +3667,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2679,6 +3688,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2699,6 +3709,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2719,6 +3730,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2739,6 +3751,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2759,6 +3772,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2779,6 +3793,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2799,6 +3814,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2819,6 +3835,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2839,6 +3856,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2859,6 +3877,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2879,6 +3898,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2899,6 +3919,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2919,6 +3940,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2939,6 +3961,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2959,6 +3982,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2979,6 +4003,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -2999,6 +4024,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3019,6 +4045,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3039,6 +4066,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3059,6 +4087,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3079,6 +4108,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3099,6 +4129,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3119,6 +4150,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3139,6 +4171,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3159,6 +4192,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3179,6 +4213,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3199,6 +4234,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3219,6 +4255,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3239,6 +4276,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3259,6 +4297,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3279,6 +4318,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3299,6 +4339,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3319,6 +4360,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3339,6 +4381,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3359,6 +4402,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3379,6 +4423,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3399,6 +4444,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3419,6 +4465,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3439,6 +4486,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3459,6 +4507,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3479,6 +4528,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3499,6 +4549,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3519,6 +4570,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3539,6 +4591,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3559,6 +4612,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3579,6 +4633,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3599,6 +4654,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3619,6 +4675,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3639,6 +4696,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3659,6 +4717,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3679,6 +4738,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3699,6 +4759,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3719,6 +4780,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3739,6 +4801,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3759,6 +4822,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3779,6 +4843,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3799,6 +4864,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3819,6 +4885,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3839,6 +4906,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3859,6 +4927,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3879,6 +4948,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3899,6 +4969,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3919,6 +4990,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3939,6 +5011,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3959,6 +5032,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3979,6 +5053,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -3999,6 +5074,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -4019,6 +5095,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -4039,6 +5116,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -4059,6 +5137,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -4079,6 +5158,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
+      internalID: 0
       vertices: []
       indices: 
       edges: []
@@ -4087,10 +5167,12 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 054a7eb24931dbb46ad747a2daa27392
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
+    secondaryTextures: []
   spritePackingTag: character
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

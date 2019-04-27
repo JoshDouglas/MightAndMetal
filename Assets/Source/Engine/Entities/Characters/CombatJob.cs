@@ -2,17 +2,21 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CombatJob : MonoBehaviour
+public class CombatJob 
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+	public CombatJobName name;
+}
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+
+public enum CombatJobName
+{
+	Soldier,
+	Esquire,
+	Knight,
+	Archer,
+	Centenar,
+	Millenar,
+	Monk,
+	Priest,
+	Bishop
 }

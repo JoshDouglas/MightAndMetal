@@ -176,10 +176,12 @@ public class CharacterAnimatorView : View
 		tabardGo.transform.position      = transform.position;
 		_tabardRenderer                  = tabardGo.AddComponent<SpriteRenderer>();
 		_tabardRenderer.sortingLayerName = "characters";
-		if (_entity.faction.name == "Ivalice")
-			_tabardRenderer.material.SetColor("_Color", new Color(.8f, .116f, .140f));
-		else
-			_tabardRenderer.material.SetColor("_Color", new Color(.212f, .192f, .162f));
+		if (_entity.faction.name == "utah")
+			_tabardRenderer.material.SetColor("_Color", Color.blue);
+		else if (_entity.faction.name == "nevada")
+			_tabardRenderer.material.SetColor("_Color", Color.yellow);
+		else if (_entity.faction.name == "colorado")
+			_tabardRenderer.material.SetColor("_Color", Color.cyan);
 	}
 
 	private void Start()

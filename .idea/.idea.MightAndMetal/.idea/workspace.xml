@@ -2,295 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7df71a61-8b18-4d0c-81b4-b9497c2462a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.MightAndMetal/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.MightAndMetal/.idea/dictionaries/Josh.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Physics/Projectile.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Physics/Weapon.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Physics/Weapon/CharacterWeaponBody.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Physics/Weapon/CharacterWeaponBody.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Physics/Weapon/WeaponBodyComponent.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Physics/Weapon/WeaponBodyComponent.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Rendering/Character.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Rendering/Character/CharacterAnimation.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Rendering/Character/CharacterAnimation.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Rendering/Character/CharacterAnimationAction.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Rendering/Character/CharacterAnimationAction.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Rendering/Character/CharacterAnimatorView.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Rendering/Character/CharacterAnimatorView.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Rendering/Character/CharacterHeading.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Rendering/Character/CharacterHeading.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Rendering/Character/CharacterPiece.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Rendering/Character/CharacterPiece.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Rendering/Character/CharacterPieceAnimatorView.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Rendering/Environment.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Rendering/Projectile.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Rendering/Weapon.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Source/Components/Standard/InvincibleComponent.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Source/Components/Standard/InvincibleComponent.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Source/Components/Standard/KnockbackComponent.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Source/Components/Standard/KnockbackComponent.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Source/Components/Standard/StunnedComponent.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Source/Components/Standard/StunnedComponent.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Source/Components/Standard/WeaponComponent.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Source/Components/Standard/WeaponComponent.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Source/Engine/Entities/Characters/CombatAction.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Source/Engine/Entities/Characters/CombatItem.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Source/Systems/Cleanup/CombatCleanupSystem.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/todo.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/todo.md.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.MightAndMetal/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MightAndMetal/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.MightAndMetal/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MightAndMetal/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MightAndMetal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MightAndMetal/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DOTween/Editor/Imgs/DOTweenIcon.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/DOTween/Editor/Imgs/DOTweenIcon.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DOTween/Editor/Imgs/Footer.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/DOTween/Editor/Imgs/Footer.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DOTween/Editor/Imgs/Footer_dark.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/DOTween/Editor/Imgs/Footer_dark.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DOTween/Editor/Imgs/Header.jpg.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/DOTween/Editor/Imgs/Header.jpg.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DesperateDevs/Editor/Images/Jenny-Header.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/DesperateDevs/Editor/Images/Jenny-Header.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Entitas/Editor/Images/EntitasContextErrorHierarchyIcon.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Entitas/Editor/Images/EntitasContextErrorHierarchyIcon.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Entitas/Editor/Images/EntitasContextHierarchyIcon.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Entitas/Editor/Images/EntitasContextHierarchyIcon.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Entitas/Editor/Images/EntitasEntityErrorHierarchyIcon.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Entitas/Editor/Images/EntitasEntityErrorHierarchyIcon.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Entitas/Editor/Images/EntitasEntityHierarchyIcon.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Entitas/Editor/Images/EntitasEntityHierarchyIcon.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Entitas/Editor/Images/EntitasEntityLinkHierarchyIcon.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Entitas/Editor/Images/EntitasEntityLinkHierarchyIcon.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Entitas/Editor/Images/EntitasEntityLinkWarnHierarchyIcon.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Entitas/Editor/Images/EntitasEntityLinkWarnHierarchyIcon.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Entitas/Editor/Images/EntitasHeader.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Entitas/Editor/Images/EntitasHeader.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Entitas/Editor/Images/EntitasSystemsHierarchyIcon.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Entitas/Editor/Images/EntitasSystemsHierarchyIcon.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Entitas/Editor/Images/EntitasSystemsWarnHierarchyIcon.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Entitas/Editor/Images/EntitasSystemsWarnHierarchyIcon.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Main.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Battleground/Background/Basic.psd.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Battleground/Background/Basic.psd.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Battleground/Background/grass.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Battleground/Background/grass.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Battleground/Background/water.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Battleground/Background/water.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Battleground/Background/watergrass.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Battleground/Background/watergrass.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Battleground/Foreground/barrel.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Battleground/Foreground/barrel.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Battleground/Foreground/forest_props.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Battleground/Foreground/forest_props.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Battleground/Foreground/house.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Battleground/Foreground/house.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Battleground/Foreground/obstacle_barrel.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Battleground/Foreground/obstacle_barrel.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Battleground/Foreground/treetop.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Battleground/Foreground/treetop.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Battleground/Foreground/trunk.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Battleground/Foreground/trunk.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/CharacterTemplateAtlas.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/CharacterTemplateAtlas.spriteatlas" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/arms/male/platemail.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/arms/male/platemail.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/back/female/cape.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/back/female/cape.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/back2/both/quiver.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/back2/both/quiver.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/body/male/dark.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/body/male/dark.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/body/male/light.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/body/male/light.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/body/male/orc.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/body/male/orc.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/body/male/red_orc.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/body/male/red_orc.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/body/male/skeleton.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/body/male/skeleton.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/body/male/tanned2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/body/male/tanned2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/chest/male/apron.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/chest/male/apron.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/chest/male/chain_tabard.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/chest/male/chain_tabard.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/chest/male/chainmail.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/chest/male/chainmail.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/chest/male/leather.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/chest/male/leather.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/chest/male/no_th-sh/bowtie.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/chest/male/no_th-sh/bowtie.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/chest/male/no_th-sh/pants.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/chest/male/no_th-sh/pants.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/chest/male/no_th-sh/shirt.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/chest/male/no_th-sh/shirt.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/chest/male/no_th-sh/tie.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/chest/male/no_th-sh/tie.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/chest/male/no_th-sh/vest.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/chest/male/no_th-sh/vest.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/chest/male/platemail.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/chest/male/platemail.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/chest/male/shirt_longsleeve.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/chest/male/shirt_longsleeve.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/chest/male/shirt_sleeveless.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/chest/male/shirt_sleeveless.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/ears/male/big_dark.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/ears/male/big_dark.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/ears/male/big_light.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/ears/male/big_light.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/ears/male/big_tanned2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/ears/male/big_tanned2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/ears/male/elven_light.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/ears/male/elven_light.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/ears/male/long_light.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/ears/male/long_light.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/ears/male/long_tanned.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/ears/male/long_tanned.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/eyes/male/blue.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/eyes/male/blue.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/eyes/male/brown.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/eyes/male/brown.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/eyes/male/casting_eyeglow_skeleton.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/eyes/male/casting_eyeglow_skeleton.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/eyes/male/gray.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/eyes/male/gray.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/eyes/male/green.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/eyes/male/green.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/eyes/male/orange.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/eyes/male/orange.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/eyes/male/purple.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/eyes/male/purple.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/eyes/male/red.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/eyes/male/red.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/eyes/male/yellow.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/eyes/male/yellow.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/face/male/mask.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/face/male/mask.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/facialhair/male/beard.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/facialhair/male/beard.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/facialhair/male/bigstache.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/facialhair/male/bigstache.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/facialhair/male/fiveoclock.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/facialhair/male/fiveoclock.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/facialhair/male/frenchstache.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/facialhair/male/frenchstache.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/facialhair/male/mustache.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/facialhair/male/mustache.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/feet/ghillies_female_no_th-sh.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/feet/ghillies_female_no_th-sh.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/feet/male/platemail.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/feet/male/platemail.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/feet/male/shoes.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/feet/male/shoes.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/bangs.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/bangs.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/bangslong.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/bangslong.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/bangslong2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/bangslong2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/bangsshort.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/bangsshort.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/bedhead.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/bedhead.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/bunches.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/bunches.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/halfmessy.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/halfmessy.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/jewfro.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/jewfro.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/long.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/long.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/longhawk.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/longhawk.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/longknot.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/longknot.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/loose.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/loose.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/messy1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/messy1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/messy2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/messy2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/mohawk.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/mohawk.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/page.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/page.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/page2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/page2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/parted.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/parted.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/pixie.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/pixie.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/plain.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/plain.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/ponytail.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/ponytail.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/ponytail2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/ponytail2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/princess.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/princess.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/shorthawk.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/shorthawk.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/shortknot.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/shortknot.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/shoulderl.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/shoulderl.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/shoulderr.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/shoulderr.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/swoop.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/swoop.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/unkempt.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/unkempt.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/xlong.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/xlong.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/xlongknot.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/hair/male/xlongknot.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/hands/male/platemail.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/hands/male/platemail.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/head/male/bandanas.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/head/male/bandanas.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/head/male/chainmail.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/head/male/chainmail.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/head/male/crown.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/head/male/crown.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/head/male/hood.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/head/male/hood.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/head/male/leather.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/head/male/leather.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/head/male/platemail.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/head/male/platemail.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/head/male/reinforced.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/head/male/reinforced.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/head/male/spiked.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/head/male/spiked.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/head/male/wizard_hat.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/head/male/wizard_hat.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/lefthand/male/arrow.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/lefthand/male/arrow.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/lefthand/male/shield.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/lefthand/male/shield.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/lefthand/male/shield_hat.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/lefthand/male/shield_hat.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/legs/male/pants.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/legs/male/pants.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/legs/male/platemail.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/legs/male/platemail.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/legs/male/skirt.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/legs/male/skirt.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/neck/male/capeclip.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/neck/male/capeclip.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/neck/male/capetie.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/neck/male/capetie.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/neck/male/scarf.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/neck/male/scarf.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/nose/male/bignose_dark.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/nose/male/bignose_dark.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/nose/male/bignose_dark2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/nose/male/bignose_dark2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/nose/male/bignose_darkelf.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/nose/male/bignose_darkelf.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/nose/male/bignose_darkelf2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/nose/male/bignose_darkelf2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/nose/male/bignose_light.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/nose/male/bignose_light.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/nose/male/bignose_tanned.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/nose/male/bignose_tanned.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/nose/male/bignose_tanned2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/nose/male/bignose_tanned2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/nose/male/buttonnose_dark.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/nose/male/buttonnose_dark.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/nose/male/buttonnose_dark2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/nose/male/buttonnose_dark2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/nose/male/buttonnose_darkelf.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/nose/male/buttonnose_darkelf.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/nose/male/buttonnose_darkelf2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/nose/male/buttonnose_darkelf2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/nose/male/buttonnose_light.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/nose/male/buttonnose_light.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/nose/male/buttonnose_tanned.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/nose/male/buttonnose_tanned.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/nose/male/buttonnose_tanned2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/nose/male/buttonnose_tanned2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/nose/male/straightnose_dark.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/nose/male/straightnose_dark.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/nose/male/straightnose_dark2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/nose/male/straightnose_dark2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/nose/male/straightnose_darkelf.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/nose/male/straightnose_darkelf.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/nose/male/straightnose_darkelf2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/nose/male/straightnose_darkelf2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/nose/male/straightnose_light.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/nose/male/straightnose_light.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/nose/male/straightnose_tanned.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/nose/male/straightnose_tanned.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/nose/male/straightnose_tanned2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/nose/male/straightnose_tanned2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/righthand/either/bow.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/righthand/either/bow.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/righthand/either/bow_skeleton.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/righthand/either/bow_skeleton.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/righthand/either/greatbow.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/righthand/either/greatbow.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/righthand/either/recurvebow.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/righthand/either/recurvebow.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/righthand/male/dagger.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/righthand/male/dagger.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/righthand/male/longsword.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/righthand/male/longsword.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/righthand/male/mace.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/righthand/male/mace.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/righthand/male/rapier.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/righthand/male/rapier.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/righthand/male/saber.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/righthand/male/saber.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/righthand/male/spear.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/righthand/male/spear.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/righthand/male/wand_wood.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/righthand/male/wand_wood.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/shoulder/male/leather.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/shoulder/male/leather.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/shoulder/male/single_leather.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/shoulder/male/single_leather.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/templates/archer_bow.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/templates/archer_bow.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/templates/cleric_shield.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/templates/cleric_shield.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/templates/leader_shield.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/templates/leader_shield.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/templates/sword_shield.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/templates/sword_shield.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/twohand/either/dragonspear.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/twohand/either/dragonspear.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/twohand/either/spear.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/twohand/either/spear.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/twohand/either/trident.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/twohand/either/trident.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/waist/male/cloth.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/waist/male/cloth.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/waist/male/leather.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/waist/male/leather.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/Characters/wrists/male/leather.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Characters/wrists/male/leather.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Components/Flags/HurtComponent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Components/Flags/HurtComponent.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Physics/CharacterBody.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Physics/CharacterBody.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Physics/EnvironmentBody.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Physics/EnvironmentBody.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Physics/PhysicalBody.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Physics/PhysicalBody.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Rendering/CharacterAnimator.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Rendering/CharacterAnimator.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Rendering/CharacterView.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Rendering/CharacterView.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Rendering/Character/CharacterPieceAnimatorView.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Rendering/EnvironmentView.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Rendering/EnvironmentView.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Rendering/IView.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Rendering/IView.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Rendering/View.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Rendering/View.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Rendering/ViewComponent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Rendering/ViewComponent.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Components/Standard/ActingComponent.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Components/Standard/ActingComponent.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Components/Standard/CharacterComponent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Components/Standard/CharacterComponent.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Components/Standard/InputComponent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Components/Standard/InputComponent.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Components/Standard/ScaleComponent.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Components/Standard/ScaleComponent.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Components/Standard/VelocityComponent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Components/Standard/VelocityComponent.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Engine/Entities/Characters/CombatAbility.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Engine/Entities/Characters/CombatAbility.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Engine/Entities/Characters/CombatAction.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Engine/Entities/Characters/CombatEffect.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Engine/Entities/Characters/CombatEffect.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Engine/Entities/Characters/CombatJob.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Engine/Entities/Characters/CombatJob.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Engine/Entities/Characters/CombatProjectile.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Engine/Entities/Characters/CombatProjectile.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Engine/Entities/Characters/CombatStrategy.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Engine/Entities/Characters/CombatStrategy.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Engine/Entities/Characters/Equipment.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Engine/Entities/Characters/Equipment.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Engine/Entities/Characters/Item.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Engine/Entities/Characters/Item.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Engine/Entities/Characters/CombatItem.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/GameController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/GameController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Battleground/BattlegroundAtlas.spriteatlas" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Battleground/BattlegroundAtlas.spriteatlas" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Physics/Character/CharacterBody.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Physics/Character/CharacterBody.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Rendering/Character/CharacterAnimatorView.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Rendering/Character/CharacterAnimatorView.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Source/Engine/Entities/Characters/CombatAction.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Engine/Entities/Characters/CombatAction.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Source/GameControllerBehavior.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/GameControllerBehavior.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/GameSystems.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/GameSystems.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Generated/Events/Components/ActingListenerComponent.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Generated/Events/Components/ActingListenerComponent.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Generated/Events/Components/ActingRemovedListenerComponent.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Generated/Events/Components/ActingRemovedListenerComponent.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Generated/Events/Components/VelocityListenerComponent.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Generated/Events/Components/VelocityListenerComponent.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Generated/Events/Components/VelocityRemovedListenerComponent.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Generated/Events/Components/VelocityRemovedListenerComponent.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Generated/Events/GameEventSystems.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Generated/Events/GameEventSystems.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Generated/Events/Interfaces/IActingListener.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Generated/Events/Interfaces/IActingListener.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Generated/Events/Interfaces/IActingRemovedListener.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Generated/Events/Interfaces/IActingRemovedListener.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Generated/Events/Interfaces/IVelocityListener.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Generated/Events/Interfaces/IVelocityListener.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Generated/Events/Interfaces/IVelocityRemovedListener.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Generated/Events/Interfaces/IVelocityRemovedListener.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Generated/Events/Systems/ActingEventSystem.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Generated/Events/Systems/ActingEventSystem.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Generated/Events/Systems/ActingRemovedEventSystem.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Generated/Events/Systems/ActingRemovedEventSystem.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Generated/Events/Systems/VelocityEventSystem.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Generated/Events/Systems/VelocityEventSystem.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Generated/Events/Systems/VelocityRemovedEventSystem.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Generated/Events/Systems/VelocityRemovedEventSystem.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Generated/Game/Components/GameActingComponent.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Generated/Game/Components/GameActingComponent.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Generated/Game/Components/GameActingListenerComponent.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Generated/Game/Components/GameActingListenerComponent.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Generated/Game/Components/GameActingRemovedListenerComponent.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Generated/Game/Components/GameActingRemovedListenerComponent.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Generated/Game/Components/GameCharacterComponent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Generated/Game/Components/GameCharacterComponent.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Generated/Game/Components/GameHurtComponent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Generated/Game/Components/GameHurtComponent.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Generated/Game/Components/GamePositionComponent.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Generated/Game/Components/GamePositionComponent.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Generated/Game/Components/GameScaleComponent.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Generated/Game/Components/GameScaleComponent.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Generated/Game/Components/GameVelocityComponent.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Generated/Game/Components/GameVelocityComponent.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Generated/Game/Components/GameVelocityListenerComponent.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Generated/Game/Components/GameVelocityListenerComponent.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Generated/Game/Components/GameVelocityRemovedListenerComponent.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Generated/Game/Components/GameVelocityRemovedListenerComponent.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Generated/Game/GameComponentsLookup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Generated/Game/GameComponentsLookup.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Source/Systems/Execute/CombatSystem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Systems/Execute/CombatSystem.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Systems/Execute/MouthbreathingAISystem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Systems/Execute/MouthbreathingAISystem.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Systems/Execute/PhysicsSystem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Systems/Execute/PhysicsSystem.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Source/Systems/Execute/PlayerInputSystem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Systems/Execute/PlayerInputSystem.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Source/Systems/Execute/ViewSystem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Systems/Execute/ViewSystem.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Source/Systems/Init/GameInitSystem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Systems/Init/GameInitSystem.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/Packages-Update.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/Packages-Update.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -303,43 +23,89 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Source/Systems/Execute/CombatSystem.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="155" column="12" selection-start-line="155" selection-start-column="12" selection-end-line="155" selection-end-column="12" />
+            <state relative-caret-position="517">
+              <caret line="211" column="24" selection-start-line="211" selection-start-column="24" selection-end-line="211" selection-end-column="24" />
               <folding>
-                <marker date="1556266072645" expanded="false" signature="0:68" ph="##region" />
-                <marker date="1556266072645" expanded="false" signature="15:56" ph="..." />
-                <marker date="1556266072645" expanded="true" signature="112:5976" ph="{...}" />
-                <marker date="1556266072645" expanded="false" signature="193:223" ph="{...}" />
-                <marker date="1556266072645" expanded="true" signature="247:596" ph="{...}" />
-                <marker date="1556266072645" expanded="true" signature="369:593" ph="{...}" />
-                <marker date="1556266072645" expanded="false" signature="643:2336" ph="{...}" />
-                <marker date="1556266072645" expanded="false" signature="1865:2115" ph="{...}" />
-                <marker date="1556266072645" expanded="false" signature="1982:2036" ph="/* if (speed.x != 0 &amp;&amp; speed.y != 0) ... */" />
-                <marker date="1556266072645" expanded="false" signature="2145:2333" ph="{...}" />
-                <marker date="1556266072645" expanded="false" signature="2390:2594" ph="{...}" />
-                <marker date="1556266072645" expanded="false" signature="2645:2991" ph="{...}" />
-                <marker date="1556266072645" expanded="false" signature="2910:2988" ph="{...}" />
-                <marker date="1556266072645" expanded="false" signature="3040:3213" ph="{...}" />
-                <marker date="1556266072645" expanded="false" signature="3265:3453" ph="{...}" />
-                <marker date="1556266072645" expanded="false" signature="3507:4115" ph="{...}" />
-                <marker date="1556266072645" expanded="false" signature="3782:4112" ph="{...}" />
-                <marker date="1556266072645" expanded="false" signature="4200:5483" ph="{...}" />
-                <marker date="1556266072645" expanded="true" signature="4316:5480" ph="{...}" />
-                <marker date="1556266072645" expanded="true" signature="4753:5107" ph="{...}" />
-                <marker date="1556266072645" expanded="true" signature="5137:5403" ph="{...}" />
-                <marker date="1556266072645" expanded="false" signature="5552:5662" ph="{...}" />
-                <marker date="1556266072645" expanded="false" signature="5729:5974" ph="{...}" />
+                <marker date="1556487860146" expanded="false" signature="0:68" ph="##region" />
+                <marker date="1556487860146" expanded="false" signature="15:56" ph="..." />
+                <marker date="1556487860146" expanded="true" signature="112:5982" ph="{...}" />
+                <marker date="1556487860146" expanded="false" signature="193:223" ph="{...}" />
+                <marker date="1556487860146" expanded="false" signature="247:596" ph="{...}" />
+                <marker date="1556487860146" expanded="true" signature="369:593" ph="{...}" />
+                <marker date="1556487860146" expanded="false" signature="643:2340" ph="{...}" />
+                <marker date="1556487860146" expanded="true" signature="1869:2119" ph="{...}" />
+                <marker date="1556487860146" expanded="true" signature="1986:2040" ph="/* if (speed.x != 0 &amp;&amp; speed.y != 0) ... */" />
+                <marker date="1556487860146" expanded="true" signature="2149:2337" ph="{...}" />
+                <marker date="1556487860146" expanded="false" signature="2394:2598" ph="{...}" />
+                <marker date="1556487860146" expanded="false" signature="2649:2995" ph="{...}" />
+                <marker date="1556487860146" expanded="true" signature="2914:2992" ph="{...}" />
+                <marker date="1556487860146" expanded="false" signature="3044:3217" ph="{...}" />
+                <marker date="1556487860146" expanded="false" signature="3269:3457" ph="{...}" />
+                <marker date="1556487860146" expanded="false" signature="3511:4119" ph="{...}" />
+                <marker date="1556487860146" expanded="true" signature="3786:4116" ph="{...}" />
+                <marker date="1556487860146" expanded="true" signature="4204:5489" ph="{...}" />
+                <marker date="1556487860146" expanded="true" signature="4320:5486" ph="{...}" />
+                <marker date="1556487860146" expanded="true" signature="4757:5111" ph="{...}" />
+                <marker date="1556487860146" expanded="true" signature="5141:5409" ph="{...}" />
+                <marker date="1556487860146" expanded="false" signature="5558:5668" ph="{...}" />
+                <marker date="1556487860146" expanded="true" signature="5735:5980" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Source/GameControllerBehavior.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="428">
+              <caret line="69" column="33" selection-start-line="69" selection-start-column="33" selection-end-line="69" selection-end-column="33" />
+              <folding>
+                <marker date="1556489193902" expanded="false" signature="0:74" ph="##region" />
+                <marker date="1556489193902" expanded="false" signature="15:62" ph="..." />
+                <marker date="1556489193902" expanded="true" signature="127:1998" ph="{...}" />
+                <marker date="1556489193902" expanded="true" signature="257:540" ph="{...}" />
+                <marker date="1556489193902" expanded="false" signature="563:601" ph="{...}" />
+                <marker date="1556489193902" expanded="false" signature="625:1156" ph="{...}" />
+                <marker date="1556489193902" expanded="true" signature="680:1103" ph="{...}" />
+                <marker date="1556489193902" expanded="true" signature="1186:1751" ph="{...}" />
+                <marker date="1556489193902" expanded="true" signature="1253:1748" ph="{...}" />
+                <marker date="1556489193902" expanded="true" signature="1774:1996" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Source/Systems/Execute/PlayerInputSystem.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="407">
+              <caret line="58" column="20" selection-start-line="58" selection-start-column="20" selection-end-line="58" selection-end-column="20" />
+              <folding>
+                <marker date="1556489900396" expanded="false" signature="0:54" ph="##region" />
+                <marker date="1556489900396" expanded="false" signature="15:42" ph="..." />
+                <marker date="1556489900396" expanded="false" signature="230:260" ph="{...}" />
+                <marker date="1556489900396" expanded="true" signature="301:4739" ph="{...}" />
+                <marker date="1556489900396" expanded="true" signature="423:4737" ph="{...}" />
+                <marker date="1556489900396" expanded="true" signature="772:4734" ph="{...}" />
+                <marker date="1556489900396" expanded="true" signature="814:1585" ph="{...}" />
+                <marker date="1556489900396" expanded="true" signature="1318:1579" ph="{...}" />
+                <marker date="1556489900396" expanded="true" signature="1616:1779" ph="/* input.up = Input.GetKey(KeyCode.E); ... */" />
+                <marker date="1556489900396" expanded="true" signature="1828:2191" ph="{...}" />
+                <marker date="1556489900396" expanded="true" signature="2199:2566" ph="{...}" />
+                <marker date="1556489900396" expanded="true" signature="2599:2660" ph="/* if (vertical != 0 &amp;&amp; horizontal != 0) ... */" />
+                <marker date="1556489900396" expanded="true" signature="2846:3330" ph="/* if (Input.GetMouseButton(0)) ... */" />
+                <marker date="1556489900396" expanded="true" signature="4645:4730" ph="/* if (input.sprint) ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/todo.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="253">
-                <caret line="23" column="12" lean-forward="true" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="121">
+                <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
               </first_editor>
               <second_editor />
             </state>
@@ -405,7 +171,6 @@
     <setting file="file://$PROJECT_DIR$/Assets/Source/Components/Entity/FactionComponent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/599EA8EC-87AA-40FB-8BAC-EDFAD1BAA175/91/531a3ba1/SpriteMetaData.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Source/Components/Entity/SkirmishComponent.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Rendering/View.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Source/Systems/Cleanup/CombatCleanupSystem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/bitcula/LpcOversizeSpriteProcessor.cs" root0="FORCE_HIGHLIGHTING" />
@@ -414,13 +179,11 @@
     <setting file="file://$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Rendering/IView.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/24D852EC-3AC3-4D89-9BB0-79CFB1FCBE45/96/0cc466d9/Random.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Rendering/ViewComponent.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Rendering/Character/CharacterPieceAnimatorView.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/78121F72-672F-4A9B-8378-F38120B3DE75/b0/71b63484/Renderer.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/540517F6-5924-4B7D-8967-949304927A1D/07/91eae58f/CombatAction.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Source/Engine/Entities/Characters/CombatAction.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Rendering/Character/CharacterPiece.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/67872ECD-A042-4E09-ADCD-E3CFEF7AD8D6/e2/aac32708/EntitasHierarchyIcon.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Source/Engine/Entities/Characters/CombatItem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Source/Engine/Entities/Characters/CombatStrategy.cs" root0="FORCE_HIGHLIGHTING" />
@@ -436,8 +199,6 @@
     <setting file="file://$PROJECT_DIR$/Assets/Source/Generated/Game/Components/GameCombatActionComponent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Source/Generated/Game/Components/GameEquipmentComponent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Rendering/Character/CharacterHeading.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Source/Components/Standard/CharacterComponent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Source/Generated/Game/Components/GameCombatComponent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1F0C1EF1-AD52-4C38-BBC5-536809C46B48/da/35f65720/String.cs" root0="SKIP_HIGHLIGHTING" />
@@ -455,7 +216,6 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/07ACD42A-4D06-4CBD-AC11-856405CD71FB/c5/44d2e58a/KeyCode.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Source/GameController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Source/Generated/Game/Components/GameCharacterComponent.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Source/Systems/Execute/MouthbreathingAISystem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Source/Systems/Execute/PlayerInputSystem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Source/Generated/Game/Components/GameInputComponent.cs" root0="FORCE_HIGHLIGHTING" />
@@ -465,7 +225,6 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BFFF7C0B-1952-412C-B811-8DDDD204A124/a7/3d078d9d/Entity.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/78121F72-672F-4A9B-8378-F38120B3DE75/ba/c35331ec/Bounds.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7F859C70-0F9F-483A-9BF9-8DFE22ACEE6E/57/3bde941c/EntityLinkExtension.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Physics/PhysicalBody.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Physics/CollisionEmitter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Physics/IPhysicalBody.cs" root0="FORCE_HIGHLIGHTING" />
@@ -478,7 +237,6 @@
     <setting file="file://$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Physics/Weapon/WeaponBodyComponent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Physics/PhysicalBodyComponent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Source/Components/Standard/StunnedComponent.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Source/Components/Standard/KnockbackComponent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Source/Systems/Init/GameInitSystem.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -517,7 +275,6 @@
         <option value="$PROJECT_DIR$/Assets/Source/Systems/Execute/PhysicsSystem.cs" />
         <option value="$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Rendering/Character/CharacterHeading.cs" />
         <option value="$PROJECT_DIR$/Assets/Source/GameController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Source/GameControllerBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/Source/Components/Standard/StunnedComponent.cs" />
         <option value="$PROJECT_DIR$/Assets/Source/Components/Standard/InvincibleComponent.cs" />
         <option value="$PROJECT_DIR$/Assets/Source/Components/Standard/KnockbackComponent.cs" />
@@ -525,25 +282,25 @@
         <option value="$PROJECT_DIR$/Assets/Source/Generated/Game/Components/GameCombatEventComponent.cs" />
         <option value="$PROJECT_DIR$/Assets/Source/GameSystems.cs" />
         <option value="$PROJECT_DIR$/Assets/Source/Systems/Cleanup/CombatCleanupSystem.cs" />
-        <option value="$PROJECT_DIR$/Assets/Source/Components/Standard/CharacterComponent.cs" />
         <option value="$PROJECT_DIR$/Assets/Source/Systems/Execute/MouthbreathingAISystem.cs" />
         <option value="$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Physics/Weapon/CharacterWeaponBody.cs" />
-        <option value="$PROJECT_DIR$/Assets/Source/Systems/Execute/PlayerInputSystem.cs" />
-        <option value="$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Rendering/Character/CharacterAnimatorView.cs" />
+        <option value="$PROJECT_DIR$/Assets/Source/Components/Standard/WeaponComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/todo.md" />
         <option value="$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Physics/Character/CharacterBody.cs" />
         <option value="$PROJECT_DIR$/Assets/Source/Engine/Entities/Characters/CombatAction.cs" />
-        <option value="$PROJECT_DIR$/Assets/Source/Components/Standard/WeaponComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Source/Components/Standard/CharacterComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Rendering/Character/CharacterAnimatorView.cs" />
         <option value="$PROJECT_DIR$/Assets/Source/Systems/Init/GameInitSystem.cs" />
         <option value="$PROJECT_DIR$/Assets/Source/Systems/Execute/CombatSystem.cs" />
-        <option value="$PROJECT_DIR$/Assets/todo.md" />
+        <option value="$PROJECT_DIR$/Assets/Source/GameControllerBehavior.cs" />
+        <option value="$PROJECT_DIR$/Assets/Source/Systems/Execute/PlayerInputSystem.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="54" />
-    <option name="y" value="-8" />
-    <option name="width" value="1020" />
-    <option name="height" value="1080" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="55" />
+    <option name="width" value="943" />
+    <option name="height" value="1087" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -556,7 +313,6 @@
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -591,6 +347,7 @@
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
+      <pane id="FileSystemExplorer" />
       <pane id="AssemblyExplorer" />
     </panes>
   </component>
@@ -623,10 +380,10 @@
       <option name="pid" />
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="29120">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="38388">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" value="29120" />
+      <option name="pid" value="38388" />
       <method v="2" />
     </configuration>
   </component>
@@ -651,12 +408,13 @@
       <workItem from="1555399006988" duration="28395000" />
       <workItem from="1555616305233" duration="20917000" />
       <workItem from="1555658340329" duration="85474000" />
-      <workItem from="1556146987180" duration="32260000" />
+      <workItem from="1556146987180" duration="34108000" />
+      <workItem from="1556485201345" duration="4691000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="283271000" />
+    <option name="totallyTimeSpent" value="289810000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -668,7 +426,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="-8" width="1394" height="916" extended-state="6" />
+    <frame x="55" y="0" width="943" height="1087" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" sideWeight="0.50071734" side_tool="true" weight="0.17254686" />
@@ -680,7 +438,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3291536" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49775112" weight="0.4111675" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49775112" visible="true" weight="0.414959" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -689,7 +447,7 @@
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Performance Profiler" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5022489" side_tool="true" weight="0.4993565" />
-      <window_info anchor="bottom" id="NuGet" order="12" weight="0.32994923" />
+      <window_info anchor="bottom" id="NuGet" order="12" show_stripe_button="false" weight="0.32994923" />
       <window_info anchor="bottom" id="Unit Tests" order="13" />
       <window_info anchor="bottom" id="Database Changes" order="14" />
       <window_info anchor="bottom" id="Version Control" order="15" weight="0.32994923" />
@@ -703,7 +461,7 @@
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="Unit Tests Coverage" order="5" />
       <window_info anchor="right" id="Errors In Solution" order="6" />
-      <window_info anchor="right" content_ui="combo" id="Project" order="7" sideWeight="0.49928263" visible="true" weight="0.3969521" />
+      <window_info anchor="right" content_ui="combo" id="Project" order="7" sideWeight="0.49928263" weight="0.5900755" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -795,22 +553,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Source/Generated/Game/Components/GameCombatPhysicsComponent.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Rendering/Environment/EnvironmentView.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
-          <folding>
-            <marker date="1556087498199" expanded="false" signature="6:156" ph="..." />
-            <marker date="1556087498199" expanded="true" signature="193:1695" ph="{...}" />
-            <marker date="1556087498199" expanded="true" signature="358:1551" ph="{...}" />
-            <marker date="1556087498199" expanded="true" signature="582:885" ph="{...}" />
-            <marker date="1556087498199" expanded="true" signature="640:881" ph="{...}" />
-            <marker date="1556087498199" expanded="true" signature="956:1548" ph="{...}" />
-            <marker date="1556087498199" expanded="true" signature="1574:1693" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Source/Generated/Events/Systems/CombatPhysicsEventSystem.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Source/Generated/Events/GameEventSystems.cs">
       <provider selected="true" editor-type-id="text-editor">
@@ -1074,22 +816,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Source/GameControllerBehavior.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
-          <folding>
-            <marker date="1556153012387" expanded="false" signature="0:74" ph="##region" />
-            <marker date="1556153012387" expanded="false" signature="15:62" ph="..." />
-            <marker date="1556153012387" expanded="true" signature="127:954" ph="{...}" />
-            <marker date="1556153012387" expanded="false" signature="193:264" ph="{...}" />
-            <marker date="1556153012387" expanded="false" signature="287:325" ph="{...}" />
-            <marker date="1556153012387" expanded="true" signature="349:952" ph="{...}" />
-            <marker date="1556153012387" expanded="true" signature="413:911" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Source/Components/Standard/InvincibleComponent.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
@@ -1121,9 +847,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Source/Generated/Game/Components/GameCombatEventComponent.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Source/Generated/Game/Components/GameCombatEventComponent.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Source/Generated/Game/Components/GameVelocityComponent.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -1235,152 +959,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Source/Components/Standard/CharacterComponent.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="133" column="106" selection-start-line="133" selection-start-column="106" selection-end-line="133" selection-end-column="106" />
-          <folding>
-            <marker date="1556217162891" expanded="false" signature="6:185" ph="..." />
-            <marker date="1556217162891" expanded="true" signature="231:1093" ph="{...}" />
-            <marker date="1556217162891" expanded="true" signature="1207:2184" ph="{...}" />
-            <marker date="1556217162891" expanded="true" signature="2233:2270" ph="{...}" />
-            <marker date="1556217162891" expanded="true" signature="2390:2453" ph="{...}" />
-            <marker date="1556217162891" expanded="true" signature="2499:2617" ph="{...}" />
-            <marker date="1556217162891" expanded="true" signature="2659:2695" ph="{...}" />
-            <marker date="1556217162891" expanded="true" signature="2721:2818" ph="{...}" />
-            <marker date="1556217162891" expanded="true" signature="2847:2884" ph="{...}" />
-            <marker date="1556217162891" expanded="true" signature="2918:3118" ph="{...}" />
-            <marker date="1556217162891" expanded="true" signature="3151:7516" ph="{...}" />
-            <marker date="1556217162891" expanded="true" signature="3220:4332" ph="{...}" />
-            <marker date="1556217162891" expanded="true" signature="3441:3565" ph="{...}" />
-            <marker date="1556217162891" expanded="true" signature="3616:4294" ph="{...}" />
-            <marker date="1556217162891" expanded="false" signature="4358:5132" ph="{...}" />
-            <marker date="1556217162891" expanded="false" signature="5166:5829" ph="{...}" />
-            <marker date="1556217162891" expanded="true" signature="5175:5826" ph="{...}" />
-            <marker date="1556217162891" expanded="false" signature="5861:6080" ph="{...}" />
-            <marker date="1556217162891" expanded="false" signature="6112:6357" ph="{...}" />
-            <marker date="1556217162891" expanded="false" signature="6412:7274" ph="{...}" />
-            <marker date="1556217162891" expanded="true" signature="6646:7208" ph="{...}" />
-            <marker date="1556217162891" expanded="false" signature="7299:7514" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Physics/Weapon/WeaponBodyComponent.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding>
             <marker date="1555712090349" expanded="true" signature="61:99" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Source/Systems/Execute/PlayerInputSystem.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="66" selection-start-line="66" selection-end-line="66" />
-          <folding>
-            <marker date="1556221745719" expanded="false" signature="0:54" ph="##region" />
-            <marker date="1556221745719" expanded="true" signature="15:42" ph="..." />
-            <marker date="1556221745719" expanded="true" signature="103:3682" ph="{...}" />
-            <marker date="1556221745719" expanded="false" signature="230:260" ph="{...}" />
-            <marker date="1556221745719" expanded="true" signature="284:3680" ph="{...}" />
-            <marker date="1556221745719" expanded="true" signature="406:3677" ph="{...}" />
-            <marker date="1556221745719" expanded="true" signature="509:672" ph="/* input.up = Input.GetKey(KeyCode.E); ... */" />
-            <marker date="1556221745719" expanded="true" signature="771:1134" ph="{...}" />
-            <marker date="1556221745719" expanded="true" signature="1142:1509" ph="{...}" />
-            <marker date="1556221745719" expanded="true" signature="1542:1603" ph="/* if (vertical != 0 &amp;&amp; horizontal != 0) ... */" />
-            <marker date="1556221745719" expanded="true" signature="1789:2273" ph="/* if (Input.GetMouseButton(0)) ... */" />
-            <marker date="1556221745719" expanded="true" signature="3588:3673" ph="/* if (input.sprint) ... */" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Rendering/Character/CharacterAnimatorView.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="231" column="62" selection-start-line="231" selection-start-column="62" selection-end-line="231" selection-end-column="62" />
-          <folding>
-            <marker date="1556222246474" expanded="false" signature="0:108" ph="##region" />
-            <marker date="1556222246474" expanded="false" signature="15:96" ph="..." />
-            <marker date="1556222246474" expanded="false" signature="110:303" ph="///     sprites = actual resources (texture/sprite) ... " />
-            <marker date="1556222246474" expanded="true" signature="345:12149" ph="{...}" />
-            <marker date="1556222246474" expanded="true" signature="529:591" ph="/* todo: shield (for blocking) ... */" />
-            <marker date="1556222246474" expanded="true" signature="1487:6872" ph="setup" />
-            <marker date="1556222246474" expanded="false" signature="1547:2169" ph="{...}" />
-            <marker date="1556222246474" expanded="false" signature="2196:5410" ph="{...}" />
-            <marker date="1556222246474" expanded="true" signature="2237:2707" ph="/* switch (_entity.character.EquipmentTemplate) ... */" />
-            <marker date="1556222246474" expanded="true" signature="2814:3313" ph="{...}" />
-            <marker date="1556222246474" expanded="true" signature="2856:3309" ph="{...}" />
-            <marker date="1556222246474" expanded="true" signature="3506:5407" ph="{...}" />
-            <marker date="1556222246474" expanded="true" signature="3755:5253" ph="{...}" />
-            <marker date="1556222246474" expanded="true" signature="4092:4378" ph="{...}" />
-            <marker date="1556222246474" expanded="true" signature="4444:4640" ph="{...}" />
-            <marker date="1556222246474" expanded="false" signature="5441:6520" ph="{...}" />
-            <marker date="1556222246474" expanded="false" signature="6543:6652" ph="{...}" />
-            <marker date="1556222246474" expanded="true" signature="6549:6649" ph="/* InitRenderers(); ... */" />
-            <marker date="1556222246474" expanded="false" signature="6675:6859" ph="{...}" />
-            <marker date="1556222246474" expanded="true" signature="6681:6856" ph="/* _bodyClips   = new Dictionary&lt;string, Sprite[]&gt;(); ... */" />
-            <marker date="1556222246474" expanded="true" signature="6875:11146" ph="rendering" />
-            <marker date="1556222246474" expanded="false" signature="6945:6997" ph="{...}" />
-            <marker date="1556222246474" expanded="false" signature="7076:7127" ph="{...}" />
-            <marker date="1556222246474" expanded="true" signature="7168:8210" ph="{...}" />
-            <marker date="1556222246474" expanded="true" signature="7320:7416" ph="{...}" />
-            <marker date="1556222246474" expanded="false" signature="8232:8606" ph="{...}" />
-            <marker date="1556222246474" expanded="false" signature="8638:9837" ph="{...}" />
-            <marker date="1556222246474" expanded="true" signature="8703:8969" ph="{...}" />
-            <marker date="1556222246474" expanded="true" signature="9507:9811" ph="{...}" />
-            <marker date="1556222246474" expanded="true" signature="9875:10391" ph="{...}" />
-            <marker date="1556222246474" expanded="true" signature="10394:10962" ph="/* private void FollowPlayer() ... */" />
-            <marker date="1556222246474" expanded="false" signature="11057:11133" ph="{...}" />
-            <marker date="1556222246474" expanded="true" signature="11149:12147" ph="game events" />
-            <marker date="1556222246474" expanded="false" signature="11261:11290" ph="{...}" />
-            <marker date="1556222246474" expanded="false" signature="11354:11481" ph="{...}" />
-            <marker date="1556222246474" expanded="true" signature="11360:11438" ph="/* if (!entity.hasInput || entity.input.direction != Vector2.zero) ... */" />
-            <marker date="1556222246474" expanded="false" signature="11549:11764" ph="{...}" />
-            <marker date="1556222246474" expanded="false" signature="11817:12134" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Physics/Character/CharacterBody.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="41" column="29" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
-          <folding>
-            <marker date="1556222708717" expanded="false" signature="0:97" ph="##region" />
-            <marker date="1556222708717" expanded="false" signature="15:85" ph="..." />
-            <marker date="1556222708717" expanded="true" signature="140:2264" ph="{...}" />
-            <marker date="1556222708717" expanded="true" signature="384:1251" ph="{...}" />
-            <marker date="1556222708717" expanded="true" signature="1192:1248" ph="{...}" />
-            <marker date="1556222708717" expanded="false" signature="1324:1330" ph="{...}" />
-            <marker date="1556222708717" expanded="false" signature="1398:1767" ph="{...}" />
-            <marker date="1556222708717" expanded="true" signature="1404:1470" ph="/* todo: sync up position, scale, and possibly velocity ... */" />
-            <marker date="1556222708717" expanded="true" signature="1473:1597" ph="/* if (!_entity.hasVelocity &amp;&amp; !_entity.hasCombatAction &amp;&amp; !_entity.isDefeated) ... */" />
-            <marker date="1556222708717" expanded="true" signature="1600:1717" ph="/* if (!_entity.hasCombatAction &amp;&amp; !_entity.isDefeated) ... */" />
-            <marker date="1556222708717" expanded="false" signature="1860:1903" ph="{...}" />
-            <marker date="1556222708717" expanded="false" signature="1967:1973" ph="{...}" />
-            <marker date="1556222708717" expanded="false" signature="2041:2134" ph="{...}" />
-            <marker date="1556222708717" expanded="false" signature="2187:2262" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Source/Engine/Entities/Characters/CombatAction.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1556265189244" expanded="false" signature="6:135" ph="..." />
-            <marker date="1556265189244" expanded="true" signature="166:201" ph="{...}" />
-            <marker date="1556265189244" expanded="true" signature="232:270" ph="{...}" />
-            <marker date="1556265189244" expanded="true" signature="306:337" ph="{...}" />
-            <marker date="1556265189244" expanded="true" signature="364:1585" ph="{...}" />
-            <marker date="1556265189244" expanded="true" signature="1622:3455" ph="{...}" />
-            <marker date="1556265189244" expanded="true" signature="1683:2097" ph="{...}" />
-            <marker date="1556265189244" expanded="true" signature="2158:2573" ph="{...}" />
-            <marker date="1556265189244" expanded="true" signature="2633:3050" ph="{...}" />
-            <marker date="1556265189244" expanded="true" signature="3112:3452" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -1439,72 +1023,247 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Physics/Character/CharacterBody.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
+          <folding>
+            <marker date="1556485602384" expanded="false" signature="0:97" ph="##region" />
+            <marker date="1556485602384" expanded="false" signature="15:85" ph="..." />
+            <marker date="1556485602384" expanded="true" signature="140:2134" ph="{...}" />
+            <marker date="1556485602384" expanded="true" signature="384:1121" ph="{...}" />
+            <marker date="1556485602384" expanded="true" signature="1194:1200" ph="{...}" />
+            <marker date="1556485602384" expanded="true" signature="1268:1637" ph="{...}" />
+            <marker date="1556485602384" expanded="true" signature="1274:1340" ph="/* todo: sync up position, scale, and possibly velocity ... */" />
+            <marker date="1556485602384" expanded="true" signature="1343:1467" ph="/* if (!_entity.hasVelocity &amp;&amp; !_entity.hasCombatAction &amp;&amp; !_entity.isDefeated) ... */" />
+            <marker date="1556485602384" expanded="true" signature="1470:1587" ph="/* if (!_entity.hasCombatAction &amp;&amp; !_entity.isDefeated) ... */" />
+            <marker date="1556485602384" expanded="true" signature="1730:1773" ph="{...}" />
+            <marker date="1556485602384" expanded="true" signature="1837:1843" ph="{...}" />
+            <marker date="1556485602384" expanded="true" signature="1911:2004" ph="{...}" />
+            <marker date="1556485602384" expanded="true" signature="2057:2132" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Source/Engine/Entities/Characters/CombatAction.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1556486526724" expanded="false" signature="6:135" ph="..." />
+            <marker date="1556486526724" expanded="false" signature="166:201" ph="{...}" />
+            <marker date="1556486526724" expanded="false" signature="232:270" ph="{...}" />
+            <marker date="1556486526724" expanded="false" signature="306:337" ph="{...}" />
+            <marker date="1556486526724" expanded="false" signature="364:1585" ph="{...}" />
+            <marker date="1556486526724" expanded="false" signature="1622:3455" ph="{...}" />
+            <marker date="1556486526724" expanded="false" signature="1683:2097" ph="{...}" />
+            <marker date="1556486526724" expanded="false" signature="2158:2573" ph="{...}" />
+            <marker date="1556486526724" expanded="false" signature="2633:3050" ph="{...}" />
+            <marker date="1556486526724" expanded="false" signature="3112:3452" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Rendering/Character/CharacterAnimatorView.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <marker date="1556487017384" expanded="false" signature="0:108" ph="##region" />
+            <marker date="1556487017384" expanded="false" signature="15:96" ph="..." />
+            <marker date="1556487017384" expanded="false" signature="110:303" ph="///     sprites = actual resources (texture/sprite) ... " />
+            <marker date="1556487017384" expanded="true" signature="345:12255" ph="{...}" />
+            <marker date="1556487017384" expanded="true" signature="529:591" ph="/* todo: shield (for blocking) ... */" />
+            <marker date="1556487017384" expanded="true" signature="1487:6978" ph="setup" />
+            <marker date="1556487017384" expanded="true" signature="1547:2169" ph="{...}" />
+            <marker date="1556487017384" expanded="true" signature="2196:5410" ph="{...}" />
+            <marker date="1556487017384" expanded="true" signature="2237:2707" ph="/* switch (_entity.character.EquipmentTemplate) ... */" />
+            <marker date="1556487017384" expanded="true" signature="2814:3313" ph="{...}" />
+            <marker date="1556487017384" expanded="true" signature="2856:3309" ph="{...}" />
+            <marker date="1556487017384" expanded="true" signature="3506:5407" ph="{...}" />
+            <marker date="1556487017384" expanded="true" signature="3755:5253" ph="{...}" />
+            <marker date="1556487017384" expanded="true" signature="4092:4378" ph="{...}" />
+            <marker date="1556487017384" expanded="true" signature="4444:4640" ph="{...}" />
+            <marker date="1556487017384" expanded="true" signature="5441:6626" ph="{...}" />
+            <marker date="1556487017384" expanded="false" signature="6649:6758" ph="{...}" />
+            <marker date="1556487017384" expanded="true" signature="6655:6755" ph="/* InitRenderers(); ... */" />
+            <marker date="1556487017384" expanded="false" signature="6781:6965" ph="{...}" />
+            <marker date="1556487017384" expanded="true" signature="6787:6962" ph="/* _bodyClips   = new Dictionary&lt;string, Sprite[]&gt;(); ... */" />
+            <marker date="1556487017384" expanded="true" signature="6981:11252" ph="rendering" />
+            <marker date="1556487017384" expanded="false" signature="7051:7103" ph="{...}" />
+            <marker date="1556487017384" expanded="false" signature="7182:7233" ph="{...}" />
+            <marker date="1556487017384" expanded="true" signature="7274:8316" ph="{...}" />
+            <marker date="1556487017384" expanded="true" signature="7426:7522" ph="{...}" />
+            <marker date="1556487017384" expanded="false" signature="8338:8712" ph="{...}" />
+            <marker date="1556487017384" expanded="false" signature="8744:9943" ph="{...}" />
+            <marker date="1556487017384" expanded="true" signature="8809:9075" ph="{...}" />
+            <marker date="1556487017384" expanded="true" signature="9613:9917" ph="{...}" />
+            <marker date="1556487017384" expanded="false" signature="9981:10497" ph="{...}" />
+            <marker date="1556487017384" expanded="true" signature="10500:11068" ph="/* private void FollowPlayer() ... */" />
+            <marker date="1556487017384" expanded="false" signature="11163:11239" ph="{...}" />
+            <marker date="1556487017384" expanded="true" signature="11255:12253" ph="game events" />
+            <marker date="1556487017384" expanded="false" signature="11367:11396" ph="{...}" />
+            <marker date="1556487017384" expanded="false" signature="11460:11587" ph="{...}" />
+            <marker date="1556487017384" expanded="true" signature="11466:11544" ph="/* if (!entity.hasInput || entity.input.direction != Vector2.zero) ... */" />
+            <marker date="1556487017384" expanded="false" signature="11655:11870" ph="{...}" />
+            <marker date="1556487017384" expanded="true" signature="11923:12240" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Source/Components/Standard/CharacterComponent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="787">
+          <caret line="171" selection-start-line="171" selection-end-line="171" />
+          <folding>
+            <marker date="1556486607304" expanded="false" signature="6:185" ph="..." />
+            <marker date="1556486607304" expanded="true" signature="231:1093" ph="{...}" />
+            <marker date="1556486607304" expanded="true" signature="1207:2184" ph="{...}" />
+            <marker date="1556486607304" expanded="true" signature="2233:2270" ph="{...}" />
+            <marker date="1556486607304" expanded="true" signature="2390:2453" ph="{...}" />
+            <marker date="1556486607304" expanded="true" signature="2499:2617" ph="{...}" />
+            <marker date="1556486607304" expanded="true" signature="2659:2695" ph="{...}" />
+            <marker date="1556486607304" expanded="true" signature="2721:2818" ph="{...}" />
+            <marker date="1556486607304" expanded="true" signature="2847:2884" ph="{...}" />
+            <marker date="1556486607304" expanded="true" signature="2918:3118" ph="{...}" />
+            <marker date="1556486607304" expanded="true" signature="3151:7516" ph="{...}" />
+            <marker date="1556486607304" expanded="false" signature="3220:4332" ph="{...}" />
+            <marker date="1556486607304" expanded="true" signature="3441:3565" ph="{...}" />
+            <marker date="1556486607304" expanded="true" signature="3616:4294" ph="{...}" />
+            <marker date="1556486607304" expanded="true" signature="4358:5132" ph="{...}" />
+            <marker date="1556486607304" expanded="false" signature="5166:5829" ph="{...}" />
+            <marker date="1556486607304" expanded="true" signature="5175:5826" ph="{...}" />
+            <marker date="1556486607304" expanded="false" signature="5861:6080" ph="{...}" />
+            <marker date="1556486607304" expanded="false" signature="6112:6357" ph="{...}" />
+            <marker date="1556486607304" expanded="false" signature="6412:7274" ph="{...}" />
+            <marker date="1556486607304" expanded="true" signature="6646:7208" ph="{...}" />
+            <marker date="1556486607304" expanded="false" signature="7299:7514" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Source/Systems/Init/GameInitSystem.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="127" column="57" selection-start-line="127" selection-start-column="57" selection-end-line="127" selection-end-column="57" />
+        <state relative-caret-position="165">
+          <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
           <folding>
-            <marker date="1556265443121" expanded="false" signature="0:102" ph="##region" />
-            <marker date="1556265443121" expanded="false" signature="15:90" ph="..." />
-            <marker date="1556265443121" expanded="true" signature="151:4588" ph="{...}" />
-            <marker date="1556265443121" expanded="false" signature="234:264" ph="{...}" />
-            <marker date="1556265443121" expanded="false" signature="291:319" ph="{...}" />
-            <marker date="1556265443121" expanded="false" signature="347:353" ph="{...}" />
-            <marker date="1556265443121" expanded="false" signature="386:512" ph="{...}" />
-            <marker date="1556265443121" expanded="false" signature="574:722" ph="{...}" />
-            <marker date="1556265443121" expanded="false" signature="806:2527" ph="{...}" />
-            <marker date="1556265443121" expanded="true" signature="889:2524" ph="{...}" />
-            <marker date="1556265443121" expanded="true" signature="2608:4586" ph="{...}" />
-            <marker date="1556265443121" expanded="true" signature="2801:4583" ph="{...}" />
-            <marker date="1556265443121" expanded="true" signature="2872:4579" ph="{...}" />
-            <marker date="1556265443121" expanded="true" signature="3272:3461" ph="{...}" />
-            <marker date="1556265443121" expanded="true" signature="3919:4335" ph="/* if ((i + 1) % 3 == 0) ... */" />
-            <marker date="1556265443121" expanded="true" signature="4401:4448" ph="{...}" />
-            <marker date="1556265443121" expanded="true" signature="4495:4574" ph="{...}" />
-            <marker date="1556265443121" expanded="true" signature="4619:4671" ph="{...}" />
+            <marker date="1556487264186" expanded="false" signature="0:102" ph="##region" />
+            <marker date="1556487264186" expanded="false" signature="15:90" ph="..." />
+            <marker date="1556487264186" expanded="true" signature="151:4553" ph="{...}" />
+            <marker date="1556487264186" expanded="false" signature="234:264" ph="{...}" />
+            <marker date="1556487264186" expanded="false" signature="291:319" ph="{...}" />
+            <marker date="1556487264186" expanded="false" signature="347:353" ph="{...}" />
+            <marker date="1556487264186" expanded="true" signature="386:512" ph="{...}" />
+            <marker date="1556487264186" expanded="false" signature="574:722" ph="{...}" />
+            <marker date="1556487264186" expanded="false" signature="806:2527" ph="{...}" />
+            <marker date="1556487264186" expanded="true" signature="889:2524" ph="{...}" />
+            <marker date="1556487264186" expanded="true" signature="2608:4551" ph="{...}" />
+            <marker date="1556487264186" expanded="true" signature="2761:4548" ph="{...}" />
+            <marker date="1556487264186" expanded="true" signature="2881:4544" ph="{...}" />
+            <marker date="1556487264186" expanded="true" signature="3276:3466" ph="{...}" />
+            <marker date="1556487264186" expanded="true" signature="3921:4337" ph="/* if ((i + 1) % 3 == 0) ... */" />
+            <marker date="1556487264186" expanded="true" signature="4429:4508" ph="{...}" />
+            <marker date="1556487264186" expanded="true" signature="4584:4636" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Source/Systems/Execute/CombatSystem.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="155" column="12" selection-start-line="155" selection-start-column="12" selection-end-line="155" selection-end-column="12" />
+        <state relative-caret-position="517">
+          <caret line="211" column="24" selection-start-line="211" selection-start-column="24" selection-end-line="211" selection-end-column="24" />
           <folding>
-            <marker date="1556266072645" expanded="false" signature="0:68" ph="##region" />
-            <marker date="1556266072645" expanded="false" signature="15:56" ph="..." />
-            <marker date="1556266072645" expanded="true" signature="112:5976" ph="{...}" />
-            <marker date="1556266072645" expanded="false" signature="193:223" ph="{...}" />
-            <marker date="1556266072645" expanded="true" signature="247:596" ph="{...}" />
-            <marker date="1556266072645" expanded="true" signature="369:593" ph="{...}" />
-            <marker date="1556266072645" expanded="false" signature="643:2336" ph="{...}" />
-            <marker date="1556266072645" expanded="false" signature="1865:2115" ph="{...}" />
-            <marker date="1556266072645" expanded="false" signature="1982:2036" ph="/* if (speed.x != 0 &amp;&amp; speed.y != 0) ... */" />
-            <marker date="1556266072645" expanded="false" signature="2145:2333" ph="{...}" />
-            <marker date="1556266072645" expanded="false" signature="2390:2594" ph="{...}" />
-            <marker date="1556266072645" expanded="false" signature="2645:2991" ph="{...}" />
-            <marker date="1556266072645" expanded="false" signature="2910:2988" ph="{...}" />
-            <marker date="1556266072645" expanded="false" signature="3040:3213" ph="{...}" />
-            <marker date="1556266072645" expanded="false" signature="3265:3453" ph="{...}" />
-            <marker date="1556266072645" expanded="false" signature="3507:4115" ph="{...}" />
-            <marker date="1556266072645" expanded="false" signature="3782:4112" ph="{...}" />
-            <marker date="1556266072645" expanded="false" signature="4200:5483" ph="{...}" />
-            <marker date="1556266072645" expanded="true" signature="4316:5480" ph="{...}" />
-            <marker date="1556266072645" expanded="true" signature="4753:5107" ph="{...}" />
-            <marker date="1556266072645" expanded="true" signature="5137:5403" ph="{...}" />
-            <marker date="1556266072645" expanded="false" signature="5552:5662" ph="{...}" />
-            <marker date="1556266072645" expanded="false" signature="5729:5974" ph="{...}" />
+            <marker date="1556487860146" expanded="false" signature="0:68" ph="##region" />
+            <marker date="1556487860146" expanded="false" signature="15:56" ph="..." />
+            <marker date="1556487860146" expanded="true" signature="112:5982" ph="{...}" />
+            <marker date="1556487860146" expanded="false" signature="193:223" ph="{...}" />
+            <marker date="1556487860146" expanded="false" signature="247:596" ph="{...}" />
+            <marker date="1556487860146" expanded="true" signature="369:593" ph="{...}" />
+            <marker date="1556487860146" expanded="false" signature="643:2340" ph="{...}" />
+            <marker date="1556487860146" expanded="true" signature="1869:2119" ph="{...}" />
+            <marker date="1556487860146" expanded="true" signature="1986:2040" ph="/* if (speed.x != 0 &amp;&amp; speed.y != 0) ... */" />
+            <marker date="1556487860146" expanded="true" signature="2149:2337" ph="{...}" />
+            <marker date="1556487860146" expanded="false" signature="2394:2598" ph="{...}" />
+            <marker date="1556487860146" expanded="false" signature="2649:2995" ph="{...}" />
+            <marker date="1556487860146" expanded="true" signature="2914:2992" ph="{...}" />
+            <marker date="1556487860146" expanded="false" signature="3044:3217" ph="{...}" />
+            <marker date="1556487860146" expanded="false" signature="3269:3457" ph="{...}" />
+            <marker date="1556487860146" expanded="false" signature="3511:4119" ph="{...}" />
+            <marker date="1556487860146" expanded="true" signature="3786:4116" ph="{...}" />
+            <marker date="1556487860146" expanded="true" signature="4204:5489" ph="{...}" />
+            <marker date="1556487860146" expanded="true" signature="4320:5486" ph="{...}" />
+            <marker date="1556487860146" expanded="true" signature="4757:5111" ph="{...}" />
+            <marker date="1556487860146" expanded="true" signature="5141:5409" ph="{...}" />
+            <marker date="1556487860146" expanded="false" signature="5558:5668" ph="{...}" />
+            <marker date="1556487860146" expanded="true" signature="5735:5980" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Source/Components/Infrastructure/Rendering/Environment/EnvironmentView.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+          <folding>
+            <marker date="1556087498199" expanded="false" signature="6:156" ph="..." />
+            <marker date="1556087498199" expanded="true" signature="193:1695" ph="{...}" />
+            <marker date="1556087498199" expanded="true" signature="358:1551" ph="{...}" />
+            <marker date="1556087498199" expanded="true" signature="582:885" ph="{...}" />
+            <marker date="1556087498199" expanded="true" signature="640:881" ph="{...}" />
+            <marker date="1556087498199" expanded="true" signature="956:1548" ph="{...}" />
+            <marker date="1556087498199" expanded="false" signature="1574:1693" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/todo.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="253">
-            <caret line="23" column="12" lean-forward="true" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="121">
+            <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Source/GameControllerBehavior.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="69" column="33" selection-start-line="69" selection-start-column="33" selection-end-line="69" selection-end-column="33" />
+          <folding>
+            <marker date="1556489193902" expanded="false" signature="0:74" ph="##region" />
+            <marker date="1556489193902" expanded="false" signature="15:62" ph="..." />
+            <marker date="1556489193902" expanded="true" signature="127:1998" ph="{...}" />
+            <marker date="1556489193902" expanded="true" signature="257:540" ph="{...}" />
+            <marker date="1556489193902" expanded="false" signature="563:601" ph="{...}" />
+            <marker date="1556489193902" expanded="false" signature="625:1156" ph="{...}" />
+            <marker date="1556489193902" expanded="true" signature="680:1103" ph="{...}" />
+            <marker date="1556489193902" expanded="true" signature="1186:1751" ph="{...}" />
+            <marker date="1556489193902" expanded="true" signature="1253:1748" ph="{...}" />
+            <marker date="1556489193902" expanded="true" signature="1774:1996" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Source/Systems/Execute/PlayerInputSystem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="58" column="20" selection-start-line="58" selection-start-column="20" selection-end-line="58" selection-end-column="20" />
+          <folding>
+            <marker date="1556489900396" expanded="false" signature="0:54" ph="##region" />
+            <marker date="1556489900396" expanded="false" signature="15:42" ph="..." />
+            <marker date="1556489900396" expanded="false" signature="230:260" ph="{...}" />
+            <marker date="1556489900396" expanded="true" signature="301:4739" ph="{...}" />
+            <marker date="1556489900396" expanded="true" signature="423:4737" ph="{...}" />
+            <marker date="1556489900396" expanded="true" signature="772:4734" ph="{...}" />
+            <marker date="1556489900396" expanded="true" signature="814:1585" ph="{...}" />
+            <marker date="1556489900396" expanded="true" signature="1318:1579" ph="{...}" />
+            <marker date="1556489900396" expanded="true" signature="1616:1779" ph="/* input.up = Input.GetKey(KeyCode.E); ... */" />
+            <marker date="1556489900396" expanded="true" signature="1828:2191" ph="{...}" />
+            <marker date="1556489900396" expanded="true" signature="2199:2566" ph="{...}" />
+            <marker date="1556489900396" expanded="true" signature="2599:2660" ph="/* if (vertical != 0 &amp;&amp; horizontal != 0) ... */" />
+            <marker date="1556489900396" expanded="true" signature="2846:3330" ph="/* if (Input.GetMouseButton(0)) ... */" />
+            <marker date="1556489900396" expanded="true" signature="4645:4730" ph="/* if (input.sprint) ... */" />
+          </folding>
         </state>
       </provider>
     </entry>

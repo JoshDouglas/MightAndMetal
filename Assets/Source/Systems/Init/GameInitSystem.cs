@@ -28,7 +28,7 @@ public class GameInitSystem : IInitializeSystem
 	public void SetupSmallBattle()
 	{
 		var battleId     = Guid.NewGuid();
-		var skirmishSize = new Vector2(30, 30);
+		var skirmishSize = new Vector2(50, 50);
 		SetupSkirmish(battleId, skirmishSize);
 	}
 
@@ -100,39 +100,41 @@ public class GameInitSystem : IInitializeSystem
 
 	public void SetupCharacters(Guid battleId, Guid skirmishId, Vector2 boardSize)
 	{
-		var factions   = new Dictionary<string, Vector2> {{"Ivalice", Vector2.left}, {"Bandits", Vector2.up}};
-		var hasPlayer  = false;
-		var enemyCount = 3;
+		var factions              = new List<string> {"utah", "nevada", "colorado"};
+		var factionCharacterCount = 15;
 
 		foreach (var faction in factions)
 		{
 			var hasLeader = false;
+			var isPlayer  = faction == "utah";
 
-			for (var i = 0; i < enemyCount; i++)
+			for (var i = 0; i < factionCharacterCount; i++)
 			{
 				var randX      = Rand.game.Int((int) (boardSize.x * .2), (int) (boardSize.x * .8));
 				var randY      = Rand.game.Int((int) (boardSize.y * .2), (int) (boardSize.y * .8));
 				var spawnPoint = new Vector2(randX, randY);
 
 				var characterEntity = _contexts.game.CreateEntity();
-				characterEntity.AddCharacter($"soldier_{faction.Key}_{i}", CharacterTemplate.Swordsman);
-				if (!hasPlayer)
+				characterEntity.AddCharacter($"soldier_{faction}_{i}", CharacterTemplate.Swordsman);
+
+				if (isPlayer)
 				{
-					characterEntity.character.attributes.strength += 5;
+					characterEntity.character.attributes.strength  += 5;
 					characterEntity.character.attributes.fortitude += 10;
 					characterEntity.isPlayerControlled             =  true;
 				}
 
+				characterEntity.AddFaction(faction);
+				characterEntity.AddSkirmish(skirmishId);
+				characterEntity.AddBattle(battleId);
 				characterEntity.AddCombat();
 				characterEntity.AddPosition(spawnPoint);
 				characterEntity.AddVelocity(Vector2.zero);
 				characterEntity.AddCombatEvents();
 				characterEntity.AddEquipment(CharacterTemplate.Swordsman);
 				characterEntity.AddItems();
-				characterEntity.AddFaction(faction.Key);
-				characterEntity.AddBattle(battleId);
-				characterEntity.AddSkirmish(skirmishId);
 				characterEntity.AddWeapon(CharacterWeaponType.longsword);
+
 				/*if ((i + 1) % 3 == 0)
 					characterEntity.AddCharacter($"archer_{faction.Key}_{i}", CharacterTemplate.Archer);
 				else if ((i + 1) % 4 == 0)
@@ -146,20 +148,16 @@ public class GameInitSystem : IInitializeSystem
 				//input
 				characterEntity.AddInput();
 
-				if (!hasPlayer)
-				{
-					hasPlayer = true;
-					break;
-				}
-
-
-			//notable characters
+				//notable characters
 
 				if (!hasLeader)
 				{
 					characterEntity.AddLeader("Butthole");
 					hasLeader = true;
 				}
+
+				if (isPlayer)
+					break;
 			}
 		}
 	}

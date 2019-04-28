@@ -41,7 +41,7 @@ public class CombatSystem : IExecuteSystem
 		var          character    = entity.character;
 		var          input        = entity.input;
 		CombatAction combatAction = null;
-		CombatItem   combatItem   = null;
+		/*CombatItem   combatItem   = null;*/
 
 		if (input.actionButton1 && character.abilities.Count > 0)
 			combatAction = character.abilities[0];
@@ -187,11 +187,11 @@ public class CombatSystem : IExecuteSystem
 
 					if (!victim.isDefeated)
 					{
-						victim.ReplaceInvincible(.25f, 0f);
+						victim.ReplaceInvincible(.2f, 0f);
 						var direction = (victim.position.value - hitter.position.value).normalized;
-						var knockback = 10f;
-						victim.ReplaceKnockback(.2f, 0f, direction * knockback);
-						victim.ReplaceStunned(.2f, 0f);
+						var knockback = 8f;
+						victim.ReplaceKnockback(.1f, 0f, direction * knockback);
+						/*victim.ReplaceStunned(.1f, 0f);*/
 					}
 
 					break;
@@ -209,8 +209,8 @@ public class CombatSystem : IExecuteSystem
 	private void ProcessBind(GameEntity binder1, GameEntity binder2)
 	{
 		var direction = (binder1.position.value - binder2.position.value).normalized;
-		var knockback = 7f;
-		binder1.ReplaceKnockback(.2f, 0f, direction             * knockback);
-		binder2.ReplaceKnockback(.2f, 0f, direction * knockback * -1);
+		var knockback = 2f;
+		binder1.ReplaceKnockback(.1f, 0f, direction             * knockback);
+		binder2.ReplaceKnockback(.1f, 0f, direction * knockback * -1);
 	}
 }

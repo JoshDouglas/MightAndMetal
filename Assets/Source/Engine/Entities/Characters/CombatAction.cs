@@ -59,7 +59,7 @@ public static class CombatAbilities
 			name             = CombatAbilityName.Swing,
 			abiltyType       = CombatAbilityType.Melee,
 			description      = "Swing your weapon",
-			power            = 20,
+			power            = 30,
 			powerType        = CombatAbilityPowerType.Destructive,
 			duration         = .25f,
 			cooldownDuration = 0f,

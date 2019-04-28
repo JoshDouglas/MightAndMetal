@@ -25,14 +25,44 @@ public class PlayerInputSystem : IExecuteSystem
 
 			var input = entity.input;
 
+			var horizontal = 0;
+			var vertical   = 0;
+
+			//touch
+			var touchButtonSize = 100;
+			var movePosition    = new Vector2(80, Screen.height - 180);
+			var attackPosition  = new Vector2(Screen.width      - 180, Screen.height - 180);
+
+			foreach (var touch in Input.touches)
+				if (touch.phase == TouchPhase.Began)
+				{
+					var position = touch.position;
+
+					//attack
+					if (position.x >= attackPosition.x && position.x <= attackPosition.x + touchButtonSize && position.y <= attackPosition.y + touchButtonSize && position.y <= attackPosition.y + touchButtonSize)
+						input.actionButton1 = true;
+
+					//movement
+					if (position.x >= movePosition.x && position.x <= movePosition.x + touchButtonSize && position.y <= movePosition.y + touchButtonSize && position.y <= movePosition.y + touchButtonSize)
+					{
+						if (position.x <= movePosition.x + touchButtonSize / 2)
+							horizontal = -1;
+						else
+							horizontal = 1;
+
+						if (position.y <= movePosition.y + touchButtonSize / 2)
+							vertical = -1;
+						else
+							vertical = 1;
+					}
+				}
+
 
 			//TODO: config based
 			/*input.up = Input.GetKey(KeyCode.E);
 			input.down = Input.GetKey(KeyCode.D);
 			input.left = Input.GetKey(KeyCode.S);
 			input.right = Input.GetKey(KeyCode.F);*/
-			var horizontal   = 0;
-			var vertical     = 0;
 			var usingKinesis = true;
 			if (usingKinesis)
 			{

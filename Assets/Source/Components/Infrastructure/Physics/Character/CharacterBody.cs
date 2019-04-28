@@ -34,13 +34,6 @@ public class CharacterBody : PhysicalBody
 		RigidBody.gravityScale           = 0f;
 		RigidBody.collisionDetectionMode = CollisionDetectionMode2D.Continuous;
 		RigidBody.drag                   = 0f;
-
-		//todo: equipment weight / char mass 
-		if (entity.isPlayerControlled)
-		{
-			RigidBody.drag = 5f;
-			RigidBody.mass = 5f;
-		}
 	}
 
 	// Start is called before the first frame update
